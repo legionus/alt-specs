@@ -13,7 +13,7 @@ Name:          apache-commons-chain
 Version:       1.2
 Release:       alt1_17jpp8
 Summary:       An implementation of the GoF Chain of Responsibility pattern
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://commons.apache.org/%{base_name}/
 Source0:       ftp://ftp.gbnet.net/pub/apache/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz
 # javax.servlet 3.1 api support

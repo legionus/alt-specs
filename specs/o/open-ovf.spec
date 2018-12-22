@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 Summary: Tool for importing and exporting OVF
 Url: http://open-ovf.wiki.sourceforge.net/
-License: EPL
+License: EPL-1.0
 Group: System/Configuration/Other
 Source0: %name-%version.tar.bz2
 Source1: README.SuSE

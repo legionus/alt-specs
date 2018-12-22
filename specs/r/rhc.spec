@@ -3,7 +3,7 @@ Name:          rhc
 Version:       1.38.7
 Release:       alt1
 Group:         System/Servers
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://openshift.redhat.com
 Source0:       rhc-%version.tar
 Patch0:        rhc-%version-%release.patch

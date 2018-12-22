@@ -5,7 +5,7 @@ Version: 2.7.1
 Release: alt1
  
 Summary: A really Ruby Mail handler
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/mikel/mail
  

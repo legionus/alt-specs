@@ -8,7 +8,7 @@ Release: alt1%ubt
 Group: System/Configuration/Hardware
 Summary: Floppy disks formater
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: dosfstools
 

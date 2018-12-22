@@ -10,7 +10,7 @@ Name:           apache-commons-lang3
 Version:        3.7
 Release:        alt1_3jpp8
 Summary:        Provides a host of helper utilities for the java.lang API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/lang
 BuildArch:      noarch
 

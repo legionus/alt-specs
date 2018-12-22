@@ -2,7 +2,7 @@
 
 Name: xsp
 Url: http://go-mono.com/
-License: X11/MIT
+License: (MIT or X11)
 Group: System/Servers
 Version: 4.4
 Release: alt5%ubt

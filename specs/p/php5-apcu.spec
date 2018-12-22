@@ -8,7 +8,7 @@ Release:	%php5_release
 
 Summary:	PHP5 APCu - APC User Cache
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/APCu
 #URL:		https://github.com/krakjoe/apcu

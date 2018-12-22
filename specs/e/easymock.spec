@@ -11,7 +11,7 @@ Name:           easymock
 Version:        3.5
 Release:        alt1_2jpp8
 Summary:        Easy mock objects
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.easymock.org
 
 Source0:        https://github.com/%{name}/%{name}/archive/%{name}-%{version}.tar.gz

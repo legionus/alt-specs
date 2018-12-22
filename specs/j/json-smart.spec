@@ -10,7 +10,7 @@ Name:          json-smart
 Version:       2.2
 Release:       alt1_4jpp8
 Summary:       A small and very fast json parser/generator for java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/netplex/json-smart-v2
 Source0:       https://github.com/netplex/json-smart-v2/archive/%{version}.tar.gz
 

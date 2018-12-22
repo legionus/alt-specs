@@ -4,7 +4,7 @@ Version: 0.06
 Release: alt1
 
 Summary: A POE component base class which implements the Observer pattern
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

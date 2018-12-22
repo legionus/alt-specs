@@ -4,7 +4,7 @@ Version: 0.01
 Release: alt2.1
 
 Summary: Force coercion when validating type constraints
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

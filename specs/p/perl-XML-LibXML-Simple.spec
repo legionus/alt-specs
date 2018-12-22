@@ -5,7 +5,7 @@ Version: 0.99
 Release: alt1
 
 Summary: XML::LibXML based XML::Simple clone
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -11,7 +11,7 @@ Name:          redis-protocol
 Version:       0.7
 Release:       alt1_6jpp8
 Summary:       Java client and server implementation of Redis
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://github.com/spullara/redis-protocol
 Source0:       https://github.com/spullara/redis-protocol/archive/%{oname}-%{version}.tar.gz
 # https://github.com/spullara/redis-protocol/issues/45

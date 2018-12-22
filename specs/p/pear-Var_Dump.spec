@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Provides methods for dumping structured information about a variable
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Var_Dump
 

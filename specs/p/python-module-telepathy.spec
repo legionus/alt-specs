@@ -8,7 +8,7 @@ Version: %version
 Release: %release
 
 Summary: Python bindings for telepathy library
-License: LGPL 2.1 or later
+License: LGPL-2.1-or-later
 Group: Development/Python
 URL: http://telepathy.freedesktop.org/
 

@@ -14,7 +14,7 @@ Name:           libharu
 Version:        2.3.0
 Release:        alt2_3
 Summary:        C library for generating PDF files
-License:        zlib with acknowledgement
+License:        Zlib-acknowledgement
 URL:            http://libharu.org
 Source0:        https://github.com/libharu/${name}/archive/%{gittag0}/%{name}-%{version}.tar.gz
 Patch0:         libharu-RELEASE_2_3_0_cmake.patch

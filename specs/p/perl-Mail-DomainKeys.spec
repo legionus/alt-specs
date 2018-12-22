@@ -5,7 +5,7 @@ Version: 1.0
 Release: alt1.1
 
 Summary: A perl implementation of DomainKeys
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/%module/

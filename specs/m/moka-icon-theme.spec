@@ -3,7 +3,7 @@ Version: 5.3.6
 Release: alt1
 Summary: Moka icon theme
 Group: Graphical desktop/GNOME
-License: CC-BY-SA-4.0, GPL-3.0+
+License: CC-BY-SA-4.0 and GPL-3.0+
 Url: https://github.com/snwh/moka-icon-theme
 Source: %name-%version.tar
 Patch0: %name-%version-alt-add-xreader-icons.patch

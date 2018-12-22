@@ -13,7 +13,7 @@ Version:        1.000
 Release:        alt3_15
 Summary:        A latin font that is geometric, elegant, and kind of vintage
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://typemade.mx/
 Source0:        http://typemade.mx/fonts/free/typemade-JosefinSansStdLight.zip
 Source1:        %{oldname}-fontconfig.conf

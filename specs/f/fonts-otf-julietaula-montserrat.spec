@@ -15,7 +15,7 @@ Release:	alt1_5
 Epoch:		1
 Summary:	Sans-serif typeface inspired from Montserrat area
 
-License:	OFL
+License:	OFL-1.0
 URL:		https://github.com/JulietaUla/Montserrat
 Source0:	%{url}/archive/Montserrat/v%{version}.tar.gz#/Montserrat-%{version}.tar.gz
 Source1:	%{oldname}-fontconfig.conf

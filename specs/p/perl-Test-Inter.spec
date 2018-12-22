@@ -5,7 +5,7 @@ Version: 1.07
 Release: alt1
 
 Summary: Framework for more readable interactive test scripts
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

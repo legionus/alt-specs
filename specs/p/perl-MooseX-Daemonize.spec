@@ -9,7 +9,7 @@ Name:           perl-MooseX-Daemonize
 Version:        0.21
 Release:        alt1_7
 Summary:        Role for daemonizing your Moose based application
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/MooseX-Daemonize
 Source0:        https://cpan.metacpan.org/authors/id/E/ET/ETHER/MooseX-Daemonize-%{version}.tar.gz

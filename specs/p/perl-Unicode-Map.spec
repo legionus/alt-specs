@@ -5,7 +5,7 @@ Version: 0.112
 Release: alt7
 
 Summary: Maps charsets from and to utf16 unicode
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

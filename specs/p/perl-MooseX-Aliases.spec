@@ -8,7 +8,7 @@ Name:           perl-MooseX-Aliases
 Version:        0.11
 Release:        alt1_12
 Summary:        Easy aliasing of methods and attributes in Moose
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/MooseX-Aliases
 Source0:        https://cpan.metacpan.org/authors/id/D/DO/DOY/MooseX-Aliases-%{version}.tar.gz

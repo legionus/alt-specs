@@ -7,7 +7,7 @@ Name:           perl-Pod-Readme
 Version:        1.1.2
 Release:        alt1_1
 Summary:        Intelligently generate a README file from POD
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://search.cpan.org/dist/Pod-Readme/
 Source0:        http://www.cpan.org/authors/id/R/RR/RRWO/Pod-Readme-v%{version}.tar.gz
 Patch0:         Pod-Readme-v1.0.2-no-author-deps.patch

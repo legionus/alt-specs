@@ -8,7 +8,7 @@ Release:	%php7_release
 
 Summary:	PHP7 bindings for Sphinx search client library
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		https://pecl.php.net/package/sphinx
 

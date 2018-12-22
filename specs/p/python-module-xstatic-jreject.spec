@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 1.1.0.1
 Release: alt2.1
 Summary: jReject (XStatic packaging standard)
-License: MIT & GPLv2
+License: MIT and GPL-2.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

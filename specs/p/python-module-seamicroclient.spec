@@ -5,7 +5,7 @@ Release:        alt2
 Summary:        Python client for consuming SeaMicro REST API v2.0
 Group:          Development/Python
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://pypi.python.org/pypi/python-seamicroclient/
 Source0:        %name-%version.tar
 BuildArch:      noarch

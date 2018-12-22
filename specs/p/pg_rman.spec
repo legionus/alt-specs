@@ -4,7 +4,7 @@ Name: pg_rman
 Version: 1.3.6
 Release: alt2
 Summary: pg_rman is an online backup and restore tool for PostgreSQL
-License: New BSD
+License: BSD-3-Clause
 Group: Databases
 Url: https://github.com/ossc-db/pg_rman
 

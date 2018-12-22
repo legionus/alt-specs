@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.3.10
 Release: alt1.1
 Summary: Python3 Asyncio Utils
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/aioutils/

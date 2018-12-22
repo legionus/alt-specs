@@ -10,7 +10,7 @@ Release: alt2.qa1
 Summary: Incremental is a small library that versions your Python project
 
 Url: https://pypi.python.org/pypi/incremental
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

@@ -10,7 +10,7 @@ Version:        1.21
 Release:        alt1_8
 Summary:        Hermit monospace fonts
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://pcaro.es/p/hermit
 Source0:        https://pcaro.es/d/otf-hermit-%{version}.tar.gz
 Source1:        %{oldname}-fontconfig.conf

@@ -9,7 +9,7 @@ Name: python-module-%oname
 Version: 0.0.8
 Release: alt1
 Summary: Damned fast YIFY parser using Asyncio
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/asyncio-yify/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

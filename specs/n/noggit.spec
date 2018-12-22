@@ -10,7 +10,7 @@ Name:          noggit
 Version:       0.7
 Release:       alt1_5jpp8
 Summary:       JSON streaming parser
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://noggit.org/
 Source0:       https://github.com/yonik/noggit/archive/%{name}-%{version}.tar.gz
 

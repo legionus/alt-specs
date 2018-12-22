@@ -8,7 +8,7 @@ Name:       mathjax
 Version:    2.7.4
 Release:    alt1_3
 Summary:    JavaScript library to render math in the browser
-License:    ASL 2.0
+License:    Apache-2.0
 URL:        http://mathjax.org
 Source0:    https://github.com/mathjax/MathJax/archive/%{version}.tar.gz#/mathjax-%{version}.tar.gz
 
@@ -50,112 +50,112 @@ in HTML pages.
 %package       -n fonts-otf-mathjax-ams
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-ams
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-caligraphic
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-caligraphic
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-fraktur
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-fraktur
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-main
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-main
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-math
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-math
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-sansserif
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-sansserif
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-script
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-script
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-typewriter
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-typewriter
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-size1
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-size1
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-size2
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-size2
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-size3
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-size3
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-size4
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-size4
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-winie6
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-winie6
 %{fontsummary}.
 
 %package       -n fonts-otf-mathjax-winchrome
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   -n fonts-otf-mathjax-winchrome
 %{fontsummary}.
 
 %package       vector-fonts
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   vector-fonts
 %{fontsummary}.
 
 %package       stixweb-fonts
 Group: Other
 Summary:       %{fontsummary}
-License:       OFL
+License:       OFL-1.0
 %description   stixweb-fonts
 %{fontsummary}.
 

@@ -7,7 +7,7 @@ Release: alt1
 Summary: Python library for accessing seafile data model
 
 Group: Development/Python
-License: Apache 2.0
+License: Apache-2.0
 Url: https://github.com/haiwen/seafobj
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

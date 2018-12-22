@@ -8,7 +8,7 @@ Name:           perl-Class-Mix
 Summary:        Dynamic class mixing
 Version:        0.006
 Release:        alt1_3
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 Source0:        https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Class-Mix-%{version}.tar.gz
 URL:            https://metacpan.org/release/Class-Mix

@@ -4,7 +4,7 @@ Epoch: 1
 Version: 0.2.0
 Release: alt1.git20110908
 Summary: Python package for numerical optimization
-License: LGPL v2.1 or later
+License: LGPL-2.1-or-later
 Group: Development/Python
 Url: http://nlpy.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

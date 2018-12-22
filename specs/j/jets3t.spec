@@ -15,7 +15,7 @@ Release:       alt1_8jpp8
 Summary:       Java interface to Amazon S3 and CloudFront services
 # nuvola theme is under LGPL 2.1
 # src/org/jets3t/gui/TableSorter.java BSD
-License:       ASL 2.0 and BSD and LGPLv2+
+License:       Apache-2.0 and BSD and LGPLv2+
 Url:           http://jets3t.s3.amazonaws.com/index.html
 # hg clone https://bitbucket.org/jmurty/jets3t -r Release-0.9.3 jets3t-0.9.3
 # find jets3t-0.9.3/ -name "*.class" -delete

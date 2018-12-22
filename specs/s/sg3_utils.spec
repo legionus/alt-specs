@@ -3,7 +3,7 @@ Version: 1.42
 Release: alt1
 
 Summary: Utilities for devices that use SCSI command sets
-License: GPLv2+ and BSD
+License: GPL-2.0-or-later and BSD
 Group: System/Kernel and hardware
 Url: http://sg.danny.cz/sg/sg3_utils.html
 # http://sg.danny.cz/sg/p/%name-%version.tgz

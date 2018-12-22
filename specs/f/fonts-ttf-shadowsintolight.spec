@@ -11,7 +11,7 @@ Name:          fonts-ttf-shadowsintolight
 Version:       1.000
 Release:       alt1_0.8.%{alphatag}
 Summary:       Shadows Into Light fonts by Kimberly Geswein
-License:       OFL
+License:       OFL-1.0
 URL:           http://www.google.com/fonts/specimen/Shadows+Into+Light
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/shadowsintolight/ShadowsIntoLight.ttf
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/shadowsintolight/OFL.txt

@@ -5,7 +5,7 @@ Version: 2.000024
 Release: alt1
 
 Summary: Create and use a local lib/ for perl modules with PERL5LIB
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -13,7 +13,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Frameworks 5 showing progress of asynchronous jobs
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 
@@ -62,7 +62,7 @@ KF5 library
 %if_enabled python
 %package -n python-module-%rname
 Summary: Python bindings for KJobWidgets
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Development/Python
 Requires: %name-common = %version-%release
 Requires: python-module-pykf5
@@ -79,7 +79,7 @@ Sip files for python-module-%rname
 
 %package -n python3-module-%rname
 Summary: Python3 bindings for KJobWidgets
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Development/Python3
 Requires: %name-common = %version-%release
 Requires: python3-module-pykf5

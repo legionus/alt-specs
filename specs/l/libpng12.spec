@@ -3,7 +3,7 @@ Version: 1.2.50
 Release: alt2
 
 Summary: PNG runtime legacy library
-License: zlib
+License: Zlib
 Group: System/Legacy libraries
 Url: http://www.libpng.org/pub/png/
 

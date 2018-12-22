@@ -5,7 +5,7 @@ Version: 1.6
 Release: alt1
 
 Summary: Perl extension for manipulating iptables policies
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

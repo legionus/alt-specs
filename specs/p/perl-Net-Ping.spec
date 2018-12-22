@@ -5,7 +5,7 @@ Version: 2.71
 Release: alt1
 
 Summary: Check a remote host for reachability
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

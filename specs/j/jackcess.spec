@@ -10,7 +10,7 @@ Name:          jackcess
 Version:       2.2.0
 Release:       alt1_1jpp8
 Summary:       Java library for reading from and writing to MS Access databases
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://jackcess.sourceforge.net/
 # svn checkout http://svn.code.sf.net/p/jackcess/code/jackcess/tags/jackcess-2.1.3
 # tar cJf jackcess-2.1.3.tar.xz jackcess-2.1.3

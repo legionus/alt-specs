@@ -2,7 +2,7 @@ Name: gnustep-pdfkit
 Version: 0.9.3
 Release: alt5
 Summary: A Framework for accessing and rendering PDF content
-License: GPLv2 only
+License: GPL-2.0-only
 Group: File tools
 Url: http://wiki.gnustep.org/index.php/PDFKit
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

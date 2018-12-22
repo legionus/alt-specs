@@ -10,7 +10,7 @@ Release: alt1
 
 Summary: Introspection system for GObject-based libraries
 Group: System/Libraries
-License: GPLv2+, LGPLv2+, MIT
+License: GPL-2.0-or-later and LGPLv2+ and MIT
 URL: https://live.gnome.org/GObjectIntrospection
 
 Provides: gir-repository = %version-%release

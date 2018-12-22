@@ -3,7 +3,7 @@ Version: 3.22
 Release: alt10
 
 Summary: The procmail mail processing program
-License: GPLv2+ or Artistic
+License: GPL-2.0-or-later or Artistic
 Group: Networking/Mail
 #Url: http://www.procmail.org
 Url: https://en.wikipedia.org/wiki/Procmail

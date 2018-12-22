@@ -10,7 +10,7 @@ Name:           maven-dependency-plugin
 Version:        3.0.2
 Release:        alt1_1jpp8
 Summary:        Plugin to manipulate, copy and unpack local and remote artifacts
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/%{name}
 BuildArch:      noarch
 

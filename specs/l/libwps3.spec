@@ -5,7 +5,7 @@ Release: alt2
 Summary: Library for reading and converting Microsoft Works word processor documents
 
 Group: System/Libraries
-License: LGPLv2+ or MPLv2.0
+License: LGPLv2+ or MPL-2.0
 Url: http://libwps.sourceforge.net/
 Source: libwps-%version.tar
 

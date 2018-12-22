@@ -10,7 +10,7 @@ Version: 2.10.1
 Release: alt1
 
 Summary: An open source, production quality, multilayer virtual switch
-License: ASL 2.0 and LGPLv2+ and SISSL
+License: Apache-2.0 and LGPLv2+ and SISSL
 Group: Networking/Other
 
 Url: http://openvswitch.org
@@ -76,7 +76,7 @@ Source for kernel modules supporting the openvswitch datapath
 %if_with debugtools
 %package debugtools
 Group: Networking/Other
-License: ASL 2.0
+License: Apache-2.0
 Summary: Open vSwitch bug reporting tool
 BuildArch: noarch
 Requires: %name-common = %EVR
@@ -90,7 +90,7 @@ Linux drivers for performance and vlan problems.
 
 %package common
 Group: Networking/Other
-License: ASL 2.0 and LGPLv2+ and SISSL
+License: Apache-2.0 and LGPLv2+ and SISSL
 Summary: Common Open vSwitch code
 
 %description common
@@ -99,7 +99,7 @@ and openvswitch-controller.
 
 %package vtep
 Group: Networking/Other
-License: ASL 2.0
+License: Apache-2.0
 Summary: Open vSwitch VTEP emulator
 Requires: %name = %EVR
 
@@ -108,7 +108,7 @@ A VTEP emulator that uses Open vSwitch for forwarding.
 
 %package devel
 Summary: Open vSwitch Devel Libraries
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/C
 Requires: %name = %EVR
 
@@ -117,7 +117,7 @@ Devel files for Open vSwitch.
 
 %package ovn-central
 Summary: Open vSwitch - Open Virtual Network support
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Requires: %name = %EVR
 Requires: %name-ovn-common = %EVR
@@ -130,7 +130,7 @@ overlays and security groups.
 
 %package ovn-host
 Summary: Open vSwitch - Open Virtual Network support
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Requires: %name = %EVR
 Requires: %name-ovn-common = %EVR
@@ -143,7 +143,7 @@ overlays and security groups.
 
 %package ovn-vtep
 Summary: Open vSwitch - Open Virtual Network support
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Requires: %name = %EVR
 Requires: %name-ovn-common = %EVR
@@ -153,7 +153,7 @@ OVN vtep controller
 
 %package ovn-common
 Summary: Open vSwitch - Open Virtual Network support
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Requires: %name = %EVR
 
@@ -162,7 +162,7 @@ Utilities that are use to diagnose and manage the OVN components.
 
 %package ovn-docker
 Summary: Open vSwitch - Open Virtual Network support
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Requires: %name = %EVR
 Requires: %name-ovn-common = %EVR

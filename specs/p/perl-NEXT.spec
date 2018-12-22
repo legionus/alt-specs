@@ -5,7 +5,7 @@ Version: 0.67
 Release: alt1
 
 Summary: A pseudo-class NEXT that allows method redispatch
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

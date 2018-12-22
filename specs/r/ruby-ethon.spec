@@ -5,7 +5,7 @@ Version: 0.9.1
 Release: alt1.2
  
 Summary: Very simple libcurl wrapper
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/typhoeus/ethon
  

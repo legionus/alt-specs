@@ -15,7 +15,7 @@ Version: 20070415
 Release: alt3_23
 Summary: GFS Bodoni Classic oblique Greek font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces18th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

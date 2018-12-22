@@ -14,7 +14,7 @@ Version:    %{upstream_version}
 Release:    alt3_15
 
 Summary:    Perl interface to the personality(2) Linux system call
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Linux/%{upstream_name}-%{upstream_version}.tar.gz

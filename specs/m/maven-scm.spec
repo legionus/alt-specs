@@ -41,7 +41,7 @@ Name:           maven-scm
 Version:        1.9.5
 Release:        alt1_6jpp8
 Summary:        Common API for doing SCM operations
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/scm
 BuildArch:      noarch
 

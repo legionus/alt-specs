@@ -9,7 +9,7 @@ Release: alt1.qa1
 Summary: Matrix Angular Sdk
 
 Url: https://pypi.python.org/pypi/matrix-angular-sdk
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

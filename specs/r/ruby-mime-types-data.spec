@@ -5,7 +5,7 @@ Version: 3.2018.0812
 Release: alt1
  
 Summary: MIME Type registry data
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/mime-types/mime-types-data
  

@@ -13,7 +13,7 @@ Name:          codegen
 Version:       0.6.8
 Release:       alt1_5jpp8
 Summary:       Java/Scala Code generation tool
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.querydsl.com
 Source0:       https://github.com/mysema/codegen/archive/CODEGEN_%{_version}.tar.gz
 

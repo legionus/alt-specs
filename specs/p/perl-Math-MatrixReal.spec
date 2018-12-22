@@ -8,7 +8,7 @@ Name:           perl-Math-MatrixReal
 Version:        2.13
 Release:        alt1_6
 Summary:        Manipulate matrix of reals
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Math-MatrixReal
 Source0:        https://cpan.metacpan.org/authors/id/L/LE/LETO/Math-MatrixReal-%{version}.tar.gz

@@ -9,7 +9,7 @@ Version:	63.0.1
 Release:	alt1
 Summary:	Kazakh (KZ) Language Pack for Firefox
 
-License:	MPL/GPL/LGPL
+License:	MPL or GPL-1.0-only or LGPL-1.0-only
 Group:		Networking/WWW
 URL:		http://www.mozilla-russia.org/products/firefox/
 Packager:	Alexey Gladkov <legion@altlinux.ru>

@@ -4,7 +4,7 @@ Version: 0.1403
 Release: alt1
 
 Summary: Generic non-blocking POE interface to any OO-module
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: A Modbus library in C, which supports RTU communication over a serial line or a TCP link
 
-License: LGPL V3+
+License: LGPL-3.0-or-later
 Url: http://www.libmodbus.org
 Group: System/Libraries
 

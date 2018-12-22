@@ -16,7 +16,7 @@ Summary:        Java implementation of multi-cast DNS
 # Lesser General Public License. It was later moved to Sourceforge
 # and re-released under the Apache License, Version 2.0.
 # See NOTICE.txt for more details
-License:        ASL 2.0 and LGPLv2+
+License:        Apache-2.0 and LGPLv2+
 URL:            http://jmdns.sourceforge.net/
 # sh create-tarball.sh
 Source0:        %{name}-%{version}.tar.gz

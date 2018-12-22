@@ -6,7 +6,7 @@ Release: alt1
 %setup_python_module qbzr
 
 Summary: A simple Qt cross-platform frontend for some of Bazaar commands
-License: gpl2
+License: GPL-2.0-only
 Group: Development/Python
 
 Url: https://launchpad.net/qbzr

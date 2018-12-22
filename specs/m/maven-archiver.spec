@@ -11,7 +11,7 @@ Version:        3.2.0
 Release:        alt1_1jpp8
 Epoch:          0
 Summary:        Maven Archiver
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-archiver/
 BuildArch:      noarch
 

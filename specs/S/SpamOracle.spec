@@ -4,7 +4,7 @@ Release: alt2
 
 Group: Networking/Mail
 Summary: Spam filter
-License: GPL2
+License: GPL-2.0-only
 Url: https://github.com/xavierleroy/spamoracle
 Packager: Evgenii Terechkov <evg@altlinux.ru>
 Source: spamoracle-%version.tar

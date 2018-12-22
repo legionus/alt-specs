@@ -38,7 +38,7 @@ Name:           dumbster
 Version:        1.6
 Release:        alt4_20jpp8
 Epoch:          0
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://quintanasoft.com/dumbster/
 Group:          Development/Java
 # cvs -z3 -d:pserver:anonymous@dumbster.cvs.sourceforge.net:/cvsroot/dumbster export -r RELEASE_1_6 dumbster

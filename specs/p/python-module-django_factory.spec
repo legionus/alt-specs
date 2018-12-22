@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.11
 Release: alt2
 Summary: Generic factory for creating instances of Django models in tests
-License: ASL v2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/django_factory/
 

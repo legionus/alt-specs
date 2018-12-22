@@ -16,7 +16,7 @@ Name:          jboss-jaxrs-1.1-api
 Version:       1.0.1
 Release:       alt2_15jpp8
 Summary:       Java API for RESTful Web Services (JAX-RS) 1.1
-License:       CDDL
+License:       CDDL-1.0
 URL:           http://www.jboss.org
 
 # git clone git://github.com/jboss/jboss-jaxrs-api_spec.git

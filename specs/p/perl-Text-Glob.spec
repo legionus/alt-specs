@@ -5,7 +5,7 @@ Version: 0.11
 Release: alt1
 
 Summary: match globbing patterns against text
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

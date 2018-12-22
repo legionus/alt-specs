@@ -10,7 +10,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: tools to create a modified copy of a repository
 Group: Development/Other
-License: GPL2+
+License: GPL-2.0-or-later
 #Url: 
 Source: %name-%version.tar
 

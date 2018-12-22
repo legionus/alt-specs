@@ -5,7 +5,7 @@ Release:        alt1.qa1
 Summary:        Pythonic mplayer controller library
 
 Url:            http://code.google.com/p/mpylayer/
-License:        AGPLv3
+License:        AGPL-3.0-only
 Group:          Development/Python
 
 # Source-url:   https://pypi.python.org/packages/ae/f4/eed807fef73e7d0f58cdacefbbda6eff71644938904f0fd0debf79e809af/mpylayer-%{version}.tar.gz

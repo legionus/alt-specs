@@ -8,7 +8,7 @@ Name:           perl-HTML-Quoted
 Version:        0.04
 Release:        alt1_16
 Summary:        Extract structure of quoted HTML mail message
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/HTML-Quoted
 Source0:        https://cpan.metacpan.org/authors/id/T/TS/TSIBLEY/HTML-Quoted-0.04.tar.gz

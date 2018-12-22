@@ -6,7 +6,7 @@ Version: 0.6
 Release: alt3
 Summary: A tool for replaying captured database server load
 
-License: GPL2
+License: GPL-2.0-only
 Url: http://www.percona.com/
 Source: percona-playback-%version.tar.gz
 Patch0: percona-playback-0.6-ac_prog_mkdir.patch

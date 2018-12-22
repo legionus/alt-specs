@@ -6,7 +6,7 @@ Name:           perl-Module-Build-WithXSpp
 Version:        0.14
 Release:        alt1_1
 Summary:        XS++ enhanced flavor of Module::Build
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/Module-Build-WithXSpp/
 Source0:        http://www.cpan.org/authors/id/S/SM/SMUELLER/Module-Build-WithXSpp-%{version}.tar.gz

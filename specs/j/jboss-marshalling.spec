@@ -17,7 +17,7 @@ Version:          1.4.11
 Release:          alt1_4jpp8
 Summary:          JBoss Marshalling
 # LGPLv2 ./serial/src/main/java/org/jboss/marshalling/serial/UnknownDescriptor.java
-License:          ASL 2.0 and LGPLv2+
+License:          Apache-2.0 and LGPLv2+
 URL:              http://jbossmarshalling.jboss.org/
 BuildArch:        noarch
 

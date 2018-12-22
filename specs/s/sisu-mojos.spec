@@ -11,7 +11,7 @@ Name:           sisu-mojos
 Version:        0.3.1
 Release:        alt1_6jpp8
 Summary:        Sisu plugin for Apache Maven
-License:        EPL
+License:        EPL-1.0
 URL:            http://www.eclipse.org/sisu
 BuildArch:      noarch
 

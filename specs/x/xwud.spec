@@ -3,7 +3,7 @@ Version: 1.0.5
 Release: alt1
 
 Summary: image displayer for X
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

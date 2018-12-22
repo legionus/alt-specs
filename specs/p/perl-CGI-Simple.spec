@@ -6,7 +6,7 @@ Version: 1.21
 Release: alt1
 
 Summary: A Simple totally OO CGI interface that is CGI.pm compliant 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 
 URL: %CPAN %dist

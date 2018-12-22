@@ -5,7 +5,7 @@ Version: 1.2.1
 Release: alt1
  
 Summary: Recursive merging for Ruby hashes
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/danielsdeleo/deep_merge
  

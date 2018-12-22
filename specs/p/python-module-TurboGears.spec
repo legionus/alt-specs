@@ -10,7 +10,7 @@ Release: alt3
 
 Summary: Back-to-front web development in Python
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 BuildArch: noarch
 Url: http://www.turbogears.org

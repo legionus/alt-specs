@@ -24,7 +24,7 @@ Version: 4.0.4
 Release: alt1
 
 Summary: mongo client shell and tools
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/mongodb/mongo-tools
 Group: Development/Databases
 

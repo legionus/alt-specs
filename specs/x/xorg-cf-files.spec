@@ -2,7 +2,7 @@ Name: xorg-cf-files
 Version: 1.0.6
 Release: alt1
 Summary: config files for Xorg build
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 Source: %name-%version.tar.bz2

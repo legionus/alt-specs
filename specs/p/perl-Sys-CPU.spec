@@ -14,7 +14,7 @@ Summary:        Getting CPU information
 # Some code was copied from Unix::Processors, which is LGPLv3 or Artistic 2.0
 # The rest of the code is under the standard Perl license (GPL+ or Artistic).
 # See <https://bugzilla.redhat.com/show_bug.cgi?id=585336>.
-License:        (GPL+ or Artistic) and (LGPLv3 or Artistic 2.0)
+License:        (GPL-1.0-or-later or Artistic) and (LGPLv3 or Artistic 2.0)
 URL:            https://metacpan.org/release/Sys-CPU
 Source0:        https://cpan.metacpan.org/authors/id/M/MZ/MZSANFORD/Sys-CPU-%{version}.tar.gz
 # Support cpu_type on ARM and AArch64, bug #1093266, CPAN RT#95400

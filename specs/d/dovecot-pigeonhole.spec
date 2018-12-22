@@ -7,7 +7,7 @@ Epoch: 1
 Release: alt1
 Summary: Sieve language and the ManageSieve protocol for the Dovecot Secure IMAP Server
 Group: System/Servers
-License: LGPL v2.1
+License: LGPL-2.1-only
 Source: dovecot-%dovecot_version-pigeonhole-%version.tar.gz
 Source1: postfix+sieve.patch
 Url: http://pigeonhole.dovecot.org/

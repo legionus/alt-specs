@@ -7,7 +7,7 @@ Version: 2.0.2
 Release: alt1
 
 Summary: Mongo Driver for Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://www.cpan.org

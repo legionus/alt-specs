@@ -9,7 +9,7 @@ Name:		perl-MouseX-Getopt
 Summary:	Mouse role for processing command line options
 Version:	0.37
 Release:	alt1_10
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/MouseX-Getopt
 Source0:	https://cpan.metacpan.org/authors/id/G/GF/GFUJI/MouseX-Getopt-%{version}.tar.gz
 Patch0:		MouseX-Getopt-0.37-gld103.patch

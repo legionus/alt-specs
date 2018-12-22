@@ -4,7 +4,7 @@ Name: nuitka
 Version: 0.5.11
 Release: alt1.git20150318.1.1
 Summary: Python compiler with full language support and CPython compatibility
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/Nuitka/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

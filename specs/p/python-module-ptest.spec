@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.7.4
 Release: alt1.1
 Summary: Light testing framework for Python
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/ptest
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

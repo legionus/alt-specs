@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: set mate windowmanager to non-compositing
-License: public domain
+License: ALT-Public-Domain
 Group: Graphical desktop/MATE
 
 BuildArch: noarch

@@ -7,7 +7,7 @@ Version: 1.12.0
 Release: alt2
 
 Summary: A cross-platform multimedia framework based on Qt and FFmpeg
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: System/Libraries
 Url: http://qtav.org/
 

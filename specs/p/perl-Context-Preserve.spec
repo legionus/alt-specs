@@ -5,7 +5,7 @@ Version: 0.03
 Release: alt1.1
 
 Summary: run code after a subroutine call, preserving the context the subroutine would have seen if it were the last statement in the caller
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

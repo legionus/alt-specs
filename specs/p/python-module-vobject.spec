@@ -8,7 +8,7 @@ Release: alt1
 Packager: Andrey Cherepanov <cas@altlinux.org>
 
 Summary: Python module for parsing and generating vCard files
-License: ASL 1.1
+License: Apache-1.1
 Group: Development/Python
 Url: http://vobject.skyhouseconsulting.com
 BuildArch: noarch

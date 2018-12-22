@@ -9,7 +9,7 @@ Release: alt1.git20161101.1.1
 
 Summary: HTML5, CSS, Javascript Pretty Print
 
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/html5print/
 

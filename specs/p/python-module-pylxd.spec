@@ -10,7 +10,7 @@ Release: alt1
 %setup_python_module %modulename
 
 Summary: Python library for interacting with the LXD REST API.
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 
 Url: https://github.com/lxc/pylxd

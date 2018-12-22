@@ -10,7 +10,7 @@ Name:          portals-pom
 Version:       1.3
 Release:       alt3_17jpp8
 Summary:       Apache Portals parent pom
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://portals.apache.org/
 # svn export http://svn.apache.org/repos/asf/portals/portals-pom/tags/portals-pom-1.3
 # tar czf portals-pom-1.3-src-svn.tar.gz portals-pom-1.3

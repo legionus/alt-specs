@@ -4,7 +4,7 @@ Version: 0.9609
 Release: alt1
 
 Summary: A curses based OO user interface framework
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

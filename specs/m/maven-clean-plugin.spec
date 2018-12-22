@@ -10,7 +10,7 @@ Name:           maven-clean-plugin
 Version:        3.0.0
 Release:        alt1_4jpp8
 Summary:        Maven Clean Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-clean-plugin/
 BuildArch:      noarch
 

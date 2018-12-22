@@ -7,7 +7,7 @@ Version: 0.50
 Release: alt1
 
 Summary: Organise your Moose types in libraries
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

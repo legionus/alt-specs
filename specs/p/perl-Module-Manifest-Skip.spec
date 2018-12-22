@@ -8,7 +8,7 @@ Name:           perl-Module-Manifest-Skip
 Version:        0.23
 Release:        alt1_11
 Summary:        MANIFEST.SKIP Manangement for Modules
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Module-Manifest-Skip
 Source0:        https://cpan.metacpan.org/authors/id/I/IN/INGY/Module-Manifest-Skip-%{version}.tar.gz

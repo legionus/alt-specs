@@ -13,7 +13,7 @@ Version:        1.4
 Release:        alt3_13
 Summary:        Hand written font with various ligatures for better connecting of letters
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.impallari.com/lobster/
 Source0:        http://www.impallari.com/lobster/releases/lobster-font-1.4.zip
 Source1:        %{oldname}-fontconfig.conf

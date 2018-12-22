@@ -13,7 +13,7 @@ Version:        1.001
 Release:        alt3_13
 Summary:        An Arabic script unicode font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://scripts.sil.org/ArabicFonts
 # The file complete URL is as follows:
 # http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=Lateef_OT_1_001&filename=LateefRegOT_1.001.zip

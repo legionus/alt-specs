@@ -11,7 +11,7 @@ Release: alt1
 Summary: C++ library wrapper of 7zip
 
 Group: System/Libraries
-License: Mozilla Public License 2.0
+License: MPL-2.0
 Url: https://github.com/stonewell/lib7zip
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

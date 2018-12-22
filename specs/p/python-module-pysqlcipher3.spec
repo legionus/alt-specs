@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.2
 Release: alt1.git20150226.1.1.1.1
 Summary: DB-API 2.0 interface for SQLCIPHER 3.x
-License: zlib/libpng
+License: Zlib or Libpng
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pysqlcipher3/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -7,7 +7,7 @@ Version: 2.0
 Release: alt2.1
 
 Summary: A Python client for Facebook Scribe
-License: ASL v2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/facebook-scribe/
 # https://github.com/tomprimozic/scribe-python.git

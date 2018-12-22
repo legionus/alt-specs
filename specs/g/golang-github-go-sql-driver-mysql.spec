@@ -40,7 +40,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        1.2
 Release:        alt1_7
 Summary:        Lightweight and fast MySQL-Driver for Go's database/sql
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

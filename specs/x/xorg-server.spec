@@ -24,7 +24,7 @@ Name: xorg-server
 Version: 1.20.3
 Release: alt1
 Epoch: 2
-License: MIT/X11
+License: (MIT or X11)
 Summary: Xserver - X Window System display server
 Group: System/X11
 Url: http://xorg.freedesktop.org

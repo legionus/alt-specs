@@ -4,7 +4,7 @@ Version: 1.01
 Release: alt3
 
 Summary: SAX Filter to guarantee characters in one event
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

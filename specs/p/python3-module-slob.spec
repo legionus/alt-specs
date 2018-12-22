@@ -5,7 +5,7 @@ Summary: Aard SLOB module
 BuildArch: noarch
 Group: Development/Python
 Url: http://aarddict.org
-License: GPL3
+License: GPL-3.0-only
 
 #https://github.com/itkach/slob.git
 Source: slob.tar

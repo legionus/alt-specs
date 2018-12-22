@@ -15,7 +15,7 @@ Release:	alt1
 Summary:	Metrics dashboard and graph editor
 
 Group:		Development/Other
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://grafana.com
 
 Source: %name-%version.tar

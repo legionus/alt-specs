@@ -9,7 +9,7 @@ Name:           perl-ExtUtils-CppGuess
 Version:        0.12
 Release:        alt1_4
 Summary:        Guess C++ compiler and flags
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/ExtUtils-CppGuess
 Source0:        https://cpan.metacpan.org/authors/id/E/ET/ETJ/ExtUtils-CppGuess-%{version}.tar.gz

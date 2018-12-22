@@ -10,7 +10,7 @@ Name:          jasypt
 Version:       1.9.2
 Release:       alt1_8jpp8
 Summary:       Java Simplified Encryption
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://www.jasypt.org/
 # svn export https://jasypt.svn.sourceforge.net/svnroot/jasypt/tags/jasypt/jasypt-1.9.2 jasypt-1.9.2
 # tar cJf jasypt-1.9.2.tar.xz jasypt-1.9.2

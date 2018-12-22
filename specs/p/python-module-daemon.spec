@@ -5,7 +5,7 @@ Version: 2.1.2
 Release: alt1
 
 Summary: Library to implement a well-behaved Unix daemon process
-License: Apache-2.0 / GPLv3
+License: Apache-2.0 or GPL-3.0-only
 Group: Development/Python
 Url: http://pypi.python.org/pypi/python-daemon/
 Packager: Python Development Team <python@packages.altlinux.org>

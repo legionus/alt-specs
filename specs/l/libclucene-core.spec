@@ -4,7 +4,7 @@ Version: 2.3.3.4
 Release: alt4
 
 Summary: CLucene is a C++ port of Lucene.
-License: LGPL / Apache2
+License: LGPL-1.0-only or Apache-2.0
 Group: System/Libraries
 
 Url: http://clucene.sf.net

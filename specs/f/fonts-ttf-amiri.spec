@@ -24,7 +24,7 @@ O.U.O.U.O. O.O.U.U.O.O.O.O. O.U.O.U.U.O.U.O.O. U.U.U. U.U.O. O.O.O. O.U.O.O. O.O
 Name: fonts-ttf-amiri
 Version: 0.109
 Release: alt1_2
-License: OFL
+License: OFL-1.0
 
 Source0: https://github.com/alif-type/amiri/releases/download/%{version}/%{fontname}-%{version}.zip
 Source1: %{fontname}-quran-fontconfig.conf

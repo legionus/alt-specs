@@ -10,7 +10,7 @@ Name:          qpid-proton-java
 Version:       0.12.2
 Release:       alt2_4jpp8
 Summary:       Java libraries for Qpid Proton
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://qpid.apache.org/proton/
 Source0:       http://www.apache.org/dist/qpid/proton/%{version}/qpid-proton-%{version}.tar.gz
 

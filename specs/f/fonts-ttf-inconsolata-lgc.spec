@@ -6,7 +6,7 @@ Version: 1.1.0
 Release: alt1.qa1
 
 Summary: modified version of Inconsolata with added the Cyrillic alphabet
-License:  OFL
+License:  OFL-1.0
 Group: System/Fonts/True type
 # github fork with ttf fonts
 Url: https://github.com/DeLaGuardo/Inconsolata-LGC 

@@ -13,7 +13,7 @@ Summary:	Provide compiled List::MoreUtils functions
 # Anything after that is ASL 2.0
 # "git blame" on the upstream repo will probably be needed to
 # determine the license of any particular chunk of code
-License:	(GPL+ or Artistic) and ASL 2.0
+License:	(GPL-1.0-or-later or Artistic) and Apache-2.0
 URL:		https://metacpan.org/release/List-MoreUtils-XS
 Source0:	https://cpan.metacpan.org/authors/id/R/RE/REHSACK/List-MoreUtils-XS-%{version}.tar.gz
 Patch0:		List-MoreUtils-XS-0.428-unbundle.patch

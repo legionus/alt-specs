@@ -2,7 +2,7 @@ Name: xorg-drv-dummy
 Version: 0.3.8
 Release: alt1
 Summary: dummy video driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -5,7 +5,7 @@ Version: 0.62
 Release: alt1.1
 
 Summary: Associate user-defined magic to variables from Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

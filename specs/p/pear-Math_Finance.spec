@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Financial functions
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Math_Finance
 

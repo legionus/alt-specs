@@ -11,7 +11,7 @@ Epoch:          1
 Version:        2.4.0
 Release:        alt3_28jpp8
 Summary:        Bean Scripting Framework
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/bsf/
 BuildArch:      noarch
 

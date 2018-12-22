@@ -11,7 +11,7 @@ Version:       0.5
 Release:       alt1_5jpp8
 Summary:       Language Detection Library for Java
 # Source files without license headers https://github.com/optimaize/language-detector/issues/67
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/optimaize/language-detector
 Source0:       https://github.com/optimaize/language-detector/archive/%{name}-%{version}.tar.gz
 

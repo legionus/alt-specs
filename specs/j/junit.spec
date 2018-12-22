@@ -13,7 +13,7 @@ Epoch:          1
 Version:        4.12
 Release:        alt1_8jpp8
 Summary:        Java regression test package
-License:        EPL
+License:        EPL-1.0
 URL:            http://www.junit.org/
 BuildArch:      noarch
 

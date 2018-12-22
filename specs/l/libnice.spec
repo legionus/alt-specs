@@ -14,7 +14,7 @@ Release: alt1.1
 
 Summary: Connectivity Establishment standard (ICE) library
 Group: System/Libraries
-License: LGPLv2+/MPL
+License: LGPLv2+ or MPL
 URL: http://nice.freedesktop.org
 
 Source: http://nice.freedesktop.org/releases/%name-%version.tar.gz

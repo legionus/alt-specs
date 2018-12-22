@@ -10,7 +10,7 @@ Epoch: 1
 
 Summary: Ruby LALR(1) parser generator
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: https://rubygems.org/gems/racc
 
 # we do not target jruby:

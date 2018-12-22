@@ -7,7 +7,7 @@ Summary: OpenStack Orchestration (heat)
 Version: 8.0.3
 Release: alt2
 Epoch: 1
-License: ASL 2.0
+License: Apache-2.0
 Group: System/Servers
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz

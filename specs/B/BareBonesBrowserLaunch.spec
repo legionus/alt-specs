@@ -10,7 +10,7 @@ Name:          BareBonesBrowserLaunch
 Version:       3.1
 Release:       alt1_15jpp8
 Summary:       Simple library to launch a browser window from Java
-License:       Public Domain
+License:       ALT-Public-Domain
 URL:           http://www.centerkey.com/java/browser/
 Source0:       http://www.centerkey.com/java/browser/myapp/real/bare-bones-browser-launch-%{version}.jar
 

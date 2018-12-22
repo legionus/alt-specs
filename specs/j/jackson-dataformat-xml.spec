@@ -10,7 +10,7 @@ Name:          jackson-dataformat-xml
 Version:       2.9.4
 Release:       alt1_2jpp8
 Summary:       Jackson extension component for reading and writing XML encoded data
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/FasterXML/jackson-dataformat-xml
 Source0:       https://github.com/FasterXML/jackson-dataformat-xml/archive/%{name}-%{version}.tar.gz
 

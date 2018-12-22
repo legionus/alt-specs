@@ -14,7 +14,7 @@ Version:        1.000
 Release:        alt3_14
 Summary:        Geometric sans-serif typeface
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.theleagueofmoveabletype.com/
 Source0:        http://s3.amazonaws.com/theleague-production/fonts/%{shortfontname}.zip
 Source1:        %{oldname}-fontconfig.conf

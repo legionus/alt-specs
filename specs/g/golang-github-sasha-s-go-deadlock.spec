@@ -41,7 +41,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0.2.0
 Release:        alt1_2
 Summary:        Online deadlock detection in go
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{project}-%{repo}-%{shortcommit}.tar.gz
 

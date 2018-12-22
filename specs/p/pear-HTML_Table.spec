@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: PEAR::HTML_Table makes the design of HTML tables easy, flexible, reusable and efficient
 
-License: New BSD
+License: BSD-3-Clause
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Table
 

@@ -6,7 +6,7 @@ Release: alt2.1
 Epoch: 1
 
 Summary: Perl interface to PARI
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

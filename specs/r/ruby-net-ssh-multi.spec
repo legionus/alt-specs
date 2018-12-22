@@ -5,7 +5,7 @@ Version: 1.2.0
 Release: alt1.4
  
 Summary: SSH connection multiplexing: execute commands simultaneously on multiple hosts via SSH
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/net-ssh/net-ssh-multi
  

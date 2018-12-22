@@ -45,7 +45,7 @@ Epoch:          0
 Summary:        A SAX-compliant HTML parser written in Java 
 # AFL/GPLv2+ license for src/java/org/ccil/cowan/tagsoup/PYXScanner.java is
 # likely mixup of upstream but needs to be cleared up
-License:        ASL 2.0 and (GPLv2+ or AFL)
+License:        Apache-2.0 and (GPL-2.0-or-later or AFL)
 Source0:        http://home.ccil.org/~cowan/XML/tagsoup/tagsoup-1.2.1-src.zip
 URL:            http://home.ccil.org/~cowan/XML/tagsoup/
 Source1:        http://repo1.maven.org/maven2/org/ccil/cowan/tagsoup/tagsoup/%{version}/tagsoup-%{version}.pom

@@ -19,7 +19,7 @@ Name:           fonts-ttf-google-noto
 Version:        20181130
 Release:        alt1_1
 Summary:        Hinted and Non Hinted OpenType fonts for Unicode scripts
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/googlei18n/noto-fonts/
 # downloaded from https://github.com/googlei18n/noto-fonts/commits/85e78f831469323c85847e23f95026c894159135 -> download [zip]
 # link https://github.com/googlei18n/noto-fonts/archive/85e78f831469323c85847e23f95026c894159135.zip

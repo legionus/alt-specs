@@ -10,7 +10,7 @@ Version: 1.14
 Release: alt1
 Summary: Build and install the GNU Multiple Precision library.
 Group: Development/Perl
-License: lgpl
+License: LGPL-1.0-only
 URL: https://metacpan.org/release/Alien-GMP
 
 Source0: http://www.cpan.org/authors/id/P/PL/PLICEASE/%{module_name}-%{version}.tar.gz

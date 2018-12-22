@@ -15,7 +15,7 @@ Summary:       Thematic Realtime Environmental Distributed Data Services (TDS)
 #         visad/src/main/java/ucar/nc2/iosp/mcidas/V5DStruct.java
 #         grib/src/main/java/ucar/jpeg
 # ASL: tds/src/main/java/thredds/servlet/URLEncoder.java
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 URL:           http://www.unidata.ucar.edu/software/tds/
 # sh thredds-create-tarball.sh < VERSION >
 Source0:       %{name}-%{version}-clean.tar.xz

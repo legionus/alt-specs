@@ -5,7 +5,7 @@ Version: 0.6.0
 Release: alt3.5
  
 Summary: A simple callback-based HTTP request/response parser for writing http servers, clients and proxies
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/tmm1/http_parser.rb
  

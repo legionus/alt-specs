@@ -10,7 +10,7 @@ Version: %version
 Release: %release.1
 Source: %oname-%version.tar.gz
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/
 BuildPreReq: rpm-build-python

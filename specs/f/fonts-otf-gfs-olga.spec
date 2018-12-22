@@ -15,7 +15,7 @@ Version: 20060908
 Release: alt3_22
 Summary: GFS Olga experimental oblique font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces20th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

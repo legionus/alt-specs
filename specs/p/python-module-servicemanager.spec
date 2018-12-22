@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.0.16
 Release: alt2
 Summary: A python tool to manage developing and testing with lots of microservices
-License: ASL v2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/servicemanager/
 # https://github.com/hmrc/service-manager.git

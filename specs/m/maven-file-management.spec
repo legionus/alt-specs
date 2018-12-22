@@ -11,7 +11,7 @@ Epoch:          1
 Version:        3.0.0
 Release:        alt1_4jpp8
 Summary:        Maven File Management API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/file-management
 BuildArch:      noarch
 

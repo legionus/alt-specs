@@ -14,7 +14,7 @@ Version:	1.000
 Release:	alt3_14
 # License attribution confirmed by author
 # See: sniglet-license-confirmation-email.txt
-License:	OFL
+License:	OFL-1.0
 Source0:	https://s3.amazonaws.com/theleague-production/fonts/sniglet.zip
 Source1:	%{oldname}-fontconfig.conf
 Source2:	sniglet-license-confirmation-email.txt

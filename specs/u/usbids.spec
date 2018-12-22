@@ -5,7 +5,7 @@ Release: alt1
 Packager: Victor Forsyuk <force@altlinux.org>
 
 Summary: Repository of USB vendor IDs
-License: GPLv2+ or BSD 3-clause
+License: GPL-2.0-or-later or BSD-3-Clause
 Group: System/Libraries
 
 Url: http://www.linux-usb.org

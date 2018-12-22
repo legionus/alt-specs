@@ -13,7 +13,7 @@ Version:	0.003
 Release:	alt3_23
 Summary:	Jomolhari a Bhutanese style font for Tibetan and Dzongkha
 
-License:	OFL
+License:	OFL-1.0
 # Looks like currently following URL is gone now. Maybe temporary issue
 #URL:		http://chris.fynn.googlepages.com/jomolhari
 # Try following URL for this package

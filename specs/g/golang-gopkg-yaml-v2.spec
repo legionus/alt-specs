@@ -8,7 +8,7 @@ Name: golang-gopkg-yaml-v2
 Version: 2.0
 Release: alt5.git%abbrev
 Summary: YAML support for the Go language
-License: Apache v.2
+License: Apache-2.0
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

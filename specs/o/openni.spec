@@ -23,7 +23,7 @@ Release:        alt2_13
 Summary:        Library for human-machine Natural Interaction
 
 Group:          System/Libraries
-License:        ASL 2.0 and BSD
+License:        Apache-2.0 and BSD
 URL:            http://www.openni.org
 # To reproduce tarball (adapt version and shortcommit):
 # wget https://github.com/OpenNI/OpenNI/archive/%{commit}/%{name}-%{version}-%{shortcommit}.tar.gz

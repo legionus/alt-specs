@@ -16,7 +16,7 @@ Name: ecj
 Version: 4.7.3a
 Release: alt1_1jpp8
 URL: http://www.eclipse.org
-License: EPL
+License: EPL-1.0
 
 Source0: http://download.eclipse.org/eclipse/downloads/drops4/%{qualifier}/ecjsrc-%{version}RC2.jar
 Source1: ecj.sh.in

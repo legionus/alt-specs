@@ -10,7 +10,7 @@ Version:    0.21
 Release:    alt1
 
 Summary:    Faster implementation of HTTP::Headers
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/T/TO/TOKUHIROM/%{upstream_name}-%{version}.tar.gz

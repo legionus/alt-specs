@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Universal Archive Tool
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: System/Configuration/Packaging
 Url: https://github.com/vitlav/erc
 

@@ -5,7 +5,7 @@ Version: 4.18.0
 Release: alt1
 
 Summary: Utilities for managing the XFS filesystem
-License: LGPL v2.1 (libhandle), GPL v2 (the rest)
+License: LGPL-2.1-only (libhandle), GPL-2.0-only (the rest)
 Group: System/Kernel and hardware
 
 Url: http://xfs.org

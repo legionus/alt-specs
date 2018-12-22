@@ -14,7 +14,7 @@ Name: xen
 Version: 4.10.1
 Release: alt6
 Group: Emulators
-License: GPLv2+, LGPLv2+, BSD
+License: GPL-2.0-or-later and LGPLv2+ and BSD
 URL: http://www.xenproject.org/
 
 %define pre %nil

@@ -8,7 +8,7 @@ Name:           perl-Hash-FieldHash
 Version:        0.15
 Release:        alt1_8
 Summary:        Lightweight field hash implementation
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Hash-FieldHash
 Source0:        https://cpan.metacpan.org/modules/by-module/Hash/Hash-FieldHash-%{version}.tar.gz

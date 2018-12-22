@@ -8,7 +8,7 @@ Name:           perl-Math-Factor-XS
 Version:        0.40
 Release:        alt3_21
 Summary:        Factorize numbers and calculate matching multiplications
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Math-Factor-XS
 Source0:        https://cpan.metacpan.org/authors/id/K/KR/KRYDE/Math-Factor-XS-%{version}.tar.gz

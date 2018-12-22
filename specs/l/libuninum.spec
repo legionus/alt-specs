@@ -10,7 +10,7 @@ Name:          libuninum
 Version:       2.7
 Release:       alt3_22
 # numconv is GPLv2, lib is LGPLv2
-License:       GPLv2 and LGPLv2
+License:       GPL-2.0-only and LGPLv2
 URL:           http://billposer.org/Software/libuninum.html
 Source0:       http://billposer.org/Software/Downloads/libuninum-%{version}.tar.bz2
 Patch0:        libuninum-2.7-64bit-clean.patch

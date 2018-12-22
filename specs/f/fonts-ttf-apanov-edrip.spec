@@ -14,7 +14,7 @@ Version: 20100430
 Release: alt2_11
 Summary: A decorative contrast sans-serif font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://code.google.com/p/%{googlename}/
 # Upstream has still not completed hosting switching
 Source0:   ftp://ftp.dvo.ru/pub/Font/edrip/%{archivename}.tar.xz

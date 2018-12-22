@@ -8,7 +8,7 @@ Name:           perl-Devel-FindRef
 Version:        1.46
 Release:        alt1
 Summary:        Where is that reference to my variable hiding?
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/Devel-FindRef/
 Source0:        http://www.cpan.org/authors/id/M/ML/MLEHMANN/Devel-FindRef-%{version}.tar.gz

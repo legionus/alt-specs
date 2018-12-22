@@ -3,7 +3,7 @@ Name: emacs-rbook
 Version: 1.3.5
 Release: alt3
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Sound
 Summary: The emacs plugin to read text files with Text-to-Speech engine (ru_tts)
 

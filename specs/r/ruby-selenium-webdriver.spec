@@ -5,7 +5,7 @@ Version: 3.14.0
 Release: alt1
 
 Summary: WebDriver is a tool for writing automated tests of websites
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/SeleniumHQ/selenium
 

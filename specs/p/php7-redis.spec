@@ -7,7 +7,7 @@ Release:	alt%php7_version.%php7_release
 
 Summary:	Client extension for Redis key-value store
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		https://github.com/nicolasff/phpredis
 

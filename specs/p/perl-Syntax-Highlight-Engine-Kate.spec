@@ -8,7 +8,7 @@ Name:           perl-Syntax-Highlight-Engine-Kate
 Version:        0.14
 Release:        alt1_3
 Summary:        Port to Perl of the syntax highlight engine of the Kate text editor
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Syntax-Highlight-Engine-Kate
 Source0:        https://cpan.metacpan.org/authors/id/M/MA/MANWAR/Syntax-Highlight-Engine-Kate-%{version}.tar.gz

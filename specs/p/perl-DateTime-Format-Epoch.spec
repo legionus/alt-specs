@@ -9,7 +9,7 @@ Name:           perl-DateTime-Format-Epoch
 Version:        0.16
 Release:        alt1_10
 Summary:        Convert DateTimes to/from epoch seconds
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/DateTime-Format-Epoch
 Source0:        https://cpan.metacpan.org/modules/by-module/DateTime/DateTime-Format-Epoch-%{version}.tar.gz
 BuildArch:      noarch

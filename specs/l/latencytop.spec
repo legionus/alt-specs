@@ -5,7 +5,7 @@ Release: alt1.qa1
 Packager: Victor Forsiuk <force@altlinux.org>
 
 Summary: A tool to visualize system latencies
-License: GPLv2 only
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 
 URL: http://www.latencytop.org/

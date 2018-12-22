@@ -4,7 +4,7 @@ Release: alt2.git298cc28d
 
 Summary: Firmware Analysis Tool
 
-License: MIT License
+License: MIT
 Group: File tools
 Url: https://github.com/devttys0/binwalk
 

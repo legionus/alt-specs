@@ -2,7 +2,7 @@ Name: thinkfan
 Version: 0.9.1
 Release: alt1
 Group: System/Configuration/Hardware
-License: GPL3+
+License: GPL-3.0-or-later
 
 Url: http://sourceforge.net/projects/thinkfan/
 Packager: Evgenii Terechkov <evg@altlinux.org>

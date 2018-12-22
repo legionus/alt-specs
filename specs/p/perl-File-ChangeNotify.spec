@@ -5,7 +5,7 @@ Version: 0.29
 Release: alt1
 
 Summary: Watch for changes to files, cross-platform style
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

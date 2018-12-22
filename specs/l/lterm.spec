@@ -2,7 +2,7 @@ Summary: The free terminal and multiprotocol client for Linux
 Name: lterm
 Version: 1.5.1
 Release: alt1
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Terminals
 Url: http://lterm.sourceforge.net/
 Source0: %name-%version.tar

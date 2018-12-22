@@ -10,7 +10,7 @@ Name:           perl-Acme-Alien-DontPanic
 Version:        1.03
 Release:        alt1
 Summary:        Test module for Alien::Base
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://search.cpan.org/dist/Acme-Alien-DontPanic/
 Source0:        http://www.cpan.org/authors/id/P/PL/PLICEASE/Acme-Alien-DontPanic-%{version}.tar.gz
 BuildArch:      noarch

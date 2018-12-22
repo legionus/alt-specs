@@ -5,7 +5,7 @@ Version: 2.10
 Release: alt1.1.1
 
 Summary: Perl module to represent strings of Unicode chars 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

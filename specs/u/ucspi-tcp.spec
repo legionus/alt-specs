@@ -3,7 +3,7 @@ Version: 0.88
 Release: alt1
 
 Summary: partial replacement for inetd+tcpd
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Networking
 Url: http://cr.yp.to/%name.html
 

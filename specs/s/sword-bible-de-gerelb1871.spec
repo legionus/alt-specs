@@ -6,7 +6,7 @@ Summary: German Elberfelder (1871) for SWORD
 Summary(ru_RU.UTF-8): German Elberfelder (1871) для системы SWORD
 Summary(de_DE.UTF-8): German Elberfelder (1871) für SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

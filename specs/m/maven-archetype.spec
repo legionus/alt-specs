@@ -14,7 +14,7 @@ Summary:        Maven project templating toolkit
 
 # Most of the code is under ASL 2.0, but some bundled jdom sources are
 # under ASL 1.1
-License:        ASL 2.0 and ASL 1.1
+License:        Apache-2.0 and Apache-1.1
 URL:            https://maven.apache.org/archetype/
 Source0:        http://repo.maven.apache.org/maven2/org/apache/maven/archetype/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

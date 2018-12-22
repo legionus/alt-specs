@@ -2,7 +2,7 @@ Name: colpack
 Version: 1.0.10
 Release: alt1
 Summary: Graph Coloring for Computing Derivatives
-License: LGPL v3
+License: LGPL-3.0-only
 Group: Sciences/Mathematics
 Url: http://cscapes.cs.purdue.edu/coloringpage/software.htm
 

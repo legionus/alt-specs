@@ -5,7 +5,7 @@ Version: 0.17
 Release: alt1.1.1.1.1
 
 Summary: Roles which support overloading
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

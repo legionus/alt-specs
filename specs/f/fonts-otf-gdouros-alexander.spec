@@ -12,7 +12,7 @@ Name:           fonts-otf-gdouros-alexander
 Version:        8.01
 Release:        alt1_1
 Summary:        A Greek typeface inspired by Alexander Wilson
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://users.teilar.gr/~g1951d/
 Source0:        http://users.teilar.gr/~g1951d/Textfonts.zip
 Source1:        %{oldname}-fontconfig.conf

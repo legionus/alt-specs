@@ -7,7 +7,7 @@ Name: primme
 Version: 1.1
 Release: alt13
 Summary: PReconditioned Iterative MultiMethod Eigensolver
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Sciences/Mathematics
 Url: http://www.cs.wm.edu/~andreas/software/
 

@@ -2,7 +2,7 @@ Name:           perl-Authen-Simple
 Version:        0.5
 Release:        alt2
 Summary:        Simple Authentication
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            http://search.cpan.org/dist/Authen-Simple/
 Source0:        http://www.cpan.org/authors/id/C/CH/CHANSEN/Authen-Simple-%{version}.tar.gz

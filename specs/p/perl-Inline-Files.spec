@@ -5,7 +5,7 @@ Version: 0.69
 Release: alt1
 
 Summary: Multiple virtual files at the end of your code
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

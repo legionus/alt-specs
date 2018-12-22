@@ -4,7 +4,7 @@ Version: 0.18
 Release: alt1.1.1
 
 Summary: Interface to pcap(3) LBL packet capture library
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

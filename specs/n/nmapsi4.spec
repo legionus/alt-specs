@@ -3,7 +3,7 @@ Version:	0.4.1
 Release:	alt1
 Summary:	NmapSI4 is a qt4 interface for nmap scanner
 Packager:	Motsyo Gennadi <drool@altlinux.ru>
-License:	GPLv2, LGPLv3
+License:	GPL-2.0-only and LGPLv3
 Group:		Security/Networking
 Url:		http://www.nmapsi4.org/
 Source0:	http://nmapsi4.googlecode.com/files/%name-%version.tar.xz

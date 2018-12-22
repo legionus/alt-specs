@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: PHP implementation of the XML-RPC protocol
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_RPC
 

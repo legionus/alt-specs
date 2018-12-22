@@ -4,7 +4,7 @@ Version: 1.04
 Release: alt1
 
 Summary: SSL support for Net::SMTP
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 URL: %CPAN %dist
 Packager: Dmitry V. Levin <ldv@altlinux.org>

@@ -13,7 +13,7 @@ Name:          jdiff
 Version:       1.1.1
 Release:       alt3_15jpp8
 Summary:       An HTML Report of API Differences
-License:       GPL+ and LGPLv2+
+License:       GPL-1.0-or-later and LGPLv2+
 URL:           http://javadiff.sourceforge.net/
 # cvs -d:pserver:anonymous@javadiff.cvs.sourceforge.net:/cvsroot/javadiff login
 # cvs -z3 -d:pserver:anonymous@javadiff.cvs.sourceforge.net:/cvsroot/javadiff export -rHEAD jdiff

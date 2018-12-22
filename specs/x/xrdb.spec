@@ -3,7 +3,7 @@ Version: 1.1.1
 Release: alt1
 
 Summary: X server resource database utility
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

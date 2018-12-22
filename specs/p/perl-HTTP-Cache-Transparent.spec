@@ -5,7 +5,7 @@ Version: 1.4
 Release: alt1
 
 Summary: Cache the result of http get-requests persistently
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

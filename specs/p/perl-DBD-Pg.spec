@@ -5,7 +5,7 @@ Version: 3.7.4
 Release: alt1
 
 Summary: PostgreSQL database driver for the DBI module
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

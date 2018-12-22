@@ -13,7 +13,7 @@ Version:        1.103
 Release:        alt1_0.7.20130920
 Summary:        Sans-serif font metric-compatible with Calibri font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://code.google.com/p/chromium/issues/detail?id=280557
 Source0:        http://gsdview.appspot.com/chromeos-localmirror/distfiles/%{archivename}.tar.gz
 Source1:        30-0-%{fontname}-fontconfig.conf

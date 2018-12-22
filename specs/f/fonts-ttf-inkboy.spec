@@ -11,7 +11,7 @@ Name:           fonts-ttf-inkboy
 Version:        20070624
 Release:        alt3_16
 Summary:        A clean and usable latin fantasy font
-License:        OFL
+License:        OFL-1.0
 URL:            http://inkboy.fr/html/telechargement-ressources.php
 Source0:        http://inkboy.fr/fichiers/inkboyfont.zip
 Source1:        %{fontname}.metainfo.xml

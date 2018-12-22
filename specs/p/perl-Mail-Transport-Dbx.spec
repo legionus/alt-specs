@@ -4,7 +4,7 @@ Version: 0.07
 Release: alt5.1.1.1.1
 
 Summary: Parse Outlook Express mailboxes
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

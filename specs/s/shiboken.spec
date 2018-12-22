@@ -3,7 +3,7 @@ Version: 1.2.2
 Release: alt4.git20140422
 
 Summary: Generates bindings for C++ libraries using CPython source code
-License: GPLv2, LGPLv2.1
+License: GPL-2.0-only and LGPLv2.1
 Group: Development/KDE and QT
 Url: http://www.pyside.org/
 

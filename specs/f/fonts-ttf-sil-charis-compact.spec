@@ -15,7 +15,7 @@ Version: 4.106
 Release: alt3_13
 Summary: A version of Charis SIL with tighter line spacing
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://scripts.sil.org/CharisSILFont
 # Actual download URL
 # http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=%{archivename}.zip&filename=%{archivename}%{version}.zip

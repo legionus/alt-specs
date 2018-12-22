@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: ALT to JPackage build compatibility adaptor.
 Group: Development/Java
-License: GPL2+ or Apache
+License: GPL-2.0-or-later or Apache
 Url: http://www.sisyphus.ru/packages/viy/srpms
 
 BuildArch: noarch

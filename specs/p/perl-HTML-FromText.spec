@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: A perl module for HTML::FromText
 Group: Development/Perl
-License: Artistic/GPL v1
+License: Artistic or GPL-1.0-only
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 

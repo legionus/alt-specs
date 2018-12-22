@@ -22,7 +22,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0
 Release:        alt1_0.2.git%{shortcommit}
 Summary:        A fork of freetype-go with bounding box calculations
-License:        GPLv2+ or FTL
+License:        GPL-2.0-or-later or FTL
 URL:            https://%{provider_prefix}
 Source0:        %{url}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

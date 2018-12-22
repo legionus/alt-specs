@@ -6,7 +6,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: test for obsolete calls in post/un sections
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://repocop.altlinux.org 
 
 Requires: repocop > 0.55

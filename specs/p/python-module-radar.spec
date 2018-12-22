@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.3
 Release: alt1.git20131211.1.1.1
 Summary: Random date generation
-License: GPLv2.0/LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 Group: Development/Python
 Url: https://pypi.python.org/pypi/radar/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

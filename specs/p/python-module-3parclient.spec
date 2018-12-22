@@ -6,7 +6,7 @@ Release: alt2
 Summary: HPE 3PAR REST Python Client
 
 Group: Development/Python
-License: Apache License, Version 2.0
+License: Apache-2.0
 Url: https://pypi.python.org/pypi/python-3parclient
 Source0: %name-%version.tar
 

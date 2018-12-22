@@ -12,7 +12,7 @@ Release:        alt1_8jpp8
 Summary:        An embeddable pure Java syntax highlighting library
 
 Group:          Development/Other
-License:        LGPLv2+ or CDDL
+License:        LGPLv2+ or CDDL-1.0
 URL:            http://svn.rifers.org/jhighlight
 
 Source0:        https://github.com/codelibs/jhighlight/archive/jhighlight-%{version}.tar.gz

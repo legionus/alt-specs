@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.2.0
 Release: alt1.1
 Summary: Non-blocking MongoDB driver for Tornado
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/motor/

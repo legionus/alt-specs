@@ -8,7 +8,7 @@ Name:           perl-DBICx-TestDatabase
 Summary:        Create a temporary database from a DBIx::Class::Schema 
 Version:        0.05
 Release:        alt1_11
-License:        GPL+ or Artistic 
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 Source0:        https://cpan.metacpan.org/authors/id/J/JR/JROCKWAY/DBICx-TestDatabase-%{version}.tar.gz
 URL:            https://metacpan.org/release/DBICx-TestDatabase

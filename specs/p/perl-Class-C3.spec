@@ -5,7 +5,7 @@ Version: 0.34
 Release: alt1
 
 Summary: A pragma to use the C3 method resolution order algortihm
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

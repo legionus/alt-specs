@@ -10,7 +10,7 @@ Release: alt1
 
 Summary: This extension provides API to turn ColumnMap like strings into values
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: http://www.cpan.org
 

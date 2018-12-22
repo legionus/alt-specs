@@ -16,7 +16,7 @@ Name:          springframework-data-redis
 Version:       1.3.5
 Release:       alt2_5jpp8
 Summary:       Provides support to increase developer productivity in Java when using Redis
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://projects.spring.io/spring-data-redis/
 Source0:       https://github.com/spring-projects/spring-data-redis/archive/v%{namedversion}.tar.gz
 # Default use gradle

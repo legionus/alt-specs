@@ -2,7 +2,7 @@ Name: hunspell-es
 Summary: Spanish hunspell dictionaries
 Version: 20081215
 Release: alt1
-License: LGPLv3+ or GPLv3+ or MPLv1.1
+License: LGPLv3+ or GPL-3.0-or-later or MPL-1.1
 Group: Text tools
 URL: http://es.openoffice.org/programa/diccionario.html
 

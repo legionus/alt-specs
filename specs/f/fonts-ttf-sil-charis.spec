@@ -15,7 +15,7 @@ Version: 5.000
 Release: alt1_5
 Summary: A serif smart font similar to Bitstream Charter
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://scripts.sil.org/CharisSILFont
 # Actual download URL
 # http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=%{archivename}.zip&filename=%{archivename}%{version}.zip

@@ -10,7 +10,7 @@ Version: 0.108
 Release: alt1
 Summary: File path utility
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/Path-Tiny
 
 Source0: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/%{module_name}-%{version}.tar.gz

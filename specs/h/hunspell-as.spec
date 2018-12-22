@@ -10,7 +10,7 @@ Version: 1.0.3
 Release: alt2_17
 Source: https://downloads.sourceforge.net/project/aoo-extensions/2318/4/as_in.oxt
 URL: https://extensions.openoffice.org/en/project/assamese-dictionaryspell-checker
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

@@ -13,7 +13,7 @@ Summary:        XML Pull Parser
 Name:           xpp3
 Version:        1.1.4
 Release:        alt1_18.cjpp8
-License:        ASL 1.1
+License:        Apache-1.1
 URL:            http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/index.html
 Source0:        http://www.extreme.indiana.edu/dist/java-repository/xpp3/distributions/xpp3-%{oversion}_src.tgz
 Source1:        http://repo1.maven.org/maven2/xpp3/xpp3/%{oversion}/xpp3-%{oversion}.pom

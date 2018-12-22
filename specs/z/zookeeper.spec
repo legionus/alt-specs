@@ -13,7 +13,7 @@ Name:          zookeeper
 Version:       3.4.9
 Release:       alt2_7
 Summary:       A high-performance coordination service for distributed applications
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 URL:           https://zookeeper.apache.org/
 Source0:       https://www.apache.org/dist/%{name}/%{name}-%{version}.tar.gz
 Source1:       %{name}-ZooInspector-template.pom

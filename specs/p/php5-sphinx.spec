@@ -8,7 +8,7 @@ Release:	alt%php5_version.%php5_release
 
 Summary:	Client extension for Sphinx - opensource SQL full-text search engine
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/sphinx
 

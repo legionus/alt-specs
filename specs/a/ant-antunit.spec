@@ -12,7 +12,7 @@ Name:             ant-%{base_name}
 Version:          1.3
 Release:          alt1_9jpp8
 Summary:          Provide antunit ant task
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://ant.apache.org/antlibs/%{base_name}/
 Source0:          http://www.apache.org/dist/ant/antlibs/%{base_name}/source/apache-%{name}-%{version}-src.tar.bz2
 BuildArch:        noarch

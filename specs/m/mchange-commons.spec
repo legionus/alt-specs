@@ -14,7 +14,7 @@ Name:          mchange-commons
 Version:       0.2.11
 Release:       alt2_5jpp8
 Summary:       A collection of general purpose utilities for c3p0
-License:       LGPLv2 or EPL
+License:       LGPLv2 or EPL-1.0
 URL:           https://github.com/swaldman/mchange-commons-java
 Source0:       https://github.com/swaldman/mchange-commons-java/archive/%{git_tag}/mchange-commons-%{version}.tar.gz
 Source1:       https://raw.github.com/willb/climbing-nemesis/master/climbing-nemesis.py

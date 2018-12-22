@@ -28,7 +28,7 @@ Name:          querydsl3
 Version:       3.7.2
 Release:       alt2_9jpp8
 Summary:       Type safe queries for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.querydsl.com
 Source0:       https://github.com/querydsl/querydsl/archive/QUERYDSL_%{_version}.tar.gz
 

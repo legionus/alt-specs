@@ -3,7 +3,7 @@ Version:        1.6.0
 Release:        alt1.dev.git20150427
 Summary:        Unified Form Language
 Group:          Development/Tools
-License:        LGPL v3+
+License:        LGPL-3.0-or-later
 URL:            http://fenicsproject.org/
 # https://bitbucket.org/fenics-project/ufl.git
 Source:  %name-%version.tar.gz

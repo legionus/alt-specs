@@ -20,7 +20,7 @@ Summary:       Java class for encoding and decoding Base64 notation
 # license, contact me, and I'll make a special release to you
 # under whatever reasonable license you desire: MIT, BSD, GPL,
 # whatever.
-License:       Public Domain
+License:       ALT-Public-Domain
 URL:           http://iharder.net/base64/
 Source0:       https://github.com/omalley/base64/archive/release-%{version}.tar.gz
 Patch0:        %{name}-2.3.8-elasticsearch.patch

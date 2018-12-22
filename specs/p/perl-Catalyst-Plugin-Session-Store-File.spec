@@ -8,7 +8,7 @@ Name:           perl-Catalyst-Plugin-Session-Store-File
 Version:        0.18
 Release:        alt2_25
 Summary:        File storage backend for session data
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Catalyst-Plugin-Session-Store-File
 Source0:        https://cpan.metacpan.org/authors/id/F/FL/FLORA/Catalyst-Plugin-Session-Store-File-%{version}.tar.gz

@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: A python library.. for bugzilla!
 
-License: GPLv2.0
+License: GPL-2.0-only
 Group: Development/Python
 Url: https://fedorahosted.org/python-bugzilla/
 

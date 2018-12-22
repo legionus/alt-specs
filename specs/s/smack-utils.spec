@@ -3,7 +3,7 @@ Version:  1.3.1
 Release:  alt1
 
 Summary:  Utils for Simplified Mandatory Access Control Kernel
-License:  LGPL v2.1
+License:  LGPL-2.1-only
 Group:    System/Configuration/Other
 Url:      https://github.com/smack-team/smack/
 

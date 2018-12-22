@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.6.1
 Release: alt1.git20150323.1.1
 Summary: Misc common functionality and useful optimizations
-License: BSD & GPLv2
+License: BSD and GPL-2.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/snakeoil/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

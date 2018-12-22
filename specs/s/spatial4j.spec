@@ -10,7 +10,7 @@ Name:          spatial4j
 Version:       0.5.0
 Release:       alt1_7jpp8
 Summary:       A Geospatial Library for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/locationtech/spatial4j
 Source0:       https://github.com/spatial4j/spatial4j/archive/%{name}-0.5.tar.gz
 

@@ -4,7 +4,7 @@ Version: 0.56
 Release: alt1.1
 
 Summary: Raw interface to X Window System servers
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Packager: Sergey Vlasov <vsu@altlinux.ru>
 

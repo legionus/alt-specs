@@ -11,7 +11,7 @@ Version: 1.05
 Release: alt2.1
 Summary: Punycode conversion of UTF-8 string.
 Group: Development/Perl
-License: gpl
+License: GPL-1.0-only
 Url: %CPAN %module_name
 
 Source0: http://www.cpan.org/authors/id/T/TW/TWINKLE/%{module_name}-%{version}.tar.gz

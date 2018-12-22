@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt1
 
 Summary: Spanish Reina-Valera for SWORD
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

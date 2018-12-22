@@ -11,7 +11,7 @@ Version: 0.%{upstreamid}
 Release: alt1_14
 Source: https://excellmedia.dl.sourceforge.net/project/aoo-extensions/1388/12/danskesynonymer.oxt
 URL: https://extensions.openoffice.org/fr/project/danske-synonymer
-License: GPLv2 or LGPLv2 or MPLv1.1
+License: GPL-2.0-only or LGPLv2 or MPL-1.1
 BuildArch: noarch
 Requires: libmythes
 Source44: import.info

@@ -8,7 +8,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: %module - Perl extension for converting SRPM and spec files
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: %module-%version.tar
 #Url: http://search.cpan.org/dist/%module
 #Url: https://www.altlinux.org/Packaging_Automation/MassProcessing

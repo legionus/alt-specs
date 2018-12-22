@@ -13,7 +13,7 @@ Name: bacula9
 Version: 9.0.6
 Release: alt2%ubt
 
-License: AGPLv3
+License: AGPL-3.0-only
 Summary: Network based backup program
 Group: Archiving/Backup
 Url: http://www.bacula.org/

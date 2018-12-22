@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: Real Kiosk extension for Mozilla Firefox
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/WWW
 Url: https://addons.mozilla.org/en/firefox/addon/r-kiosk/
 Source: https://addons.mozilla.org/firefox/downloads/file/132044/%rname-%rver-fx.xpi

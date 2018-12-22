@@ -5,7 +5,7 @@ Version: 0.016
 Release: alt1
 
 Summary: Runtime module handling
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

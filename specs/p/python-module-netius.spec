@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.5.3
 Release: alt1.git20150202.1.1
 Summary: Fast and readable async non-blocking network apps
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/netius/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

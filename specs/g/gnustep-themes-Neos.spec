@@ -4,7 +4,7 @@ Name: gnustep-themes-Neos
 Version: 0.1
 Release: alt2
 Summary: GNUstep's Neos theme
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphical desktop/GNUstep
 Url: http://www.nongnu.org/gap/themes/index.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

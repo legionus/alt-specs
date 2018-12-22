@@ -8,7 +8,7 @@ Release: %release
 
 Summary: Rule-based Dispatching and Generic Functions
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 Url: http://peak.telecommunity.com
 

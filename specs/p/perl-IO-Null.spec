@@ -9,7 +9,7 @@ Name:           perl-IO-Null
 Version:        1.01
 Release:        alt2_30
 Summary:        Class for null filehandles
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/IO-Null
 Source0:        https://cpan.metacpan.org/authors/id/S/SB/SBURKE/IO-Null-%{version}.tar.gz
 BuildArch:      noarch

@@ -2,7 +2,7 @@ Name: gts
 Version: 0.7.6
 Release: alt2.drc20130205
 Summary: GNU Triangulated Surface Library
-License: LGPL v2
+License: LGPL-2.0-only
 Group: Development/Tools
 Url: http://gts.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -41,7 +41,7 @@ and other materials used to create font packages.
 %package filesystem
 Group: System/Configuration/Other
 Summary: Directories used by font packages
-License: Public Domain
+License: ALT-Public-Domain
 
 %description filesystem
 This package contains the basic directory layout used by font packages,

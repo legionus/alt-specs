@@ -4,7 +4,7 @@ Version: 0.1.7
 Release: alt1
 Summary: An ODF generator library
 Group: System/Libraries
-License: LGPLv2+ or MPLv2.0+
+License: LGPLv2+ or MPL-2.0+
 URL: http://sourceforge.net/projects/libwpd/
 # git-vcs git://git.code.sf.net/p/libwpd/libodfgen
 Source: %name-%version.tar

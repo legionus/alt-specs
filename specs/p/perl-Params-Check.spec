@@ -4,7 +4,7 @@ Version: 0.38
 Release: alt1
 
 Summary: A generic input parsing/checking mechanism.
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

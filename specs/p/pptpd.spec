@@ -7,7 +7,7 @@ Version: 1.4.0
 Release: alt3
 
 Summary: A PPTP server daemon
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: System/Servers
 
 Url: http://www.poptop.org

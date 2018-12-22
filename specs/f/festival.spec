@@ -20,7 +20,7 @@ Release:	alt6
 Group:		Sound
 Packager:	Igor Vlasenko <viy@altlinux.ru>
 # the emacs file is GPL+, there is one TCL licensed source file
-License:	MIT and GPL+ and TCL
+License:	MIT and GPL-1.0-or-later and TCL
 
 URL:		http://www.cstr.ed.ac.uk/projects/festival.html
 %define srcURL0  http://www.cstr.ed.ac.uk/downloads/festival/1.95

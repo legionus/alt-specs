@@ -10,7 +10,7 @@ Name:           jeromq
 Version:        0.3.6
 Release:        alt2_3jpp8
 Summary:        Pure Java implementation of libzmq
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://github.com/zeromq/jeromq
 BuildArch:      noarch
 

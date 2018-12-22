@@ -24,7 +24,7 @@ Group: Development/Tools
 # Public Domain libjava/classpath/external/sax/org/xml/sax/ext/EntityResolver2.java
 #               libjava/classpath/external/sax/org/xml/sax/ext/DeclHandler.java
 # BSL zlib/contrib/dotzlib/DotZLib/GZipStream.cs
-License: GPLv2+ and GPLv3+ and LGPLv2+ and BSD
+License: GPL-2.0-or-later and GPL-3.0-or-later and LGPLv2+ and BSD
 Url: http://www.codesourcery.com/sgpp/lite/%processor_arch
 
 Packager: Anton Midyukov <antohami@altlinux.org>

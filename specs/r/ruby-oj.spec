@@ -5,7 +5,7 @@ Version: 3.7.0
 Release: alt1
  
 Summary: A fast JSON parser and Object marshaller as a Ruby gem
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://www.ohler.com/oj/
  

@@ -6,7 +6,7 @@ Name:           perl-Test-Pod-LinkCheck
 Version:        0.008
 Release:        alt1_1
 Summary:        Tests POD for invalid links
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/Test-Pod-LinkCheck/
 Source0:        http://www.cpan.org/authors/id/A/AP/APOCAL/Test-Pod-LinkCheck-%{version}.tar.gz

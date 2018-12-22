@@ -16,7 +16,7 @@ Release: alt1.1
 
 Summary: %m_name - help when paging through sets of results
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Data-Page/
 

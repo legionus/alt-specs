@@ -9,7 +9,7 @@ Release: alt4
 
 Summary: Type1 fonts required by the X Window System
 Group: System/Fonts/Type1
-License: MIT/X11
+License: (MIT or X11)
 
 Url: http://xorg.freedesktop.org
 

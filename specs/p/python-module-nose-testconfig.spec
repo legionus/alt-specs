@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.10
 Release: alt1.1
 Summary: Test Configuration plugin for nosetests
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/nose-testconfig/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -8,7 +8,7 @@ Name:          fonts-ttf-labiryntowy
 Version:       1.53
 Release:       alt1_6
 Summary:       Artificial font consisting of vertical and horizontal bars
-License:       OFL
+License:       OFL-1.0
 URL:           http://alfabet-ozdobny.appspot.com/?str=labiryntowy
 Source0:       https://alfabet-ozdobny.appspot.com/images/Labiryntowy_pl.tgz
 

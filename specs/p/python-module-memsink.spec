@@ -3,7 +3,7 @@ Name: python-module-%oname
 Version: 0.0.1
 Release: alt1.git20131003.1
 Summary: Experimental copy-on-invalidate memory protocol
-License: ASLv2
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/memsink/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -6,7 +6,7 @@ Summary: Less.js The dynamic stylesheet language
 
 # cssmin.js is licensed under BSD license
 # everything else is ASL 2.0
-License: ASL 2.0 and BSD
+License: Apache-2.0 and BSD
 
 Group: Development/Tools
 Url: http://lesscss.org

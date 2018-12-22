@@ -5,7 +5,7 @@ Version: 0.6
 Release: alt3
 
 Summary: Apache 2.0 module which adds Zeroconf support via DNS-SD using Avahi.
-License: Apache 2.0
+License: Apache-2.0
 Group: System/Servers
 Url: http://0pointer.de/lennart/projects/mod_dnssd
 

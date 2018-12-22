@@ -3,7 +3,7 @@ Version: 0.25
 Release: alt4.1.1.1.1
 
 Summary: Make perl scripts persistent in memory
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/PPerl/

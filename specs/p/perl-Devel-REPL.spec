@@ -10,7 +10,7 @@ Name:           perl-Devel-REPL
 Version:        1.003028
 Release:        alt2_8
 Summary:        Modern perl interactive shell
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Devel-REPL
 Source0:        https://cpan.metacpan.org/authors/id/E/ET/ETHER/Devel-REPL-%{version}.tar.gz
 BuildArch:      noarch

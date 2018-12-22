@@ -5,7 +5,7 @@ Version: 1.10
 Release: alt1
 
 Summary: Track the number of times subs are called
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

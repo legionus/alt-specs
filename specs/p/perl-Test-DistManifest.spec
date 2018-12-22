@@ -6,7 +6,7 @@ Name:           perl-Test-DistManifest
 Version:        1.014
 Release:        alt1
 Summary:        Author test that validates a package MANIFEST
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/Test-DistManifest/
 Source:        http://www.cpan.org/authors/id/E/ET/ETHER/Test-DistManifest-%{version}.tar.gz

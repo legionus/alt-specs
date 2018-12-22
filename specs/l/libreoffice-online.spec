@@ -9,7 +9,7 @@ Release: alt2%ubt
 
 Summary: LibreOffice Online WebSocket Daemon
 
-License: MPLv2
+License: MPL-2.0
 Group: Office
 Url: https://gerrit.libreoffice.org/p/online.git
 

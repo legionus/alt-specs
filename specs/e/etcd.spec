@@ -19,7 +19,7 @@ Summary: A highly-available key value store for shared configuration
 Group:   System/Servers
 
 URL:     https://coreos.com/etcd/docs/latest/
-License: ASL 2.0
+License: Apache-2.0
 
 Packager: Alexey Gladkov <legion@altlinux.ru>
 

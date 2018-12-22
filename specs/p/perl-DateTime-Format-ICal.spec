@@ -9,7 +9,7 @@ Name:           perl-DateTime-Format-ICal
 Version:        0.09
 Release:        alt2_27
 Summary:        Parse and format iCal datetime and duration strings
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/DateTime-Format-ICal
 Source0:        https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/DateTime-Format-ICal-%{version}.tar.gz
 BuildArch:      noarch

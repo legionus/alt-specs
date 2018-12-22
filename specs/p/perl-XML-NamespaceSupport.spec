@@ -5,7 +5,7 @@ Version: 1.12
 Release: alt1
 
 Summary: A simple generic namespace support class
-License: GPL Artistic
+License: GPL-1.0-only Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

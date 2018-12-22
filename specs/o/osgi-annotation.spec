@@ -12,7 +12,7 @@ Version: 6.0.0
 Release: alt1_7jpp8
 Summary: Annotations for use in compiling OSGi bundles
 
-License: ASL 2.0
+License: Apache-2.0
 URL:     http://www.osgi.org/
 # Upstream project is behind an account registration system with no anonymous
 # read access, so we download the source from maven central instead

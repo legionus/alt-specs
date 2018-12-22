@@ -5,7 +5,7 @@ Release: alt1.2
 Summary: secure ACME client
 
 Group: Networking/Other
-License: ISC License
+License: ISC
 Url: https://kristaps.bsd.lv/acme-client/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

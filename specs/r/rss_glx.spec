@@ -8,7 +8,7 @@ Version: 0.9.1
 Release: alt8
 
 Summary: Really Slick Screensavers
-License: GNU GPL
+License: GPL-1.0-only
 Group: Graphical desktop/Other
 
 Url: http://rss-glx.sourceforge.net

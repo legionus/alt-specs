@@ -19,7 +19,7 @@ Summary:       Java OpenSAML library
 # ./opensaml-saml-impl/src/test/resources/data/org/opensaml/saml/metadata/resolver/filter/impl/script.js
 # ./opensaml-xmlsec-impl/src/test/java/org/opensaml/xmlsec/impl/BasicWhitelistBlacklistConfigurationTest.java
 # Not available LICENSE file in source directory structure. Sent a mail @ users@shibboleth.net
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://shibboleth.net/products/opensaml-java.html
 # svn export https://svn.shibboleth.net/java-opensaml/tags/3.1.1 opensaml-java-3.1.1
 # find ./opensaml-java-3.1.1 -name "*.class" -print -delete

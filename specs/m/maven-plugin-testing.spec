@@ -10,7 +10,7 @@ Name:           maven-plugin-testing
 Version:        3.3.0
 Release:        alt1_12jpp8
 Summary:        Maven Plugin Testing
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugin-testing/
 BuildArch:      noarch
 

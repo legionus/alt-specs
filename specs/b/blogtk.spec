@@ -8,7 +8,7 @@ Packager: Vitaly Lipatov <lav@altlinux.ru>
 Source: http://launchpad.net/blogtk/2.0/2.0/+download/%name-%version.tar
 
 Url: http://blogtk.jayreding.com
-License: Apache License
+License: Apache
 Group: Networking/Other
 
 BuildArch: noarch

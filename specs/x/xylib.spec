@@ -2,7 +2,7 @@ Name: xylib
 Version: 1.3
 Release: alt2
 Summary: Library for reading x-y data
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: File tools
 Url: http://xylib.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

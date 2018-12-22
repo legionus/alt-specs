@@ -4,7 +4,7 @@ Version: 0.07
 Release: alt2
 
 Summary: Syndication feed auto-discovery
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

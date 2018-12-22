@@ -2,7 +2,7 @@ Name: libXi
 Version: 1.7.9
 Release: alt1%ubt
 Summary: X Input Extension Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

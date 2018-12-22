@@ -9,7 +9,7 @@ Epoch: 1
 Group: Graphical desktop/KDE
 Summary: KDE Crash Handler
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 

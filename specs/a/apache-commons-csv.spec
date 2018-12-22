@@ -10,7 +10,7 @@ Name:           apache-commons-csv
 Version:        1.5
 Release:        alt1_2jpp8
 Summary:        Utilities to assist with handling of CSV files
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://commons.apache.org/proper/commons-csv/
 BuildArch:      noarch
 

@@ -22,7 +22,7 @@ Version:        5.1.6.6
 Release:        alt2_11%{?gitrev}.qa1
 Summary:        PrimeSensor/Kinect Modules for OpenNI
 Group:          System/Libraries
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/PrimeSense/Sensor
 
 Source0:        https://github.com/PrimeSense/Sensor/archive/%{commit}/Sensor-%{commit}.tar.gz

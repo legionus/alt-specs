@@ -16,7 +16,7 @@ Name: ejabberd
 Version: 18.03
 Release: alt3%ubt
 Summary: Fault-tolerant distributed Jabber server written in Erlang
-License: GPL2
+License: GPL-2.0-only
 Group: System/Servers
 BuildArch: noarch
 Url: http://www.process-one.net/en/ejabberd/

@@ -7,7 +7,7 @@ Release: alt1.%php5_version.%php5_release
 
 Summary: PHP module for authentication via GSSAPI
 
-License: New BSD License
+License: BSD-3-Clause
 Group: Development/Other
 Url: http://pecl.php.net/package/%pecl_name
 

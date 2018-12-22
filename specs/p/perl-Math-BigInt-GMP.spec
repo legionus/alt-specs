@@ -5,7 +5,7 @@ Version: 1.6006
 Release: alt1
 
 Summary: Use the GMP library for Math::BigInt routines
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

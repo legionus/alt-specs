@@ -5,7 +5,7 @@ Version: 2.216
 Release: alt1
 
 Summary: Simple parsing of RFC2822 message format and headers
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

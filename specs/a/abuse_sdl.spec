@@ -28,7 +28,7 @@ and it has stereo sound with sound panning.
 %package fRaBs
 Summary: Free leves set for Abuse
 BuildArch: noarch
-License: public domain
+License: ALT-Public-Domain
 Group: Games/Arcade
 %description fRaBs
 fRaBs is just a silly acronym for 'Free Abuse'. It has the network support of the registered version, but also comes equipped with many new single player and deathmatch levels, as well as additional enemies and artwork, all coming from outside, free sources. A list of updates and modifications can be found in the updates section.

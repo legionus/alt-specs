@@ -6,7 +6,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: utils for managing Distrodb databases
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: %name-%version.tar
 Url: http://www.altlinux.org/Packaging_Automation/DistroMap
 

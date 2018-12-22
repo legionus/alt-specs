@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Generates HTML menus from multidimensional hashes
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Menu
 

@@ -9,7 +9,7 @@ Name: %bname-utils
 Version: %ver.%rel
 Release: alt0.3
 Summary: Utilities for LTSP server
-License: GPL2
+License: GPL-2.0-only
 Group: Networking/Other
 URL: http://www.%bname.org
 Source: ftp://%bname.mirrors.tds.net/pub/%bname/tarballs/%name-%ver-%rel.tar.bz2

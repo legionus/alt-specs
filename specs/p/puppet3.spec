@@ -6,7 +6,7 @@ Release: alt3.2.qa1
 
 Summary: A network tool for managing many disparate systems
 Group:   System/Servers
-License: ASL 2.0
+License: Apache-2.0
 URL:     https://puppetlabs.com/
 
 BuildArch: noarch

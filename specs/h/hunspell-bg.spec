@@ -10,7 +10,7 @@ Version: 4.3
 Release: alt2_14
 Source: http://downloads.sourceforge.net/bgoffice/OOo-spell-bg-%{version}.zip
 URL: http://bgoffice.sourceforge.net/
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

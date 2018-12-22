@@ -3,7 +3,7 @@ Version: 2.3.17
 Release: alt1
 
 Summary: The basic directory layout for a GNU/Linux system
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 
 Source0: %name-dir.list

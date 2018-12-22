@@ -5,7 +5,7 @@ Version: 1.06a
 Release: alt4
 
 Summary: find regexp delimited strings with proper nesting
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

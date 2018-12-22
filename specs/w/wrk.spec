@@ -6,7 +6,7 @@ Url: 		https://github.com/wg/wrk
 Source: 	%name-%version.tar
 Patch0:		wrk-3.1.1-alt1-install-fix.patch
 Packager: 	Valentin Rosavitskiy <valintinr@altlinux.org>
-License: 	Apache License
+License: 	Apache
 Group: 		Networking/WWW
 ExclusiveArch: %ix86 x86_64
 

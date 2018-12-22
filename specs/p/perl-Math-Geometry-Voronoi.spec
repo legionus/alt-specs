@@ -8,7 +8,7 @@ Name:           perl-Math-Geometry-Voronoi
 Version:        1.3
 Release:        alt3_23
 Summary:        Compute Voronoi diagrams from sets of points
-License:        (GPL+ or Artistic) and MIT
+License:        (GPL-1.0-or-later or Artistic) and MIT
 # Perl module is licensed as Perl, underlaying C code is MIT
 Group:          Development/Other
 URL:            https://metacpan.org/release/Math-Geometry-Voronoi

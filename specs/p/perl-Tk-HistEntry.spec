@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Entry widget with history capability
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 
 URL: %CPAN %dist
 Source0: http://www.cpan.org/authors/id/S/SR/SREZIC/%{dist}-%{version}.tar.gz

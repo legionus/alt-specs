@@ -4,7 +4,7 @@ Version: 0.12
 Release: alt2.1.1
 
 Summary: A bare-bones but effective HTML parser
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

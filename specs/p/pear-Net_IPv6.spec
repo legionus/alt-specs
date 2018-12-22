@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Check and validate IPv6 addresses
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_IPv6
 

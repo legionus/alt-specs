@@ -15,7 +15,7 @@ Version:        2.1.1
 Release:        alt3_13
 Summary:        The Nuosu SIL Font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://scripts.sil.org/SILYi_home
 Source0:        %{archivename}
 Source1:        %{oldname}-fontconfig.conf

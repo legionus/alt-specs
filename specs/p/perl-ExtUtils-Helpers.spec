@@ -11,7 +11,7 @@ Version:	0.026
 Release:	alt1
 Summary:	Various portability utilities for module builders
 Group:		Development/Perl
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/ExtUtils-Helpers
 Source:	http://www.cpan.org/authors/id/L/LE/LEONT/ExtUtils-Helpers-%{version}.tar.gz
 Patch3:		ExtUtils-Helpers-0.021-old-Test::More.patch

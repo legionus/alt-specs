@@ -8,7 +8,7 @@ Name:           perl-DBIx-Class-IntrospectableM2M
 Version:        0.001002
 Release:        alt1_10
 Summary:        Introspect many-to-many shortcuts
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DBIx-Class-IntrospectableM2M
 Source0:        https://cpan.metacpan.org/authors/id/I/IL/ILMARI/DBIx-Class-IntrospectableM2M-%{version}.tar.gz

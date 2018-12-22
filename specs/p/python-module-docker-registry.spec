@@ -5,7 +5,7 @@ Release: alt1
 Summary: Registry server for Docker (hosting/delivering of repositories and images)
 
 Group: Development/Python
-License: and ASL 2.0
+License: Apache-2.0
 Url: https://github.com/dotcloud/docker-registry
 BuildArch: noarch
 Source: %name-%version.tar

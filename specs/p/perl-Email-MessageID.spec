@@ -5,7 +5,7 @@ Version: 1.406
 Release: alt1
 
 Summary: Generate world unique message-ids
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

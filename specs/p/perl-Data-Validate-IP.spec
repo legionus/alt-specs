@@ -4,7 +4,7 @@ Version: 0.27
 Release: alt1
 Summary: Perl IP address validation routines
 Group: Development/Perl
-License: Perl (GPL or Artistic)
+License: Perl (GPL-1.0-only or Artistic)
 URL: http://search.cpan.org/dist/%bname
 Source: http://search.cpan.org/CPAN/authors/id/D/DR/DROLSKY/%bname-%version.tar
 BuildArch: noarch

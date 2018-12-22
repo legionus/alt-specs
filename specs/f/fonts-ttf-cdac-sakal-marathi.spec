@@ -10,7 +10,7 @@ Version:     9.21
 Release:     alt1_8
 Summary:     Marathi language font from CDAC
 
-License:     OFL
+License:     OFL-1.0
 URL:         http://sakalmarathi.cdac.in/
 Source0:     http://sakalmarathi.cdac.in/fr/svnapi/svndata/download/binary/Sakal_Marathi_N_Ship.TTF
 #http://sakalmarathi.cdac.in/fr/licences.php

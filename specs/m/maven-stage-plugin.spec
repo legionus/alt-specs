@@ -11,7 +11,7 @@ Version:        1.0
 Release:        alt3_6jpp8
 Summary:        Plugin to copy artifacts from one repository to another
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-stage-plugin/
 Source0:        http://archive.apache.org/dist/maven/plugins/%{name}-%{version}-source-release.zip
 

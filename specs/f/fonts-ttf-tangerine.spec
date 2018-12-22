@@ -10,7 +10,7 @@ Version:        1.3
 Release:        alt1_9
 Summary:        Tangerine is a calligraphy font inspired by many italic chancery hands 
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://fonts.google.com/specimen/Tangerine
 Source0:        https://github.com/google/fonts/raw/master/ofl/tangerine/Tangerine_Regular.ttf
 Source1:        https://github.com/google/fonts/raw/master/ofl/tangerine/Tangerine_Bold.ttf

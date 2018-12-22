@@ -4,7 +4,7 @@ Version: 1.0
 Release: alt3.1.1.1.1
 
 Summary: Cyclic redundency check generation
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Perl
 
 URL: %CPAN %dist

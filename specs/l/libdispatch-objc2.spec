@@ -4,7 +4,7 @@ Name: libdispatch-objc2
 Version: 1.2
 Release: alt4.git20140226
 Summary: Linux port of Apple's open-source concurrency library
-License: Apache License v2
+License: Apache-2.0
 Group: System/Libraries
 Url: http://etoileos.com/
 

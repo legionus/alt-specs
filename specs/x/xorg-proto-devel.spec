@@ -2,7 +2,7 @@ Name: xorg-proto-devel
 Version: 2018.4
 Release: alt3
 Summary: X.Org combined protocol headers
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

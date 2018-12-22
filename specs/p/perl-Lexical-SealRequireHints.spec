@@ -8,7 +8,7 @@ Name:           perl-Lexical-SealRequireHints
 Version:        0.011
 Release:        alt1_7
 Summary:        Prevent leakage of lexical hints
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Lexical-SealRequireHints
 Source0:        https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Lexical-SealRequireHints-%{version}.tar.gz

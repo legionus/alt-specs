@@ -5,7 +5,7 @@ Version: 0.6.6
 Release: alt1
 
 Summary: A generic dependency resolution algorithm.
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/CocoaPods/Molinillo
 

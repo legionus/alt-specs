@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.10.0
 Release: alt1
 Summary: Better dates & times for Python
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/arrow/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

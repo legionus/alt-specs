@@ -16,7 +16,7 @@ Release:	alt1
 Summary:	LXD -- REST API, command line tool and OpenStack integration plugin for LXC.
 
 Group:		Development/Other
-License:	Apache v.2
+License:	Apache-2.0
 URL:		https://%import_path
 
 Packager:	Denis Pynkin <dans@altlinux.ru>

@@ -5,7 +5,7 @@ Version: 2.0132
 Release: alt1
 
 Summary: Perl binding for libxml2
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -6,7 +6,7 @@ Version: 3.4.0
 Release: alt4
 
 Summary: VMware Horizon Client pre-installation scripts
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://altlinux.org/vmware-view

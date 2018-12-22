@@ -16,7 +16,7 @@ Name:          springframework-data-commons
 Version:       1.8.4
 Release:       alt1_10jpp8
 Summary:       Interfaces between relational and non-relational data stores
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://projects.spring.io/spring-data/
 # Newer release require springframework >= 4.0.7.RELEASE
 Source0:       https://github.com/spring-projects/spring-data-commons/archive/%{namedversion}.tar.gz

@@ -4,7 +4,7 @@ Version:        0.2.8
 Release:        alt2
 URL:            http://users.softlab.ece.ntua.gr/~thkala/projects/actkbd/
 Packager: 	Valentin Rosavitskiy <valintinr@altlinux.org>
-License:	GPL v2+
+License:	GPL-2.0-or-later
 Group:		System/Configuration/Other
 
 Source:		%name-%version.tar

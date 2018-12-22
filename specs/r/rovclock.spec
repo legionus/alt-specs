@@ -3,7 +3,7 @@ Version: 0.6e
 Release: alt1.qa1
 
 Summary: Radeon overclocking utility
-License: GPL v2
+License: GPL-2.0-only
 Group: System/Configuration/Hardware
 
 Url: http://www.hasw.net/linux/

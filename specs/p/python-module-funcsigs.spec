@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.0.2
 Release: alt1.1
 Summary: Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/funcsigs/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

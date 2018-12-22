@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: copy over apt's cache
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://www.altlinux.org/Alterator

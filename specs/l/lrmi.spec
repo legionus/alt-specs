@@ -6,7 +6,7 @@ Version: 0.10
 Release: alt4
 
 Summary: Linux Real Mode Interface
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Libraries
 
 Url: http://sourceforge.net/projects/lrmi

@@ -7,7 +7,7 @@ Version: 1.93
 Release: alt1
 
 Summary: A persistence framework for session data
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

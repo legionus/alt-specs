@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: An extremely powerful Tokenizer driven Template engine
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Template_Flexy
 

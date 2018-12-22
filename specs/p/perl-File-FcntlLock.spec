@@ -5,7 +5,7 @@ Version: 0.22
 Release: alt1.1.1.1.1
 
 Summary: File locking with fcntl(2)
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

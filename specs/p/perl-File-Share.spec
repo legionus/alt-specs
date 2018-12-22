@@ -10,7 +10,7 @@ Version:    %{upstream_version}
 Release:    alt3_5
 
 Summary:    Extend File::ShareDir to Local Libraries
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/File/%{upstream_name}-%{upstream_version}.tar.gz

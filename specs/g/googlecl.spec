@@ -4,7 +4,7 @@ Release: alt1.1.qa1
 Summary: GoogleCL brings Google services to the command line
 
 Group: Development/Python
-License: Apache License 2.0
+License: Apache-2.0
 Url: http://code.google.com/p/googlecl/
 Packager: Vitaly Kuznetsov <vitty@altlinux.ru>
 

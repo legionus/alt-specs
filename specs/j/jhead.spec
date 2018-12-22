@@ -3,7 +3,7 @@ Version: 3.00
 Release: alt2
 
 Summary: Tool for handling EXIF data in JPEG image files
-License: Public Domain
+License: ALT-Public-Domain
 Group: Graphics
 
 URL: http://www.sentex.net/~mwandel/jhead

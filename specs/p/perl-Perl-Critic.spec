@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Critique Perl source code for best-practices.  
 
-License: Perl (Artistic and GPL)
+License: Perl (Artistic and GPL-1.0-only)
 Group: Development/Perl
 Url: %CPAN %m_distro
 

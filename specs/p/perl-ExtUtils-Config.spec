@@ -9,7 +9,7 @@ Name:		perl-ExtUtils-Config
 Version:	0.008
 Release:	alt1_13
 Summary:	A wrapper for perl's configuration
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/ExtUtils-Config
 Source0:	http://cpan.metacpan.org/authors/id/L/LE/LEONT/ExtUtils-Config-%{version}.tar.gz
 BuildArch:	noarch

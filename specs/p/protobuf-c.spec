@@ -6,7 +6,7 @@ Release: alt1
 Summary: Google's Protocol Buffers implementation in C
 
 Group: System/Libraries
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/protobuf-c/protobuf-c
 
 Source: %name-%version.tar

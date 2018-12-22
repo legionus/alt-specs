@@ -18,7 +18,7 @@ Release: alt3_23
 Summary: Schoolchildren cursive fonts
 
 Group:     System/Fonts/True type
-License:   OFL
+License:   OFL-1.0
 URL:       http://perso.orange.fr/jm.douteau/page_ecolier.htm
 # The author links to third-party licence documents not included there
 Source0:   http://perso.orange.fr/jm.douteau/polices/ecl_cour.ttf

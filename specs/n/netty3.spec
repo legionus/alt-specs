@@ -16,7 +16,7 @@ Version:        3.10.6
 Release:        alt1_4jpp8
 Summary:        An asynchronous event-driven network application framework and tools for Java
 # CC0: src/main/java/org/jboss/netty/handler/codec/base64/Base64.java
-License:        ASL 2.0 and BSD and CC0
+License:        Apache-2.0 and BSD and CC0
 URL:            http://netty.io/
 Source0:        https://github.com/netty/netty/archive/netty-%{namedversion}.tar.gz
 

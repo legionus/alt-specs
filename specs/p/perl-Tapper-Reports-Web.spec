@@ -19,7 +19,7 @@ Version:    5.0.13
 Release:    alt1
 
 Summary:    Tapper frontend web application based on Catalyst
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/T/TA/TAPPER/%{upstream_name}-%{version}.tar.gz

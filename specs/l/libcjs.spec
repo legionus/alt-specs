@@ -12,7 +12,7 @@ Group: System/Libraries
 # is triple licensed under MPL1.1/LGPLv2+/GPLv2+:
 # The console module (modules/console.c)
 # Stack printer (cjs/stack.c)
-License: MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
+License: MIT and (MPL-1.1 or GPL-2.0-or-later or LGPLv2+)
 Url: https://github.com/linuxmint/cjs
 
 Source: %_name-%version.tar

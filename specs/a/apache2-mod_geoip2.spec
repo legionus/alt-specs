@@ -3,7 +3,7 @@ Version: 1.2.10
 Release: alt1
 
 Summary: Apache2 module for finding the country and city that a web request originated from
-License: Apache Software License v1.1
+License: Apache-1.1
 Group: System/Servers
 
 # NB: do not put trailing slash in URL or you will end up at maxmind homepage! :)

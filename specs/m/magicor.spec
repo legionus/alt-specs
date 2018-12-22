@@ -3,7 +3,7 @@ Version: 1.1
 Release: alt1.1
 Summary: Push ice blocks around to extenguish all fires
 Group: Games/Puzzles
-License: Public Domain
+License: ALT-Public-Domain
 Url: http://magicor.sourceforge.net/
 Source0: http://downloads.sourceforge.net/%name/%name-source-%version.tar.gz
 Source1: http://downloads.sourceforge.net/%name/%name-data-%version.tar.gz

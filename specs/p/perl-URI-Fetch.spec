@@ -5,7 +5,7 @@ Version: 0.13
 Release: alt1
 
 Summary: Smart URI fetching/caching
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

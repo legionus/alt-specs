@@ -23,7 +23,7 @@ Version: 4.1
 Release: alt3_16
 Summary: Fonts for the GeE.ez (Ethiopic) script
 
-License: OFL
+License: OFL-1.0
 URL:     http://www.senamirmir.org/projects/typography/typeface.html
 Source0: http://www.senamirmir.org/downloads/%{archivename}.zip
 # Problems reported upstream

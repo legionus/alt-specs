@@ -8,7 +8,7 @@ Name:           perl-Term-Size-Any
 Version:        0.002
 Release:        alt2_24
 Summary:        Retrieve terminal size
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Term-Size-Any
 Source0:        https://cpan.metacpan.org/authors/id/F/FE/FERREIRA/Term-Size-Any-%{version}.tar.gz

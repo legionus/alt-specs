@@ -14,7 +14,7 @@ Release: alt1_16jpp8
 Summary: Resolver subproject of xml-commons patched for NetBeans
 
 Group:   Development/Other
-License: ASL 1.1
+License: Apache-1.1
 URL:     http://xml.apache.org/commons/
 
 Source0: http://archive.apache.org/dist/xml/commons/%{patched_resolver}.tar.gz

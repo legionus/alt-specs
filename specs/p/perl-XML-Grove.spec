@@ -4,7 +4,7 @@ Version: 0.46alpha
 Release: alt1
 
 Summary: Simple access to infoset of parsed XML, HTML, or SGML instances
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

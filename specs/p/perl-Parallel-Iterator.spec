@@ -4,7 +4,7 @@ Version: 1.00
 Release: alt1
 
 Summary: Simple parallel execution
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

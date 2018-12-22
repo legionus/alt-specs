@@ -5,7 +5,7 @@ Version: 3.72
 Release: alt1.1.1
 
 Summary: Parsing and extracting information from HTML documents
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

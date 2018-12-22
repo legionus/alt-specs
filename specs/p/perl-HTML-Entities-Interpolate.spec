@@ -9,7 +9,7 @@ Name:           perl-HTML-Entities-Interpolate
 Version:        1.10
 Release:        alt1_6
 Summary:        Call HTML::Entities::encode_entities via a hash within a string
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/HTML-Entities-Interpolate
 Source0:        https://cpan.metacpan.org/authors/id/R/RS/RSAVAGE/HTML-Entities-Interpolate-%{version}.tgz
 BuildArch:      noarch

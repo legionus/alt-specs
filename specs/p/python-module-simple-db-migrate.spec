@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 2.2.0
 Release: alt2.git20150114.1
 Summary: Database versioning and migration tool inspired on Rails Migrations
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/simple-db-migrate/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

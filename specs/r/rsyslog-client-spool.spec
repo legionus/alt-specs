@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: provide rsyslog configuration for spooling
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://www.rsyslog.com/doc/rsyslog_reliable_forwarding.html

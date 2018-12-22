@@ -20,7 +20,7 @@ Version:    %{upstream_version}
 Release:    alt1_1
 
 Summary:    Tapper - Backend functions for CLI and Web
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://metacpan.org/release/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Tapper/%{upstream_name}-%{upstream_version}.tar.gz

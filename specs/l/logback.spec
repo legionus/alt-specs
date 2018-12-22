@@ -11,7 +11,7 @@ Name:           logback
 Version:        1.1.7
 Release:        alt1_4jpp8
 Summary:        A Java logging library
-License:        LGPLv2 or EPL
+License:        LGPLv2 or EPL-1.0
 URL:            http://logback.qos.ch/
 Source0:        http://logback.qos.ch/dist/%{name}-%{version}.tar.gz
 

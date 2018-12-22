@@ -6,7 +6,7 @@ Summary: Quotations from the book by Archimandrite Sophrony (Sakharov)
 Summary(ru_RU.KOI8-R): Цитаты из книг Архимандрита Софрония (Сахарова)
 
 Group: Games/Other
-License: Public domain
+License: ALT-Public-Domain
 Url: http://sophrony.narod.ru/videt01.htm
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

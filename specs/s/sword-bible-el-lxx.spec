@@ -5,7 +5,7 @@ Release: alt1
 Summary: Septuagint, Morphologically Tagged Rahlfs' for SWORD
 Summary(ru_RU.UTF-8): Septuagint, Morphologically Tagged Rahlfs' для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

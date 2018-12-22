@@ -5,7 +5,7 @@ Version: 1.25
 Release: alt1.1
 
 Summary: Unicode Collation Algorithm
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

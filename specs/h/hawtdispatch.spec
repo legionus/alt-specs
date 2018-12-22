@@ -10,7 +10,7 @@ Name:          hawtdispatch
 Version:       1.22
 Release:       alt1_5jpp8
 Summary:       The libdispatch style API for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://hawtdispatch.fusesource.org/
 Source0:       https://github.com/fusesource/hawtdispatch/archive/%{name}-project-%{version}.tar.gz
 

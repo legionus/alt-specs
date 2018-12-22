@@ -11,7 +11,7 @@ Name:          fonts-ttf-labelleaurore
 Version:       1.001
 Release:       alt1_0.6.%{alphatag}
 Summary:       La Belle Aurore font by Kimberly Geswein
-License:       OFL
+License:       OFL-1.0
 URL:           http://www.google.com/fonts/specimen/La+Belle+Aurore
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/labelleaurore/LaBelleAurore.ttf
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/labelleaurore/OFL.txt

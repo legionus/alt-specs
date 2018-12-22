@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 3.6.1
 Release: alt3.1
 Summary: html5shiv (XStatic packaging standard)
-License: MIT & GPLv2
+License: MIT and GPL-2.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

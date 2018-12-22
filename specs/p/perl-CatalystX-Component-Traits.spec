@@ -4,7 +4,7 @@ Version: 0.19
 Release: alt1
 
 Summary: Automatic Trait Loading and Resolution for Catalyst Components
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -5,7 +5,7 @@ Version: 0.9.0
 Release: alt1%ubt
 Summary: A set of Protocol Buffers tools and modules for Erlang applications
 Group: Development/Erlang
-License: Apache 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/basho/erlang_protobuffs
 

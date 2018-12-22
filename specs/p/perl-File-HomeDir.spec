@@ -5,7 +5,7 @@ Version: 1.004
 Release: alt1
 
 Summary: Get the home directory for yourself or other users
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

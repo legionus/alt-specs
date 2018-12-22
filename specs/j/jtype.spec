@@ -10,7 +10,7 @@ Name:           jtype
 Version:        0.1.2
 Release:        alt2_15jpp8
 Summary:        A small library for working with the Java 5 type system
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/markhobson/jtype
 Source0:        https://github.com/markhobson/jtype/archive/%{version}.tar.gz
 # Add missing method getAnnotatedBounds()

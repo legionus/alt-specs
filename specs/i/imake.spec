@@ -3,7 +3,7 @@ Version: 1.0.7
 Release: alt3
 
 Summary: C preprocessor interface to the make utility
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 
 Url: http://xorg.freedesktop.org

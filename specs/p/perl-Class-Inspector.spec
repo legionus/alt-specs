@@ -5,7 +5,7 @@ Version: 1.32
 Release: alt1
 
 Summary: Get information about a class and its structure
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -2,7 +2,7 @@ Name: xorg-sgml-doctools
 Version: 1.10
 Release: alt1
 Summary: Xorg sgml doc tools
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: GOST CA intermediate certificates
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 Url: https://e-trust.gosuslugi.ru
 

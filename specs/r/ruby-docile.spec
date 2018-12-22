@@ -5,7 +5,7 @@ Version: 1.3.1
 Release: alt1.1
  
 Summary: Docile keeps your Ruby DSLs tame and well-behaved
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://ms-ati.github.io/docile/
  

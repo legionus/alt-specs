@@ -47,7 +47,7 @@ Name:           rhino
 Version:        1.7.7.1
 Release:        alt1_4jpp8
 Summary:        JavaScript for Java
-License:        MPLv2.0
+License:        MPL-2.0
 
 Source0:        https://github.com/mozilla/rhino/archive/Rhino%{scm_version}_RELEASE.tar.gz
 Source1:        http://repo1.maven.org/maven2/org/mozilla/rhino/%{version}/rhino-%{version}.pom

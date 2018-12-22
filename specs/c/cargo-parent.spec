@@ -10,7 +10,7 @@ Name:           cargo-parent
 Version:        4.13
 Release:        alt1_11jpp8
 Summary:        Parent pom file for cargo.codehaus.org project
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://cargo.codehaus.org/
 #svn export http://svn.codehaus.org/cargo/pom/tags/cargo-parent-4.13/
 Source0:        %{name}-%{version}.tar.gz

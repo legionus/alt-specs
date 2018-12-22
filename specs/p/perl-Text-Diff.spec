@@ -5,7 +5,7 @@ Version: 1.45
 Release: alt1
 
 Summary: Perform diffs on files and record sets
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

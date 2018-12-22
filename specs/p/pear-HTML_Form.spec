@@ -6,7 +6,7 @@ Release: alt4
 
 Summary: Simple HTML form package
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Form
 

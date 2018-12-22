@@ -5,7 +5,7 @@ Version: 2.004
 Release: alt3
 
 Summary: Class to talk to MPD (Music Player Daemon) servers
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

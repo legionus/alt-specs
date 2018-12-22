@@ -12,7 +12,7 @@ Name:          geronimo-jcdi-1.0-api
 Version:       1.0
 Release:       alt1_9jpp8
 Summary:       Apache Geronimo Java Contexts and Dependency Injection (JSR-299) Spec API
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://geronimo.apache.org/
 Source0:       http://repo2.maven.org/maven2/org/apache/geronimo/specs/%{spec_name}/%{version}/%{spec_name}-%{version}-source-release.tar.gz
 

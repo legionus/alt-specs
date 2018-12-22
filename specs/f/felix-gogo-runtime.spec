@@ -10,7 +10,7 @@ Name:           felix-gogo-runtime
 Version:        1.0.4
 Release:        alt1_3jpp8
 Summary:        Community OSGi R4 Service Platform Implementation - Basic Commands
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org/documentation/subprojects/apache-felix-gogo.html
 
 Source0:        https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.gogo.runtime/%{version}/org.apache.felix.gogo.runtime-%{version}-source-release.tar.gz

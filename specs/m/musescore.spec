@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: Music notation and composition software
 
-License: GPL2
+License: GPL-2.0-only
 Group: Sound
 Url: https://musescore.org
 

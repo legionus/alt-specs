@@ -5,7 +5,7 @@ Version: 0.2402
 Release: alt1
 
 Summary: Inter-Kernel Communication for POE
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

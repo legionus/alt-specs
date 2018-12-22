@@ -4,7 +4,7 @@ Version: 0.007
 Release: alt1
 
 Summary: Rewrite strings based on a set of known prefixes
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -24,7 +24,7 @@ Name:          felix-scr-generator
 Version:       1.18.0
 Release:       alt1_1jpp8
 Summary:       Descriptor Generator Implementation
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://felix.apache.org/documentation/subprojects/apache-felix-service-component-runtime.html
 Source0:       http://archive.apache.org/dist/felix/%{bundle}-%{version}-source-release.tar.gz
 

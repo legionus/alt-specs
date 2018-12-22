@@ -12,7 +12,7 @@ Release: alt4.1.1.1.1
 Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: a Perl interface to multiple tree data structures.
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Source: %module-%version.tar.gz
 

@@ -5,7 +5,7 @@ Version: 0.17
 Release: alt1
 
 Summary: PerlIO layer for normalizing line endings
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://www.cpan.org

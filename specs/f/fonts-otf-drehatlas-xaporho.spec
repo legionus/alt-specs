@@ -13,7 +13,7 @@ Version:	1.0.3.3
 Release:	alt3_15
 Summary:	A Latin typeface that is sharp and angular
 Group:		System/Fonts/True type
-License:	OFL
+License:	OFL-1.0
 URL:		http://sourceforge.net/projects/drehatlas-fonts/
 Source0:	http://downloads.sourceforge.net/project/drehatlas-fonts/Font-Packages/COMPLETE/drehatlas-fonts-%{metapkgver}.zip
 Source1:	%{fontconf}

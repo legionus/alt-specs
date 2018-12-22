@@ -8,7 +8,7 @@ Name:           perl-Data-Rmap
 Version:        0.65
 Release:        alt1_6
 Summary:        Recursive map, apply a block to a data structure
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Data-Rmap
 Source0:        https://cpan.metacpan.org/authors/id/B/BO/BOWMANBS/Data-Rmap-%{version}.tar.gz

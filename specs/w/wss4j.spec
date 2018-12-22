@@ -11,7 +11,7 @@ Name:          wss4j
 Version:       2.1.5
 Release:       alt1_5jpp8
 Summary:       Apache WS-Security implementation
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://ws.apache.org/wss4j/
 
 Source0:       http://archive.apache.org/dist/ws/wss4j/%{version}/%{name}-%{version}-source-release.zip

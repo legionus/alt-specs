@@ -11,7 +11,7 @@ Name:          maven-jaxb2-plugin
 Version:       0.13.0
 Release:       alt1_6jpp8
 Summary:       Provides the capability to generate java sources from schemas
-License:       BSD and ASL 2.0
+License:       BSD and Apache-2.0
 URL:           http://java.net/projects/maven-jaxb2-plugin/pages/Home
 Source0:       https://github.com/highsource/maven-jaxb2-plugin/archive/%{version}.tar.gz
 # Don't try to use an internal bundled resolver, as this is not available in

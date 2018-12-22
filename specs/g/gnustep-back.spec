@@ -6,7 +6,7 @@ Name: gnustep-back
 Version: 0.24.0
 Release: alt6.svn20140127.1
 Summary: The GNUstep back-end library
-License: LGPLv3+ and GPLv3+
+License: LGPLv3+ and GPL-3.0-or-later
 Group: Graphical desktop/GNUstep
 URL: http://www.gnustep.org
 # http://svn.gna.org/svn/gnustep/libs/back/trunk/

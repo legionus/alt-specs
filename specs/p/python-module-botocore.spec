@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.6.0
 Release: alt1.1
 Summary: The low-level, core functionality of boto 3
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/botocore/
 

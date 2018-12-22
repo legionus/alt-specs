@@ -8,7 +8,7 @@ Release: alt1.1
 
 Summary: YAJL C Bindings for Ruby
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/yajl-ruby/
 
 Source: %pkgname-%version.tar

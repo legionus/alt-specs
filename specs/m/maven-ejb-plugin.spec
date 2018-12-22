@@ -11,7 +11,7 @@ Version:        2.3
 Release:        alt2_14jpp8
 Summary:        Maven EJB Plugin
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-ejb-plugin/
 Source0:        http://repo2.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

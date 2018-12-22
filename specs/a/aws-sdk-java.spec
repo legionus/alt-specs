@@ -16,7 +16,7 @@ Summary:       AWS SDK for Java
 # This file aws-java-sdk-core/src/test/java/org/bitpedia/util/Base32.java is under Public Domain license
 # http://bitzi.com/publicdomain for more info.
 # brazil/src/appgroup/globalPaymentServices/tools/YaUtils/mainline/tst/org/bitpedia/util/Base32.java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://aws.amazon.com/sdk-for-java/
 Source0:       https://github.com/aws/aws-sdk-java/archive/%{githash}/%{name}-%{githash}.tar.gz
 

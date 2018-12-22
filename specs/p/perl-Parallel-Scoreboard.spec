@@ -8,7 +8,7 @@ Name:           perl-Parallel-Scoreboard
 Version:        0.08
 Release:        alt1_6
 Summary:        Scoreboard for monitoring status of many processes
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Parallel-Scoreboard
 Source0:        https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Parallel-Scoreboard-%{version}.tar.gz

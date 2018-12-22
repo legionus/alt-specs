@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 5.1.0
 Release: alt1
 Summary: Python client for Elasticsearch
-License: ASL
+License: Apache
 Group: Development/Python
 Url: https://github.com/elastic/elasticsearch-py
 

@@ -11,7 +11,7 @@ Version:       1.1.0
 Release:       alt2_5jpp8
 Summary:       Java Library that complement to the Bouncy Castle crypto API
 # See https://github.com/vt-middleware/cryptacular/issues/25
-License:       ASL 2.0 or LGPLv3
+License:       Apache-2.0 or LGPLv3
 URL:           http://www.cryptacular.org/
 Source0:       https://github.com/vt-middleware/cryptacular/archive/v%{version}.tar.gz
 

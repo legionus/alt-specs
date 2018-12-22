@@ -17,7 +17,7 @@ Name: kernel-modules-%module_name-%flavour
 %define ksname %module_name
 Version: %module_version
 Release: %module_release.%kcode.%kbuildrelease
-License: CDDL
+License: CDDL-1.0
 Group: System/Kernel and hardware
 
 Packager: Kernel Maintainer Team <kernel@packages.altlinux.org>

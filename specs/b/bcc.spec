@@ -12,7 +12,7 @@ Version:	0.5.0
 Release:	alt1.458
 Summary:	BPF Compiler Collection (BCC)
 Group:		Development/Debuggers
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://github.com/iovisor/bcc
 Source:		%name-%version.tar
 ExclusiveArch:	i586 x86_64

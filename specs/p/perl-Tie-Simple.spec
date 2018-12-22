@@ -5,7 +5,7 @@ Version: 1.04
 Release: alt1
 
 Summary: Variable ties made easier
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -4,7 +4,7 @@ Version: 0.16
 Release: alt1.1
 
 Summary: Write filesystems in Perl using FUSE
-License: GPLv2, LGPLv2.1
+License: GPL-2.0-only and LGPLv2.1
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/Fuse/

@@ -13,7 +13,7 @@ Release:        alt1_14.20130104cvsjpp8
 Summary:        Straightforward timetracking
 
 Group:          Development/Java
-License:        CDDL
+License:        CDDL-1.0
 URL:            http://rachota.sourceforge.net/en/index.html
 ## Upstream does not provide any source tarball.
 ## We have to check them out via cvs.

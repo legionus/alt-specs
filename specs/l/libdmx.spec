@@ -2,7 +2,7 @@ Name: libdmx
 Version: 1.1.3
 Release: alt1
 Summary: The dmx Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

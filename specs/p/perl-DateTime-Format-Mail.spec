@@ -6,7 +6,7 @@ Release: alt2
 Serial:  1
 
 Summary: Convert between DateTime and RFC2822/822 formats
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

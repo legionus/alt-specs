@@ -8,7 +8,7 @@ Release: alt3
 Summary: provides DTD based XML output
 Summary(ru_RU.UTF-8): вывод данных в формате XML соглано описанию DTD
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 %define real_name XML-AutoWriter

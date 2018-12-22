@@ -17,7 +17,7 @@ Summary: Documentation for %oname
 Group: Development/Documentation
 %endif
 
-License: zlib/libpng license
+License: Zlib or Libpng
 Url: http://pypi.python.org/pypi/pysqlite/
 Source: %name-%version.tar
 Patch: %name-%version-%release.patch

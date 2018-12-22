@@ -14,7 +14,7 @@ Version:	1.000
 Release:	alt1_5
 Summary:	Script retro style fonts
 
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.astigmatic.com/
 Source0:	https://www.fontsquirrel.com/fonts/download/grand-hotel/grand-hotel.zip
 Source1:	%{oldname}-fontconfig.conf

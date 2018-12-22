@@ -13,7 +13,7 @@ Version:	1.0.2.1
 Release:	alt3_12
 Summary:	A Latin typeface that is decorative, surreal, and hairy
 Group:		System/Fonts/True type
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.drehatlas.de/
 Source0:	http://downloads.sourceforge.net/project/drehatlas-fonts/Font-Packages/COMPLETE/drehatlas-fonts-%{metapkgver}.zip
 Source1:	%{fontconf}

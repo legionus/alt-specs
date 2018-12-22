@@ -12,7 +12,7 @@ Name:           %{short_name}-pom
 Version:        1.3.1
 Release:        alt1_10jpp8
 Summary:        Plexus Components POM
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/codehaus-plexus/plexus-components
 BuildArch:      noarch
 

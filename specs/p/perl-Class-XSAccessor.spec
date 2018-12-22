@@ -5,7 +5,7 @@ Version: 1.19
 Release: alt1.1.1.1.1
 
 Summary: Generate fast XS accessors without runtime compilation
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

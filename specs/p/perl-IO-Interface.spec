@@ -6,7 +6,7 @@ Version: 1.09
 Release: alt1.1.1.1
 
 Summary: extention for IO::Socket
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

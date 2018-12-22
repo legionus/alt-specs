@@ -16,7 +16,7 @@ Name:           apache-commons-exec
 Version:        1.3
 Release:        alt1_8jpp8
 Summary:        Java library to reliably execute external processes from within the JVM
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/exec/
 BuildArch:      noarch
 

@@ -12,7 +12,7 @@ Version:	0.983
 Release:	alt4_15
 Summary:	16x16 JIS X 0212:1990 Bitmap font
 Group:		System/Fonts/True type
-License:	Public Domain
+License:	ALT-Public-Domain
 
 URL:		http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/ftp/fonts/
 Source0:	http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/ftp/fonts/jisksp16-1990.bdf.Z

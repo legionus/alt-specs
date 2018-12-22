@@ -3,7 +3,7 @@ Version: 0.3
 Release: alt1
 
 Summary: disable initial setup tool (gnome-3.14+)
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://en.altlinux.org/regular

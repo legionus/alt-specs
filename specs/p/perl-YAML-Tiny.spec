@@ -6,7 +6,7 @@ Version: 1.73
 Release: alt1
 
 Summary: Read/Write YAML files with as little code as possible
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -5,7 +5,7 @@ Version: 0.07049
 Release: alt1
 
 Summary: Dynamic definition of a DBIx::Class::Schema
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

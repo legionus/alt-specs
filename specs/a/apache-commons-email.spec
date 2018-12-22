@@ -13,7 +13,7 @@ Name:             apache-%{short_name}
 Version:          1.5
 Release:          alt1_2jpp8
 Summary:          Apache Commons Email Package
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://commons.apache.org/proper/%{short_name}/
 BuildArch:        noarch
 

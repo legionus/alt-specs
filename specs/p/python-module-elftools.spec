@@ -9,7 +9,7 @@ Version: 0.22
 Release: alt1.git%commitdate.%shortcommit
 Summary: Pure-Python library for parsing and analyzing ELF files
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: https://github.com/eliben/%name
 

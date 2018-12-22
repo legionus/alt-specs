@@ -8,7 +8,7 @@ Name:           perl-App-Daemon
 Version:        0.22
 Release:        alt1_10
 Summary:        Start an Application as a Daemon
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/App-Daemon
 Source0:        https://cpan.metacpan.org/authors/id/M/MS/MSCHILLI/App-Daemon-%{version}.tar.gz

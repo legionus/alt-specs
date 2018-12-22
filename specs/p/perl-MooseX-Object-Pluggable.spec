@@ -9,7 +9,7 @@ Name:           perl-MooseX-Object-Pluggable
 Version:        0.0014
 Release:        alt2_10
 Summary:        Make your Moose classes pluggable
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/MooseX-Object-Pluggable
 Source0:        https://cpan.metacpan.org/authors/id/E/ET/ETHER/MooseX-Object-Pluggable-%{version}.tar.gz

@@ -5,7 +5,7 @@ Version: 1.000033
 Release: alt1
 
 Summary: Gather package and POD information from perl module files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

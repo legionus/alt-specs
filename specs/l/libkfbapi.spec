@@ -8,7 +8,7 @@ Release: alt2
 Group: System/Libraries
 Summary: A library for accessing Facebook services
 Url: https://projects.kde.org/projects/extragear/libs/%name
-License: LGPLv2 / LGPLv3
+License: LGPLv2 or LGPLv3
 
 #Requires: kde4pimlibs
 

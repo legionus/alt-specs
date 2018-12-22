@@ -5,7 +5,7 @@ Release:        alt3
 Summary:        Converts 16 bit Unicode text files into lookup tables
 
 Group:          Development/Java
-License:        Apache 2.0 and LGPL 2.1
+License:        Apache-2.0 and LGPL-2.1-only
 URL:            http://java.freehep.org/freehep-chartableconverter-plugin/
 Source0:        %name-%version.tar
 

@@ -15,7 +15,7 @@ Version: 20070413
 Release: alt3_24
 Summary: GFS Complutum Greek font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces16th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.2.0
 Release: alt1.1
 Summary: Common py.test support for Diffeo tests
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pytest-diffeo/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

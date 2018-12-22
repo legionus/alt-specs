@@ -13,7 +13,7 @@ Release:        alt1_15jpp8
 # Maven-shared defines maven-osgi version as 0.3.0
 Epoch:          1
 Summary:        Library for Maven-OSGi integration
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-osgi
 BuildArch:      noarch
 

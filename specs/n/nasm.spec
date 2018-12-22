@@ -3,7 +3,7 @@ Version: 2.14
 Release: alt1
 
 Summary: The Netwide Assembler, a portable x86 assembler with Intel-like syntax
-License: BSD 2-clause
+License: BSD-2-Clause
 Group: Development/Other
 Url: http://www.nasm.us/
 

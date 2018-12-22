@@ -9,7 +9,7 @@ Name:		perl-Env-Sanctify
 Summary:	Lexically scoped sanctification of %%ENV
 Version:	1.12
 Release:	alt1_12
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Other
 URL:		https://metacpan.org/release/Env-Sanctify
 Source0:	https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Env-Sanctify-%{version}.tar.gz

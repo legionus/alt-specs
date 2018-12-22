@@ -8,7 +8,7 @@ Name: golang-github-juju-webbrowser
 Version: 0
 Release: alt1.git%abbrev
 Summary: Go helpers for interacting with Web browsers.
-License: LGPL v.3
+License: LGPL-3.0-only
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

@@ -29,7 +29,7 @@ Version:        20141121
 Release:        alt2_5
 Summary:        A pan-Cyrillic monospace typeface
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.paratype.com/public/
 Source0:        http://www.fontstock.com/public/PTMonoOFL.zip
 Source10:       %{oldname}-fontconfig.conf

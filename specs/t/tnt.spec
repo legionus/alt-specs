@@ -2,7 +2,7 @@ Name: tnt
 Version: 126
 Release: alt1
 Summary: Template Numerical Toolkit (TNT)
-License: Public domain
+License: ALT-Public-Domain
 Group: Sciences/Mathematics
 Url: http://math.nist.gov/tnt/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

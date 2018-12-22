@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.4.1
 Release: alt1
 Summary: Python port of Browserscope's user agent parser
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/ua-parser/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -8,7 +8,7 @@ Name:           perl-Test-HasVersion
 Version:        0.014
 Release:        alt1_8
 Summary:        Check Perl modules have version numbers
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Test-HasVersion
 Source0:        https://cpan.metacpan.org/authors/id/F/FE/FERREIRA/Test-HasVersion-%{version}.tar.gz

@@ -4,7 +4,7 @@ Release: alt1
 Summary: A library for import of Macromedia/Adobe FreeHand documents
 
 Group: System/Libraries
-License: MPLv2.0
+License: MPL-2.0
 Url: http://www.freedesktop.org/wiki/Software/libfreehand/
 Source: %name-%version.tar.xz
 

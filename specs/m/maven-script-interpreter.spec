@@ -18,7 +18,7 @@ Name:           maven-script-interpreter
 Version:        1.1
 Release:        alt1_10jpp8
 Summary:        Maven Script Interpreter
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-script-interpreter/
 Source0:        http://central.maven.org/maven2/org/apache/maven/shared/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

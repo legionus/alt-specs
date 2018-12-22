@@ -5,7 +5,7 @@ Version: 1.30
 Release: alt1
 
 Summary: US-ASCII transliterations of Unicode text
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

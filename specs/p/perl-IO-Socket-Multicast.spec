@@ -4,7 +4,7 @@ Version: 1.12
 Release: alt3.1.1.1.1
 
 Summary: Send and receive multicast messages
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

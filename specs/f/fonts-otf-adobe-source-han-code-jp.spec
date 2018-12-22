@@ -16,7 +16,7 @@ Version:	2.000
 Release:	alt1_3
 Summary:	Adobe OpenType UI font for mixed Latin and Japanese text
 
-License:	OFL
+License:	OFL-1.0
 URL:		https://github.com/adobe-fonts/source-han-code-jp/
 Source0:	https://github.com/adobe-fonts/source-han-code-jp/archive/%{version}R/%{archivename}.zip
 Source1:	%{oldname}-fontconfig.conf

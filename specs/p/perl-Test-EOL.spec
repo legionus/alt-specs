@@ -9,7 +9,7 @@ Name:		perl-Test-EOL
 Version:	2.00
 Release:	alt1_5
 Summary:	Check the correct line endings in your project
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/Test-EOL
 Source0:	https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-EOL-%{version}.tar.gz
 BuildArch:	noarch

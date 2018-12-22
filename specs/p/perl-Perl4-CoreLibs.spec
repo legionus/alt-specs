@@ -4,7 +4,7 @@ Version: 0.004
 Release: alt1
 
 Summary: Libraries historically supplied with Perl 4
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

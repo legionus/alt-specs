@@ -15,7 +15,7 @@ Version:        1.2.12
 Release:        alt1_9jpp8
 Summary:        Java Foreign Function Interface
 
-License:        LGPLv3+ or ASL 2.0
+License:        LGPLv3+ or Apache-2.0
 URL:            http://github.com/jnr/jffi
 Source0:        https://github.com/%{cluster}/%{name}/archive/%{name}-%{version}.tar.gz
 Source3:        p2.inf

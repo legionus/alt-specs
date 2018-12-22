@@ -547,7 +547,7 @@ This package contains man pages for %Name.
 
 %package doc
 Summary: Documentation for %Name/OTP.
-License: EPL
+License: EPL-1.0
 Group: Development/Documentation
 BuildArch: noarch
 Requires: %name-doc-html = %epoch:%version-%release

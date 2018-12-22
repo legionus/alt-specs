@@ -15,7 +15,7 @@ Release:	alt1
 Summary:	A daemon to control runC
 
 Group:		Development/Other
-License:	Apache 2.0
+License:	Apache-2.0
 URL:		https://%import_path
 
 Packager:	Alexey Gladkov <legion@altlinux.ru>

@@ -4,7 +4,7 @@ Release: alt2%ubt
 
 Summary: MinGW Windows binutils
 
-License: GPLv2+ and LGPLv2+ and GPLv3+ and LGPLv3+
+License: GPL-2.0-or-later and LGPLv2+ and GPL-3.0-or-later and LGPLv3+
 Group: Development/Other
 Url: http://www.gnu.org/software/binutils/
 

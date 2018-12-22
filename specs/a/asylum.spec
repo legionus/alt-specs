@@ -11,7 +11,7 @@ Release:        alt1_16
 Summary:        Game involving shooting anything that moves & collecting others
 Group:          Games/Other
 # For detailed licensing, see the README
-License:        GPLv3 and Public Domain
+License:        GPL-3.0-only and ALT-Public-Domain
 URL:            http://sdl-asylum.sourceforge.net
 Source0:        http://downloads.sourceforge.net/sdl-%{name}/%{name}-%{version}.tar.gz
 Source1:        %{name}.png

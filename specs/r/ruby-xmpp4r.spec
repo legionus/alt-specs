@@ -7,7 +7,7 @@ Version: 0.5.6
 Release: alt1
 
 Summary: XMPP/Jabber library for Ruby
-License: GPLv2/Ruby
+License: GPL-2.0-only or Ruby
 Group: Development/Ruby
 
 # see also https://github.com/ln/xmpp4r

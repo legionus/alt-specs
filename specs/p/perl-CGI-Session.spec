@@ -4,7 +4,7 @@ Version: 4.48
 Release: alt2
 
 Summary: Persistent session data in CGI applications
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

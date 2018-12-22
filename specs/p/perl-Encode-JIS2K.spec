@@ -5,7 +5,7 @@ Version: 0.03
 Release: alt1.1.1.1
 
 Summary: JIS X 0212 (aka JIS 2000) encodings
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

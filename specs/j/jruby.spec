@@ -23,7 +23,7 @@ Summary:        Pure Java implementation of the Ruby interpreter
 # BSD - some files under lib/ruby/shared
 # (GPLv2 or Ruby) - Ruby 1.8 stdlib
 # (BSD or Ruby) - Ruby 1.9 stdlib
-License:        (CPL or GPLv2+ or LGPLv2+) and BSD and (GPLv2 or Ruby) and (BSD or Ruby)
+License:        (CPL or GPL-2.0-or-later or LGPLv2+) and BSD and (GPL-2.0-only or Ruby) and (BSD or Ruby)
 URL:            http://jruby.org
 Source0:        http://jruby.org.s3.amazonaws.com/downloads/%{version}/%{name}-src-%{version}.tar.gz
 

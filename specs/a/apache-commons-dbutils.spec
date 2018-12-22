@@ -13,7 +13,7 @@ Name:             apache-%{short_name}
 Version:          1.5
 Release:          alt1_14jpp8
 Summary:          Apache Commons DbUtils Package
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://commons.apache.org/dbutils/
 BuildArch:        noarch
 

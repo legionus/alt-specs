@@ -5,7 +5,7 @@ Version: 4.8.0
 Release: alt1
 
 Summary: Represent and manage a libvirt hypervisor connection
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

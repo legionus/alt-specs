@@ -3,7 +3,7 @@ Name: perl-%bname
 Version: 1.023
 Release: alt1
 Summary: Persistent lexical variable values for arbitrary calls
-License: Perl (GPL or Artistic)
+License: Perl (GPL-1.0-only or Artistic)
 Group: Development/Perl
 URL: http://search.cpan.org/dist/%bname/
 Source: http://www.cpan.org/authors/id/R/RC/RCAPUTO/%bname-%version.tar

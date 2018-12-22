@@ -13,7 +13,7 @@ Version:        20090124
 Release:        alt3_15
 Summary:        Decorative Sans Serif Font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.theory.org/~matt/fonts/free/?font=2bc
 Source0:        http://www.theory.org/~matt/fonts/free/download/2bc.zip
 Source1:        %{oldname}-fontconfig.conf

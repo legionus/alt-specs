@@ -1,7 +1,7 @@
 Name:           libaosd
 Version:        0.2.7
 Release:        alt3
-License:        GPL v2 or later
+License:        GPL-2.0-or-later
 Summary:        An Advanced On-Screen Display Library
 Group:          Graphical desktop/Other
 Packager:	Mykola Grechukh <gns@altlinux.org>
@@ -16,7 +16,7 @@ rendering via XComposite, as well as support for rendering
 Cairo and Pango layouts.
 
 %package        devel
-License:        GPL v2 or later
+License:        GPL-2.0-or-later
 Summary:        An Advanced On-Screen Display Library
 Group:          Development/C
 Requires:       libaosd-text = %version-%release
@@ -30,7 +30,7 @@ Cairo and Pango layouts.
 This package contains the development headers.
 
 %package -n     aosd_cat
-License:        GPL v2 or later
+License:        GPL-2.0-or-later
 Summary:        On-Screen Display Tool
 Group:          Graphical desktop/Other
 Requires:       libaosd-text = %version-%release
@@ -41,7 +41,7 @@ libaosd. It can be used for OSD-style notifications in
 shell scripts.
 
 %package -n     libaosd-text
-License:        GPL v2 or later
+License:        GPL-2.0-or-later
 Summary:        An Advanced On-Screen Display Library
 Group:          Graphical desktop/Other
 Requires:       %name = %version-%release

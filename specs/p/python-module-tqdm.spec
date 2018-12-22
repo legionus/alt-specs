@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 4.15.0
 Release: alt1
 Summary: A fast, extensible progress bar for Python and CLI
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/tqdm
 

@@ -48,7 +48,7 @@ Summary:	Japanese font for text arts
 
 # monafont itself is under public domain
 Group:		Graphical desktop/Other
-License:	Public Domain
+License:	ALT-Public-Domain
 URL:		http://monafont.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/monafont/%{archivename}-%{version}.tar.bz2
 # Need investigating, however
@@ -65,7 +65,7 @@ Source44: import.info
 %package -n	%{name_bitmap}
 Summary:	Bitmap Japanese font for text arts
 Group:		Graphical desktop/Other
-License:	Public Domain
+License:	ALT-Public-Domain
 # Write BuildRequires a bit verbosely
 BuildRequires:	perl
 BuildRequires:	xorg-x11-font-utils

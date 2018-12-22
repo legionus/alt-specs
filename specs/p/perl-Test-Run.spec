@@ -11,7 +11,7 @@ Version:    0.0304
 Release:    alt1
 
 Summary:    Named sprintf according to the
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source:    http://www.cpan.org/authors/id/S/SH/SHLOMIF/Test-Run-%{version}.tar.gz

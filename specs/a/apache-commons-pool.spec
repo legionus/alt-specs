@@ -14,7 +14,7 @@ Name:             apache-%{short_name}
 Version:          1.6
 Release:          alt2_16jpp8
 Summary:          Apache Commons Pool Package
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://commons.apache.org/%{base_name}/
 BuildArch:        noarch
 

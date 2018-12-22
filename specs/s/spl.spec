@@ -2,7 +2,7 @@ Name: spl
 Version: 0.7.12
 Release: alt2
 Summary: Solaris Porting Layer (SPL)
-License: CDDL
+License: CDDL-1.0
 Group: System/Kernel and hardware
 URL: http://zfsonlinux.org
 Source: %name-%version.tar

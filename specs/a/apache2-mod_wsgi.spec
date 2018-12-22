@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Python WSGI module for Apache2
 Group: System/Servers
-License: ASL 2.0
+License: Apache-2.0
 # Source-git: https://github.com/GrahamDumpleton/mod_wsgi
 Url: http://www.modwsgi.org
 

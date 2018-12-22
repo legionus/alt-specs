@@ -7,7 +7,7 @@ Release: alt1
 %setup_python_module %oname
 
 Summary: Library to enforce positional or key-word arguments
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 Url: https://github.com/morganfainberg/positional

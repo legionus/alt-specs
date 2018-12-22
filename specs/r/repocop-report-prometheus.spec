@@ -6,7 +6,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: repocop report script that dumps test results to prometeus1 format
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://repocop.altlinux.org
 
 Requires: repocop > 0.76
@@ -27,7 +27,7 @@ Repocop is a repository unit tests platform.
 %package -n repocop-report-prometheus2
 Summary: repocop report script that dumps test results to prometheus2 format
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Requires: repocop > 0.75
 Obsoletes: repocop-report-heroku < 0.4
 Obsoletes: repocop-report-prometeus2 < 0.31

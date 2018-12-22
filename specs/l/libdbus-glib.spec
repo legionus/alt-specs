@@ -3,7 +3,7 @@ Version: 0.106
 Release: alt1
 Epoch: 1
 Summary: GLib bindings for D-BUS
-License: GPL or Academic Free License
+License: GPL-1.0-only or AFL-1.1
 Group: System/Libraries
 URL: http://www.freedesktop.org/wiki/Software/DBusBindings
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

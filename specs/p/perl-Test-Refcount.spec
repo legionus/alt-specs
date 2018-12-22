@@ -10,7 +10,7 @@ Release:        alt1_12
 Summary:        Assert reference counts on objects
 
 Group:          Development/Other
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Test-Refcount
 Source0:        https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Test-Refcount-%{version}.tar.gz
 

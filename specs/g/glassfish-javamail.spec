@@ -50,7 +50,7 @@ Version:        1.4.0
 Release:        alt4_5jpp6
 Epoch:          0
 Summary:        Glassfish - JavaMail API
-License:        CDDL
+License:        CDDL-1.0
 Group:          Development/Java
 URL:            http://glassfish.dev.java.net/
 BuildArch:      noarch

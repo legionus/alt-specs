@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Creating passwords with PHP
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Text_Password
 

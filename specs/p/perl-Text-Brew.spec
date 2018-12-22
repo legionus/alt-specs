@@ -6,7 +6,7 @@ Version: 0.02
 Release: alt1
 Summary: Implementation of the Brew edit distance
 # License specified in README
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Text-Brew/
 Source0: %sname-%version.tar

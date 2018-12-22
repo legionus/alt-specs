@@ -19,7 +19,7 @@ Release: alt2.1
 
 Summary: Class::DBI extension for PostgreSQL 
 
-License: Perl (Artistic and GPL)
+License: Perl (Artistic and GPL-1.0-only)
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Class-DBI-Pg/
 

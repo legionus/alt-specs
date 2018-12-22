@@ -9,7 +9,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: %module - Perl extension for quering Gear remotes files
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/RPM/%module-%version.tar.gz
 # TODO: upload to http://search.cpan.org/dist/%module
 Url: https://www.altlinux.org/Gear/remotes

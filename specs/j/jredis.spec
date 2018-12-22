@@ -13,7 +13,7 @@ Name:          jredis
 Version:       2.0.0
 Release:       alt1_0.5.a.0jpp8
 Summary:       Java Client and Connectors for Redis
-License:       ASL 2.0
+License:       Apache-2.0
 # https://code.google.com/p/jredis/
 URL:           https://github.com/alphazero/jredis
 Source0:       https://github.com/alphazero/jredis/archive/%{githash}/%{name}-%{githash}.tar.gz

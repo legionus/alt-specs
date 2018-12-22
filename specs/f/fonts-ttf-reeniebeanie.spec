@@ -11,7 +11,7 @@ Name:          fonts-ttf-reeniebeanie
 Version:       1.000
 Release:       alt1_0.8.%{alphatag}
 Summary:       Reenie Beanie font by James Grieshaber
-License:       OFL
+License:       OFL-1.0
 URL:           http://www.google.com/fonts/specimen/Reenie+Beanie
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/reeniebeanie/ReenieBeanie.ttf
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/reeniebeanie/OFL.txt

@@ -10,7 +10,7 @@ Release: alt1.1
 
 Summary: Portable network interface information
 
-License: MIT License
+License: MIT
 Group: Development/Python
 Url: http://alastairs-place.net/netifaces
 

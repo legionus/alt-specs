@@ -5,7 +5,7 @@ Release: alt1
 Summary: Measure mouse polling rate
 
 Group: System/Configuration/Hardware
-License: Public domain
+License: ALT-Public-Domain
 Url: https://wiki.archlinux.org/index.php/Mouse_Polling_Rate
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

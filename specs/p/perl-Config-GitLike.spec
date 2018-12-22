@@ -10,7 +10,7 @@ Name:           perl-Config-GitLike
 Version:        1.17
 Release:        alt1_4
 Summary:        Git-compatible config file parsing
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/Config-GitLike
 Source0:        https://cpan.metacpan.org/authors/id/A/AL/ALEXMV/Config-GitLike-%{version}.tar.gz

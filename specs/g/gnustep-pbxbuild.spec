@@ -4,7 +4,7 @@ Name: gnustep-pbxbuild
 Version: 0.1
 Release: alt3.git20120619.1
 Summary: This tool converts XCode(tm) projects into GNUmakefiles and builds them
-License: GPLv2+ and GPLv3
+License: GPL-2.0-or-later and GPL-3.0-only
 Group: File tools
 Url: http://www.gnustep.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

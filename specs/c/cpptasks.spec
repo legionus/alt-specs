@@ -12,7 +12,7 @@ Version:	1.0b5
 Release:	alt2_20jpp8
 Summary:	Compile and link task for ant
 
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://ant-contrib.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/ant-contrib/cpptasks-1.0b5.tar.gz
 Source1:	%{name}-README.fedora

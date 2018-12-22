@@ -5,7 +5,7 @@ Version: 0.11
 Release: alt1.1
 
 Summary: Required attributes which fail only when trying to use them
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

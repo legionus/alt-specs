@@ -5,7 +5,7 @@ Version: 1.4.0
 Release: alt1.1
 
 Summary: A library for password generation and password quality checking
-License: BSD or GPL+
+License: BSD or GPL-1.0-or-later
 Group: System/Libraries
 Url: https://github.com/%name/%name/
 

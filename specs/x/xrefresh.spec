@@ -3,7 +3,7 @@ Version: 1.0.6
 Release: alt1
 
 Summary: refresh all or part of an X screen
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

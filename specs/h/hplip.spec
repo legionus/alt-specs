@@ -32,7 +32,7 @@ Epoch: 1
 Version: 3.18.12
 Release: alt1
 %if_without ernie
-License: GPLv2+ and MIT and BSD
+License: GPL-2.0-or-later and MIT and BSD
 %else
 License: GPLv2+ and MIT and BSD and IJG and Public Domain and GPLv2+ with exceptions and ISC
 %endif

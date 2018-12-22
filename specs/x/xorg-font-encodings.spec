@@ -2,7 +2,7 @@ Name: xorg-font-encodings
 Version: 1.0.4
 Release: alt1
 Summary: Encodings for X.Org fonts
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -3,7 +3,7 @@ Version: 2.29
 Release: alt2
 
 Summary: An RSS aggregator that delivers feeds as plain text email
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Networking/News
 URL: http://exo.org.uk/code/rss2mail/
 BuildArch: noarch

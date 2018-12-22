@@ -10,7 +10,7 @@ Version:    %{upstream_version}
 Release:    alt2_7
 
 Summary:    Test environment setup for development with IDE
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Test/%{upstream_name}-%{upstream_version}.tar.gz

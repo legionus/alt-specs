@@ -3,7 +3,7 @@ Version: 0.29.6
 Release: alt1
 
 Summary: A WebRTC audio/video call and conferencing server
-License: AGPLv3
+License: AGPL-3.0-only
 Group: System/Servers
 Url: https://github.com/strukturag/spreed-webrtc/
 

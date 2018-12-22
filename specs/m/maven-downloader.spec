@@ -12,7 +12,7 @@ Epoch:          1
 Version:        1.1
 Release:        alt1_15jpp8
 Summary:        Maven artifact downloader
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-downloader
 BuildArch:      noarch
 

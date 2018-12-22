@@ -10,7 +10,7 @@ Name:          uima-parent-pom
 Version:       10
 Release:       alt2_6jpp8
 Summary:       Apache UIMA Parent POM
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://uima.apache.org/
 Source0:       https://github.com/apache/uima-build/archive/parent-pom-%{version}.tar.gz
 # uima-parent-pom package don't include the license file

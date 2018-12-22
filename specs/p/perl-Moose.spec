@@ -6,7 +6,7 @@ Version: 2.2011
 Release: alt1
 
 Summary: A postmodern object system for Perl 5
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

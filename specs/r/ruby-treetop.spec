@@ -6,7 +6,7 @@ Version: 1.6.8
 Release: alt1.1.1
  
 Summary: A Ruby-based text parsing and interpretation DSL
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://treetop.rubyforge.org/
 # VCS:   git://github.com/cjheath/treetop

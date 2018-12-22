@@ -5,7 +5,7 @@ Version:        0.2
 Release:        alt2_10
 Summary:        Utilities to check proper 3d support before launching 3d games
 Group:          Games/Other
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://fedoraproject.org/wiki/SIGs/Games
 Source0:        opengl-game-wrapper.sh
 Source1:        opengl-game-functions.sh

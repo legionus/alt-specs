@@ -8,7 +8,7 @@ Name:           perl-Test-ConsistentVersion
 Version:        0.3.0
 Release:        alt1_10
 Summary:        Ensures a CPAN distribution has consistent versioning
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Test-ConsistentVersion
 Source0:        https://cpan.metacpan.org/authors/id/C/CE/CEBJYRE/Test-ConsistentVersion-v%{version}.tar.gz

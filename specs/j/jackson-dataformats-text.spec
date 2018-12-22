@@ -10,7 +10,7 @@ Name:          jackson-dataformats-text
 Version:       2.9.4
 Release:       alt1_3jpp8
 Summary:       Jackson standard text-format data format backends
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/FasterXML/jackson-dataformats-text
 Source0:       https://github.com/FasterXML/jackson-dataformats-text/archive/%{name}-%{version}.tar.gz
 

@@ -19,7 +19,7 @@ Version: 8.39.0
 Release: alt1
 
 Summary: Enhanced system logging and kernel message trapping daemon
-License: GPLv3+ ASL2.0
+License: GPL-3.0-or-later Apache-2.0
 Group: System/Kernel and hardware
 Url: http://www.rsyslog.com
 # https://github.com/rsyslog/rsyslog.git

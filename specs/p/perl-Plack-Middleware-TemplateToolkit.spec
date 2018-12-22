@@ -6,7 +6,7 @@ Version: 0.28
 Release: alt1
 
 Summary: Middleware to allow your Plack-based application to serve files processed through Template Toolkit (TT).
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: %CPAN %dist
 

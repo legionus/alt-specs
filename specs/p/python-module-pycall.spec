@@ -8,7 +8,7 @@ Version: 2.3.0
 Release: alt1
 
 Summary: flexible python library for creating and using Asterisk call files
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: http://pycall.org/
 

@@ -10,7 +10,7 @@ Name:    jackson
 Version: 1.9.11
 Release: alt1_13jpp8
 Summary: Jackson Java JSON-processor
-License: ASL 2.0 or LGPLv2
+License: Apache-2.0 or LGPLv2
 URL:     http://jackson.codehaus.org
 Source0: http://jackson.codehaus.org/1.9.11/jackson-src-1.9.11.tar.gz
 # Build plain jar files instead of OSGi bundles in order to avoid depending on

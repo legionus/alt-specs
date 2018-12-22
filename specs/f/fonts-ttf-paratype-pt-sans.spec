@@ -39,7 +39,7 @@ Version:        20141121
 Release:        alt1_5
 Summary:        A pan-Cyrillic typeface
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.paratype.com/public/
 # We now got new updated source archive to use
 Source0:        http://www.fontstock.com/public/PTSansOFL.zip

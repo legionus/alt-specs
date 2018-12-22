@@ -14,7 +14,7 @@ Version:	20030323
 Release:	alt3_13
 Summary:	Letters Laughing is a decorative/LED sans-serif font
 
-License:	OFL	
+License:	OFL-1.0
 URL:		http://glyphobet.net/fonts/free/?font=lleqcdd
 Source0:	%{archivename}
 Source1:	%{oldname}-fontconfig.conf

@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 3.15.0
 Release: alt1.qa1%ubt
 Summary: Simplejson is a simple, fast, extensible JSON encoder/decoder for Python
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: Development/Python
 Url: https://simplejson.readthedocs.io/
 

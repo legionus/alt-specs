@@ -9,7 +9,7 @@ Name:           perl-Test-YAML-Valid
 Version:        0.04
 Release:        alt2_25
 Summary:        Lets you test the validity of YAML files in unit tests
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Test-YAML-Valid
 Source0:        https://cpan.metacpan.org/authors/id/J/JR/JROCKWAY/Test-YAML-Valid-%{version}.tar.gz
 Patch0:         Test-YAML-Valid-0.04-Fix-building-on-Perl-without-.-in-INC.patch

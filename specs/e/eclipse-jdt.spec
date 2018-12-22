@@ -2,7 +2,7 @@
 Name: eclipse-jdt
 Version: 4.6.0
 Summary: Eclipse Java Development Tools
-License: EPL
+License: EPL-1.0
 Url: http://www.eclipse.org/
 Epoch: 1
 Packager: Igor Vlasenko <viy@altlinux.ru>

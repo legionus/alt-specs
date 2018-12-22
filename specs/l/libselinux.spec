@@ -8,7 +8,7 @@ Epoch: 1
 Version: 2.8
 Release: alt1
 Summary: SELinux library
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Libraries
 Url: http://userspace.selinuxproject.org/
 

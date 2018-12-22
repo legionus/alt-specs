@@ -6,7 +6,7 @@ Version: 3.3.11.1
 Release: alt2
 
 Summary: A portable sound library for Unix
-License: GPLv2 and LGPLv2+
+License: GPL-2.0-only and LGPLv2+
 Group: System/Libraries
 
 Url: http://mikmod.raphnet.net

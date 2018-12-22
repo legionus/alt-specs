@@ -4,7 +4,7 @@ Version: 0.36
 Release: alt1.1.1.1.1
 
 Summary: Drop-in replacement for Perl threads using fork()
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

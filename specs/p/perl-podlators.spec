@@ -5,7 +5,7 @@ Version: 4.11
 Release: alt1
 
 Summary: Convert POD data to various other formats
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

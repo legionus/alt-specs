@@ -3,7 +3,7 @@ Summary: MPM Itk for Apache HTTP Server
 Version: 2.4.7
 Release: alt1
 URL: http://mpm-itk.sesse.net/
-License: ASL 2.0
+License: Apache-2.0
 Group: System/Servers
 Packager: Sergey Alembekov <rt@altlinux.ru>
 

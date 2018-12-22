@@ -17,7 +17,7 @@ Release: %rlz
 Group: System/Libraries
 Summary: Qt%major settings
 Url: http://www.trolltech.com/products/qt.html
-License: GPL & QPL
+License: GPL-1.0-only and QPL
 
 Source0: qtrc
 Source10: qt3-set-QTDIR-environment-sh

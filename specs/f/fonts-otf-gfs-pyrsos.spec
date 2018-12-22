@@ -15,7 +15,7 @@ Release: alt3_13
 Summary: A 20th century italic Greek typeface
 
 Group:     System/Fonts/True type
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces20th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

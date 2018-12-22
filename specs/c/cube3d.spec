@@ -3,7 +3,7 @@ Version: 2005.08.29
 Release: alt2.qa3
 
 Summary: First person shooter game
-License: Zlib license
+License: Zlib
 Group: Games/Arcade
 
 URL: http://www.cubeengine.com/

@@ -15,7 +15,7 @@ Release:	alt1_9
 Summary:	Nanum Gothic Light family of Korean TrueType fonts
 
 Group:		System/Fonts/True type
-License:	OFL
+License:	OFL-1.0
 URL:		http://hangeul.naver.com/light
 Source0:	http://cdn.naver.com/naver/NanumFont/fontfiles/%{archivename}
 Source1:	%{oldname}-fontconfig.conf

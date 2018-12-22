@@ -5,7 +5,7 @@ Version: 5.20181218
 Release: alt1
 
 Summary: What modules shipped with versions of perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

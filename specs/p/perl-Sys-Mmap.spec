@@ -4,7 +4,7 @@ Version: 0.19
 Release: alt1.1
 Summary: Perl module to use mmap to map in a file as a Perl variable
 Group: Development/Perl
-License: Artistic/GPL
+License: Artistic or GPL-1.0-only
 Url: http://search.cpan.org/CPAN/authors/id/T/TO/TODDR/Sys-Mmap-0.16.tar.gz
 Source: %m_distro-%version.tar.gz
 Packager: Alex Negulescu <alecs@altlinux.org>

@@ -10,7 +10,7 @@ Version:	3.10
 Release:	alt2_11
 Summary:	Uyghur Computer Science Association (UKIJ) Unicode fonts
 
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.ukij.org/fonts/
 Source0:	http://www.ukij.org/fonts/fonts/UKIJTuz.ttf
 Source1:        %{oldname}-fontconfig.conf

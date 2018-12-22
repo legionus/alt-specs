@@ -5,7 +5,7 @@ Version: 0.7010
 Release: alt1.1.1.1.1
 
 Summary: Perl module for the GTK+ 1.2 library
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/GNOME and GTK+
 
 URL: %CPAN %dist

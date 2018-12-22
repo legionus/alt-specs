@@ -4,7 +4,7 @@ Version: 0.08
 Release: alt1
 
 Summary: A generic message logging mechanism
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

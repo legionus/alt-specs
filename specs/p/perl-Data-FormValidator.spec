@@ -17,7 +17,7 @@ Release: alt1
 
 Summary: %m_name - Validates user input (usually from an HTML form) based on input profile
 
-License: Perl (Artistic and GPL)
+License: Perl (Artistic and GPL-1.0-only)
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Data-FormValidator/
 

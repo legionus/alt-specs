@@ -9,7 +9,7 @@ Name:           perl-Email-Sender
 Version:        1.300031
 Release:        alt1_5
 Summary:        A library for sending email
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/Email-Sender
 Source0:        https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Sender-%{version}.tar.gz

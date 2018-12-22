@@ -3,7 +3,7 @@ Name: python-module-%oname
 Version: 6.6
 Release: alt1.1
 Summary: Reliable start/stop/configuration of Mozilla Applications (Firefox, Thunderbird, etc.)
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/mozrunner/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

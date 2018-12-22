@@ -22,7 +22,7 @@ Release:    alt1_2jpp8
 Summary:    Compiler call initiators for Plexus
 # extras subpackage has a bit different licensing
 # parts of compiler-api are ASL2.0/MIT
-License:    MIT and ASL 2.0
+License:    MIT and Apache-2.0
 URL:        https://github.com/codehaus-plexus/plexus-compiler
 BuildArch:  noarch
 
@@ -52,7 +52,7 @@ Summary:        Extra compiler support for %{name}
 # ASL 2.0: src/main/java/org/codehaus/plexus/compiler/util/scan/
 #          ...codehaus/plexus/compiler/csharp/CSharpCompiler.java
 # ASL 1.1/MIT: ...codehaus/plexus/compiler/jikes/JikesCompiler.java
-License:        MIT and ASL 2.0 and ASL 1.1
+License:        MIT and Apache-2.0 and Apache-1.1
 
 %description extras
 Additional support for csharp, eclipse and jikes compilers
@@ -67,7 +67,7 @@ This package provides %{summary}.
 %package javadoc
 Group: Development/Java
 Summary:        Javadoc for %{name}
-License:        MIT and ASL 2.0 and ASL 1.1
+License:        MIT and Apache-2.0 and Apache-1.1
 BuildArch: noarch
 
 %description javadoc

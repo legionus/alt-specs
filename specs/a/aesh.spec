@@ -10,7 +10,7 @@ Name:          aesh
 Version:       0.66.8
 Release:       alt1_5jpp8
 Summary:       Another Extendable SHell
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://aeshell.github.io/
 Source0:       https://github.com/aeshell/aesh/archive/%{version}/%{name}-%{version}.tar.gz
 

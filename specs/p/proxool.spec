@@ -13,7 +13,7 @@ Name:          proxool
 Version:       0.9.1
 Release:       alt2_21jpp8
 Epoch:         0
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://proxool.sourceforge.net/
 # Grabbing a newer version from git due to license change
 # https://github.com/proxool/proxool/tarball/master

@@ -6,7 +6,7 @@ Summary: Extremely fast hash algorithm
 
 #		The source for the library (xxhash.c and xxhash.h) is BSD
 #		The source for the command line tool (xxhsum.c) is GPLv2+
-License: BSD and GPLv2+
+License: BSD and GPL-2.0-or-later
 Group: File tools
 Url: http://www.xxhash.com/
 

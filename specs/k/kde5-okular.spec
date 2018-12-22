@@ -13,7 +13,7 @@ Release: alt3
 Group: Office
 Summary: Document Viewer
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: %name-core = %EVR
 

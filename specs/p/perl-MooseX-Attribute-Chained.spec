@@ -8,7 +8,7 @@ Name:           perl-MooseX-Attribute-Chained
 Version:        1.0.3
 Release:        alt1_6
 Summary:        Attribute that returns the instance to allow for chaining
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/MooseX-Attribute-Chained
 Source0:        https://cpan.metacpan.org/authors/id/T/TO/TOMHUKINS/MooseX-Attribute-Chained-%{version}.tar.gz

@@ -4,7 +4,7 @@ Release: alt1
 Serial: 1
 
 Summary: Quick Image Viewer
-License: GPL2
+License: GPL-2.0-only
 Group: Graphics
 
 Url: http://spiegl.de/qiv

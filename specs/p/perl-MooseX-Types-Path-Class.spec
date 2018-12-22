@@ -5,7 +5,7 @@ Version: 0.09
 Release: alt1
 
 Summary: A Path::Class type library for Moose
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

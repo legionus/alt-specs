@@ -11,7 +11,7 @@ Version:    0.0403
 Release:    alt1
 
 Summary:    Sprintf-like function with named conversions
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/S/SH/SHLOMIF/%{upstream_name}-%{version}.tar.gz

@@ -4,7 +4,7 @@ Name: flickcurl
 Version: 1.26
 Release: alt1
 Summary: Flickcurl C library for the Flickr API
-License: LGPL 2.1 / ASL 2.0
+License: LGPL-2.1-only or Apache-2.0
 Group: Graphics
 URL: http://librdf.org/flickcurl/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

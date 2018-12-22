@@ -7,7 +7,7 @@ Summary:        Python driver for MongoDB
 
 Group:          Development/Python
 # All code is ASL 2.0 except bson/time64*.{c,h} which is MIT
-License:        ASL 2.0 and MIT
+License:        Apache-2.0 and MIT
 URL:            http://api.mongodb.org/python
 Source0:        http://pypi.python.org/packages/source/p/pymongo/pymongo-%{version}.tar.gz
 

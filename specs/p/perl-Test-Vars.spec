@@ -9,7 +9,7 @@ Name:		perl-Test-Vars
 Version:	0.014
 Release:	alt1_7
 Summary:	Detects unused variables
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/Test-Vars
 Source0:	https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Test-Vars-%{version}.tar.gz
 BuildArch:	noarch

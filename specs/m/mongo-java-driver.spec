@@ -22,7 +22,7 @@ Summary:	A Java driver for MongoDB
 
 Group:		Development/Other
 BuildArch:	noarch
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://www.mongodb.org/display/DOCS/Java+Language+Center
 Source0:	https://github.com/mongodb/%{pkg_name}/archive/r%{version}.tar.gz
 Patch0:         %{pkg_name}-gradle-local-fixes.patch

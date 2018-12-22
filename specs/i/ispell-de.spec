@@ -12,7 +12,7 @@ Packager: Igor Vlasenko <viy@altlinux.ru>
 
 Url: http://j3e.de/ispell/igerman98/
 Source:	http://j3e.de/ispell/igerman98/dict/%name-%version.tar
-License: GPL2
+License: GPL-2.0-only
 Group: Text tools
 
 # Can't be noarch due to the byte order

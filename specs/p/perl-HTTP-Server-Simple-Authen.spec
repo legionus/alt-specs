@@ -4,7 +4,7 @@ Release:        alt2
 Summary:        Authentication plugin for HTTP::Server::Simple
 # https://rt.cpan.org/Public/Bug/Display.html?id=71033
 # You can redistribute it and/or modify it under the same terms as Perl itself.
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/HTTP-Server-Simple-Authen
 Source0:        https://cpan.metacpan.org/modules/by-module/HTTP/HTTP-Server-Simple-Authen-%{version}.tar.gz

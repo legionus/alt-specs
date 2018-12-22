@@ -7,7 +7,7 @@ Version: 3.1.12
 Release: alt5
 
 Summary: A portable sound library for Unix
-License: GPLv2 and LGPLv2+
+License: GPL-2.0-only and LGPLv2+
 Group: System/Legacy libraries
 
 Url: http://mikmod.sf.net

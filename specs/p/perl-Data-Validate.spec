@@ -4,7 +4,7 @@ Version: 0.09
 Release: alt1
 Summary: Common data validation methods
 Group: Development/Perl
-License: Perl (GPL or Artistic)
+License: Perl (GPL-1.0-only or Artistic)
 URL: http://search.cpan.org/dist/%bname
 Source: http://cpan.org.ua/authors/id/S/SO/SONNEN/%bname-%version.tar
 BuildArch: noarch

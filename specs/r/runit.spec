@@ -6,7 +6,7 @@ Release: alt2
 Group: System/Configuration/Boot and Init
 Summary: System-wide service supervision
 Url: http://smarden.org/runit/
-License: BSD-3-clause
+License: BSD-3-Clause
 
 Source0: %name-%version.tar
 Source1: runit.service

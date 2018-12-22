@@ -18,7 +18,7 @@ Release:        alt1_9jpp8
 # ASL 1.1:
 # several files in src/java/org/apache/fop/render/awt/viewer/resources/
 # rest is ASL 2.0
-License:        ASL 2.0 and ASL 1.1
+License:        Apache-2.0 and Apache-1.1
 URL:            http://xmlgraphics.apache.org/fop
 # ./clean-tarball %%{version}
 Source0:        %{name}-%{version}-clean.tar.gz

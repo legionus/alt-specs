@@ -3,7 +3,7 @@ Version:	0.16.2
 Release:	alt2
 
 Summary:	PictoMir education system
-License:	GPL / CC BY
+License:	GPL-1.0-only or CC BY
 Group:		Education
 
 Packager:	Andrey Cherepanov <cas@altlinux.org>

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: RandomPages adds a new MediaWiki wiki parser for get random pages
 
-License: GPL v3
+License: GPL-3.0-only
 Group: Networking/WWW
 Url: http://www.mediawiki.org/wiki/Extension:%oname
 

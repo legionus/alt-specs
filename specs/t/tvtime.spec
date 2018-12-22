@@ -3,7 +3,7 @@ Version: 1.0.11
 Release: alt1
 
 Summary: A high quality TV viewer
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: Video
 
 Url: http://tvtime.net

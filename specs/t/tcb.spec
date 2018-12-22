@@ -3,7 +3,7 @@ Version: 1.1.0.1
 Release: alt1
 
 Summary: Libraries and tools implementing the %name password shadowing scheme
-License: GPL or BSD
+License: GPL-1.0-only or BSD
 Group: System/Base
 Url: http://www.openwall.com/tcb/
 
@@ -29,31 +29,31 @@ NSS modules and is also used by programs from the shadow-utils package.
 
 %package -n lib%name
 Summary: %name shared library
-License: GPL or BSD
+License: GPL-1.0-only or BSD
 Group: System/Libraries
 
 %package -n lib%name-devel
 Summary: Libraries and header files for building %name-aware applications
-License: GPL or BSD
+License: GPL-1.0-only or BSD
 Group: Development/C
 PreReq: lib%name = %version-%release
 
 %package -n lib%name-devel-static
 Summary: Static libraries for building statically linked %name-aware applications
-License: GPL or BSD
+License: GPL-1.0-only or BSD
 Group: Development/C
 Requires: lib%name-devel = %version-%release
 
 %package -n nss_%name
 Summary: %name NSS module
-License: GPL or BSD
+License: GPL-1.0-only or BSD
 Group: System/Libraries
 PreReq: lib%name = %version-%release
 
 %set_pam_name pam_%name
 %package -n %pam_name
 Summary: %name PAM module
-License: GPL or BSD
+License: GPL-1.0-only or BSD
 Group: System/Base
 PreReq: nss_%name = %version-%release, libpam%_pam_name_suffix, control
 Provides: pam_%name = %version-%release

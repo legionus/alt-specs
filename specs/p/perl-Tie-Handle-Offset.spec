@@ -10,7 +10,7 @@ Version: 0.004
 Release: alt1
 Summary: Tied handle that hides the beginning of a file
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/tie-handle-offset
 
 Source0: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/%{module_name}-%{version}.tar.gz

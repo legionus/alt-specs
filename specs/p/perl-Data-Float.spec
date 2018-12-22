@@ -18,7 +18,7 @@ Name:           perl-Data-Float
 Version:        0.013
 Release:        alt1_3
 Summary:        Details of the floating point data type
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Data-Float
 Source0:        https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Data-Float-%{version}.tar.gz
 BuildArch:      noarch

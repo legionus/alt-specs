@@ -11,7 +11,7 @@ Version:	67
 Release:	alt1_11jpp8
 Summary:	Parent Pom for OSS Projects
 
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://schlichtherle.de
 
 Source0:	http://central.maven.org/maven2/net/java/truecommons/%{name}/%{version}/%{name}-%{version}.pom

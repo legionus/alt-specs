@@ -3,7 +3,7 @@ Version: 1.0.7
 Release: alt1
 
 Summary: a dynamic resource editor for X Toolkit applications
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://cgit.freedesktop.org/xorg/app/editres/

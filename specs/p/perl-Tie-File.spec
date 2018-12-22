@@ -4,7 +4,7 @@ Version: 1.00
 Release: alt1
 
 Summary: Access the lines of a disk file via a Perl array
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

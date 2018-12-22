@@ -3,7 +3,7 @@ Version: 2010.11
 Release: alt1
 
 Summary: ParaType Sans TrueType font
-License: OFL
+License: OFL-1.0
 Group: System/Fonts/True type
 Url: http://fonts.ru/public/
 Source: http://www.fontstock.com/public/PTSans_OFL.zip

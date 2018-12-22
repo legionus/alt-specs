@@ -5,7 +5,7 @@ Version: 1.19
 Release: alt1
 
 Summary: Standalone, extensible Perl module installer
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

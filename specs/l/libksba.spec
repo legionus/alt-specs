@@ -7,7 +7,7 @@ Release: alt8
 Group: System/Libraries
 Summary: X.509 library
 URL: http://www.gnupg.org/
-License: LGPLv3 / GPLv2
+License: LGPLv3 or GPL-2.0-only
 
 Source0: %name-%version.tar
 Patch1:		%{name}-info.patch

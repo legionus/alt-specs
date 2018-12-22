@@ -9,7 +9,7 @@ Release: alt1.qa1
 Summary: Encode and decode Base64 without "=" padding
 
 Url: https://github.com/matrix-org/python-unpaddedbase64
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

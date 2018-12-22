@@ -12,7 +12,7 @@ Name:          felix-scr-annotations
 Version:       1.12.0
 Release:       alt1_3jpp8
 Summary:       Annotations for SCR
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://felix.apache.org/
 Source0:       http://archive.apache.org/dist/felix/%{bundle}-%{version}-source-release.tar.gz
 

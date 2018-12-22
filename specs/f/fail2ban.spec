@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Fail2Ban is an intrusion prevention framework
 
-License: GPL v2
+License: GPL-2.0-only
 Group: Development/Python
 Url: http://www.fail2ban.org
 

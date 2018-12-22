@@ -5,7 +5,7 @@ Version: 0.10.2
 Release: alt1.1
  
 Summary: HTML formatter for SimpleCov code coverage tool for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/colszowka/simplecov-html
  

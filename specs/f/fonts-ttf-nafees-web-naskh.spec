@@ -15,7 +15,7 @@ Release:        alt3_17
 Summary:        Nafees Web font for writing Urdu in the Naskh script 
 
 Group:          System/Fonts/True type
-License:        Bitstream Vera
+License:        ALT-Bitstream-Vera
 URL:            http://www.crulp.org/Downloads/NafeesWeb.zip
 
 ## NOTE: the original archive is unversioned, so we rename it to add a date stamp

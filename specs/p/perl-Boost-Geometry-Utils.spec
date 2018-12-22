@@ -9,7 +9,7 @@ Name:           perl-Boost-Geometry-Utils
 Version:        0.15
 Release:        alt1_20
 Summary:        Boost::Geometry::Utils Perl module
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Boost-Geometry-Utils
 Source0:        https://cpan.metacpan.org/authors/id/A/AA/AAR/Boost-Geometry-Utils-%{version}.tar.gz

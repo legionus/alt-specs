@@ -72,7 +72,7 @@ to the syntax and usage notes.
 %package demo
 Group: Development/Java
 Summary:        Demo for %{name}
-License:        LGPLv2+ and GPLv2+ and Public Domain
+License:        LGPLv2+ and GPL-2.0-or-later and ALT-Public-Domain
 Requires:       %{name} = %{?epoch:%epoch:}%{version}-%{release}
 Requires:       gnu-getopt
 Provides:       gnu.regexp-demo = %{version}-%{release}
@@ -84,7 +84,7 @@ Demonstrations and samples for %{name}.
 %package javadoc
 Group: Development/Java
 Summary:        Javadoc for %{name}
-License:        LGPLv2+ and GPLv2+ and Public Domain
+License:        LGPLv2+ and GPL-2.0-or-later and ALT-Public-Domain
 Provides:       gnu.regexp-javadoc = %{version}-%{release}
 Obsoletes:      gnu.regexp-javadoc < %{version}-%{release}
 BuildArch: noarch

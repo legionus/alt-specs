@@ -13,7 +13,7 @@ Summary:        Collection of tasks for Ant
 Name:           ant-contrib
 Version:        1.0
 Release:        alt5_0.32.b3jpp8
-License:        ASL 2.0 and ASL 1.1
+License:        Apache-2.0 and Apache-1.1
 URL:            http://ant-contrib.sourceforge.net/
 Source0:        https://downloads.sourceforge.net/project/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3-src.tar.bz2
 # ASL 2.0 Licence text

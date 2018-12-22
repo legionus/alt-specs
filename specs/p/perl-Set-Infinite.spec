@@ -9,7 +9,7 @@ Name:           perl-Set-Infinite
 Version:        0.65
 Release:        alt2_23
 Summary:        Sets of intervals
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Set-Infinite
 Source0:        https://cpan.metacpan.org/authors/id/F/FG/FGLOCK/Set-Infinite-%{version}.tar.gz
 BuildArch:      noarch

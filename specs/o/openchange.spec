@@ -9,7 +9,7 @@ Version: 2.4
 Release: alt32.zentyal23
 Group:   Networking/Mail
 Summary: Provides access to Microsoft Exchange servers using native protocols
-License: GPLv3+ and Public Domain
+License: GPL-3.0-or-later and ALT-Public-Domain
 Url:     http://www.openchange.org/
 # VCS:   https://github.com/zentyal/openchange
 

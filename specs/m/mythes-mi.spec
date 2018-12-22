@@ -10,7 +10,7 @@ Release: alt1_17
 # Source: http://packages.papakupu.maori.nz/mythes/mythes-mi-0.1.%%{upstreamid}-beta.tar.gz
 Source: mythes-mi-0.1.%{upstreamid}-beta.tar.gz
 URL: http://papakupu.maori.nz/
-License: Public Domain
+License: ALT-Public-Domain
 BuildArch: noarch
 Requires: libmythes
 Source44: import.info

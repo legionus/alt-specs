@@ -4,7 +4,7 @@ Name: libfreetype
 Version: 2.9.1
 Release: alt1%ubt
 Summary: A free and portable font rendering engine
-License: FTL or GPLv2+
+License: FTL or GPL-2.0-or-later
 Group: System/Libraries
 Url: http://www.freetype.org/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -6,7 +6,7 @@ Release: alt1
 Summary: The accessible environment for blind persons
 Url: http://luwrain.org/
 Group: Accessibility
-License: GPL v.3
+License: GPL-3.0-only
 Packager: Michael Pozhidaev <msp@altlinux.ru>
 BuildArch: noarch
 

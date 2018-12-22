@@ -5,7 +5,7 @@ Version: 3.0702
 Release: alt1
 
 Summary: Basic descriptive statistical functions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

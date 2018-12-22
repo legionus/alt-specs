@@ -5,7 +5,7 @@ Version: 1.16
 Release: alt1.1
 
 Summary: Sybase database driver (TDS protocol) for the DBI module
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

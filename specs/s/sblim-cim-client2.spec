@@ -19,7 +19,7 @@ Release:        alt1_8jpp8
 Summary:        Java CIM Client library
 
 Group:          Development/Other
-License:        EPL
+License:        EPL-1.0
 URL:            http://sourceforge.net/projects/sblim/
 Source0:        http://downloads.sourceforge.net/project/sblim/%{name}/%{version}/%{name}-%{version}-src.zip
 

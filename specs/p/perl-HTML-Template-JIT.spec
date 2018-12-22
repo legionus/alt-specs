@@ -6,7 +6,7 @@ Release: alt2.2
 
 Summary: A just-in-time compiler for HTML::Template
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/HTML/%module-%version.tar.gz
 BuildArch: noarch
 Packager: Stanislav Yadykin <tosick@altlinux.ru>

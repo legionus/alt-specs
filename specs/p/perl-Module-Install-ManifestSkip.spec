@@ -8,7 +8,7 @@ Name:           perl-Module-Install-ManifestSkip
 Version:        0.24
 Release:        alt2_11
 Summary:        Generate a MANIFEST.SKIP file
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Module-Install-ManifestSkip
 Source0:        https://cpan.metacpan.org/authors/id/I/IN/INGY/Module-Install-ManifestSkip-%{version}.tar.gz

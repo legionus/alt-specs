@@ -5,7 +5,7 @@ Version: 1.1.1
 Epoch: 1
 Release: alt1.1
 Summary: A Python library for symbolic mathematics
-License: New BSD License
+License: BSD-3-Clause
 Group: Sciences/Mathematics
 BuildArch: noarch
 Url: http://sympy.org/

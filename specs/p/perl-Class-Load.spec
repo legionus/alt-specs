@@ -5,7 +5,7 @@ Version: 0.25
 Release: alt1
 
 Summary: A working (require "Class::Name") and more
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

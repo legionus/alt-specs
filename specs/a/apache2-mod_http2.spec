@@ -3,7 +3,7 @@ Version:	1.11.4
 Release:	alt1
 Summary:	module implementing HTTP/2 for Apache 2
 Group:		System/Servers
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://icing.github.io/mod_h2/
 Source0:	%name-%version.tar
 Source1:	%name.watch

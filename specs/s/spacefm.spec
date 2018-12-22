@@ -4,7 +4,7 @@ Name: spacefm
 Version: 1.0.6
 Release: alt2
 Summary: Multi-panel tabbed file and desktop manager
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Group: File tools
 Url: http://ignorantguru.github.io/spacefm
 Source0: %name-%version.tar

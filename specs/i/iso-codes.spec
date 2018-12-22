@@ -6,7 +6,7 @@ Release: alt1
 
 Group: System/Internationalization
 Summary: ISO code lists and translations
-License: LGPL 2.1
+License: LGPL-2.1-only
 Url: https://salsa.debian.org/iso-codes-team/iso-codes
 
 # Cloned from https://salsa.debian.org/iso-codes-team/iso-codes.git

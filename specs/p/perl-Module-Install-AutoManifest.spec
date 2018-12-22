@@ -4,7 +4,7 @@ Version: 0.003
 Release: alt2
 
 Summary: generate MANIFEST automatically
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

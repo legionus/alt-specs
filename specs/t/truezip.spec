@@ -11,7 +11,7 @@ Version:       7.7.9
 Release:       alt1_6jpp8
 Summary:       Java based VFS for treating archive files as virtual directories
 
-License:       EPL
+License:       EPL-1.0
 URL:           http://truezip.java.net/
 
 # hg clone https://hg.java.net/hg/truezip~v7 && cd truezip~v7/

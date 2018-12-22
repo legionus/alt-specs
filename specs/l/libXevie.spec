@@ -2,7 +2,7 @@ Name: libXevie
 Version: 1.0.3
 Release: alt1.qa1
 Summary: X Event Interceptor Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

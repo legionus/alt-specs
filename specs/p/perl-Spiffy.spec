@@ -5,7 +5,7 @@ Version: 0.46
 Release: alt1
 
 Summary: Spiffy Perl Interface Framework For You
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -4,7 +4,7 @@ Summary: OpenFabrics InfiniBand Diagnostic Tools
 Name: infiniband-diags
 Version: 2.1.0
 Release: alt2
-License: GPLv2 or BSD
+License: GPL-2.0-only or BSD
 Group: System/Base
 Url: https://github.com/linux-rdma/infiniband-diags
 

@@ -5,7 +5,7 @@ Version: 5.07
 Release: alt1
 
 Summary: Perl modules for HTML syntax tree processing
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

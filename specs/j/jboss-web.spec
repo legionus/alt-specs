@@ -15,7 +15,7 @@ Name:             jboss-web
 Version:          8.0.0
 Release:          alt2_0.6.Alpha1jpp8
 Summary:          JBoss Web
-License:          LGPLv2+ and ASL 2.0 and MIT and (LGPLv2+ or ASL 2.0)
+License:          LGPLv2+ and Apache-2.0 and MIT and (LGPLv2+ or Apache-2.0)
 URL:              http://www.jboss.org/jbossweb
 
 # svn export http://anonsvn.jboss.org/repos/jbossweb/tags/JBOSSWEB_8_0_0_ALPHA1/ jboss-web-8.0.0.Alpha1

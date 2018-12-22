@@ -8,7 +8,7 @@ Name:           perl-DateTime-Tiny
 Version:        1.07
 Release:        alt1_2
 Summary:        Date object, with as little code as possible
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DateTime-Tiny
 Source0:        https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/DateTime-Tiny-%{version}.tar.gz

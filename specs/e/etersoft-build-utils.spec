@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: A set of rpm build utilities from Etersoft
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Other
 Url: http://www.altlinux.org/Etersoft-build-utils
 

@@ -9,7 +9,7 @@ Name:    fonts-ttf-oflb-prociono
 Version: 20141125
 Release: alt1_6
 Summary: A text roman with standard and discretionary ligatures, class-based kerning
-License: OFL
+License: OFL-1.0
 URL:     http://www.google.com/fonts/specimen/Prociono
 Source0: https://googlefontdirectory.googlecode.com/hg/ofl/prociono/Prociono-Regular.ttf
 Source1: https://googlefontdirectory.googlecode.com/hg/ofl/prociono/OFL.txt

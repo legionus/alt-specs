@@ -4,7 +4,7 @@ Summary: This library provides functions to read, create, and modify mp4 files
 Name: libmp4v2-3
 Version: 2.0
 Release: alt4
-License: MPLv1.1
+License: MPL-1.1
 Group: System/Libraries
 Url: http://code.google.com/p/mp4v2/
 

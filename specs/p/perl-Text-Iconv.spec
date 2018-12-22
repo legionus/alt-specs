@@ -4,7 +4,7 @@ Version: 1.7
 Release: alt4.1.1.1.1
 
 Summary: Perl interface to iconv(3) codeset conversion function
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

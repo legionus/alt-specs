@@ -6,7 +6,7 @@ Version: 104.0
 Release: alt1.1
 
 Summary: Real time strategy game engine with many mods
-License: GPL2+ or Artistic
+License: GPL-2.0-or-later or Artistic
 Group: Games/Strategy
 Url: https://springrts.com/
 

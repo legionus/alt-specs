@@ -5,7 +5,7 @@ Version: 0.37
 Release: alt1
 
 Summary: Routines for manipulating stashes
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

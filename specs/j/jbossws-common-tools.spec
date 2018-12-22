@@ -15,7 +15,7 @@ Name:             jbossws-common-tools
 Version:          1.2.2
 Release:          alt1_4jpp8
 Summary:          JBossWS Common Tools
-License:          LGPLv2+ and ASL 2.0
+License:          LGPLv2+ and Apache-2.0
 URL:              http://jbossws.jboss.org
 
 Source0:          https://github.com/jbossws/jbossws-common-tools/archive/%{name}-%{namedversion}.tar.gz

@@ -6,7 +6,7 @@ Version: 0.29
 Release: alt1
 
 Summary: Determine file type
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

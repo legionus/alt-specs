@@ -9,7 +9,7 @@ Name:           perl-Test-MockTime
 Version:        0.17
 Release:        alt1_2
 Summary:        Replaces actual time with simulated time
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Test-MockTime
 Source0:        https://cpan.metacpan.org/authors/id/D/DD/DDICK/Test-MockTime-%{version}.tar.gz
 BuildArch:      noarch

@@ -7,7 +7,7 @@ Release:        alt1_5
 Summary:        An APRS parser written in C
 
 Group:          Communications
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://pakettiradio.net/libfap/
 Source0:        http://pakettiradio.net/downloads/%{name}/%{version}/%{name}-%{version}.tar.gz
 Source44: import.info

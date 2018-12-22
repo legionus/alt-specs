@@ -13,7 +13,7 @@ Name:           felix-osgi-obr
 Version:        1.0.2
 Release:        alt2_20jpp8
 Summary:        Felix OSGi OBR Service API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org/site/apache-felix-osgi-bundle-repository.html
 BuildArch:      noarch
 

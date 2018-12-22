@@ -5,7 +5,7 @@ Version: 15.0.25
 Release: alt1
  
 Summary: Ohai profiles your system and emits JSON
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/ohai
  

@@ -15,7 +15,7 @@ Name:             hibernate-hql
 Version:          1.3.0
 Release:          alt2_0.2.Alpha2jpp8
 Summary:          Hibernate Query Parser
-License:          LGPLv2 and ASL 2.0
+License:          LGPLv2 and Apache-2.0
 Url:              https://github.com/hibernate/hibernate-hql-parser
 Source0:          https://github.com/hibernate/hibernate-hql-parser/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

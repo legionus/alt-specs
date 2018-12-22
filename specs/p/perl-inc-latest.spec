@@ -11,7 +11,7 @@ Version: 0.500
 Release: alt2
 Summary: use modules bundled in inc/ if they are newer than installed ones
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/inc-latest
 
 Source0: http://cpan.org.ua/authors/id/D/DA/DAGOLDEN/%{module_name}-%{module_version}.tar.gz

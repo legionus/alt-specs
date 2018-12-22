@@ -5,7 +5,7 @@ Version: 1.1104
 Release: alt1
 
 Summary: Capture STDOUT and STDERR from Perl code, subprocesses or XS
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

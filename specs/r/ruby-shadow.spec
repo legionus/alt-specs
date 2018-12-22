@@ -5,7 +5,7 @@ Version: 2.5.0
 Release: alt3
 
 Summary: Shadow Password module for Ruby
-License: Public Domain License
+License: ALT-Public-Domain
 Group:   Development/Ruby
 Url:     https://github.com/apalmblad/ruby-shadow
 

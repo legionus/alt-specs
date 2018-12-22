@@ -3,7 +3,7 @@ Version: 2.2
 Release: alt5
 
 Summary: The basic directory layout for FTN system
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 
 BuildArch: noarch

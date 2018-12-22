@@ -19,7 +19,7 @@ Release: alt1
 
 Summary: Log::Dispatch::Config - Log4j for Perl
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Log-Dispatch-Config/
 

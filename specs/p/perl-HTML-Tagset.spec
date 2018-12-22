@@ -4,7 +4,7 @@ Version: 3.20
 Release: alt2
 
 Summary: Data tables useful in dealing with HTML
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

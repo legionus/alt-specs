@@ -9,7 +9,7 @@ Epoch: 1
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 SDDM configuration module
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 # kcmshell5 or systemsettings5
 #Requires: kf5-kde-cli-tools or kf5-systemsettings

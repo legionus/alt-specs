@@ -32,7 +32,7 @@ Release: alt5_7jpp8
 Summary: A software platform for processing vast amounts of data
 # The BSD license file is missing
 # https://issues.apache.org/jira/browse/HADOOP-9849
-License: ASL 2.0 and BSD
+License: Apache-2.0 and BSD
 URL:     https://%{name}.apache.org
 Source0: https://www.apache.org/dist/%{name}/core/%{name}-%{version}/%{name}-%{version}-src.tar.gz
 Source1: %{name}-layout.sh

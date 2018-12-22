@@ -9,7 +9,7 @@ Version:        %{current}.1.2
 Release:        alt1_3
 Summary:        Repack of the common code base of fido and siege as shared library
 Group:          System/Libraries
-License:        GPLv2+ and LGPLv2+
+License:        GPL-2.0-or-later and LGPLv2+
 URL:            http://www.%{libname}.org/
 Source0:        https://github.com/rmohr/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
 BuildRequires:  libtool

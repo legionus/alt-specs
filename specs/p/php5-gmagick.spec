@@ -8,7 +8,7 @@ Release:	%php5_release.1
 
 Summary:	PHP5 extension to work with images using the GraphicsMagick API
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/gmagick/
 

@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Manages a MIME Content-Type database that will return the Content-Type for a given filename
 Group:   Development/Ruby
-License: Ruby/Perl/GPLv2+
+License: Ruby or Perl or GPL-2.0-or-later
 Url:     https://github.com/mime-types/ruby-mime-types
 
 BuildArch: noarch

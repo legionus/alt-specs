@@ -8,7 +8,7 @@ Name:           perl-File-Find-Rule-Perl
 Version:        1.15
 Release:        alt1_11
 Summary:        Common rules for searching for Perl things
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/File-Find-Rule-Perl
 Source0:        https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Find-Rule-Perl-%{version}.tar.gz

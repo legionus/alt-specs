@@ -5,7 +5,7 @@ Version: 4.5.0
 Release: alt1
 
 Summary: Java Security Services (JSS)
-License: MPLv1.1 or GPLv2+ or LGPLv2+
+License: MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 Group: System/Libraries
 # Source-git: https://github.com/dogtagpki/jss.git
 Url: http://www.dogtagpki.org/wiki/JSS

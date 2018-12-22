@@ -3,7 +3,7 @@ Version: 1.4.4
 Release: alt1.qa1
 
 Summary: TCP network re-engineering tool
-License: GPLv2 only
+License: GPL-2.0-only
 Group: Monitoring
 
 URL: http://www.remlab.net/tcpreen/

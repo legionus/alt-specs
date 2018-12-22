@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.02
 Release: alt2.git20130421.2
 Summary: py.test plugin to randomize tests
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pytest-random/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

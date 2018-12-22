@@ -4,7 +4,7 @@ Release: alt0.3
 
 Summary: the Apache Kafka C/C++ client library
 
-License: BSD-2-CLAUSE
+License: BSD-2-Clause
 Group: Development/C++
 Url: https://github.com/edenhill/librdkafka
 

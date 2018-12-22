@@ -3,7 +3,7 @@ Name: jclassinfo
 Version: 0.19.1
 Release: alt5
 Packager: Igor Vlasenko <viy@altlinux.ru>
-License: GPL2
+License: GPL-2.0-only
 URL: http://jclassinfo.sourceforge.net/
 Group: Development/Java
 

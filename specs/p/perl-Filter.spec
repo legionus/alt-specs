@@ -5,7 +5,7 @@ Version: 1.59
 Release: alt1
 
 Summary: Source Filters
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -5,7 +5,7 @@ Version: 6.1.3
 Release: alt1
 Summary: A Large Scale Machine Learning Toolbox
 Group: Sciences/Mathematics
-License: GPL v3 or later
+License: GPL-3.0-or-later
 URL: http://www.shogun-toolbox.org/
 
 ExclusiveArch: %ix86 x86_64

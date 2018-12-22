@@ -5,7 +5,7 @@ Name: perl-SQL-SplitStatement
 Version: 1.00020
 Release: alt1
 Summary: Split any SQL code into atomic statements
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/SQL-SplitStatement/
 Source: %sname-%version.tar

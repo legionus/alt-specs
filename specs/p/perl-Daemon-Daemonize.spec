@@ -11,7 +11,7 @@ Version:    %{upstream_version}
 Release:    alt1_8
 
 Summary:    An easy-to-use daemon(izing) toolkit
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Daemon/%{upstream_name}-%{upstream_version}.tar.gz

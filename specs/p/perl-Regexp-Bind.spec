@@ -4,7 +4,7 @@ Version: 0.05
 Release: alt2
 
 Summary: Bind variables to captured buffers 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

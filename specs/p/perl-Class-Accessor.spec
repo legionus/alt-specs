@@ -4,7 +4,7 @@ Version: 0.51
 Release: alt1
 
 Summary: Automated accessor generation
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

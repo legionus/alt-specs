@@ -2,7 +2,7 @@ Name:		tweak
 Version:	3.01
 Release:	alt2.qa1
 Summary:	An efficient hex editor
-License:	MIT/X11
+License:	(MIT or X11)
 Group:		Development/Other
 Source:		%name-%version.tar.gz
 URL:		http://www.chiark.greenend.org.uk/~sgtatham/tweak/

@@ -51,7 +51,7 @@ Release: %rlz
 Group: System/Libraries
 Summary: Shared library for the Qt%major GUI toolkit
 Url: http://qt-project.org/
-License: GPLv3 / LGPLv2.1
+License: GPL-3.0-only or LGPLv2.1
 
 Requires: lib%name = %version-%release
 Requires: %name-sql = %version-%release

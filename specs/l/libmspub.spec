@@ -4,7 +4,7 @@ Version: 0.1.4
 Release: alt1
 Summary: A library providing ability to interpret and import Microsoft Publisher files
 Group: System/Libraries
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 Url: https://wiki.documentfoundation.org/DLP/Libraries/libmspub
 Source: %name-%version.tar
 

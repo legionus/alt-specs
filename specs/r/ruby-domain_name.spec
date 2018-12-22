@@ -3,7 +3,7 @@ Version: 0.5.20180417
 Release: alt1.1
 
 Summary: Domain Name manipulation library for Ruby
-License: BSD and (MPLv1.1 or GPLv2+ or LGPLv2+)
+License: BSD and (MPL-1.1 or GPL-2.0-or-later or LGPLv2+)
 Group:   Development/Ruby
 Url:     https://github.com/knu/ruby-domain_name
 

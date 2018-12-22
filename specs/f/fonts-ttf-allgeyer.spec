@@ -17,7 +17,7 @@ Name:		fonts-ttf-allgeyer
 Summary: 	Musical Notation True Type Fonts
 Version:	5.002
 Release:	alt3_16
-License:	OFL
+License:	OFL-1.0
 # The source was originally downloaded from:
 # http://www.icogitate.com/~ergosum/fonts/musiqwik_musisync_y6.zip
 # But the website is gone now.

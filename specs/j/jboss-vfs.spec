@@ -16,7 +16,7 @@ Name:             jboss-vfs
 Version:          3.2.12
 Release:          alt1_4jpp8
 Summary:          JBoss Virtual File System
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://github.com/jbossas/jboss-vfs/
 Source0:          https://github.com/jbossas/jboss-vfs/archive/jboss-vfs-%{namedversion}.tar.gz
 

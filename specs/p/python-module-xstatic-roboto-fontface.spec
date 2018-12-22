@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 0.5.0.0
 Release: alt1.1
 Summary: roboto-fontface (XStatic packaging standard)
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

@@ -5,7 +5,7 @@ Summary: A modern approach to programming for the Erlang VM
 
 Group: Development/Other
 # See LEGAL (provided by upstream) for explaination/breakdown.
-License: ASL 2.0
+License: Apache-2.0
 Url: http://elixir-lang.org/
 
 Packager: Denis Medvedev <nbr@altlinux.org>

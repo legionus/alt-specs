@@ -5,7 +5,7 @@ Version: 0.16
 Release: alt1.1.1.1
 
 Summary: Change nature of data within a structure
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

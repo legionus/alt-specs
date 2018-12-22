@@ -3,7 +3,7 @@ Version: 0.5
 Release: alt1
 
 Summary: serial console support
-License: public domain
+License: ALT-Public-Domain
 Group: System/Kernel and hardware
 
 Url: http://altlinux.org/serial

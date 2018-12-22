@@ -3,7 +3,7 @@ Version:	3.0
 Release:	alt1
 Summary:	Netscape Gecko Plug-in API common files
 Group:		System/Base
-License:	GPL3
+License:	GPL-3.0-only
 Packager:	Alexey Gladkov <legion@altlinux.ru>
 
 %description

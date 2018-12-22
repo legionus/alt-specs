@@ -5,7 +5,7 @@ Version: 1.0.1
 Release: alt1.1
 
 Summary: An HTTP/1.1 pipelining implementation atop Net::HTTP
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/drbrain/net-http-pipeline
 

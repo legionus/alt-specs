@@ -2,7 +2,7 @@ Name: svg2pdf
 Version: 0.2
 Release: alt1
 Summary: Convert SVG files to only one PDF file
-License: GPL v3
+License: GPL-3.0-only
 Group: File tools
 Url: http://code.google.com/p/svg2pdf/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

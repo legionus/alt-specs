@@ -12,7 +12,7 @@ Name:          fonts-otf-fontsquirrel-crete-round
 Version:       0
 Release:       alt1_0.2.20111222
 Summary:       General purpose warm slab serif font
-License:       OFL
+License:       OFL-1.0
 URL:           https://www.fontsquirrel.com/fonts/crete-round
 Source0:       https://www.fontsquirrel.com/fonts/download/crete-round#/crete-round.zip
 Source1:       %{oldname}.conf

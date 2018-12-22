@@ -10,7 +10,7 @@ Name:           maven-shared-utils
 Version:        3.2.1
 Release:        alt1_0.1jpp8
 Summary:        Maven shared utility classes
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-shared-utils
 BuildArch:      noarch
 

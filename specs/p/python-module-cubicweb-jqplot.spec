@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.4.2
 Release: alt1.1
 Summary: Views wrapping jqPlot graphic library
-License: LGPL & MIT
+License: LGPL-1.0-only and MIT
 Group: Development/Python
 Url: https://pypi.python.org/pypi/cubicweb-jqplot/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

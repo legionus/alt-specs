@@ -5,7 +5,7 @@ Version: 1.02
 Release: alt1
 
 Summary: Retrieve GET/POST Parameters from HTTP Requests
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

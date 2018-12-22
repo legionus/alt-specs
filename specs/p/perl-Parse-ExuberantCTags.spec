@@ -3,7 +3,7 @@ Version: 1.02
 Release: alt3.1.1.1.1
 
 Summary: Efficiently parse exuberant ctags files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/Parse-ExuberantCTags/

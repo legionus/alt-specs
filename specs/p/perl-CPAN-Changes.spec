@@ -8,7 +8,7 @@ Name:		perl-CPAN-Changes
 Summary:	Read and write Changes files
 Version:	0.400002
 Release:	alt1_8
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Other
 URL:		https://metacpan.org/release/CPAN-Changes
 Source0:	https://cpan.metacpan.org/authors/id/H/HA/HAARG/CPAN-Changes-%{version}.tar.gz

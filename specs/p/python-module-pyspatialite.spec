@@ -11,7 +11,7 @@ Release: alt1.1
 
 Summary: Python interface to Spatialite
 
-License: zlib
+License: Zlib
 Group: Development/Python
 Url: http://pyspatialite.googlecode.com/
 

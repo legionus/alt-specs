@@ -5,7 +5,7 @@ Version: 0.12
 Release: alt1
 Summary: Mojolicious plugin allowing customization to force file download
 # See lib/Mojolicious/Plugin/RenderFile.pm
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Mojolicious-Plugin-RenderFile/
 Source: %name-%version.tar

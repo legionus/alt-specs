@@ -13,7 +13,7 @@ Version:        2.100
 Release:        alt1_7
 Summary:        An Arabic script unicode font
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://software.sil.org/scheherazade/
 Source0:        https://software.sil.org/downloads/r/scheherazade/Scheherazade-%{version}.zip
 Source1:        %{oldname}-fontconfig.conf

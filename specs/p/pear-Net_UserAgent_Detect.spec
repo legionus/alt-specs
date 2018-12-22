@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Net_UserAgent_Detect determines the Web browser, version, and platform from an HTTP user agent string
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_UserAgent_Detect
 

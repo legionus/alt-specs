@@ -23,7 +23,7 @@ Name:          hibernate-jpamodelgen
 Version:       1.3.0
 Release:       alt1_5jpp8
 Summary:       Hibernate JPA 2 Metamodel Generator
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://www.hibernate.org/subprojects/jpamodelgen.html
 # https://github.com/hibernate/hibernate-metamodelgen
 Source0:       http://downloads.sourceforge.net/hibernate/%{name}-%{namedversion}-dist.tar.gz

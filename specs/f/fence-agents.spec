@@ -5,7 +5,7 @@ Name: fence-agents
 Summary: Fence Agents
 Version: 4.0.24
 Release: alt3%ubt
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: System/Base
 URL: http://sourceware.org/cluster/wiki/
 

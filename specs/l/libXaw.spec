@@ -2,7 +2,7 @@ Name: libXaw
 Version: 1.0.12
 Release: alt1
 Summary: X Athena Widgets Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -2,7 +2,7 @@ Name: x2gobroker
 Version: 0.0.3.4
 Release: alt2
 Summary: X2Go Session Broker
-License: AGPLv3+
+License: AGPL-3.0-or-later
 Group: Communications
 Url: http://www.x2go.org/
 

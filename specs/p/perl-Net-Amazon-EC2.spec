@@ -5,7 +5,7 @@ Version: 0.36
 Release: alt1
 
 Summary: Perl interface to the Amazon Elastic Compute Cloud (EC2)
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

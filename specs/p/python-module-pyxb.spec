@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.2.4
 Release: alt1.git20141019.1.1
 Summary: Python XML Schema Bindings
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/PyXB/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

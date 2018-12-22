@@ -37,7 +37,7 @@ Name:           perl-PDL
 Version:        2.19.0
 Release:        alt1_3
 Summary:        The Perl Data Language
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Url:            http://pdl.perl.org/
 Source0:        https://cpan.metacpan.org/authors/id/C/CH/CHM/PDL-%{cpan_version}.tar.gz
 # Uncomment to enable PDL::IO::Browser

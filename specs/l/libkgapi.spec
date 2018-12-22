@@ -52,7 +52,7 @@ Requires: %name-common = %EVR
 %package devel
 Summary: Development files for %name
 Group: Development/KDE and QT
-License: LGPLv2 or GPLv3
+License: LGPLv2 or GPL-3.0-only
 Requires: %name-common = %EVR
 Provides: libkgapi4-devel = %EVR
 Obsoletes: libkgapi4-devel < %EVR

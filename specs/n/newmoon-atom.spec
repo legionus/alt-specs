@@ -4,7 +4,7 @@ Summary(ru_RU.UTF-8): Интернет-браузер Pale Moon
 Name: newmoon-atom
 Version: 26.5.0
 Release: alt1
-License: MPL/GPL/LGPL
+License: MPL or GPL-1.0-only or LGPL-1.0-only
 Group: Networking/WWW
 Url: https://github.com/MoonchildProductions/Pale-Moon
 

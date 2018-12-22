@@ -2,7 +2,7 @@ Name:           chrontel
 Version:        1.0
 Release:        alt11203.1.4.3.1
 Summary:        Control Tool for Chrontel CH7036 HDMI chip
-License:        Public Domain
+License:        ALT-Public-Domain
 
 BuildRequires: libqt4-devel gcc-c++
 

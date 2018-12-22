@@ -3,7 +3,7 @@ Name: python3-module-%oname
 Version: 0.1.6
 Release: alt1.1
 Summary: collections.namedtuple implemented in c
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python3
 Url: https://pypi.python.org/pypi/cnamedtuple/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

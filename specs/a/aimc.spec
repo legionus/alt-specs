@@ -4,7 +4,7 @@ Name: aimc
 Version: r313
 Release: alt1.svn20130718.2.1
 Summary: A C++ Implementation of the Auditory Image Model
-License: ASL v2.0
+License: Apache-2.0
 Group: Sound
 Url: https://code.soundsoftware.ac.uk/projects/aimc
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

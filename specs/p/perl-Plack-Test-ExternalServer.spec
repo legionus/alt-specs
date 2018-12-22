@@ -8,7 +8,7 @@ Name:           perl-Plack-Test-ExternalServer
 Version:        0.02
 Release:        alt1_11
 Summary:        Run HTTP tests on external live servers
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Plack-Test-ExternalServer
 Source0:        https://cpan.metacpan.org/authors/id/F/FL/FLORA/Plack-Test-ExternalServer-%{version}.tar.gz

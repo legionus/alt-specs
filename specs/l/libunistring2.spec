@@ -3,7 +3,7 @@ Version: 0.9.10
 Release: alt1
 
 Summary: GNU Unicode string library
-License: GPLV2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: System/Libraries
 Url: http://www.gnu.org/software/libunistring/
 %define srcname libunistring-%version

@@ -3,7 +3,7 @@ Name: libyami
 Summary: Yet Another Media Infrastructure
 Version: 1.3.0
 Release: alt1.git9e1fc1d
-License: Apache License 2.0
+License: Apache-2.0
 Group: System/Libraries
 BuildRequires: libv4l-devel libGLES-devel
 BuildRequires: gcc-c++ glibc-devel-static libEGL-devel libdrm-devel libva-devel

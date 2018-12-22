@@ -10,7 +10,7 @@ Name:          shibboleth-java-parent-v3
 Version:       8
 Release:       alt1_5jpp8
 Summary:       Shibboleth Project V3 Super POM
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://shibboleth.net/
 #git clone git://git.shibboleth.net/java-parent-project-v3
 #(cd java-parent-project-v3/ && git archive --format=tar --prefix=shibboleth-java-parent-v3-8/ 8 | xz > ../shibboleth-java-parent-v3-8.tar.xz)

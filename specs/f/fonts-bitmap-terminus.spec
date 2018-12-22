@@ -10,7 +10,7 @@ Version: 4.46
 Release: alt1
 Summary: Terminus Font - a clean fixed width font
 Summary(ru_RU.UTF-8): Шрифт Terminus - растровый моноширинный шрифт
-License: OFL
+License: OFL-1.0
 Group: System/Fonts/X11 bitmap
 URL: http://sourceforge.net/projects/terminus-font/
 BuildArch: noarch

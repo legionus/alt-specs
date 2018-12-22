@@ -14,7 +14,7 @@ Version:        1.200
 Release:        alt2_12
 Summary:        SIL Abyssinica fonts
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://scripts.sil.org/AbyssinicaSIL
 # download from http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=AbyssinicaSIL1.200.zip&filename=AbyssinicaSIL1.200.zip
 Source0:        %{archive_name}%{version}.zip

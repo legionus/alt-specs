@@ -5,7 +5,7 @@ Version: 0.6.1
 Release: alt1
 
 Summary: Minimal pure-ruby support for POSIX tar(1) archives.
-License: Simplified BSD/Ruby
+License: BSD-2-Clause or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/halostatue/minitar/
 

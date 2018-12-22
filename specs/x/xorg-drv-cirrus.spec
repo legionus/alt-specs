@@ -3,7 +3,7 @@ Version: 1.5.3
 Release: alt3
 Epoch: 1
 Summary: Cirrus Logic video driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 

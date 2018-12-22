@@ -4,7 +4,7 @@ Version: 6.02
 Release: alt1
 
 Summary: Date conversion routines
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

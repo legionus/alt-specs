@@ -11,7 +11,7 @@ Version:        4
 Release:        alt3_10
 Summary:        A stylized font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://openfontlibrary.org/media/files/tthurman/354
 Source0:        http://openfontlibrary.org/people/tthurman/tthurman_-_Riordon_Fancy.zip
 Source1:        %{fontname}-fontconfig.conf

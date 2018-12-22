@@ -41,7 +41,7 @@ to teleport back to the Euclidean world to survive by pressing Escape
 Buildarch: noarch
 Summary: Music for %summary
 Group: Games/Adventure
-License: CC BY-SA 3.0
+License: CC-BY-SA-3.0
 
 %description music
 Music for %name

@@ -13,7 +13,7 @@ Release:        alt1
 Summary:        The only real threads in perl
 # Coro/libcoro:    GPLv2 or BSD
 # Rest of package: GPL+ or Artistic
-License:        (GPL+ or Artistic) and (GPLv2 or BSD)
+License:        (GPL-1.0-or-later or Artistic) and (GPL-2.0-only or BSD)
 URL:            https://metacpan.org/release/Coro
 Source0:        http://www.cpan.org/authors/id/M/ML/MLEHMANN/Coro-%{version}.tar.gz
 Patch0:         %{name}-5.25-ucontext-default.patch

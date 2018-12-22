@@ -17,7 +17,7 @@ Release:       alt3_0.20.alpha9jpp8
 Summary:       ShrinkWrap sub-project for creating Archive Descriptors
 # Some file are without license headers
 # reported @ https://github.com/shrinkwrap/descriptors/issues/106
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://arquillian.org/modules/descriptors-shrinkwrap/
 Source0:       https://github.com/shrinkwrap/descriptors/archive/%{namedversion}.tar.gz
 
@@ -131,7 +131,7 @@ Generates various deployment descriptors via XSLT transformation.
 Group: Development/Java
 Summary:       ShrinkWrap Descriptors Implementation
 # LGPLv2: ./impl-base/src/main/java/org/jboss/shrinkwrap/descriptor/impl/base/Strings.java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 
 %description impl-base
 Implementation of the ShrinkWrap Descriptors Project.

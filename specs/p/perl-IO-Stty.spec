@@ -4,7 +4,7 @@ Version: 0.03
 Release: alt1
 
 Summary: Change and print terminal line settings
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -7,7 +7,7 @@ Version: 0.103
 Release: alt1
 
 Summary: Getopt::Long, but simpler and more powerful
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

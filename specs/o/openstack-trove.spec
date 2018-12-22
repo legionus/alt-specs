@@ -8,7 +8,7 @@ Epoch: 1
 Summary: OpenStack DBaaS (%project)
 
 Group: System/Servers
-License: ASL 2.0
+License: Apache-2.0
 Url: https://wiki.openstack.org/wiki/Trove
 Source: %name-%version.tar
 

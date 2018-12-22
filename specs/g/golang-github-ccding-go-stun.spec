@@ -39,7 +39,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0.1.0
 Release:        alt1_7.%{commitdate}.git%{shortcommit}
 Summary:        STUN client (RFC 3489 and RFC 5389) implementation in Go
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{project}-%{repo}-%{shortcommit}.tar.gz
 

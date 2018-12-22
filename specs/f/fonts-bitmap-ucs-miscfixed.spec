@@ -7,7 +7,7 @@
 Name: fonts-bitmap-ucs-miscfixed
 Version: 0.3
 Release: alt1_16
-License: Public Domain
+License: ALT-Public-Domain
 URL: http://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
 Source0: http://www.cl.cam.ac.uk/~mgk25/download/ucs-fonts.tar.gz
 Source1: 66-ucs-miscfixed.conf

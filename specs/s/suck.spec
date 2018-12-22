@@ -5,7 +5,7 @@ Version: 4.3.2
 Release: alt5.1
 
 Summary: download news from remote NNTP server
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/News
 
 URL: http://www.sucknews.org

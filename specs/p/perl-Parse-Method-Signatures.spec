@@ -5,7 +5,7 @@ Version: 1.003019
 Release: alt1
 
 Summary: Perl6 like method signature parser
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

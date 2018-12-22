@@ -8,7 +8,7 @@ Name:           perl-Test-Email
 Version:        0.07
 Release:        alt2_13
 Summary:        Test Email Contents
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Test-Email
 Source0:        https://cpan.metacpan.org/authors/id/J/JA/JAMES/Test-Email-%{version}.tar.gz

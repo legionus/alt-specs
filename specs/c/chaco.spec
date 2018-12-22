@@ -5,7 +5,7 @@ Name: chaco
 Version: 2.2
 Release: alt7
 Summary: Matrix Orders, Colorings, and Partitionings
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Sciences/Mathematics
 Url: http://www.sandia.gov/~bahendr/chaco.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

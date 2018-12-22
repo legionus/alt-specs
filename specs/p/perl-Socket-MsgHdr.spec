@@ -5,7 +5,7 @@ Name: perl-Socket-MsgHdr
 Version: 0.05
 Release: alt1
 Summary: Sendmsg, recvmsg and ancillary data operations
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Socket-MsgHdr/
 Source0: http://www.cpan.org/authors/id/F/FE/FELIPE/Socket-MsgHdr-%{version}.tar.gz

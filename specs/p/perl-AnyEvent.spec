@@ -5,7 +5,7 @@ Version: 7.14
 Release: alt1
 
 Summary: Framework for multiple event loops
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

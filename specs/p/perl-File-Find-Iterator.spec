@@ -8,7 +8,7 @@ Name:           perl-File-Find-Iterator
 Version:        0.4
 Release:        alt3_17
 Summary:        Iterator interface for search files
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/File-Find-Iterator
 Source0:        https://cpan.metacpan.org/authors/id/T/TE/TEXMEC/File-Find-Iterator-%{version}.tar.gz

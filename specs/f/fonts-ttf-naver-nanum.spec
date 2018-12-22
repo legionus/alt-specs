@@ -16,7 +16,7 @@ Version:    3.020
 Release:    alt2_23.20140930
 Summary:    Nanum family of Korean TrueType fonts
 
-License:    OFL
+License:    OFL-1.0
 URL:        http://hangeul.naver.com
 # Need to convert from Windows executable to tar ball to avoid to use p7zip
 #Source:    http://appdown.naver.com/naver/font/NanumFont/setup/NanumFontSetup_TTF_ALL_hangeulcamp.exe

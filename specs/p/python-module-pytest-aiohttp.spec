@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.1.3
 Release: alt2.1
 Summary: pytest plugin for aiohttp support
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pytest-aiohttp
 

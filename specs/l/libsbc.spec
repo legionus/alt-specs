@@ -3,7 +3,7 @@ Version: 1.2
 Release: alt1.1
 
 Summary: Sub Band Codec used by bluetooth A2DP
-License: GPLv2 and LGPLv2+
+License: GPL-2.0-only and LGPLv2+
 Group: System/Libraries
 
 Url: http://www.bluez.org

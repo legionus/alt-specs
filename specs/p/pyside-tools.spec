@@ -2,7 +2,7 @@ Name: pyside-tools
 Version: 0.2.15
 Release: alt1.git20131028
 Summary: Tools for python bindings for the Qt cross-platform application
-License: GPLv2 & BSD
+License: GPL-2.0-only and BSD
 Group: Development/Tools
 Url: http://www.pyside.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

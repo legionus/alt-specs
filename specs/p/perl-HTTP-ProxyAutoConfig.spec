@@ -6,7 +6,7 @@ Version: 0.3
 Release: alt2
 
 Summary: Unifed way to get the proxy information
-License: LGPL or Artistic
+License: LGPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

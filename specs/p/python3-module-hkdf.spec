@@ -7,7 +7,7 @@ Release:        alt1
 Summary:        HMAC-based Extract-and-Expand Key Derivation Function (HKDF)
 
 Url:            https://github.com/casebeer/python-hkdf
-License:        BSD 2-clause "Simplified" License
+License:        BSD-2-Clause
 Group:          Development/Python
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

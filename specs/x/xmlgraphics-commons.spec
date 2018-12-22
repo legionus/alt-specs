@@ -12,7 +12,7 @@ Release:        alt1_1jpp8
 Epoch:          0
 Summary:        XML Graphics Commons
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://xmlgraphics.apache.org/
 Source0:        http://archive.apache.org/dist/xmlgraphics/commons/source/xmlgraphics-commons-%{version}-src.tar.gz
 

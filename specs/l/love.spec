@@ -3,7 +3,7 @@ Version: 0.10.2
 Release: alt1
 Summary: Legendary Orthogonal Virtual Environment
 Group: Games/Other
-License: zlib
+License: Zlib
 Source: %name-%version-linux-src.tar.gz
 Source1: debian.tar
 Url: http://love2d.org/

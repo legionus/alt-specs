@@ -11,7 +11,7 @@ Epoch: 1
 
 Summary: International Components for Unicode
 Group: System/Libraries
-License: X License
+License: X11
 Url: http://www.icu-project.org/
 
 #VCS: https://github.com/unicode-org/icu.git

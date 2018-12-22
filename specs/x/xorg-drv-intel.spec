@@ -3,7 +3,7 @@ Version: 2.99.917
 Release: alt9
 Epoch: 7
 Summary: Intel integrated graphics chipsets
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

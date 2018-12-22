@@ -8,7 +8,7 @@ Version: 0.86
 Release: alt7
 
 Summary: Text utilities for use with the GD drawing package
-License: GPL or Artisic
+License: GPL-1.0-only or Artisic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -19,7 +19,7 @@ Release: alt2.1
 
 Summary: %m_name - fetch objects from your CGI object
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Class-CGI/
 

@@ -10,7 +10,7 @@ Name:          jatl
 Version:       0.2.2
 Release:       alt1_13jpp8
 Summary:       Java Anti-Template Language
-License:       ASL 2.0
+License:       Apache-2.0
 # https://github.com/agentgt
 URL:           https://github.com/chris-martin/jatl
 Source0:       https://github.com/chris-martin/jatl/archive/%{name}-%{version}.tar.gz

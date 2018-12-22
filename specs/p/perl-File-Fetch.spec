@@ -5,7 +5,7 @@ Version: 0.56
 Release: alt1
 
 Summary: A generic file fetching mechanism
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

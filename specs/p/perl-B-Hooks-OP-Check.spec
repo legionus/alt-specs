@@ -5,7 +5,7 @@ Version: 0.22
 Release: alt1.1
 
 Summary: Wrap OP check callbacks
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

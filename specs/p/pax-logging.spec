@@ -10,7 +10,7 @@ Name:          pax-logging
 Version:       1.6.9
 Release:       alt1_16jpp8
 Summary:       OSGi Logging framework implementation
-License:       ASL 2.0 and BSD and MIT
+License:       Apache-2.0 and BSD and MIT
 URL:           http://team.ops4j.org/wiki//display/paxlogging/Pax+Logging
 Source0:       https://github.com/ops4j/org.ops4j.pax.logging/archive/logging-%{version}.tar.gz
 

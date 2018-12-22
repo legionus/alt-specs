@@ -7,7 +7,7 @@ Release: alt2.2
 Summary: Perl module to use expressions in HTML Template
 Group: Development/Perl
 Url: %CPAN %module
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/HTML/%module-%version.tar.gz
 Patch: perl-%module-alt-regexp.patch
 BuildArch: noarch

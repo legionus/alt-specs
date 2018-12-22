@@ -24,7 +24,7 @@ The RPC2 library, a C library for remote procedure calls over UDP.
 Summary:        Development files for %{oldname}
 Group:          Development/Other
 # headers are LGPLv2, rp2gen is GPLv2
-License:        LGPLv2 and GPLv2
+License:        LGPLv2 and GPL-2.0-only
 Requires:       %{name} = %{version}-%{release}
 Provides: rpc2-devel = %{version}-%{release}
 

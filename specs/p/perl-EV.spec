@@ -5,7 +5,7 @@ Version: 4.25
 Release: alt1
 
 Summary: Perl interface to libev, a high performance full-featured event loop
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

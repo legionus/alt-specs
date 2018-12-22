@@ -4,7 +4,7 @@ Release: alt2
 Summary: A library providing ability to interpret and import visio diagrams
 
 Group: System/Libraries
-License: MPLv2
+License: MPL-2.0
 Url: https://wiki.documentfoundation.org/DLP/Libraries/libvisio
 Source: %name-%version.tar
 

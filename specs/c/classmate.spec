@@ -10,7 +10,7 @@ Name:          classmate
 Version:       1.3.1
 Release:       alt1_4jpp8
 Summary:       Java introspection library
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://github.com/cowtowncoder/java-classmate/
 Source0:       https://github.com/cowtowncoder/java-classmate/archive/%{name}-%{version}.tar.gz
 

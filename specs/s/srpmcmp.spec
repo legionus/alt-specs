@@ -3,7 +3,7 @@ Version: 0.3
 Release: alt1
 
 Summary: Compare source RPM packages
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Other
 Url: http://altlinux.org
 BuildArch: noarch

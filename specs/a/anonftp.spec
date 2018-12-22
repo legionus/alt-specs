@@ -4,7 +4,7 @@ Release: alt1
 Prefix: /var/ftp
 
 Summary: The %prefix area for anonymous FTP access
-License: public domain
+License: ALT-Public-Domain
 Group: System/Servers
 BuildArch: noarch
 

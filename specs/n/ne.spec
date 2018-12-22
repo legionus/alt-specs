@@ -3,7 +3,7 @@ Summary:  The Nice Editor
 Name:     ne
 Version:  3.0.1
 Release:  alt1
-License:  GPL2
+License:  GPL-2.0-only
 Group:    Editors
 Url:      https://github.com/vigna/ne
 Packager: Alexey Gladkov <legion@altlinux.org>

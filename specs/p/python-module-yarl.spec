@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.11.0
 Release: alt1.1.1
 Summary: Yet another URL library http://yarl.readthedocs.io
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%oname
 

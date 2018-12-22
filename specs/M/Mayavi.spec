@@ -12,7 +12,7 @@ Release:        alt1
 Summary:        Scientific data 3-dimensional visualizer
 
 Group:          Graphics
-License:        BSD and EPL and LGPLv2+ and LGPLv3+
+License:        BSD and EPL-1.0 and LGPLv2+ and LGPLv3+
 URL:            http://code.enthought.com/projects/mayavi/
 
 # https://github.com/enthought/mayavi.git

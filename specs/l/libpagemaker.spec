@@ -4,7 +4,7 @@ Release: alt1
 Summary: A library for import of Adobe PageMaker documents
 Group: System/Libraries
 
-License: MPLv2.0
+License: MPL-2.0
 Url: http://wiki.documentfoundation.org/DLP/Libraries/libpagemaker
 Source: %name-%version.tar.xz
 

@@ -8,7 +8,7 @@ Packager: Ildar Mulyukov <ildar@altlinux.ru>
 BuildArch: noarch
 Group: Development/Other
 Url: http://aarddict.org
-License: GPL3
+License: GPL-3.0-only
 
 Source: %name.tar
 Patch1: %name-alt-disable-mw.patch

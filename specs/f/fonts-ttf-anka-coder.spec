@@ -24,7 +24,7 @@ Version:        1.100
 Release:        alt1_0.6.20130409hg%{hgrev}
 Summary:        A mono spaced, courier-width font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://code.google.com/p/anka-coder-fonts/
 
 # Generated from an hg clone since sfd sources were available

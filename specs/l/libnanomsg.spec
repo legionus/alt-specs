@@ -4,7 +4,7 @@ Release:        alt1
 
 Summary:        nanomsg is a socket library that provides several common communication patterns
 Group:          System/Libraries
-License:        MIT/X11
+License:        (MIT or X11)
 URL:            http://nanomsg.org/
 # VCS:		https://github.com/nanomsg/nanomsg
 

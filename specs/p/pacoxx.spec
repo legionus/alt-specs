@@ -7,7 +7,7 @@ Name: pacoxx
 Version: 0.2.beta
 Release: alt5
 Summary: PaCO++: Portable Parallel CORBA Object
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Networking/Remote access
 Url: http://www.irisa.fr/myriads/Paco++/
 

@@ -4,7 +4,7 @@ Version: 0.14
 Release: alt1
 
 Summary: Encoding and decoding of base36 strings
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

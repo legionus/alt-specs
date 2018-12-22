@@ -20,7 +20,7 @@
 ExclusiveArch:  %ix86 x86_64
 
 Name:           libx86emu
-License:        BSD 3-Clause
+License:        BSD-3-Clause
 Group:          System/Libraries
 Summary:        A small x86 emulation library.
 Version:        1.1
@@ -40,7 +40,7 @@ Authors:
     Steffen Winterfeldt
 
 %package        devel
-License:        BSD 3-Clause
+License:        BSD-3-Clause
 Summary:        A small x86 emulation library.
 Group:          System/Libraries
 Requires:       %name = %version-%release

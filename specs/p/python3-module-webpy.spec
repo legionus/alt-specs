@@ -14,7 +14,7 @@ Group: Development/Python3
 #   web/httpserver.py (Modified BSD)
 #     This is from WSGIUtils/lib/wsgiutils/wsgiServer.py
 #     See http://www.xfree86.org/3.3.6/COPYRIGHT2.html#5
-License: Public Domain and BSD
+License: ALT-Public-Domain and BSD
 
 Url: http://webpy.org/
 # https://github.com/webpy/webpy.git

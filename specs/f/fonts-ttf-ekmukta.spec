@@ -13,7 +13,7 @@ Version:        1.2.2
 Release:        alt1_6
 Summary:        A Unicode compliant mono-linear typeface
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/girish-dalvi/Ek-Mukta
 Source0:        https://github.com/girish-dalvi/Ek-Mukta/releases/download/1.2.2/EkMukta-1.2.2.zip
 Source1:        %{oldname}-fontconfig.conf

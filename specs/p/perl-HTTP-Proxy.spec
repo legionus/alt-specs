@@ -3,7 +3,7 @@ Version:        0.304
 Release:        alt2
 Summary:        A pure Perl HTTP proxy
 Group:          Development/Other
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/HTTP-Proxy
 Source0:        https://cpan.metacpan.org/authors/id/B/BO/BOOK/HTTP-Proxy-%{version}.tar.gz
 # Add support for IPv6, bug #1422948, CPAN RT#120275

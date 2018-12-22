@@ -10,7 +10,7 @@ Name:          glassfish-fastinfoset
 Version:       1.2.13
 Release:       alt1_9jpp8
 Summary:       Fast Infoset
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://fi.java.net
 # svn export https://svn.java.net/svn/fi~svn/tags/fastinfoset-project-1.2.13/ glassfish-fastinfoset-1.2.13
 # find glassfish-fastinfoset-1.2.13/ -name '*.class' -delete

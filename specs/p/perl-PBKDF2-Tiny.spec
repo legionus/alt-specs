@@ -11,7 +11,7 @@ Version: 0.005
 Release: alt2
 Summary: Minimalist PBKDF2 (RFC 2898) with HMAC-SHA1 or HMAC-SHA2
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/PBKDF2-Tiny
 
 Source0: http://cpan.org.ua/authors/id/D/DA/DAGOLDEN/%{module_name}-%{module_version}.tar.gz

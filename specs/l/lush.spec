@@ -2,7 +2,7 @@ Name: lush
 Version: 2.0.1
 Release: alt3
 Summary: Object-oriented programming language for large-scale numerical and graphic applications
-License: LGPL v2.0+
+License: LGPL-2.0-or-later
 Group: Development/Lisp
 Url: http://lush.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

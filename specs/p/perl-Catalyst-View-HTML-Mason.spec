@@ -10,7 +10,7 @@ Version:    0.19
 Release:    alt1
 
 Summary:    Helper for L<Catalyst::View::HTML::Mason> views
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source:    http://www.cpan.org/authors/id/J/JJ/JJNAPIORK/Catalyst-View-HTML-Mason-%{version}.tar.gz

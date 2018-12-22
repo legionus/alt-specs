@@ -11,7 +11,7 @@ Name:          velocity-tools
 Version:       2.0
 Release:       alt2_18jpp8
 Summary:       Collection of useful tools for Velocity template engine
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://velocity.apache.org/tools/releases/2.0/
 Source0:       http://www.apache.org/dist/velocity/tools/%{version}/%{name}-%{version}-src.tar.gz
 Patch0:        %{name}-%{version}-junit4.patch

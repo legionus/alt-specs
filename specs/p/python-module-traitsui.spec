@@ -10,7 +10,7 @@ Version: 6.0.0
 Release: alt1
 Summary: A set of user interface tools designed to complement Traits
 Group: Development/Python
-License: BSD, EPL and LGPL
+License: BSD and EPL-1.0 and LGPL-1.0-only
 URL: http://www.enthought.com/
 BuildArch: noarch
 

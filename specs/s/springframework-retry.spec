@@ -13,7 +13,7 @@ Version:        1.1.1
 Release:        alt1_7jpp8
 Summary:        Abstraction around retrying failed operations
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/spring-projects/spring-retry
 Source0:        https://github.com/spring-projects/%{short_name}/archive/%{version}.RELEASE.tar.gz
 

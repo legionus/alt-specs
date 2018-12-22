@@ -5,7 +5,7 @@ Version: 0.24
 Release: alt1
 
 Summary: Execute code after a scope finished compilation
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

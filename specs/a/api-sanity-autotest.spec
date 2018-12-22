@@ -5,7 +5,7 @@ Release: alt1
 Summary: API Sanity Autotest
 
 Group: Development/Other
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Url: http://ispras.linux-foundation.org/index.php/API_Sanity_Autotest
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

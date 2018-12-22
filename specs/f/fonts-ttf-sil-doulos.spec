@@ -14,7 +14,7 @@ Version:        4.104
 Release:        alt3_16
 Summary:        Doulos SIL fonts
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://scripts.sil.org/DoulosSILFont
 Source0:        %{archivename}%{version}.zip
 Source1:        %{fontname}.metainfo.xml

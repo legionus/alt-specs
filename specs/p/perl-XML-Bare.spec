@@ -4,7 +4,7 @@ Version: 0.53
 Release: alt2.1.1.1.1
 
 Summary: A minimal XML parser / schema checker / pretty-printer using C internally
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -3,7 +3,7 @@ Version: 1.5.2
 Release: alt3.1.1.1.1
 
 Summary: LDAP Perl module that wraps the Mozilla C SDK
-License: MPL 1.1/GPL 2.0/LGPL 2.1
+License: MPL-1.1 or GPL-2.0-only or LGPL-2.1-only
 Group: Development/Perl
 
 URL: http://www.mozilla.org/directory/perldap.html

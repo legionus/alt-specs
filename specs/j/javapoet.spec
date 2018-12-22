@@ -10,7 +10,7 @@ Name:          javapoet
 Version:       1.7.0
 Release:       alt1_4jpp8
 Summary:       A Java API for generating .java source files
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/square/javapoet
 Source0:       https://github.com/square/%{name}/archive/%{name}-%{version}.tar.gz
 

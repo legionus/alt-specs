@@ -4,7 +4,7 @@ Version: 3.300
 Release: alt1
 
 Summary: Perl library for reading the dimensions of an image
-License: Artistic 2.0 or LGPL
+License: Artistic 2.0 or LGPL-1.0-only
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -16,7 +16,7 @@ Name:           resteasy
 Version:        3.0.19
 Release:        alt1_7jpp8
 Summary:        Framework for RESTful Web services and Java applications
-License:        ASL 2.0 and CDDL
+License:        Apache-2.0 and CDDL-1.0
 URL:            http://resteasy.jboss.org/
 Source0:        https://github.com/resteasy/Resteasy/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 
@@ -218,7 +218,7 @@ Summary:        Client for %{name}
 Group: Development/Java
 # BSD: ./jaxrs/tjws/src/main/java/Acme/*
 # LGPLv2: ./jaxrs/resteasy-cdi/src/main/java/org/jboss/resteasy/cdi/CdiPropertyInjector.java
-License:        ASL 2.0 and BSD and LGPLv2+
+License:        Apache-2.0 and BSD and LGPLv2+
 Summary:        Optional modules for %{name}
 
 %description    optional

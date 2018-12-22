@@ -9,7 +9,7 @@ Packager: Ildar Mulyukov <ildar@altlinux.ru>
 
 Source: %name-%MainVersion-%MinorVersion.tar.gz
 Url: http://dvd-slideshow.sourceforge.net
-License: GPL2
+License: GPL-2.0-only
 Group: Graphics
 BuildArch: noarch
 

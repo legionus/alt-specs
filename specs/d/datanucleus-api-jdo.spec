@@ -13,7 +13,7 @@ Name:          datanucleus-api-jdo
 Version:       3.2.8
 Release:       alt1_6jpp8
 Summary:       DataNucleus JDO API plugin
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/datanucleus/datanucleus-api-jdo
 Source:        https://github.com/datanucleus/%{name}/archive/%{commit}/%{name}-%{commit}.tar.gz
 

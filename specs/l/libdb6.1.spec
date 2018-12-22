@@ -5,7 +5,7 @@ Release: alt6
 %define srcname db-%version
 
 Summary: Berkeley database library
-License: GNU AFFERO GPLv3
+License: AGPL-3.0-only-only
 Group: System/Libraries
 Url: http://www.oracle.com/us/products/database/berkeley-db/overview/
 

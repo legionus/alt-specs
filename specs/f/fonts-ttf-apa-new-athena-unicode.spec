@@ -14,7 +14,7 @@ Version:	3.4
 Release:	alt3_14
 Summary:	New Athena Unicode is a libre/open multilingual font
 
-License:	OFL
+License:	OFL-1.0
 URL:		http://apagreekkeys.org/NAUdownload.html
 Source0:	http://apagreekkeys.org/fonts/NAU3_4ttf.zip
 Source1:	%{oldname}-fontconfig.conf

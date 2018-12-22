@@ -6,7 +6,7 @@ Name: python-module-%module_name
 Version: 1.3
 Release: alt1.git20130703.1.2
 Group: Development/Python
-License: MIT License
+License: MIT
 Summary: Fast, simple object-to-object and broadcast signaling
 URL: http://discorporate.us/projects/Blinker/
 # https://github.com/jek/blinker.git

@@ -15,7 +15,7 @@ Version: %ver
 Release: %ft_release
 Summary: Browser add-on for Firefox, which makes it like the Vim text editor
 Group: Networking/WWW
-License: MPL 1.1/GPL 2.0/LGPL 2.1
+License: MPL-1.1 or GPL-2.0-only or LGPL-2.1-only
 URL: http://%vname.org/
 # https://github.com/vimperator/vimperator-labs/
 Source: %vname-%version.tar

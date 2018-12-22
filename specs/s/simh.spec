@@ -7,7 +7,7 @@ Group: Emulators
 #The licensing is mostly MIT, but there is also some GPL+ (literally, v1+) code
 #in there, notably in AltairZ80/.
 #(each target is compiled into its own binary, so only AltairZ80 is GPL+)
-License: MIT and GPL+
+License: MIT and GPL-1.0-or-later
 
 Url: http://simh.trailing-edge.com/
 Packager: Andrey Bergman <vkni@altlinux.org>

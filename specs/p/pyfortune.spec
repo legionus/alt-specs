@@ -4,7 +4,7 @@ Release: alt1.1.1
 
 Summary: Python version of ever-popular fortune program.
 Summary(ru_RU.UTF8): реализация на Python известной программы fortune
-License: GPL3
+License: GPL-3.0-only
 Group: Games/Other
 Url: http://sisyphus.ru/srpm/Sisyphus/pyfortune
 

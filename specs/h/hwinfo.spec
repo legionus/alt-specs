@@ -5,7 +5,7 @@ Name: hwinfo
 Version: 21.23
 Release: alt1
 Summary: Hardware detection tool
-License: GPL2
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 URL: http://download.opensuse.org/source/factory/repo/oss/suse/src
 # http://download.opensuse.org/source/factory/repo/oss/suse/src/%name-%version-2.1.src.rpm

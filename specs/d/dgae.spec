@@ -9,7 +9,7 @@ Release:	alt4_17
 Summary:	DG, a short AGI adventure game
 
 Group:		Games/Other
-License:	Public Domain
+License:	ALT-Public-Domain
 URL:		http://membres.lycos.fr/agisite/agisite.htm
 Source0:	dgae.zip
 #Original from http://membres.lycos.fr/agisite/dgae.zip includes

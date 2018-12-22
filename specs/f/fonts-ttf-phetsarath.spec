@@ -13,7 +13,7 @@ Version:        1.01
 Release:        alt1_8
 Summary:        The font for the Lao language
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.google.com/fonts/earlyaccess
 Source0:        http://themes.googleusercontent.com/static/fonts/earlyaccess/phetsarath/v3/download.zip
 Source1:        %{oldname}-fontconfig.conf

@@ -8,7 +8,7 @@ Release: alt1.2
 
 Summary: RightScale Amazon Web Services Ruby Modules
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://github.com/rightscale/right_aws
 
 BuildArch: noarch

@@ -13,7 +13,7 @@ Version:        2.0
 Release:        alt3_15
 Summary:        A humanist sans serif font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.theleagueofmoveabletype.com/fonts/1-junction
 Source0:        http://s3.amazonaws.com/theleague-production/fonts/junction.zip
 Source1:        %{oldname}-fontconfig.conf

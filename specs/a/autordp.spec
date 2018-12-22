@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: autologin setup to start grdesktop
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://www.altlinux.org/Installer/beans

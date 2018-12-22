@@ -10,7 +10,7 @@ Name: liquibase
 Summary: Database Refactoring Tool
 Version: 3.6.1
 Release: alt1_1jpp8
-License: ASL 2.0
+License: Apache-2.0
 URL: http://www.liquibase.org
 
 Source0: https://github.com/liquibase/liquibase/archive/%{name}-parent-%{version}.tar.gz

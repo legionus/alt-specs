@@ -9,7 +9,7 @@ Release: alt1
 Summary: OpenCore implementation of AMR speech codec.
 
 Group: System/Libraries
-License: ASLv2.0
+License: Apache-2.0
 
 BuildRequires: gcc-c++
 

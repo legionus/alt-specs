@@ -2,7 +2,7 @@ Name: bitmap
 Version: 1.0.6
 Release: alt1
 Summary: bitmap,  bmtoa, atobm - bitmap editor and converter utilities for the X Window System
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -9,7 +9,7 @@ Version:        0.161
 Release:        alt2_31
 Summary:        Format times in .beat notation 
 Group:          Development/Other
-License:        GPL+ or Artistic 
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/DateTime-Format-IBeat
 Source0:        http://backpan.perl.org/authors/id/E/EM/EMARTIN/DateTime-Format-IBeat-0.161.tar.gz
 BuildArch:      noarch 

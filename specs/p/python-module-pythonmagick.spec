@@ -6,7 +6,7 @@ Release: alt1.20170528%ubt.2
 
 Summary: Object-oriented Python interface to ImageMagick
 
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/ImageMagick/PythonMagick
 

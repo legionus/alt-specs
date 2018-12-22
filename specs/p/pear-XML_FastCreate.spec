@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Fast creation of valid XML with DTD control
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_FastCreate
 

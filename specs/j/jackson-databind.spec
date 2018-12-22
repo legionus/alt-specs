@@ -10,7 +10,7 @@ Name:          jackson-databind
 Version:       2.9.4
 Release:       alt1_3jpp8
 Summary:       General data-binding package for Jackson (2.x)
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 URL:           https://github.com/FasterXML/jackson-databind/
 Source0:       https://github.com/FasterXML/jackson-databind/archive/%{name}-%{version}.tar.gz
 

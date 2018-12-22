@@ -21,7 +21,7 @@ Release:        alt2_1jpp8
 Summary:        A dynamic programming language that targets the Java Virtual Machine
 
 Group:          Development/Java
-License:        EPL
+License:        EPL-1.0
 URL:            http://clojure.org/
 Source0:        https://github.com/%{name}/%{name}/archive/%{name}-%{full_version}.zip
 

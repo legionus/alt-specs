@@ -19,7 +19,7 @@ Release:        alt1_1
 Summary:        A typeface family inspired by Comic Sans
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://comicneue.com/
 Source0:        http://comicneue.com/%{fontname}-%{version}.zip
 Source1:        %{fontname}-fontconfig.conf

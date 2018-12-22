@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Interface to AT&T's GraphViz tools
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Image_Graph
 

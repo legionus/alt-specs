@@ -2,7 +2,7 @@ Name: tnt3
 Version: 3.0.12
 Release: alt1.beta
 Summary: Template Numerical Toolkit (TNT) v3
-License: Public domain
+License: ALT-Public-Domain
 Group: Sciences/Mathematics
 Url: http://math.nist.gov/tnt/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

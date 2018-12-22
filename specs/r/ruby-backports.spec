@@ -6,7 +6,7 @@ Release: alt1.1
  
 Summary: The latest features of Ruby backported to older versions
 
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/marcandre/backports
  

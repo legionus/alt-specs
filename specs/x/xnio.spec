@@ -16,7 +16,7 @@ Version:          3.4.0
 Release:          alt2_5jpp8
 Summary:          JBoss XNIO
 # LGPLv2+ ./api/src/main/java/org/xnio/ObjectProperties.java
-License:          ASL 2.0 and LGPLv2+
+License:          Apache-2.0 and LGPLv2+
 URL:              http://www.jboss.org/xnio
 Source0:          https://github.com/xnio/xnio/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

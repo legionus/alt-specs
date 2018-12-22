@@ -7,7 +7,7 @@ Release: alt2.1
 Packager: Victor Forsyuk <force@altlinux.org>
 
 Summary: Protocol for Keeping Track of Dynamically Allocated IP
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/Other
 
 URL: http://whoson.sf.net/

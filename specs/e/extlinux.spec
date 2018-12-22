@@ -2,7 +2,7 @@ Summary: The EXTLINUX bootloader, for booting the local system.
 Name: extlinux
 Version: 6.03
 Release: alt2
-License: GPL2
+License: GPL-2.0-only
 Group: System/Base
 Url: http://www.syslinux.org/wiki/index.php/The_Syslinux_Project
 Packager: Alexey Gladkov <legion@altlinux.ru>

@@ -5,7 +5,7 @@ Version: 0.55
 Release: alt1
 
 Summary: Perl extension to access the unix process table
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

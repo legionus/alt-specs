@@ -2,7 +2,7 @@ Name: xhost
 Version: 1.0.5
 Release: alt1
 Summary: server access control program for X
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Packager: Valery Inozemtsev <shrek@altlinux.ru>
 Url: http://xorg.freedesktop.org

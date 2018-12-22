@@ -8,7 +8,7 @@ Name:           perl-Test-Reporter
 Version:        1.62
 Release:        alt1_10
 Summary:        Sends test results to cpan-testers@perl.org
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Test-Reporter
 Source0:        https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Test-Reporter-%{version}.tar.gz

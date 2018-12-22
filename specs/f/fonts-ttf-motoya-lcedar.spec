@@ -13,7 +13,7 @@ Version:	1.00
 Release:	alt3_0.15.%{archivedate}git
 Summary:	Japanese Gothic-typeface TrueType fonts by MOTOYA Co,LTD
 
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://android.git.kernel.org/?p=platform/frameworks/base.git;a=tree;f=data/fonts
 Source0:	%{download_root}MTLc3m.ttf
 Source1:	%{download_root}NOTICE

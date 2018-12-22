@@ -13,7 +13,7 @@ Version:        0.9
 Release:        alt3_19
 Summary:        A multiline decorative font
 
-License:        OFL
+License:        OFL-1.0
 ## Note that upstream is dead and there is no download link available at this minute
 ## so please don't report FTBFS bugs for this package.
 URL:            http://openfontlibrary.org/media/files/gluk/287

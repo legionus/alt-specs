@@ -5,7 +5,7 @@ Version: 1.116
 Release: alt1
 
 Summary: Locate per-dist and per-module shared files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

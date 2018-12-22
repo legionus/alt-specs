@@ -21,7 +21,7 @@ Summary:       LZ4 compression for Java
 # src/lz4/programs
 # BSD: src/xxhash/xxhash.c src/xxhash/xxhash.h
 # src/lz4
-License:       ASL 2.0 and (BSD and GPLv2+)
+License:       Apache-2.0 and (BSD and GPL-2.0-or-later)
 URL:           https://github.com/jpountz/lz4-java
 Source0:       https://github.com/jpountz/lz4-java/archive/%{version}.tar.gz
 

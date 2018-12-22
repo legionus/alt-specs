@@ -51,7 +51,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0
 Release:        alt1_0.11.git%{shortcommit}
 Summary:        Golang helpers for reading password input without cgo
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

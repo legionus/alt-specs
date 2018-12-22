@@ -6,7 +6,7 @@ Name: lua-module-%oname
 Version: 2.0.2
 Release: alt1
 Summary: Coroutine Oriented Portable Asynchronous Services
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: http://www.keplerproject.org/copas/
 Provides: luarocks(%oname) = %version

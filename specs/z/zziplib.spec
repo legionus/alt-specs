@@ -6,7 +6,7 @@ Version: 0.13.69
 Release: alt1
 
 Summary: Lightweight library to easily extract data from zip files
-License: LGPL/MPL
+License: LGPL-1.0-only or MPL
 Group: System/Libraries
 
 URL: http://zziplib.sourceforge.net/

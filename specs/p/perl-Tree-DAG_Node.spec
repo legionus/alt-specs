@@ -20,7 +20,7 @@ Release: alt1
 
 Summary: (super)class for representing nodes in a tree
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Tree-DAG_Node/
 

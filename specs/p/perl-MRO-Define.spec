@@ -5,7 +5,7 @@ Version: 0.02
 Release: alt1.1.1.1.1
 
 Summary: Define your own method resolution order
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

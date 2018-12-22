@@ -5,7 +5,7 @@ Version: 0.2.2
 Release: alt5.git8787e95
 
 Summary: Medial image viewer for DICOM images
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: Graphics
 
 Url: http://aeskulap.nongnu.org

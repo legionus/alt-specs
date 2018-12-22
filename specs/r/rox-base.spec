@@ -4,7 +4,7 @@ Version: 2.11
 Release: alt1
 
 Summary: ROX desktop enviroment
-License: GNU GPL
+License: GPL-1.0-only
 Group: Graphical desktop/Other
 
 Url: http://rox.sourceforge.net/

@@ -6,7 +6,7 @@ Release: alt2.gitb257665
 Epoch:   1
 
 Summary: Inflector for strings
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/mbj/inflecto
 

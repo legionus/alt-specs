@@ -9,7 +9,7 @@ Name: %tbird_name-%mname
 Version: 4.0.4
 Release: alt4
 Summary: Dark-colored minimalistic theme for Thunderbird
-License: MPL or GPLv3
+License: MPL or GPL-3.0-only
 Group: Networking/Mail
 Url: https://addons.mozilla.org/ru/thunderbird/addon/pitchdark-for-tb/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -5,7 +5,7 @@ Version: 4.3.0a
 Release: alt1
 Summary: Enables SQLite to support spatial data
 Group: System/Libraries
-License: MPLv1.1 or GPLv2+ or LGPLv2+
+License: MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 Packager: Ilya Mashkin <oddity@altlinux.ru>
 Url: https://www.gaia-gis.it/fossil/libspatialite
 Source0: http://www.gaia-gis.it/gaia-sins/%name-sources/%name-%version.tar.gz

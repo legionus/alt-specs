@@ -7,7 +7,7 @@ Version: 0.66
 Release: alt1
 
 Summary: Implementation of the freedesktop.org menu specification
-License: BSD or GPL
+License: BSD or GPL-1.0-only
 Group: Graphical desktop/Other
 
 URL: http://altlinux.org/

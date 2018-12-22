@@ -5,7 +5,7 @@ Release: alt1
 Epoch: 1
 
 Summary: Perl modules for parsing and creating MIME entities
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

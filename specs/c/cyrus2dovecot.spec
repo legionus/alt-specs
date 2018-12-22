@@ -5,7 +5,7 @@ Version: 1.2
 Release: alt1
 
 Summary: Cyrus to dovecot migration tool
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Networking/Mail
 Url: http://www.cyrus2dovecot.sw.fu-berlin.de/
 BuildArch: noarch

@@ -25,7 +25,7 @@ Epoch:         1
 Version:       3.1.6
 Release:       alt3_7jpp8
 Summary:       Apache CXF
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://cxf.apache.org/
 Source0:       http://www.apache.org/dist/cxf/%{version}/%{tarname}.tar.gz
 

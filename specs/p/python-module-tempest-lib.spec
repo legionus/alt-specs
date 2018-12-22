@@ -4,7 +4,7 @@ Release: alt1
 Summary: OpenStack Functional Testing Library
 Group: Development/Python
 
-License: ASL 2.0
+License: Apache-2.0
 Url: http://www.openstack.org/
 Packager: Lenar Shakirov <snejok@altlinux.ru>
 

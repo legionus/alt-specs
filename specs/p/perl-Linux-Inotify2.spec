@@ -4,7 +4,7 @@ Version: 2.1
 Release: alt1
 
 Summary: Scalable directory/file change notification
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -2,7 +2,7 @@ Name: pyjsdoc
 Version: 0.9.1
 Release: alt1.1
 Summary: Python port of JSDoc
-License: MIT / ASLv2.0
+License: MIT or Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/PyJSDoc/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

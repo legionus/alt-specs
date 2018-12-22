@@ -6,7 +6,7 @@ Version: 2.3.1
 Release: alt2.1
  
 Summary: ffi-yajl is a Ruby adapter for the yajl JSON parser/generator library
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/ffi-yajl
  

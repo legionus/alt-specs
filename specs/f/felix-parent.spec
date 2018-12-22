@@ -11,7 +11,7 @@ Name:           felix-parent
 Version:        4
 Release:        alt1_5jpp8
 Summary:        Parent POM file for Apache Felix Specs
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org/
 Source0:        http://repo1.maven.org/maven2/org/apache/felix/felix-parent/%{version}/%{name}-%{version}-source-release.tar.gz
 BuildArch:      noarch

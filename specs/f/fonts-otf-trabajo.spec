@@ -14,7 +14,7 @@ Version:        2.0
 Release:        alt1_7
 Summary:        Latin Serif font that supports Shavian alphabet
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://openfontlibrary.org/font/trabajo
 Source0:        http://openfontlibrary.org/assets/downloads/trabajo/d8bc760f033341f410d8b1ee698609fb/trabajo.zip
 Source1:        %{oldname}-fontconfig.conf

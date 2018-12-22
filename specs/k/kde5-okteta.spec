@@ -26,7 +26,7 @@ Release: alt1%ubt
 Group: Development/Tools
 Summary: Viewing and editing of data on the byte level
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: %rname-alt-castxml-compat.patch

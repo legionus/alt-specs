@@ -3,7 +3,7 @@ Version: 3.3
 Release: alt1
 
 Summary: %name - a trash can for GNU/Linux
-License: GNU GPL
+License: GPL-1.0-only
 Group: System/Libraries
 
 Url: http://pages.stern.nyu.edu/~marriaga/software/libtrash/

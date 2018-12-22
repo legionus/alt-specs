@@ -11,7 +11,7 @@ Name:           maven-site-plugin
 Version:        3.6
 Release:        alt1_4jpp8
 Summary:        Maven Site Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-site-plugin/
 Source0:        http://repo2.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 BuildArch:      noarch

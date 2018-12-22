@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: An implementation of Integrated Templates API with template 'compilation' added
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Template_Sigma
 

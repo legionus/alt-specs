@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Simple GUI tool for disks mounting
 Group: System/Kernel and hardware
-License: GPL2
+License: GPL-2.0-only
 URL: http://github.com/limansky/tinymount
 
 Packager: Evgenii Terechkov <evg@altlinux.org>

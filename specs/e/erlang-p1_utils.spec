@@ -5,7 +5,7 @@ Version: 1.0.11
 Release: alt1%ubt
 Summary: Erlang Utility Modules from ProcessOne
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/processone/p1_utils
 

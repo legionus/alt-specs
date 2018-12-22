@@ -4,7 +4,7 @@ Release: alt2.1
 
 Summary: View Paradox DB files
 
-License: GPL v2
+License: GPL-2.0-only
 Url: http://pxlib.sourceforge.net/
 Group: Office
 

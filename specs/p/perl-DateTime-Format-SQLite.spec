@@ -9,7 +9,7 @@ Name:           perl-DateTime-Format-SQLite
 Summary:        Parse and format SQLite dates and times 
 Version:        0.11
 Release:        alt2_24
-License:        GPL+ or Artistic 
+License:        GPL-1.0-or-later or Artistic
 Source0:        https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/DateTime-Format-SQLite-%{version}.tar.gz
 URL:            https://metacpan.org/release/DateTime-Format-SQLite
 BuildArch:      noarch

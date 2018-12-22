@@ -11,7 +11,7 @@ Release: alt1.1
 Summary: Perl dialog for printing data in GTK+ applications
 Summary(ru_RU.UTF-8): диалог печати из приложений GTK+ на Perl
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 URL: http://search.cpan.org/~gbrown/Gtk2-Ex-PrintDialog/
 

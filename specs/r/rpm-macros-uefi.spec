@@ -3,7 +3,7 @@ Version: 0.5
 Release: alt1
 
 Summary: A set of RPM macros to help package UEFI related things
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Other
 
 Url: http://www.altlinux.org/UEFI

@@ -10,7 +10,7 @@ Name:          properties-maven-plugin
 Version:       1.0.0
 Release:       alt1_5jpp8
 Summary:       Properties Maven Plugin
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.mojohaus.org/properties-maven-plugin/
 Source0:       https://github.com/mojohaus/properties-maven-plugin/archive/%{name}-%{version}.tar.gz
 

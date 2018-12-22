@@ -14,7 +14,7 @@ Version:	1.000
 Release:	alt1_6
 Summary:	A display sans-serif font 
 
-License:	OFL
+License:	OFL-1.0
 URL:		http://typetype.ru/
 Source0:	http://www.typetype.ru/files/fonts/molot.zip
 Source1:	%{oldname}-fontconfig.conf

@@ -10,7 +10,7 @@ Name:           invokebinder
 Version:        1.2
 Release:        alt1_8jpp8
 Summary:        A Java DSL for binding method handles forward, rather than backward
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://github.com/headius/%{name}/
 BuildArch:      noarch
 

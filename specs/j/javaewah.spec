@@ -11,7 +11,7 @@ Version:        1.1.6
 Release:        alt1_3jpp8
 Summary:        A word-aligned compressed variant of the Java bitset class
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/lemire/javaewah
 Source0:        https://github.com/lemire/javaewah/archive/JavaEWAH-%{version}.tar.gz
 

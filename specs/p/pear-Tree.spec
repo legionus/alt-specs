@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Generic tree management, currently supports DB and XML as data sources
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Tree
 

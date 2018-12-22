@@ -6,7 +6,7 @@ Release: alt5
 
 Summary: A high-performance, full-featured text search engine written in C++
 Group: System/Libraries
-License: ASL 2.0 or LGPLv3+
+License: Apache-2.0 or LGPLv3+
 Url: https://github.com/luceneplusplus/LucenePlusPlus
 
 Source: https://github.com/luceneplusplus/LucenePlusPlus/archive/rel_%version.tar.gz#/%name-%version.tar

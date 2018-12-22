@@ -14,7 +14,7 @@ Version:    3.6
 Release:    alt1
 
 Summary:    Packaging up SeleniumRC java server
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/H/HI/HISSO/%{upstream_name}-%{version}.tar.gz

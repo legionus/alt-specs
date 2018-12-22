@@ -11,7 +11,7 @@ Version: 1.7.1
 Release: alt1
 Serial: 1
 Summary: Documentation on various X11 programming interfaces
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

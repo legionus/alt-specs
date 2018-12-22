@@ -7,7 +7,7 @@ Release: alt1
 Summary: A tiny library to perform arithmetic operations on elliptic curves in pure python
 
 Group: Development/Python
-License: GPL3
+License: GPL-3.0-only
 Url: https://pypi.python.org/pypi/tinyec
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

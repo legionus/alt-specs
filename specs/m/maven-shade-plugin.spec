@@ -10,7 +10,7 @@ Name:           maven-shade-plugin
 Version:        3.1.0
 Release:        alt1_3jpp8
 Summary:        This plugin provides the capability to package the artifact in an uber-jar
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/%{name}
 BuildArch:      noarch
 

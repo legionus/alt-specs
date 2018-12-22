@@ -13,7 +13,7 @@ Name:          tiles
 Version:       2.2.2
 Release:       alt4_18jpp8
 Summary:       Java templating framework for web application user interfaces
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://tiles.apache.org/
 Source0:       http://www.apache.org/dist/%{name}/v%{version}/%{name}-%{version}-src.tar.gz
 

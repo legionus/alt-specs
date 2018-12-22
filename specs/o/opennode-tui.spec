@@ -2,7 +2,7 @@ Summary: OpenNode Textual User Interface RPM
 Name: opennode-tui
 Version: 2.0.1
 Release: alt6.git.6af352f
-License: Apache License v2
+License: Apache-2.0
 Group: System/Configuration/Other
 Url: http://github.com/opennode/opennode-tui
 Source0: %name-%version.tar

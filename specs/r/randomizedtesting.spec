@@ -10,7 +10,7 @@ Name:          randomizedtesting
 Version:       2.3.1
 Release:       alt1_5jpp8
 Summary:       Java Testing Framework
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://labs.carrotsearch.com/randomizedtesting.html
 Source0:       https://github.com/carrotsearch/randomizedtesting/archive/release/%{version}.tar.gz
 

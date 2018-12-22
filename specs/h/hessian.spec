@@ -11,7 +11,7 @@ Summary:       Java implementation of a binary protocol for web services
 Version:       4.0.38
 Release:       alt1_4jpp8
 Epoch:         1
-License:       ASL 1.1
+License:       Apache-1.1
 URL:           http://hessian.caucho.com/
 Source0:       http://caucho.com/download/%{name}-%{version}-src.jar
 Source1:       http://repo1.maven.org/maven2/com/caucho/%{name}/%{version}/%{name}-%{version}.pom

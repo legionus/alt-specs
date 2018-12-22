@@ -5,7 +5,7 @@ Version: 0.1
 Release: alt2
 
 Summary: Block devices synchronization tool 
-License: GPL2
+License: GPL-2.0-only
 Group: Archiving/Backup
 Url: http://github.com/dottedmag/bdrsync
 Source: %name-%version.tar

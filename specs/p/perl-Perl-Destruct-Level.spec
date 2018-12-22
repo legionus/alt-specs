@@ -9,7 +9,7 @@ Summary:	Allows you to change perl's internal destruction level
 Version:	0.02
 Release:	alt4_21
 Group:		Development/Other
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/Perl-Destruct-Level
 Source0:	https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Perl-Destruct-Level-%{version}.tar.gz
 # Module Build

@@ -2,7 +2,7 @@ Summary:  Preinitialize multiple video cards before dm service.
 Name: X-multiseat-preinit
 Version: 0.02
 Release: alt1
-License: GPL2+ or Artistic
+License: GPL-2.0-or-later or Artistic
 Group: System/X11
 Url: http://www.altlinux.org/X11/DualSeat
 Packager: Igor Vlasenko <viy@altlinux.org>

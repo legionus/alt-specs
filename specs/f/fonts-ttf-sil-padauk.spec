@@ -18,7 +18,7 @@ Version: 3.003
 Release: alt1_2
 Summary: A font for Burmese and the Myanmar script
 
-License: OFL
+License: OFL-1.0
 URL:     https://software.sil.org/padauk/
 Source0: https://github.com/silnrsi/font-padauk/releases/download/v%{version}/padauk-%{version}.zip
 Source1: %{oldname}-fontconfig.conf

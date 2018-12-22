@@ -4,7 +4,7 @@ Release: alt1
 Summary: Zabbix API
 
 Group: Development/Python
-License: GNU LGPL 2.1
+License: LGPL-2.1-only
 Url: https://github.com/gescheit/scripts
 
 Source: %name-%version.tar

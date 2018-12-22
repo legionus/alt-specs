@@ -11,7 +11,7 @@ Version:        2.94.2
 Release:        alt1_6
 Summary:        Free truetype font for Marathi language
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://pagure.io/lohit
 Source0:        https://releases.pagure.org/lohit/%{fontname}-%{version}.tar.gz
 BuildArch:      noarch

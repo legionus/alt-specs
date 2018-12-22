@@ -8,7 +8,7 @@ Summary: Conversions to/from UTF8 from/to charactersets
 Summary(ru_RU.UTF-8): Обеспечивает преобразование текста из/в UTF-8 в/из различных кодировок
 Group: Development/Perl
 URL: http://search.cpan.org/~gus/Unicode-UTF8simple-1.06/
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://search.cpan.org/CPAN/authors/id/G/GU/GUS/Unicode-UTF8simple-1.06.tar.gz
 
 Buildarch: noarch

@@ -13,7 +13,7 @@ Release:        alt1_4
 Summary:        A sanserif typeface family
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.latofonts.com/
 # Fonts retrieved 2015-08-07 from http://www.latofonts.com/download/Lato2OFL.zip
 Source0:        %{oldname}-%{version}.zip

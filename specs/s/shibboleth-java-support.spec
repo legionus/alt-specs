@@ -10,7 +10,7 @@ Name:          shibboleth-java-support
 Version:       7.1.1
 Release:       alt1_5jpp8
 Summary:       Java Support for Shibboleth projects
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 URL:           http://shibboleth.net/
 # git clone git://git.shibboleth.net/java-support
 # (cd java-support/ && git archive --format=tar --prefix=shibboleth-java-support-7.1.1/ 7.1.1 | xz > ../shibboleth-java-support-7.1.1.tar.xz)

@@ -10,7 +10,7 @@ Name:           perl-Term-Table
 Version:        0.013
 Release:        alt1
 Summary:        Format a header and rows into a table
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://search.cpan.org/dist/Term-Table/
 Source0:        http://www.cpan.org/authors/id/E/EX/EXODIST/Term-Table-%{version}.tar.gz
 BuildArch:      noarch

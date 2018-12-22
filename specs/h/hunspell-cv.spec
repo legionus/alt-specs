@@ -10,7 +10,7 @@ Version: 1.06
 Release: alt1_1
 Source: http://hunspell.chv.su/files/Chuvash_Spell-1.06.oxt
 URL: http://hunspell.chv.su/download.shtml
-License: GPLv3+ or LGPLv3+ or MPLv1.1
+License: GPL-3.0-or-later or LGPLv3+ or MPL-1.1
 BuildArch: noarch
 Requires: hunspell
 Source44: import.info

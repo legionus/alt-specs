@@ -10,7 +10,7 @@ Version: 2.6
 Release: alt1_9
 Source: http://downloads.sourceforge.net/project/aoo-extensions/4587/8/hunspell-gd-2.6.oxt
 URL: http://extensions.services.openoffice.org/en/project/faclair-afb
-License: GPLv2+ and GPLv3+
+License: GPL-2.0-or-later and GPL-3.0-or-later
 BuildArch: noarch
 
 Requires: hunspell

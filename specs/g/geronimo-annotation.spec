@@ -12,7 +12,7 @@ Name:           geronimo-annotation
 Version:        1.0
 Release:        alt4_23jpp8
 Summary:        Java EE: Annotation API v1.3
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://geronimo.apache.org/
 BuildArch:      noarch
 

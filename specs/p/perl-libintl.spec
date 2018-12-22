@@ -5,7 +5,7 @@ Version: 1.31
 Release: alt1
 
 Summary: High-Level Interface to Uniforum Message Translation
-License: LGPL or Artistic
+License: LGPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

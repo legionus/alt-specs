@@ -12,7 +12,7 @@ Summary:        A C++ Wrapper for the SQLite3 embeddable SQL database engine
 
 Group:          System/Libraries
 # fix license tag: https://bugzilla.redhat.com/show_bug.cgi?id=491618
-License:        zlib
+License:        Zlib
 URL:            http://www.wanderinghorse.net/computing/sqlite/
 Source0:        http://www.wanderinghorse.net/computing/sqlite/%{name}-%{veryear}.%{vermon}.%{verday}.tar.gz
 Source1:        libsqlite3x-autotools.tar.gz

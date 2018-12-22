@@ -8,7 +8,7 @@ Name:           perl-DBIx-Class-Cursor-Cached
 Version:        1.001004
 Release:        alt1_6
 Summary:        Cursor class with built-in caching support
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DBIx-Class-Cursor-Cached
 Source0:        https://cpan.metacpan.org/authors/id/A/AR/ARCANEZ/DBIx-Class-Cursor-Cached-%{version}.tar.gz

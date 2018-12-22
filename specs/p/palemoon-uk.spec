@@ -19,7 +19,7 @@ Version: 27.9.0
 Release: alt1
 
 Summary: Ukrainian (UA) Language Pack for Pale Moon
-License: MPL/GPL/LGPL
+License: MPL or GPL-1.0-only or LGPL-1.0-only
 
 Group: Networking/WWW
 Url: http://www.palemoon.org/langpacks.shtml

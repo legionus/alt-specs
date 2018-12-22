@@ -5,7 +5,7 @@ Version: 0.1.14
 Release: alt2.1
 
 Summary: Azure Ruby SDK Service Management Core HTTP
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/Azure/azure-ruby-asm-core
 

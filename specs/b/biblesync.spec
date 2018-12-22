@@ -5,7 +5,7 @@ Version: 1.2.0
 Release: alt2
 Summary: A Cross-platform library for sharing Bible navigation
 Group: System/Libraries
-License: Public Domain
+License: ALT-Public-Domain
 Url: http://www.xiphos.org
 Source: https://github.com/karlkleinpaste/biblesync/releases/download/%version/biblesync-%version.tar.gz
 Source44: %name.watch

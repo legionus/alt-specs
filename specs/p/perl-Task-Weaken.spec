@@ -20,7 +20,7 @@ Release: alt1
 
 Summary: Ensure that a platform has weaken support
 
-License: Perl (Artistic and GPL)
+License: Perl (Artistic and GPL-1.0-only)
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Task-Weaken/
 

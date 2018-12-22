@@ -12,7 +12,7 @@ Name:           fonts-ttf-gdouros-avdira
 Version:        8.01
 Release:        alt1_1
 Summary:        A font based on elements created by Demetrios Damilas (late 15th c.)
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://users.teilar.gr/~g1951d/
 Source0:        http://users.teilar.gr/~g1951d/Textfonts.zip
 Source1:        %{oldname}-fontconfig.conf

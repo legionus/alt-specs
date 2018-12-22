@@ -12,7 +12,7 @@ Name:          rome
 Version:       1.7.0
 Release:       alt1_4jpp8
 Summary:       RSS and Atom Utilities
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://rometools.github.io/rome/
 # Original source archive 73,8 MB
 # sh rome-create-tarball.sh < VERSION >
@@ -71,7 +71,7 @@ Summary:       Plugin collection for the ROME RSS and Atom Utilities
 # rome-modules/src/main/java/com/rometools/modules/photocast/PhotocastModule.java
 # rome-modules/src/main/java/com/rometools/modules/slash/Slash.java
 # rome-modules/src/main/java/com/rometools/modules/yahooweather/YWeatherEntryModule.java
-License:       ASL 2.0 and LGPLv2
+License:       Apache-2.0 and LGPLv2
 
 %description modules
 This module contains extensions that enable ROME to

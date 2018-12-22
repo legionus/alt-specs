@@ -8,7 +8,7 @@ Name:           perl-Unicode-LineBreak
 Version:        2018.003
 Release:        alt1
 Summary:        UAX #14 Unicode Line Breaking Algorithm
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/Unicode-LineBreak/
 Source0:        http://www.cpan.org/authors/id/N/NE/NEZUMI/Unicode-LineBreak-%{version}.tar.gz

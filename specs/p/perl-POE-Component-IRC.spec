@@ -5,7 +5,7 @@ Version: 6.90
 Release: alt1
 
 Summary: A fully event-driven IRC client dist
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.28
 Release: alt1.1
 Summary: Library to create and modify Mozilla application profiles
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/mozprofile/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

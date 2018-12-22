@@ -4,7 +4,7 @@ Name: qpid-tools
 Version: 0.32
 Release: alt1
 Summary: Management and diagostic tools for Apache Qpid
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Url: http://qpid.apache.org
 Source: %name-%version.tar

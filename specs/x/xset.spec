@@ -2,7 +2,7 @@ Name: xset
 Version: 1.2.4
 Release: alt1
 Summary: user preference utility for X
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

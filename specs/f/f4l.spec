@@ -6,7 +6,7 @@ Summary: SWF designer and generator
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 
-License: GPL v2
+License: GPL-2.0-only
 Group: Publishing
 Url: http://f4l.sourceforge.net/
 

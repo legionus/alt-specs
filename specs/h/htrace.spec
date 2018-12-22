@@ -10,7 +10,7 @@ Name: htrace
 Version: 3.1.0
 Release: alt1_7jpp8
 Summary: Tracing framework for java based distributed systems
-License: ASL 2.0
+License: Apache-2.0
 URL:     https://%{name}.incubator.apache.org
 Source0: https://archive.apache.org/dist/incubator/%{name}/%{name}-%{version}-incubating/%{name}-%{version}-incubating-src.tar.gz
 

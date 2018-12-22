@@ -2,7 +2,7 @@ Summary: Utility to wrap a Linux kernel and initrd into an ELF or NBI file
 Name: wraplinux
 Version: 1.7
 Release: alt1
-License: GPL2
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 Url: http://www.kernel.org/pub/linux/utils/boot/wraplinux/
 Source: http://www.kernel.org/pub/linux/utils/boot/wraplinux/wraplinux-%version.tar.gz

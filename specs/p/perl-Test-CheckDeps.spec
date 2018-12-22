@@ -7,7 +7,7 @@ Version: 0.010
 Release: alt1
 
 Summary: Check for presence of dependencies
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

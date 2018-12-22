@@ -9,7 +9,7 @@ Release: alt1.2
 Summary: A high performance, lightweight messaging library
 Group: System/Libraries
 
-License: ASL 2.0
+License: Apache-2.0
 Url: http://qpid.apache.org/proton/
 
 Source: %name-%version.tar

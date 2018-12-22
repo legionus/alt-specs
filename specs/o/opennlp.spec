@@ -10,7 +10,7 @@ Name:          opennlp
 Version:       1.5.3
 Release:       alt1_6jpp8
 Summary:       A machine learning based toolkit for the processing of natural language text
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://opennlp.apache.org/
 Source0:       http://www.apache.org/dist/opennlp/%{name}-%{version}/apache-%{name}-%{version}-src.tar.gz
 

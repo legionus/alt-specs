@@ -5,7 +5,7 @@ Version: 1.06
 Release: alt4
 
 Summary: Checks for taintedness of variables
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

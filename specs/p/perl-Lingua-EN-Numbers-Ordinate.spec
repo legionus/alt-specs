@@ -9,7 +9,7 @@ Summary: Go from cardinal number (3) to ordinal ("3rd")
 Summary(ru_RU.UTF8): Преобразование количественных чисел (3) в порядковые (3rd)
 Group: Development/Perl
 URL: http://interglacial.com/~sburke
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/authors/id/N/NE/NEILB/Lingua-EN-Numbers-Ordinate-%{version}.tar.gz
 Buildarch: noarch
 AutoReqProv: yes, perl

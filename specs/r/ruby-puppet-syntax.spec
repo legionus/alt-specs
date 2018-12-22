@@ -5,7 +5,7 @@ Version: 2.0.0
 Release: alt1.1
  
 Summary: Syntax checks for Puppet manifests and templates
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/gds-operations/puppet-syntax
  

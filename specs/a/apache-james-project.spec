@@ -10,7 +10,7 @@ Name:           apache-james-project
 Version:        1.8.1
 Release:        alt1_16jpp8
 Summary:        Main project POM files and resources
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://james.apache.org/
 BuildArch:      noarch
 

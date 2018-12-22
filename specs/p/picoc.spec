@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: PicoC is a very small C interpreter for scripting
 
-License: New BSD License
+License: BSD-3-Clause
 Group: Development/C
 Url: https://gitlab.com/zsaleeba/picoc
 

@@ -6,7 +6,7 @@ Version: 1.12
 Release: alt1
 
 Summary: Pure-Perl OpenPGP-compatible PGP implementation
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

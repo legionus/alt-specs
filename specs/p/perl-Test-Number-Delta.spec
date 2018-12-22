@@ -5,7 +5,7 @@ Version: 1.06
 Release: alt1
 
 Summary: Compare the difference between numbers against a given tolerance
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

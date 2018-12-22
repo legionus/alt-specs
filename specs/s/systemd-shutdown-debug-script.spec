@@ -5,7 +5,7 @@ Version: 0.1
 Release: alt1
 
 Summary: %scriptpath
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Boot and Init
 
 Url: http://www.freedesktop.org/wiki/Software/systemd/Debugging/#index2h1

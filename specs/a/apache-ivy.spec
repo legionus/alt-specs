@@ -21,7 +21,7 @@ Version:        2.4.0
 Release:        alt1_12jpp8
 Summary:        Java-based dependency manager
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://ant.apache.org/ivy
 Source0:        http://www.apache.org/dist/ant/ivy/%{version}/%{name}-%{version}-src.tar.gz
 BuildArch:      noarch

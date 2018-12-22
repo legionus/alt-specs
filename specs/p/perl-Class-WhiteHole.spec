@@ -4,7 +4,7 @@ Version: 0.04
 Release: alt2
 
 Summary: Base class to treat unhandled method calls as errors
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

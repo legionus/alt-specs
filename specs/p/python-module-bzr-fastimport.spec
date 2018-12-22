@@ -11,7 +11,7 @@ Source: %name-%version.tar
 Patch: %name-%version.patch
 Group: Development/Other
 Url: https://launchpad.net/bzr-fastimport
-License: GPL2
+License: GPL-2.0-only
 
 BuildRequires(pre): rpm-build-ubt
 BuildRequires: python-devel

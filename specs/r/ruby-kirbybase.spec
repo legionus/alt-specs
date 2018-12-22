@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Small, plain-text, dbms written in Ruby
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/kirbybase/
 
 Packager: Ruby Maintainers Team <ruby@packages.altlinux.org>

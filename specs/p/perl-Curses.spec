@@ -5,7 +5,7 @@ Version: 1.36
 Release: alt1.1.1
 
 Summary: Terminal screen handling and optimization
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

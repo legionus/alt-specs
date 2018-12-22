@@ -5,7 +5,7 @@ Version: 2.2.14
 Release: alt1
  
 Summary: A simple class based Config mechanism, similar to the one found in Chef
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/mixlib-config
  

@@ -15,7 +15,7 @@ Version: 20080702
 Release: alt3_18
 Summary: GFS Didot Classic Greek font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces19th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

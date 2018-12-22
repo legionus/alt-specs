@@ -5,7 +5,7 @@ Version: 3.0.2
 Release: alt1.1
 
 Summary: Parsing Expressions for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/mjackson/citrus
 

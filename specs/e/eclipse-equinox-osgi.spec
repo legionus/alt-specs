@@ -1,7 +1,7 @@
 Name: eclipse-equinox-osgi
 Version: 4.6.0
 Summary: Eclipse OSGi - Equinox
-License: EPL
+License: EPL-1.0
 Url: http://www.eclipse.org/
 Epoch: 1
 Packager: Igor Vlasenko <viy@altlinux.ru>

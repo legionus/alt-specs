@@ -12,7 +12,7 @@ Release: alt1.1.1
 Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: Perl && C++/XS module to access static db (SDB) files.
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Source: %module-%version.tar.gz
 

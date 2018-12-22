@@ -7,7 +7,7 @@ Packager: Korneechev Evgeniy <ekorneechev@altlinux.org>
 
 Summary: Cloud platform
 Group: Networking/WWW
-License: AGPLv3
+License: AGPL-3.0-only
 Url: https://nextcloud.com/
 
 BuildArch: noarch

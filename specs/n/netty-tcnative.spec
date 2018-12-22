@@ -17,7 +17,7 @@ Name:           netty-tcnative
 Version:        1.1.30
 Release:        alt3_10jpp8
 Summary:        Fork of Tomcat Native with improved OpenSSL and mavenized build
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/netty/netty/wiki/Forked-Tomcat-Native
 Source0:        https://github.com/netty/netty-tcnative/archive/%{name}-%{namedversion}.tar.gz
 Source1:        CheckLibrary.java

@@ -5,7 +5,7 @@ Version: 1.3.7
 Release: alt1.%php5_version.%php5_release
 
 Summary: PHP MongoDB driver
-License: Apache license
+License: Apache
 Group: System/Servers
 
 Source0: %name-%version.tar

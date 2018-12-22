@@ -10,7 +10,7 @@ Release: alt1.1
 
 Summary: a simple interface to Gtk2's complex MVC list widget 
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 URL: http://search.cpan.org/~rmcfarla/Gtk2-Ex-Simple-List/
 

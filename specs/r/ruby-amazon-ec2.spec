@@ -5,7 +5,7 @@ Version: 0.9.17
 Release: alt2.1
 
 Summary: A Ruby Gem that gives you full access to several of the Amazon Web Services API from your Ruby/Ruby on Rails apps
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/grempe/amazon-ec2
 

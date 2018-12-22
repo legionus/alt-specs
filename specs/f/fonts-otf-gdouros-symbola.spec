@@ -18,7 +18,7 @@ Summary:        A symbol font
 # Fonts and documents in this site are not pieces of property or merchandise
 # items; they carry no trademark, copyright, license or other market tags;
 # they are free for any use. George Douros"
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://users.teilar.gr/~g1951d/
 Source0:        http://users.teilar.gr/~g1951d/Symbola.zip
 Source1:        %{oldname}-fontconfig.conf

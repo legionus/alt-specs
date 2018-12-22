@@ -4,7 +4,7 @@ Version: 0.02
 Release: alt1
 
 Summary: Porter's stemming algorithm for Italian
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

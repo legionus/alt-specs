@@ -14,7 +14,7 @@ Name:          artemis
 Version:       1.4.0
 Release:       alt1_8jpp8
 Summary:       Java high performance, clustered, asynchronous messaging system
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://activemq.apache.org/artemis/
 Source0:       https://github.com/apache/activemq-artemis/archive/%{version}/%{name}-%{version}.tar.gz
 
@@ -108,7 +108,7 @@ ActiveMQ Artemis CLI.
 Group: Development/Java
 Summary:       ActiveMQ Artemis Commons
 # ./artemis-commons/src/main/java/org/apache/activemq/artemis/utils/Base64.java
-License:       ASL 2.0 and Public Domain
+License:       Apache-2.0 and ALT-Public-Domain
 BuildArch:     noarch
 Provides:      bundled(java-base64) = 2.2.2
 

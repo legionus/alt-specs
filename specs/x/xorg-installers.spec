@@ -3,7 +3,7 @@ Version: 7.8
 Release: alt9
 
 Summary: Set of various Xorg-related installers
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 %description

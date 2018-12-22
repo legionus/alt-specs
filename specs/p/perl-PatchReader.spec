@@ -4,7 +4,7 @@ Version: 0.9.6
 Release: alt1
 
 Summary: Utilities to read and manipulate patches and CVS
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

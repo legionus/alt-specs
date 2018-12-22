@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt3
 Summary: Generic plugin framework for Java look-and-feels
 Group: Development/Java
-License: BSD and zlib
+License: BSD and Zlib
 BuildArch: noarch
 Url: https://laf-plugin.dev.java.net/
 

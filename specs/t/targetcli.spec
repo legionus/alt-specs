@@ -1,5 +1,5 @@
 Name:           targetcli
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          System/Libraries
 Summary:        An administration shell for storage targets
 Version:        2.1.fb35

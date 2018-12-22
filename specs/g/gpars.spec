@@ -10,7 +10,7 @@ Name:           gpars
 Version:        1.2.1
 Release:        alt1_11jpp8
 Summary:        Groovy Parallel Systems
-License:        ASL 2.0 and Public Domain
+License:        Apache-2.0 and ALT-Public-Domain
 URL:            http://gpars.codehaus.org
 BuildArch:      noarch
 

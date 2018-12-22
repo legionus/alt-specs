@@ -3,7 +3,7 @@ Version:  3.3.1
 Release:  alt2
 
 Summary:  Library to store and exchange meshed data or computation result in MED format
-License:  GPLv3 and LGPLv3
+License:  GPL-3.0-only and LGPLv3
 Group:    System/Libraries
 Url:      https://www.salome-platform.org/downloads/current-version
 

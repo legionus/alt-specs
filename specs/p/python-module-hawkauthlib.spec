@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.1.1
 Release: alt1.git20131112.1.1
 Summary: Low-level library for implementing MAC Access Authentication
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/hawkauthlib/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

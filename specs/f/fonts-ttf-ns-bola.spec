@@ -14,7 +14,7 @@ Release:        alt3_13
 Summary:        Chunky Geometric Fonts
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.nuevostudio.com/project/bola/
 Source0:        http://www.nuevostudio.com/files/downloads/bola.zip
 Source1:        %{oldname}-fontconfig.conf

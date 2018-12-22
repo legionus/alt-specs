@@ -6,7 +6,7 @@ Version: %ver_major.3
 Release: alt3
 
 Summary: BAMF Application Matching Framework
-License: GPLv3/LGPLv3
+License: GPL-3.0-only or LGPLv3
 Group: Graphical desktop/Other
 Url: https://launchpad.net/bamf
 

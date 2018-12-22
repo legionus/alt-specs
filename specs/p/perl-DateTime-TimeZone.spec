@@ -6,7 +6,7 @@ Version: 2.21
 Release: alt1
 
 Summary: Time zone object base class and factory
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

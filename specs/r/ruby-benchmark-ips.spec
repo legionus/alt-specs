@@ -5,7 +5,7 @@ Version: 1.2.0
 Release: alt2.gite47e416
  
 Summary: A iterations per second enhancement to Benchmark
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/evanphx/benchmark-ips
  

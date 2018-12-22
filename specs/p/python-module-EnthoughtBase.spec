@@ -8,7 +8,7 @@ Release:        alt1.svn20110127.1
 Summary:        Core packages for the Enthought Tool Suite
 
 Group:          Development/Python
-License:        BSD and/or LGPLv2+
+License:        BSD or LGPLv2+
 URL:            http://pypi.python.org/pypi/EnthoughtBase/%version
 # https://svn.enthought.com/svn/enthought/EnthoughtBase
 Source:        EnthoughtBase-%version.tar.gz

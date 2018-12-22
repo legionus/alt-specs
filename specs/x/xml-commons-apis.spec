@@ -11,7 +11,7 @@ Name:          xml-commons-apis
 Version:       1.4.01
 Release:       alt3_25jpp8
 Summary:       APIs for DOM, SAX, and JAXP
-License:       ASL 2.0 and W3C and Public Domain
+License:       Apache-2.0 and W3C and ALT-Public-Domain
 URL:           http://xml.apache.org/commons/
 BuildArch:     noarch
 

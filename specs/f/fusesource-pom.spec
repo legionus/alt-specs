@@ -11,7 +11,7 @@ Name:             fusesource-pom
 Version:          1.11
 Release:          alt1_3jpp8
 Summary:          Parent POM for FuseSource Maven projects
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://fusesource.com/
 Source0:          http://repo1.maven.org/maven2/org/fusesource/fusesource-pom/%{version}/fusesource-pom-%{version}.pom
 Source1:          http://www.apache.org/licenses/LICENSE-2.0.txt

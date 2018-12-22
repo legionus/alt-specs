@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: DRAKON Editor is a free cross-platform editor for the DRAKON visual language
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Tools
 Url: http://drakon-editor.sourceforge.net/
 

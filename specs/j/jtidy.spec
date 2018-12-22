@@ -12,7 +12,7 @@ Version:          1.0
 Release:          alt3_0.26.20100930svn1125jpp8
 Epoch:            3
 Summary:          HTML syntax checker and pretty printer
-License:          zlib
+License:          Zlib
 URL:              http://jtidy.sourceforge.net/
 # svn export -r1125 https://jtidy.svn.sourceforge.net/svnroot/jtidy/trunk/jtidy/ jtidy
 # tar caf jtidy.tar.xz jtidy

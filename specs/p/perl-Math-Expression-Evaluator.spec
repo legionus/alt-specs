@@ -8,7 +8,7 @@ Name:           perl-Math-Expression-Evaluator
 Version:        0.3.2
 Release:        alt2_15
 Summary:        Parses, compiles and evaluates mathematics expressions
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            http://search.cpan.org/dist/Math-Expression-Evaluator/
 Source0:        http://www.cpan.org/authors/id/M/MO/MORITZ/Math-Expression-Evaluator-v%{version}.tar.gz

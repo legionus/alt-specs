@@ -25,7 +25,7 @@ Epoch:          1
 Version:        3.5.3
 Release:        alt1_1jpp8
 Summary:        Java project management and project comprehension tool
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/
 BuildArch:      noarch
 

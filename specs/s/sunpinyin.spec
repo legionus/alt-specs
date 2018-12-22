@@ -9,7 +9,7 @@ Version: 2.0.4
 Release: alt2_0.11
 Summary: A statistical language model based Chinese input method engine
 Group: System/Libraries
-License: LGPLv2 or CDDL
+License: LGPLv2 or CDDL-1.0
 Packager: Ilya Mashkin <oddity@altlinux.ru>
 Url: http://code.google.com/p/sunpinyin/
 Source0: %name-%gitdate.tar.xz

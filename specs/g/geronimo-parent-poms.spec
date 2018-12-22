@@ -10,7 +10,7 @@ Name:           geronimo-parent-poms
 Version:        1.6
 Release:        alt3_25jpp8
 Summary:        Parent POM files for geronimo-specs
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://geronimo.apache.org/
 BuildArch:      noarch
 

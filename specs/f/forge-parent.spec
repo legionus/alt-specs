@@ -10,7 +10,7 @@ Name:           forge-parent
 Version:        38
 Release:        alt1_11jpp8
 Summary:        Sonatype Forge Parent Pom
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://docs.sonatype.org/display/FORGE/Index
 BuildArch:      noarch
 

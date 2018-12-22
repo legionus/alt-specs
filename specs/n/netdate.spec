@@ -1,5 +1,5 @@
 Name: netdate
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/Other
 Version: 1.2
 Release: alt2.qa1

@@ -19,7 +19,7 @@ Release: alt1
 
 Summary: template storage methods for Module::Starter
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: %CPAN %m_distro
 

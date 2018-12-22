@@ -4,7 +4,7 @@ Version: 1.04
 Release: alt4.1.1.1.1
 
 Summary: Linux/POSIX emulation of Win32::SerialPort functions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

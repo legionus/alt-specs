@@ -8,7 +8,7 @@ Name: ngsolve
 Version: 6.2.1808
 Release: alt1
 Summary: NGSolve Finite Element Library
-License: GPL or LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: Sciences/Mathematics
 Url: http://sourceforge.net/projects/ngsolve/
 #Git: https://github.com/NGSolve/ngsolve.git

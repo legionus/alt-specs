@@ -14,7 +14,7 @@ Release:        alt2_28
 # but not in RPM world :-(
 Epoch:          1
 Summary:        Find the differences between two arrays
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Array-Diff
 Source0:        https://cpan.metacpan.org/authors/id/T/TY/TYPESTER/Array-Diff-%{version}.tar.gz

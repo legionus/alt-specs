@@ -17,7 +17,7 @@ BuildRequires: perl-podlators
 Name:       perl-DateTime-Format-Flexible
 Version:    0.31
 Release:    alt1_1
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Summary:    Flexibly parse strings and turn them into DateTime objects
 Source:     https://cpan.metacpan.org/authors/id/T/TH/THINC/DateTime-Format-Flexible-%{version}.tar.gz
 Url:        https://metacpan.org/release/DateTime-Format-Flexible

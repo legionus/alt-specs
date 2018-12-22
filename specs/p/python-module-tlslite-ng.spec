@@ -9,7 +9,7 @@ Name: python-module-%oname
 Version: 0.7.5
 Release: alt1
 Summary: Pure python implementation of SSL and TLS
-License: BSD & LGPLv2
+License: BSD and LGPLv2
 Group: Development/Python
 Url: https://pypi.org/project/tlslite-ng/
 BuildArch: noarch

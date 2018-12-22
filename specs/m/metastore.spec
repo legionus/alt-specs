@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Store and restore metadata from a filesystem
 
-License: GPL2
+License: GPL-2.0-only
 Group: Development/Other
 Url: https://github.com/przemoc/metastore
 

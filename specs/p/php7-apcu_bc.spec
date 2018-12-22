@@ -8,7 +8,7 @@ Release:	%php7_release
 
 Summary:	PHP7 extension apcu_bc - APCu Backwards Compatibility Module
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		https://pecl.php.net/package/apcu_bc
 #URL:		https://github.com/krakjoe/apcu-bc

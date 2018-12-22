@@ -6,7 +6,7 @@ Version: 1.3.3
 Release: alt1.1.2
 Summary: Retrying library
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url:  https://github.com/rholder/retrying
 Source: %name-%version.tar
 

@@ -5,7 +5,7 @@ Version: 1.0.1
 Release: alt1.1
 
 Summary: Provides a simple API for making composable shell pipelines for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ioquatix/process-pipeline
 

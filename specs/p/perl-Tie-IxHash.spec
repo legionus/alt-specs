@@ -6,7 +6,7 @@ Release: alt1
 Packager: Andrey Brindeew <abr@altlinux.ru>
 
 Summary: Ordered associative arrays for Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

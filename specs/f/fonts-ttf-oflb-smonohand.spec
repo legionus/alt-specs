@@ -10,7 +10,7 @@ Release:        alt3_13
 Summary:        A handwritten monospace font
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://openfontlibrary.org/media/files/dalles/403
 Source0:        http://openfontlibrary.org/people/dalles/dalles_-_SMonohand.ttf
 Source1:        %{oldname}-fontconfig.conf

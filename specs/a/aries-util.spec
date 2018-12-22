@@ -12,7 +12,7 @@ Name:          aries-util
 Version:       1.1.1
 Release:       alt1_4jpp8
 Summary:       Apache Aries Util
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://aries.apache.org/
 #Source0:       http://www.apache.org/dist/aries/%%{bundle}-parent-%%{version}-source-release.zip
 Source0:       http://central.maven.org/maven2/org/apache/aries/%{bundle}-parent/%{version}/%{bundle}-parent-%{version}-source-release.zip

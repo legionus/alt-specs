@@ -5,7 +5,7 @@ Version: 0.02
 Release: alt1
 
 Summary: Stemmers for Portuguese and Galician
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

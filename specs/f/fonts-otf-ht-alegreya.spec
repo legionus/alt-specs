@@ -26,7 +26,7 @@ Name:		fonts-otf-ht-alegreya
 Version:	1.004
 Release:	alt1_9
 Summary:	A Serif typeface originally intended for literature
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.huertatipografica.com.ar/tipografias/alegreya/ejemplos.html
 Source0:	http://www.huertatipografica.com.ar/descargas/Alegreya.zip
 Source1:	%{oldname}-fontconfig.conf

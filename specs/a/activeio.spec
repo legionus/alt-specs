@@ -12,7 +12,7 @@ Name:          activeio
 Version:       3.1.4
 Release:       alt2_15jpp8
 Summary:       Apache ActiveMQ ActiveIO :: Core
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://activemq.apache.org/
 # svn export http://svn.apache.org/repos/asf/activemq/activeio/tags/activeio-parent-3.1.4/ activeio-3.1.4
 # tar czf activeio-3.1.4-src-svn.tar.gz activeio-3.1.4

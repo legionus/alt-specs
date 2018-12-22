@@ -5,7 +5,7 @@ Release: alt1
 Summary: Macros for comfort build xfce4 and plugins
 Summary(ru_RU.UTF-8): Макросы для удобной сборки Xfce
 Group: Graphical desktop/XFce
-License: Public Domain
+License: ALT-Public-Domain
 Packager: Xfce Team <xfce@packages.altlinux.org>
 
 Source: xfce4.macros

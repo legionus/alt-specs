@@ -8,7 +8,7 @@ Name:           perl-Devel-Comments
 Version:        1.1.4
 Release:        alt2_18
 Summary:        Debug with executable smart comments to logs
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Devel-Comments
 Source0:        https://cpan.metacpan.org/authors/id/X/XI/XIONG/developer-tools/Devel-Comments-v%{version}.tar.gz

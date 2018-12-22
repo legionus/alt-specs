@@ -15,7 +15,7 @@ Name:           apache-resource-bundles
 Version:        2
 Release:        alt4_20jpp8
 Summary:        Apache Resource Bundles
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://repo1.maven.org/maven2/org/apache/apache-resource-bundles/
 BuildArch:      noarch
 

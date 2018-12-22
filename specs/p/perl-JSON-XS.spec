@@ -6,7 +6,7 @@ Release: alt1
 Epoch: 2
 
 Summary: JSON serialising/deserialising, done correctly and fast
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

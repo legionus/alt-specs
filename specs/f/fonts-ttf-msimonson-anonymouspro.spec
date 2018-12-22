@@ -14,7 +14,7 @@ Release:        alt4_12
 Summary:        A coding-friendly monospace font
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.ms-studio.com/FontSales/anonymouspro.html
 Source0:        http://www.ms-studio.com/FontSales/AnonymousPro-1.002.zip
 Source1:        %{oldname}-fontconfig.conf

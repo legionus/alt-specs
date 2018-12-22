@@ -18,7 +18,7 @@ Name:          native-platform
 Version:       0.14
 Release:       alt1_13jpp8
 Summary:       Java bindings for various native APIs
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/adammurdoch/native-platform
 Source0:       https://github.com/adammurdoch/native-platform/archive/%{namedversion}.tar.gz
 # From Debian

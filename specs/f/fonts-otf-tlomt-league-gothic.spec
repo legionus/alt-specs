@@ -13,7 +13,7 @@ Version:        1.0
 Release:        alt2_12
 Summary:        A sans serif gothic typeface
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.theleagueofmoveabletype.com/fonts/7-league-gothic
 Source0:        http://s3.amazonaws.com/theleague-production/fonts/league-gothic.zip
 Source1:        %{oldname}-fontconfig.conf

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: PHP_Debug provides assistance in debugging PHP code
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/PHP_Debug
 

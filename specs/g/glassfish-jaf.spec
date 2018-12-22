@@ -50,7 +50,7 @@ Version:        1.1.0
 Release:        alt5_6jpp6
 Epoch:          0
 Summary:        Glassfish - JavaBeans Activation Framework
-License:        CDDL
+License:        CDDL-1.0
 Group:          Development/Java
 URL:            http://glassfish.dev.java.net/
 Source0:        %{name}-%{version}.tar.gz

@@ -7,7 +7,7 @@ Epoch: 1
 
 Summary: Create charts using GD
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 
 URL: %CPAN %dist
 Source: http://www.cpan.org/authors/id/R/RU/RUZ/GDGraph-%{version}.tar.gz

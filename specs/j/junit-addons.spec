@@ -11,7 +11,7 @@ Name:          junit-addons
 Version:       1.4
 Release:       alt3_16jpp8
 Summary:       JUnitX helper classes for JUnit
-License:       ASL 1.1
+License:       Apache-1.1
 Url:           http://sourceforge.net/projects/junit-addons/
 Source0:       http://sourceforge.net/projects/%{name}/files/JUnit-addons/JUnit-addons%%20%{version}/%{name}-%{version}.zip
 # from http://junit-addons.cvs.sourceforge.net/viewvc/junit-addons/junit-addons/build.xml?view=markup&pathrev=release_1_4

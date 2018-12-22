@@ -8,7 +8,7 @@ Version:        2.11.3
 Release:        alt1_1
 Summary:        Palette quantization library
 
-License:        GPLv3+ and MIT
+License:        GPL-3.0-or-later and MIT
 URL:            https://github.com/ImageOptim/libimagequant
 Source0:        %{url}/archive/%{version}/%{name}-%{version}.tar.gz
 

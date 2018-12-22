@@ -13,7 +13,7 @@ Name:           qdox
 Version:        2.0
 Release:        alt1_0.12.M7jpp8
 Epoch:          1
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/paul-hammant/qdox
 BuildArch:      noarch
 

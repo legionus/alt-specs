@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Provides an implementation of the IMAP protocol
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_IMAP
 

@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Qt plugin that bridges Qt's accessibility API to AT-SPI2
 Url: git://anongit.kde.org/qtatspi
-License: LGPL v2.1+
+License: LGPL-2.1-or-later
 Group: Accessibility
 
 Source: %name-%version.tar

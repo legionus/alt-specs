@@ -14,7 +14,7 @@ Name:          fonts-ttf-monofett
 Version:       1.000
 Release:       alt1_0.7.%{alphatag}
 Summary:       Monofett font released by Vernon Adams
-License:       OFL
+License:       OFL-1.0
 URL:           https://www.google.com/fonts/specimen/Monofett
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/monofett/src/Monofett.sfd
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/monofett/OFL.txt

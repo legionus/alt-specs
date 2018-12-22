@@ -8,7 +8,7 @@ Release: alt1
 Packager: Victor Forsiuk <force@altlinux.org>
 
 Summary: %module_name module for perl
-License: CC0 1.0
+License: CC0
 Group: Development/Perl
 
 Url: %CPAN %module_name

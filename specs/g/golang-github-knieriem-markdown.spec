@@ -42,7 +42,7 @@ Version:        0
 Release:        alt1_5.git%{shortcommit}
 
 Summary:        A translation of peg-markdown into Go
-License:        GPLv2+ or MIT
+License:        GPL-2.0-or-later or MIT
 
 URL:            https://%{provider_prefix}
 

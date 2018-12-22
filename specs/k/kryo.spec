@@ -11,7 +11,7 @@ Version:       3.0.3
 Release:       alt1_5jpp8
 Summary:       Object graph serialization framework for Java
 # ASL: src/com/esotericsoftware/kryo/util/IdentityMap.java src/com/esotericsoftware/kryo/util/IntMap.java
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 Url:           https://github.com/EsotericSoftware/kryo
 Source0:       https://github.com/EsotericSoftware/kryo/archive/%{name}-parent-%{version}.tar.gz
 Source1:       http://www.apache.org/licenses/LICENSE-2.0.txt

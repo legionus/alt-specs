@@ -3,7 +3,7 @@ Version: 0.43
 Release: alt2
 Summary: Pure Perl implementation for parsing/writing XML documents
 Group: Development/Other
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 URL: https://metacpan.org/release/XML-TreePP
 Source0: https://cpan.metacpan.org/authors/id/K/KA/KAWASAKI/XML-TreePP-%{version}.tar.gz
 

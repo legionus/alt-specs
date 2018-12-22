@@ -10,7 +10,7 @@ Version:       0.05
 Release:       alt1_8
 Summary:       Build a URI from a set of named parameters 
 # see lib/URI/FromHash.pm
-License:       GPL+ or Artistic
+License:       GPL-1.0-or-later or Artistic
 
 Url:           https://metacpan.org/release/URI-FromHash
 Source0:        https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/URI-FromHash-%{version}.tar.gz

@@ -3,7 +3,7 @@ Version: 0.4
 Release: alt1
 
 Summary: WindowMaker configuration for livecd-install
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://altlinux.org/m-p

@@ -10,7 +10,7 @@ Name:             rhq-plugin-annotations
 Version:          3.0.4
 Release:          alt2_14jpp8
 Summary:          RHQ plugin annotations
-License:          GPL and LGPLv2+
+License:          GPL-1.0-only and LGPLv2+
 URL:              http://rhq-project.org
 
 # git clone git://git.fedorahosted.org/rhq/rhq.git

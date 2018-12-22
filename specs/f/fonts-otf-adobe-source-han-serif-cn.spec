@@ -15,7 +15,7 @@ Version:        1.001
 Release:        alt1_6
 Summary:        Adobe OpenType Pan-CJK font family for Simplified Chinese
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/adobe-fonts/source-han-serif/
 Source0:        https://github.com/adobe-fonts/source-han-serif/raw/release/SubsetOTF/%{archivename}.zip
 Source1:        %{oldname}-fontconfig.conf

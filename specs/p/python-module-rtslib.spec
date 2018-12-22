@@ -1,7 +1,7 @@
 %def_with python3
 
 Name:           python-module-rtslib
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          Development/Python
 Summary:        API for Linux kernel LIO SCSI target
 Version:        2.1.fb48

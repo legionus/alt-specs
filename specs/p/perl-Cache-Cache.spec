@@ -19,7 +19,7 @@ Release: alt1
 
 Summary: Cache-Cache - - the Cache interface
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/~dclinton/Cache-Cache-1.04
 

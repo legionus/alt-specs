@@ -12,7 +12,7 @@ Version:    1.003006
 Release:    alt1
 
 Summary:    Persist compile hints between evals
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/H/HA/HAARG/%{upstream_name}-%{version}.tar.gz

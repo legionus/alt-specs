@@ -5,7 +5,7 @@ Name: perl-SQL-Tokenizer
 Version: 0.24
 Release: alt1
 Summary: Simple SQL tokenizer
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/SQL-Tokenizer/
 Source: %sname-%version.tar

@@ -8,7 +8,7 @@ Name:           perl-accessors
 Version:        1.01
 Release:        alt1_25
 Summary:        Create accessor methods in caller's package
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/accessors
 Source0:        https://cpan.metacpan.org/authors/id/S/SP/SPURKIS/accessors-%{version}.tar.gz

@@ -17,7 +17,7 @@ Version:       2.0
 Release:       alt1_0.22.alpha.3jpp8
 Summary:       Compile JSPs under Maven
 Group:         Development/Other
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://mojo.codehaus.org/jspc/
 # svn export https://svn.codehaus.org/mojo/tags/jspc-2.0-alpha-3 jspc
 # tar czf jspc-2.0-alpha-3-src-svn.tar.gz jspc

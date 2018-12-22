@@ -8,7 +8,7 @@ Name:		perl-Regexp-Grammars
 Version:	1.049
 Release:	alt1_1
 Summary:	Add grammatical parsing features to perl regular expressions
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Other
 URL:		https://metacpan.org/release/Regexp-Grammars
 Source0:	https://cpan.metacpan.org/authors/id/D/DC/DCONWAY/Regexp-Grammars-%{version}.tar.gz

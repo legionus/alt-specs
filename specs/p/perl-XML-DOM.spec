@@ -5,7 +5,7 @@ Version: 1.46
 Release: alt1
 
 Summary: A module for building DOM Level 1 compliant document structures
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

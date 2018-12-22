@@ -10,7 +10,7 @@ Url: http://www.dtek.chalmers.se/~henoch/text/xprintidle.html
 Group: System/X11
 
 Packager: Evgenii Terechkov <evg@altlinux.ru>
-License: GPL2
+License: GPL-2.0-only
 
 BuildPreReq: gcc
 # Automatically added by buildreq on Thu Apr 08 2010 (-bi)

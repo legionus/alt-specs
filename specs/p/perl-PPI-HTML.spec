@@ -19,7 +19,7 @@ Release: alt1.1
 
 Summary: Generate syntax-hightlighted HTML for Perl using PPI
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/PPI-HTML/
 

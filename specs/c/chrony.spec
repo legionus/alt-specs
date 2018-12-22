@@ -5,7 +5,7 @@ Version: 3.4
 Release: alt1
 
 Summary: Chrony clock synchronization program
-License: GPLv2 only
+License: GPL-2.0-only
 Group: System/Configuration/Other
 
 Url: http://chrony.tuxfamily.org

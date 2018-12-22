@@ -6,7 +6,7 @@ Version: 0.49
 Release: alt1.1
 
 Summary: Method declarations with type constraints and no source filter
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

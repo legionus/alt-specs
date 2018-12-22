@@ -3,7 +3,7 @@
 Name: libsmbios
 Version: 2.4.1
 Release: alt2
-License: GPLv2+ or OSL 2.1
+License: GPL-2.0-or-later or OSL-2.1
 Summary: Libsmbios C/C++ shared libraries
 Group: System/Libraries
 Source: %name-%version.tar

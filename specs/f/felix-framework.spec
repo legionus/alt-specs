@@ -12,7 +12,7 @@ Name:           felix-framework
 Version:        5.6.0
 Release:        alt1_4jpp8
 Summary:        Apache Felix Framework
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org
 BuildArch:      noarch
 

@@ -5,7 +5,7 @@ Version: 1.39
 Release: alt1
 
 Summary: Wrapper Class for the various JSON classes
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

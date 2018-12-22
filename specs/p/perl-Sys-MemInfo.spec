@@ -8,7 +8,7 @@ Name:           perl-Sys-MemInfo
 Version:        0.99
 Release:        alt3_7
 Summary:        Memory information as Perl module
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Sys-MemInfo
 Source0:        https://cpan.metacpan.org/authors/id/S/SC/SCRESTO/Sys-MemInfo-%{version}.tar.gz

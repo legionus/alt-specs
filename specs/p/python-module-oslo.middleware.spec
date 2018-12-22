@@ -5,7 +5,7 @@ Version: 3.36.0
 Release: alt1
 Summary: OpenStack oslo.middleware library
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 

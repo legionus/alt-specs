@@ -59,7 +59,7 @@ Release: alt1
 
 Group:   System/Servers
 Summary: Samba Active Directory Domain Controller
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Url:     http://www.samba.org/
 
 Source:  %rname-%version.tar

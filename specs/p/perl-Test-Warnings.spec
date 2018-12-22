@@ -22,7 +22,7 @@ Name:		perl-Test-Warnings
 Version:	0.026
 Release:	alt1_8
 Summary:	Test for warnings and the lack of them
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Other
 URL:		https://metacpan.org/release/Test-Warnings
 Source0:	https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Warnings-%{version}.tar.gz

@@ -5,7 +5,7 @@ Version: 2.01
 Release: alt1
 
 Summary: Pod Object Model
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

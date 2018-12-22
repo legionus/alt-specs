@@ -9,7 +9,7 @@ BuildRequires: jpackage-generic-compat
 Name:           osgi-core
 Version:        6.0.0
 Release:        alt1_6jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 Summary:        OSGi Core API
 URL:            https://www.osgi.org
 Source0:        https://repo1.maven.org/maven2/org/osgi/osgi.core/%{version}/osgi.core-%{version}-sources.jar

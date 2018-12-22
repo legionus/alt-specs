@@ -16,7 +16,7 @@ Summary:       JSR-310 - Date and Time API
 #        src-openjdk/main/java/java/util/Calendar.java
 #        src-openjdk/main/java/java/util/Date.java
 # Public Domain:  src/main/tzdata/tzdata200*.tar.gz
-License:       BSD and GPLv2+ and Public Domain
+License:       BSD and GPL-2.0-or-later and ALT-Public-Domain
 URL:           http://threeten.github.com/
 Source0:       https://github.com/ThreeTen/%{oname}/archive/v%{version}.tar.gz
 Source1:       %{name}-template-pom.xml

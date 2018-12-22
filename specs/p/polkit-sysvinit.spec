@@ -3,7 +3,7 @@ Version: 0.3.4
 Release: alt2
 
 Summary: Allow media/network changes to xgrp users
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Hardware
 
 Url: http://altlinux.org/sysvinit

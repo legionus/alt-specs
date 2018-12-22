@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Command Line Interactive and Scriptable Application to access MEGA
 
-License: BSD 2-clause Simplified License
+License: BSD-2-Clause
 Group: Other
 Url: https://github.com/meganz/MEGAcmd
 

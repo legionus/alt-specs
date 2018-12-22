@@ -5,7 +5,7 @@ Version: 1.24
 Release: alt1
 
 Summary: XML Stream connection and data parser Perl modules
-License: LGPL or Artistic
+License: LGPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

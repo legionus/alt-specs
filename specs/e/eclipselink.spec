@@ -26,7 +26,7 @@ Name:          eclipselink
 Version:       2.6.3
 Release:       alt1_4jpp8
 Summary:       Eclipse Persistence Services Project
-License:       EPL and BSD
+License:       EPL-1.0 and BSD
 Url:           http://www.eclipse.org/eclipselink/
 # http://git.eclipse.org/c/eclipselink/eclipselink.runtime
 Source0:       http://www.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/rt/%{name}/releases/%{version}/%{name}-src-%{namedversion}.zip

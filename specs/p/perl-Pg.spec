@@ -3,7 +3,7 @@ Version: 2.1.1
 Release: alt4.1.1.1.1
 
 Summary: PostgreSQL database native Perl driver
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://gborg.postgresql.org/project/pgperl/

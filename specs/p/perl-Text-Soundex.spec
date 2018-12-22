@@ -4,7 +4,7 @@ Version: 3.05
 Release: alt1.1.1.1
 
 Summary: Implementation of the Soundex algorithm as described by Knuth
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

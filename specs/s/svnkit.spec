@@ -16,7 +16,7 @@ Release: alt1_2jpp8
 Summary: Pure Java library to manage Subversion working copies and repositories
 
 # License located at https://svnkit.com/license.html
-License:        TMate and ASL 2.0
+License:        TMate and Apache-2.0
 URL:            https://www.svnkit.com/
 Source0:        https://www.svnkit.com/org.tmatesoft.svn_%{version}.src.zip
 

@@ -5,7 +5,7 @@ Release: alt1
 Summary: Webster Bible for SWORD
 Summary(ru_RU.UTF-8): Webster Bible для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

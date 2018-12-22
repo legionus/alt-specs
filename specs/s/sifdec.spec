@@ -2,7 +2,7 @@ Name: sifdec
 Version: 2.0.0
 Release: alt2.svn20130216
 Summary: Decoder for translating SIF into Fortran 77 and data files
-License: LGPL v2.1 or later
+License: LGPL-2.1-or-later
 Group: File tools
 Url: http://cuter.rl.ac.uk/cuter-www/sifdec/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

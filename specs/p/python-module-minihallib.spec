@@ -10,7 +10,7 @@ Release: alt3.1
 Summary: Library to handle HAL devices and events
 
 Group: Development/Python
-License: GPLv2+ or AFL
+License: GPL-2.0-or-later or AFL
 Url: http://pypi.python.org/pypi/minihallib
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

@@ -14,7 +14,7 @@ Name:           apache-%{short_name}
 Version:        1.0.15
 Release:        alt2_17jpp8
 Summary:        Defines API to support an alternative invocation mechanism
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          System/Base
 URL:            http://commons.apache.org/%{base_name}
 Source0:        http://archive.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz

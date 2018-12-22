@@ -7,7 +7,7 @@ Version: 0.4.1
 Release: alt1
 Summary: Validating URI References per RFC 3986
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://pypi.python.org/pypi/rfc3986
 Source: %name-%version.tar
 BuildArch: noarch

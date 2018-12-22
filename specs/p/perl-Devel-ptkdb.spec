@@ -4,7 +4,7 @@ Version: 1.1092
 Release: alt1.1
 
 Summary: Perl debugger using a Tk GUI
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

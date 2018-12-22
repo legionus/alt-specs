@@ -8,7 +8,7 @@ Name:           perl-Test-Pod-Content
 Version:        0.0.6
 Release:        alt2_18
 Summary:        Test a Pod's content
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Test-Pod-Content
 Source0:        https://cpan.metacpan.org/authors/id/M/MK/MKUTTER/Test-Pod-Content-v%{version}.tar.gz

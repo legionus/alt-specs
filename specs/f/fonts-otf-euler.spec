@@ -1,7 +1,7 @@
 Name:		fonts-otf-euler
 Version:	000.002
 Release:	alt4.qa1
-License:	OFL
+License:	OFL-1.0
 Group:		System/Fonts/True type
 Summary:	OpenType MATH-enabled font
 URL:		http://github.com/khaledhosny/euler-otf

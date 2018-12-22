@@ -5,7 +5,7 @@ Version: 0.20.3
 Release: alt1
  
 Summary: Thor is a toolkit for building powerful command-line interfaces.
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://whatisthor.com/
 # VCS:	 https://github.com/erikhuda/thor

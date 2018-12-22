@@ -2,7 +2,7 @@ Name: xrandr
 Version: 1.5.0
 Release: alt1
 Summary: primitive command line interface to RandR extension
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

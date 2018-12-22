@@ -11,7 +11,7 @@ Name:           plexus-interpolation
 Version:        1.22
 Release:        alt1_9jpp8
 Summary:        Plexus Interpolation API
-License:        ASL 2.0 and ASL 1.1 and MIT
+License:        Apache-2.0 and Apache-1.1 and MIT
 URL:            https://github.com/codehaus-plexus/plexus-interpolation
 BuildArch:      noarch
 

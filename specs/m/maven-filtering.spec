@@ -10,7 +10,7 @@ Name:             maven-filtering
 Version:          3.1.1
 Release:          alt1_4jpp8
 Summary:          Shared component providing resource filtering
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://maven.apache.org/shared/%{name}/index.html
 BuildArch:        noarch
 

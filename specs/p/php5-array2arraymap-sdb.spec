@@ -6,7 +6,7 @@ Release:	alt8.%php5_version.%php5_release
 
 Summary:	php5 module to access static db (SDB) files.
 Group:		System/Servers
-License:	PHP License
+License:	PHP
 Packager:	Igor Vlasenko <viy@altlinux.org>
 
 Source0:	%name-%version.tar

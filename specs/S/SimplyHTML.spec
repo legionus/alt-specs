@@ -10,7 +10,7 @@ Name:           SimplyHTML
 Version:        0.16.18
 Release:        alt1_4jpp8
 Summary:        Application and a java component for rich text processing
-License:        GPLv2 and BSD
+License:        GPL-2.0-only and BSD
 URL:            http://simplyhtml.sourceforge.net/
 BuildArch:      noarch
 

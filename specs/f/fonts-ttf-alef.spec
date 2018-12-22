@@ -14,7 +14,7 @@ Release:        alt1_7
 Summary:        A free multi-lingual font designed for screens
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://alef.hagilda.com
 Source0:        http://alef.hagilda.com/Alef.zip
 Source1:        %{oldname}-fontconfig.conf

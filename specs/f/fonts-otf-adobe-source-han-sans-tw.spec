@@ -15,7 +15,7 @@ Version:        1.004
 Release:        alt1_9
 Summary:        Adobe OpenType Pan-CJK font family for Traditional Chinese
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/adobe-fonts/source-han-sans/
 Source0:        https://github.com/adobe-fonts/source-han-sans/raw/release/SubsetOTF/%{archivename}.zip
 Source1:        %{oldname}-fontconfig.conf

@@ -53,7 +53,7 @@ Release:        alt1_0.7.git%{shortcommit}
 Summary:        Connection mux for serving different services on the same port
 # Detected licences
 # - *No copyright* UNKNOWN at 'LICENSE'
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

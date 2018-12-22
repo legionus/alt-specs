@@ -5,7 +5,7 @@ Version: 2.87
 Release: alt1
 
 Summary: Perl module for Subversion activity notification
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

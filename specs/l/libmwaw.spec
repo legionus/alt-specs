@@ -8,7 +8,7 @@ Group: System/Libraries
 # src/lib/MWAWOLEStream.[ch]xx which are BSD. There is also
 # src/tools/zip/zip.cpp which is GPLv2+, but we do not build the binary
 # it is used for.
-License: (LGPLv2+ or MPLv2.0) and BSD
+License: (LGPLv2+ or MPL-2.0) and BSD
 Url: http://sourceforge.net/projects/libmwaw/
 Source: %name-%version.tar
 

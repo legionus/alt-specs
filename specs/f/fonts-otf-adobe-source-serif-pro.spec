@@ -13,7 +13,7 @@ Version:        %{version_roman}.%{version_italic}
 Release:        alt1_1
 Summary:        A set of OpenType fonts designed to complement Source Sans Pro
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/adobe-fonts/source-serif-pro
 Source0:        https://github.com/adobe-fonts/source-serif-pro/archive/%{version_roman}R-ro/%{version_italic}R-it.tar.gz##/%{oldname}-%{version}.tar.gz
 Source1:        %{oldname}-fontconfig.conf

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: How to include a loading bar in your XHTML documents quickly and easily
 
-License: PHP License 3.0
+License: PHP-3.0
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Progress
 

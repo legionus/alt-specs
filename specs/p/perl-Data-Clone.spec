@@ -8,7 +8,7 @@ Name:           perl-Data-Clone
 Version:        0.004
 Release:        alt1_11.1
 Summary:        Polymorphic data cloning
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            http://search.cpan.org/dist/Data-Clone/
 Source0:        http://www.cpan.org/authors/id/G/GF/GFUJI/Data-Clone-%{version}.tar.gz

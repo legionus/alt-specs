@@ -24,7 +24,7 @@ Epoch: 1
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 Plasma
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: /usr/share/design/current xdg-user-dirs
 Requires: iso-codes

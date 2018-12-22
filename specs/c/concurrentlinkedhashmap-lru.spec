@@ -10,7 +10,7 @@ Name:          concurrentlinkedhashmap-lru
 Version:       1.4.2
 Release:       alt1_6jpp8
 Summary:       A ConcurrentLinkedHashMap for Java
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           https://github.com/ben-manes/concurrentlinkedhashmap
 Source0:       https://github.com/ben-manes/concurrentlinkedhashmap/archive/%{name}-%{version}.tar.gz
 

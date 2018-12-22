@@ -15,7 +15,7 @@ Version: %ver_major.26
 Release: alt1
 
 Summary: Library integrating clutter with GStreamer
-License: LGPL v2+
+License: LGPL-2.0-or-later
 Group: System/Libraries
 Url: http://www.clutter-project.org/
 %if_disabled snapshot

@@ -3,7 +3,7 @@ Version: 0.5.3
 Release: alt3.1.qa1
 
 Summary: Fix incorrect charset information in Content-Type MIME headers of e-mail messages
-License: GPL v2
+License: GPL-2.0-only
 Group: Networking/Mail
 
 Url: http://fix-mime-chr.sourceforge.net

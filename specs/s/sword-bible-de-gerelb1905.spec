@@ -5,7 +5,7 @@ Release: alt1
 Summary: German Darby Unrevidierte Elberfelder (1905) for SWORD
 Summary(ru_RU.UTF-8): German Darby Unrevidierte Elberfelder (1905) для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

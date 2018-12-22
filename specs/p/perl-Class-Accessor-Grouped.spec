@@ -4,7 +4,7 @@ Version: 0.10014
 Release: alt1
 
 Summary: Lets you build groups of accessors
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

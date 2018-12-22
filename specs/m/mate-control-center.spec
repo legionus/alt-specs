@@ -3,7 +3,7 @@ Version: 1.20.3
 Release: alt1
 Epoch: 2
 Summary: MATE Desktop control-center
-License: LGPLv2+ and GPLv2+
+License: LGPLv2+ and GPL-2.0-or-later
 Group: Graphical desktop/MATE
 Url: http://mate-desktop.org/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

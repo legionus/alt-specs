@@ -8,7 +8,7 @@ Name:           perl-DateTime-Format-Oracle
 Version:        0.06
 Release:        alt2_17
 Summary:        Parse and format Oracle dates and timestamps
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DateTime-Format-Oracle
 Source0:        https://cpan.metacpan.org/authors/id/K/KO/KOLIBRIE/DateTime-Format-Oracle-%{version}.tar.gz

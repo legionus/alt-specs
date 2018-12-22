@@ -2,7 +2,7 @@ Name: segmenter-vamp-plugin
 Version: 1.0
 Release: alt2.hg20140806
 Summary: Vamp plugin for automatic music structural segmentation
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Sound
 Url: https://code.soundsoftware.ac.uk/projects/segmenter-vamp-plugin
 

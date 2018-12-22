@@ -18,7 +18,7 @@ Version:        1.31.0
 Release:        alt1_2
 Summary:        The width-compatible fonts for improved on-screen readability
 
-License:        ASL 2.0
+License:        Apache-2.0
 #URL:            
 Source0:        http://gsdview.appspot.com/chromeos-localmirror/distfiles/croscorefonts-%{version}.tar.bz2
 

@@ -21,7 +21,7 @@ Release: alt1
 
 Summary: Cache - the Cache interface
 
-License: Artistic / GPL
+License: Artistic or GPL-1.0-only
 Group: Development/Perl
 Url: http://www.cpan.org
 

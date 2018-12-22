@@ -11,7 +11,7 @@ Name:          fonts-ttf-kranky
 Version:       1.00
 Release:       alt1_8.%{checkout}
 Summary:       Kranky fonts
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.google.com/fonts/specimen/Kranky
 Source0:       https://googlefontdirectory.googlecode.com/hg/apache/kranky/Kranky.ttf
 Source1:       https://googlefontdirectory.googlecode.com/hg/apache/kranky/LICENSE.txt

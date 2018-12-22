@@ -5,7 +5,7 @@ Version: 0.24
 Release: alt1.1.1.1
 
 Summary: Perl interface to Google's Snappy (de)compressor
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

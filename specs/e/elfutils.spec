@@ -3,7 +3,7 @@ Version: 0.175
 Release: alt1
 
 Summary: A collection of utilities and DSOs to handle ELF files and DWARF data
-License: GPLv3+ and (GPLv2+ or LGPLv3+)
+License: GPL-3.0-or-later and (GPL-2.0-or-later or LGPLv3+)
 Group: Development/C
 URL: https://sourceware.org/elfutils/
 # git://git.altlinux.org/gears/e/elfutils.git
@@ -33,7 +33,7 @@ Elfutils is a collection of utilities, including
 
 %package devel
 Summary: Development libraries to handle compiled objects
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: %name = %EVR
 Requires: libasm-devel = %EVR, libdw-devel = %EVR, libelf-devel = %EVR
@@ -45,7 +45,7 @@ compiled objects.
 
 %package devel-static
 Summary: Static archives to handle compiled objects
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: %name-devel = %EVR
 Requires: libasm-devel-static = %EVR
@@ -58,7 +58,7 @@ This package pulls in static archives with the code to handle compiled objects.
 
 %package -n libasm
 Summary: Shared library with a programmable assembler interface
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: System/Libraries
 Requires: libelf = %EVR, libdw = %EVR
 
@@ -68,7 +68,7 @@ interface.
 
 %package -n libasm-devel
 Summary: Development libasm library and header files
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: libasm = %EVR
 Requires: libelf-devel = %EVR, libdw-devel = %EVR
@@ -80,7 +80,7 @@ based applications.
 
 %package -n libasm-devel-static
 Summary: Static libasm library
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: libasm-devel = %EVR
 Requires: libelf-devel-static = %EVR, libdw-devel-static = %EVR
@@ -90,7 +90,7 @@ This package contains static libasm library.
 
 %package -n libdw
 Summary: Shared library that provides access to the DWARF debug information
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: System/Libraries
 Requires: libelf = %EVR
 
@@ -100,7 +100,7 @@ debug information stored inside ELF files.
 
 %package -n libdw-devel
 Summary: Development libdw library and header files
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: libdw = %EVR
 Requires: libelf-devel = %EVR
@@ -111,7 +111,7 @@ applications.
 
 %package -n libdw-devel-static
 Summary: Static libdw library
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: libasm-devel = %EVR, libdw-devel = %EVR
 Requires: libelf-devel-static = %EVR
@@ -121,7 +121,7 @@ This package contains static libdw library.
 
 %package -n libelf
 Summary: Shared library to read and write ELF files
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: System/Libraries
 
 %description -n libelf
@@ -132,7 +132,7 @@ use it also to generate new ELF files.
 
 %package -n libelf-devel
 Summary: Development libelf library and header files
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: libelf = %EVR
 
@@ -144,7 +144,7 @@ different sections of an ELF file.
 
 %package -n libelf-devel-static
 Summary: Static libelf library
-License: GPLv2+ or LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 Group: Development/C
 Requires: libelf-devel = %EVR
 

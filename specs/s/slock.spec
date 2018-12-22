@@ -6,7 +6,7 @@ Summary: Simple X display locker
 Summary(ru_RU.UTF-8): Простой блокировщик экрана
 Summary(uk_UA.UTF-8): Простий блокувач екрану
 
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://tools.suckless.org/slock/
 

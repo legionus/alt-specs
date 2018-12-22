@@ -5,7 +5,7 @@ Name: sams
 Version: 1.0.5
 Release: alt1.qa1
 Summary: SAMS (Squid Account Management System)
-License: GPLv2 or later
+License: GPL-2.0-only or later
 Group: System/Servers
 
 Url: http://sams.perm.ru/
@@ -39,7 +39,7 @@ SAMS (Squid Account Management System)
 %package server
 Summary: %name daemon
 Summary(ru_RU.UTF-8): Сервер %name
-License: GPLv2 or later
+License: GPL-2.0-only or later
 Group: System/Servers
 Requires: %name = %version-%release
 Requires: MySQL-client
@@ -54,7 +54,7 @@ Server %name
 %package web
 Summary: Handle the adminstration of %name over the web
 Summary(ru_RU.UTF-8): Управление %name через web
-License: GPLv2 or later
+License: GPL-2.0-only or later
 Group: System/Servers
 Requires: %name = %version-%release
 Requires: webserver,php-engine,php5-mysql

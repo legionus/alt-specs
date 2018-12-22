@@ -8,7 +8,7 @@ Version: 1.2.3
 Release: alt1
 
 Summary: Pytest plugin to randomly order tests and control random.seed
-License: BSD 3-Clause
+License: BSD-3-Clause
 Group: Development/Python
 # Source-git: https://github.com/pytest-dev/pytest-randomly
 Url: https://pypi.org/project/pytest-randomly/

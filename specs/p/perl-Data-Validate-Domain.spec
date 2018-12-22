@@ -4,7 +4,7 @@ Version: 0.14
 Release: alt1
 Summary: Domain validation methods Perl module
 Group: Development/Perl
-License: Perl (GPL or Artistic)
+License: Perl (GPL-1.0-only or Artistic)
 URL: http://search.cpan.org/dist/%bname
 Source: http://search.cpan.org/CPAN/authors/id/N/NE/NEELY/%bname-%version.tar
 BuildArch: noarch

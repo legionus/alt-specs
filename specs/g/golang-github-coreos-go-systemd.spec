@@ -9,7 +9,7 @@ Name: golang-github-coreos-go-systemd
 Version: 2
 Release: alt1.git%shortcommit
 Summary: Go bindings to systemd socket activation, journal and D-BUS APIs
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Other
 Url: http://%import_path
 

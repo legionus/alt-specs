@@ -20,7 +20,7 @@ PRE-ALPHA VERSION - currently interesting only for programmers!!!
 
 Better use CodeLite to open and compile this
 
-License: GNU/GPLv2
+License: GPL-2.0-only
 
 Used code from projects:
 FAR for Windows

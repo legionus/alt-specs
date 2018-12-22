@@ -13,7 +13,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: %module DistroMap database
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: %name-%version.tar
 Url: http://repocop.altlinux.org/
 

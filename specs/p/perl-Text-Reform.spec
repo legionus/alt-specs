@@ -4,7 +4,7 @@ Version: 1.20
 Release: alt2
 
 Summary: Manual text wrapping and reformatting
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

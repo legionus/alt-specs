@@ -8,7 +8,7 @@ Name:		perl-Tie-RefHash-Weak
 Version:	0.09
 Release:	alt3_26
 Summary:	Tie::RefHash subclass with weakened references in the keys
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Other
 URL:		https://metacpan.org/release/Tie-RefHash-Weak
 Source0:	https://cpan.metacpan.org/authors/id/N/NU/NUFFIN/Tie-RefHash-Weak-%{version}.tar.gz

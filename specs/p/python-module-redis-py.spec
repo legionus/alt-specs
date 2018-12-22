@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 3.0.1
 Release: alt1
 Group: Development/Python
-License: MIT License
+License: MIT
 Summary: The Python interface to the Redis key-value store
 URL: http://github.com/andymccurdy/redis-py
 Packager: Vladimir Didenko <cow@altlinux.org>

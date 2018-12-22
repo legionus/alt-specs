@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Manage and handles color data and conversions
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Image_Color
 

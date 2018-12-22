@@ -9,7 +9,7 @@ Name:           perl-URI-Escape-XS
 Version:        0.14
 Release:        alt1_8
 Summary:        Drop-In replacement for URI::Escape
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/URI-Escape-XS
 Source0:        https://cpan.metacpan.org/authors/id/D/DA/DANKOGAI/URI-Escape-XS-%{version}.tar.gz

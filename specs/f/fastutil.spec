@@ -14,7 +14,7 @@ Summary:       Fast & compact type-specific collections for Java
 # LGPL (v2.1 or later):
 # src/it/unimi/dsi/fastutil/io/InspectableFileCachedInputStream.java
 # test/it/unimi/dsi/fastutil/io/InspectableFileCachedInputStreamTest.java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 # altenative url
 #URL:           https://github.com/vigna/fastutil
 # often is offline

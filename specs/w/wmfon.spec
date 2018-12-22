@@ -5,7 +5,7 @@ Version: 1.3
 Release: alt1
 Summary: wmfon - Selection and resize fon for Window Maker.
 Summary(ru_RU.UTF-8): wmfon -выбирает фон и растягивает его на рабочий стол Window Maker
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Window Maker
 
 URL: http://kostyalamer.narod.ru/wmfon/wmfon.html

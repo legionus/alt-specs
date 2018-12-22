@@ -41,7 +41,7 @@ Name:           lucene4
 Version:        4.10.4
 Release:        alt1_12jpp8
 Epoch:          0
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://lucene.apache.org/
 Source0:        http://www.apache.org/dist/lucene/java/%{version}/lucene-%{version}-src.tgz
 #svn export http://svn.apache.org/repos/asf/lucene/dev/tags/lucene_solr_4_10_4/dev-tools/

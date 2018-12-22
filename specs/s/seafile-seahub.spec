@@ -18,7 +18,7 @@ Release: alt1
 Summary: Seahub is the web frontend for Seafile.
 
 Group: Networking/File transfer
-License: Apache 2.0
+License: Apache-2.0
 Url: https://github.com/haiwen/seahub
 
 BuildArch: noarch

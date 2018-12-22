@@ -11,7 +11,7 @@ Release: alt1%ubt
 Group: Education
 Summary: A virtual globe and world atlas
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-astro-static.patch

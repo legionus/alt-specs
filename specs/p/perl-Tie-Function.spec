@@ -11,7 +11,7 @@ Name:           perl-Tie-Function
 Version:        0.02
 Release:        alt1_15
 Summary:        Wrap functions in tied hash sugar
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Tie-Function
 Source0:        https://cpan.metacpan.org/authors/id/D/DA/DAVIDNICO/handy_tied_functions/%{pkgname}-%{version}.tar.gz
 BuildArch:      noarch

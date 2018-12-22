@@ -9,7 +9,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: RPM::Specfile - Perl extension for creating RPM Specfiles
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/RPM/%module-%version.tar.gz
 Url: http://search.cpan.org/dist/RPM-Specfile
 Patch0: RPM-Specfile-1.51-add-conflicts.patch

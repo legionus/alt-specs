@@ -5,7 +5,7 @@ Version: 0.300
 Release: alt1
 
 Summary: Merges arbitrarily deep hashes into a single hash
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -2,7 +2,7 @@ Name: nlopt
 Version: 2.4.2
 Release: alt1
 Summary: Library for nonlinear optimization
-License: MIT, LGPL
+License: MIT and LGPL-1.0-only
 Group: Sciences/Mathematics
 Url: http://ab-initio.mit.edu/wiki/index.php/NLopt
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

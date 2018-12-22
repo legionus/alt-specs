@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 2016.9.26
 Release: alt1
 Summary: Python package for providing Mozilla's CA Bundle
-License: MPLv2
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/certifi/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

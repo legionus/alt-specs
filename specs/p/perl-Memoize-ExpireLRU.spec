@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Expiry plug-in for Memoize that adds LRU cache expiration
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

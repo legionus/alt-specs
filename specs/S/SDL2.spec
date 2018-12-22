@@ -8,7 +8,7 @@ Version: 2.0.9
 Release: alt1%ubt
 
 Summary: Simple DirectMedia Layer
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 Url: http://www.libsdl.org/

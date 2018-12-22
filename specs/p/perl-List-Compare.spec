@@ -5,7 +5,7 @@ Version: 0.53
 Release: alt1
 
 Summary: Compare elements of two or more lists
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

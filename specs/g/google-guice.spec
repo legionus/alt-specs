@@ -25,7 +25,7 @@ Name:           google-%{short_name}
 Version:        4.1
 Release:        alt1_11jpp8
 Summary:        Lightweight dependency injection framework for Java 5 and above
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/google/%{short_name}
 BuildArch:      noarch
 

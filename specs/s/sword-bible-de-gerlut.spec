@@ -5,7 +5,7 @@ Release: alt1
 Summary: German Luther Bibel (1912) for SWORD
 Summary(ru_RU.UTF-8): German Luther Bibel (1912) для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

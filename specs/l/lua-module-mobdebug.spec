@@ -6,7 +6,7 @@ Name: lua-module-%oname
 Version: 0.64
 Release: alt1
 Summary: MobDebug is a remote debugger for the Lua programming language
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: https://github.com/pkulchenko/MobDebug
 Provides: luarocks(%oname) = %version

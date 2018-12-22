@@ -4,7 +4,7 @@ Version: 0.4.5
 Release: alt1
 
 Summary: Executable Uniform Command-Line Interface Descriptions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

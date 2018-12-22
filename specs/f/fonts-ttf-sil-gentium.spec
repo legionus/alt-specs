@@ -16,7 +16,7 @@ Version:        1.02
 Release:        alt5_21
 Summary:        SIL Gentium fonts
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://scripts.sil.org/Gentium_linux
 # Source0 can be downloaded from the above URL, search for "tar.gz"
 Source0:        %{archivename}_1.0.2.tar.gz

@@ -8,7 +8,7 @@ Name:           perl-LWP-Authen-Negotiate
 Version:        0.08
 Release:        alt2_15
 Summary:        GSSAPI based Authentication Plugin for LWP
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/LWP-Authen-Negotiate
 Source0:        https://cpan.metacpan.org/modules/by-module/LWP/LWP-Authen-Negotiate-%{version}.tar.gz

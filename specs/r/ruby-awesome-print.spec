@@ -5,7 +5,7 @@ Version: 1.8.0
 Release: alt1.1
 
 Summary: Pretty print your Ruby objects with style -- in full color and with proper indentation
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/awesome-print/awesome_print
 

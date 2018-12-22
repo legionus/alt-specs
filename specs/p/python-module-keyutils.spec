@@ -7,7 +7,7 @@ Version: 0.4
 Release: alt2.1
 
 Summary: %oname bindings for Python
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 %setup_python_module %oname

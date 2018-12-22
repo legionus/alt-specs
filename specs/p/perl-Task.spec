@@ -19,7 +19,7 @@ Release: alt1.1
 
 Summary: Task - successor to Bundle:: for installing sets of modules
 
-License: Perl (GPL or Artistic)
+License: Perl (GPL-1.0-only or Artistic)
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Task/
 

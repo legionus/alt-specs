@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.4.8
 Release: alt1.1
 Summary: Simple, super-flexible options. Does magic upon request.
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/options

@@ -15,7 +15,7 @@ Version: 20090923
 Release: alt3_12
 Summary: A majuscule Greek font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces_majuscules.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

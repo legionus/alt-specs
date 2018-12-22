@@ -14,7 +14,7 @@ Name:          fonts-ttf-astloch
 Version:       1.00
 Release:       alt1_8.%{checkout}
 Summary:       Astloch fonts released by Dan Rhatigan
-License:       OFL
+License:       OFL-1.0
 URL:           http://www.google.com/fonts/specimen/Astloch
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/astloch/src/Astloch-Regular-TTF.sfd
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/astloch/src/Astloch-Bold-TTF.sfd

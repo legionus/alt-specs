@@ -9,7 +9,7 @@ Epoch: 1
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 integration of Qt applications
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv3+
+License: GPL-2.0-or-later or LGPLv3+
 
 Source: %rname-%version.tar
 Patch1: alt-def-font.patch

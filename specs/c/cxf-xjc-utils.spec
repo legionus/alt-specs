@@ -10,7 +10,7 @@ Name:          cxf-xjc-utils
 Version:       3.0.5
 Release:       alt1_4jpp8
 Summary:       Apache CXF XJC-Utils
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://cxf.apache.org/xjc-utils.html
 Source0:       https://github.com/apache/cxf-xjc-utils/archive/xjc-utils-%{version}.tar.gz
 

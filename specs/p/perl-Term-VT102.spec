@@ -11,7 +11,7 @@ Version:    %{upstream_version}
 Release:    alt1_7
 
 Summary:	Term::VT102 - a class to emulate a DEC VT102 terminal
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Term/%{upstream_name}-%{upstream_version}.tar.bz2

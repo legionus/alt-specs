@@ -21,7 +21,7 @@ Name:           perl-Alien-Base-ModuleBuild
 Version:        1.06
 Release:        alt1
 Summary:        Perl framework for building Alien:: modules and their libraries
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            http://search.cpan.org/dist/Alien-Base-ModuleBuild/
 Source0:        http://www.cpan.org/authors/id/P/PL/PLICEASE/Alien-Base-ModuleBuild-%{version}.tar.gz

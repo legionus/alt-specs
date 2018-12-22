@@ -2,7 +2,7 @@ Name: dlm
 Version: 4.0.6
 Release: alt1
 Summary: dlm control daemon and tool
-License: GPLv2 and GPLv2+ and LGPLv2+
+License: GPL-2.0-only and GPL-2.0-or-later and LGPLv2+
 Group: System/Servers
 URL: https://fedorahosted.org/cluster
 

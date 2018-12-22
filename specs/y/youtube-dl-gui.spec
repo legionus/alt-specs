@@ -5,7 +5,7 @@ Version: 0.4
 Release: alt1
 
 Summary: Youtube-dl media downloader with gui.
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Python
 
 Url: https://github.com/MrS0m30n3/youtube-dl-gui

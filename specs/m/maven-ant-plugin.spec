@@ -10,7 +10,7 @@ Name:           maven-ant-plugin
 Version:        2.3
 Release:        alt2_21jpp8
 Summary:        Maven Ant Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-ant-plugin
 BuildArch:      noarch
 

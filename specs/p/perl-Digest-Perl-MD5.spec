@@ -5,7 +5,7 @@ Version: 1.9
 Release: alt1
 
 Summary: Perl Implementation of Rivest's MD5 algorithm
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -5,7 +5,7 @@ Release: alt4
 Group: System/Libraries
 Summary: Libkgeomap is a wrapper around different world-map components
 Url: https://projects.kde.org/projects/extragear/libs/libkgeomap
-License: GPL2
+License: GPL-2.0-only
 
 Requires: %name-common >= %EVR
 Conflicts: libkmap

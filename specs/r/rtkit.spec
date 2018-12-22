@@ -5,7 +5,7 @@ Version: 0.11
 Release: alt1%ubt
 Summary: Realtime Policy and Watchdog Daemon
 Group: System/Servers
-License: GPLv3+ and BSD
+License: GPL-3.0-or-later and BSD
 Url: http://git.0pointer.de/?p=rtkit.git
 
 Requires: dbus polkit

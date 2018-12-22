@@ -4,7 +4,7 @@ Release: alt3.qa1
 
 Summary: Small basic interpreter with printing and graphics
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Other
 Url: http://www.yabasic.de/
 

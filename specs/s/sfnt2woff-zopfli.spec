@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: WOFF utilities with Zopfli compression
 
-License: ASL 2.0 MPL 1.1/GPL 2.0/LGPL 2.1
+License: Apache-2.0 MPL-1.1 or GPL-2.0-only or LGPL-2.1-only
 Group: File tools
 Url: https://github.com/bramstein/sfnt2woff-zopfli
 

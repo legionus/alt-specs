@@ -5,7 +5,7 @@ Version: 4.2.5
 Release: alt1
 
 Summary: This is a mirror from gerrit.ovirt.org http://www.ovirt.org, for issues use http://bugzilla.redhat.com
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/oVirt/ovirt-engine-sdk-ruby
 

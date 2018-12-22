@@ -4,7 +4,7 @@ Version: 0.04
 Release: alt1
 
 Summary: Regular expressions for XML tokens
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

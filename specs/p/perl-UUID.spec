@@ -5,7 +5,7 @@ Release: alt1.1.1
 Summary: DCE compatible Universally Unique Identifier library for Perl
 
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://search.cpan.org/~jrm/UUID/UUID.pm
 
 Source: http://www.cpan.org/authors/id/J/JR/JRM/UUID-%{version}.tar.gz

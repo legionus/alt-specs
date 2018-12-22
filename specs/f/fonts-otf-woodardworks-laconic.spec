@@ -11,7 +11,7 @@ Name:		fonts-otf-woodardworks-laconic
 Summary:	An artistic and minimal sans-serif font family
 Version:	001.001
 Release:	alt3_15
-License:	OFL
+License:	OFL-1.0
 Group:		System/Fonts/True type
 Source0:	http://www.woodardworks.com/laconic.zip
 Source1:	%{oldname}-fontconfig.conf

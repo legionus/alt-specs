@@ -6,7 +6,7 @@ Release:    alt1
 Summary:    OpenStack common configuration library
 
 Group:      Development/Python
-License:    ASL 2.0
+License:    Apache-2.0
 URL: http://docs.openstack.org/developer/oslo.config/
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 

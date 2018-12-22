@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Python module for working with Google's reCAPTCHA v1 and v2
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 BuildArch: noarch
 Url: https://github.com/redhat-infosec/python-recaptcha

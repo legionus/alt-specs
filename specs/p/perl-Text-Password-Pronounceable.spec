@@ -9,7 +9,7 @@ Name:       perl-Text-Password-Pronounceable
 Version:    0.30
 Release:    alt1_18
 # lib/Text/Password/Pronounceable.pm -> GPL+ or Artistic
-License:    GPL+ or Artistic 
+License:    GPL-1.0-or-later or Artistic
 Summary:    Generate pronounceable passwords 
 Source0:    https://cpan.metacpan.org/authors/id/T/TS/TSIBLEY/Text-Password-Pronounceable-%{version}.tar.gz
 Url:        https://metacpan.org/release/Text-Password-Pronounceable

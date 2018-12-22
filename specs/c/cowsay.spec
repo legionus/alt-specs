@@ -3,7 +3,7 @@ Version: 3.03
 Release: alt4
 Summary: Configurable speaking/thinking cow
 Group: Games/Other
-License: Artistic or GPL
+License: Artistic or GPL-1.0-only
 Url: http://www.nog.net/~tony/warez/
 Source0: http://www.nog.net/~tony/warez/%name-%version.tar.gz
 Source1: cowsay.bashcomp

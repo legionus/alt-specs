@@ -3,7 +3,7 @@ Version: 2.0.304
 Release: alt1
 
 Summary: A tool for gathering and displaying system information
-License: GPLv2 and LGPLv2
+License: GPL-2.0-only and LGPLv2
 Group: Monitoring
 
 URL: http://procinfo-ng.sourceforge.net/

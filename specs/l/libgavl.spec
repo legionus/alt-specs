@@ -10,7 +10,7 @@ Name: lib%bname
 Version: 1.4.0
 Release: alt4
 Summary: Library for handling uncompressed audio- and video data
-License: GPL2+
+License: GPL-2.0-or-later
 Group: System/Libraries
 URL: http://gmerlin.sourceforge.net/
 Source: %bname-%version.tar.gz

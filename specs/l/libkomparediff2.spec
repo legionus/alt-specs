@@ -7,7 +7,7 @@ Group: System/Libraries
 Summary: Library to compare files and strings
 Url: https://projects.kde.org/projects/kde/kdesdk/libkomparediff2
 # Library: GPLv2+ (some files LGPLv2+), CMake scripts: BSD
-License: GPLv2+ and BSD
+License: GPL-2.0-or-later and BSD
 
 Requires: diffutils
 Conflicts: kde4sdk-kompare < 4.12

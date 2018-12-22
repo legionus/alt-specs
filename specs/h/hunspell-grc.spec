@@ -10,7 +10,7 @@ Version: 2.1.5
 Release: alt2_16
 Source: https://downloads.sourceforge.net/project/aoo-extensions/2313/1/grc.oxt
 URL: http://www.himeros.eu/
-License: GPL+ or LGPLv2+
+License: GPL-1.0-or-later or LGPLv2+
 BuildArch: noarch
 
 Requires: hunspell

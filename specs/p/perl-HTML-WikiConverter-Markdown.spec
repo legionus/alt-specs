@@ -8,7 +8,7 @@ Name:           perl-HTML-WikiConverter-Markdown
 Version:        0.06
 Release:        alt1_10
 Summary:        Convert HTML to Markdown markup
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/HTML-WikiConverter-Markdown
 Source0:        https://cpan.metacpan.org/authors/id/J/JF/JFEARN/HTML-WikiConverter-Markdown-%{version}.tar.gz

@@ -21,7 +21,7 @@ Version:       2.9.4
 Release:       alt1_2jpp8
 Summary:       Jackson datatypes: collections
 # Source files without license headers https://github.com/FasterXML/jackson-datatypes-collections/issues/10
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/FasterXML/jackson-datatypes-collections
 Source0:       https://github.com/FasterXML/jackson-datatypes-collections/archive/%{name}-%{version}.tar.gz
 

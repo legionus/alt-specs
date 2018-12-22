@@ -4,7 +4,7 @@ Version: 2.4.10
 Release: alt1
 
 Summary: A series of charting modules
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -8,7 +8,7 @@ Release:	%php5_release
 
 Summary:	PHP5 Ed25519 signatures extension for PHP
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		https://github.com/allegro/php-curve25519
 

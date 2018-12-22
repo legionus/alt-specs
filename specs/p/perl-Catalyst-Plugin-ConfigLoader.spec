@@ -16,7 +16,7 @@ Release: alt1
 
 Summary: %m_name - Load config files of various types
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Catalyst-Plugin-ConfigLoader/
 

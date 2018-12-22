@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Perl interface to the 3.x series of the gtk+ toolkit
 Group: Development/Perl
-License: lgpl
+License: LGPL-1.0-only
 
 Url: %CPAN Gtk3
 Source: %name-%version.tar

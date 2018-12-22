@@ -10,7 +10,7 @@ Version:        1.001
 Release:        alt3_20
 Summary:        Icelandic Magical Staves
 
-License:        OFL
+License:        OFL-1.0
 ## Note that upstream is dead and there is no download link available at this minute
 ## so please don't report FTBFS bugs for this package.
 URL:            http://openfontlibrary.org/media/files/asyropoulos/238

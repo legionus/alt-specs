@@ -4,7 +4,7 @@ Version: 0.63
 Release: alt8
 
 Summary: Create 3D Graphs with GD and GD::Graph
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

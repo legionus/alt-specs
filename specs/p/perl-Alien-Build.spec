@@ -26,7 +26,7 @@ Name:           perl-Alien-Build
 Version:        1.49
 Release:        alt1
 Summary:        Build external dependencies for use in CPAN
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://search.cpan.org/dist/Alien-Build/
 Source0:        http://www.cpan.org/authors/id/P/PL/PLICEASE/Alien-Build-%{version}.tar.gz
 # Support only the most advanced pkgconfig implementation,

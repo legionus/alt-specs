@@ -6,7 +6,7 @@ Version: 6.75
 Release: alt1
 
 Summary: Date manipulation routines
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

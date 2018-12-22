@@ -3,7 +3,7 @@ Version: 1.3.2
 Release: alt1
 
 Summary: Client/server software, human language dictionary databases, tools for DICT protocol
-License: GPLv2, LGPLv2
+License: GPL-2.0-only and LGPLv2
 Group: System/Libraries
 
 Url: http://sourceforge.net/projects/dict/

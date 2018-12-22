@@ -5,7 +5,7 @@ Version: 1.1.4
 Release: alt1.1
 
 Summary: A gems based plugin framework for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://github.com/TwP/little-plugger
 

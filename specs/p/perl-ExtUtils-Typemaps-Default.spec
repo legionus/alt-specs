@@ -8,7 +8,7 @@ Name:           perl-ExtUtils-Typemaps-Default
 Version:        1.05
 Release:        alt2_12
 Summary:        Set of useful typemaps
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/ExtUtils-Typemaps-Default
 Source0:        https://cpan.metacpan.org/authors/id/S/SM/SMUELLER/ExtUtils-Typemaps-Default-%{version}.tar.gz

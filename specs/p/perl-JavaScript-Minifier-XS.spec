@@ -8,7 +8,7 @@ Name:           perl-JavaScript-Minifier-XS
 Version:        0.11
 Release:        alt3_13
 Summary:        XS based JavaScript minifier
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/JavaScript-Minifier-XS
 Source0:        https://cpan.metacpan.org/authors/id/G/GT/GTERMARS/JavaScript-Minifier-XS-%{version}.tar.gz

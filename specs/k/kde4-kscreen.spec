@@ -7,7 +7,7 @@ Release: alt2
 Group: Graphical desktop/KDE
 Summary: KDE Display Management software
 Url: https://projects.kde.org/projects/playground/base/kscreen
-License: GPLv2 / GPLv3
+License: GPL-2.0-only or GPL-3.0-only
 
 Provides: kscreen = %version-%release
 Obsoletes: kscreen < %version-%release

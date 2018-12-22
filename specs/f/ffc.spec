@@ -6,7 +6,7 @@ Version:        1.6.0
 Epoch: 1
 Summary:        Compiler for finite element variational forms
 Group:          Development/Tools
-License:        LGPL v3
+License:        LGPL-3.0-only
 URL:            http://fenicsproject.org/
 # https://bitbucket.org/fenics-project/ffc.git
 Source: %name-%version.tar.gz

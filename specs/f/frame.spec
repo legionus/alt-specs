@@ -14,7 +14,7 @@ Version:	2.5.0
 Release:	alt1_4
 Summary:	Buildup and synchronization of simultaneous touches
 Group:		Development/Other
-License:	LGPLv3 and GPLv3
+License:	LGPLv3 and GPL-3.0-only
 URL:		https://launchpad.net/frame
 Source0:	https://launchpad.net/%{name}trunk/v%{version}/+download/%{name}-%{version}.tar.xz
 

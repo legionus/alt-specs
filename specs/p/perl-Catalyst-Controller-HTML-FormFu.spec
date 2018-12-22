@@ -10,7 +10,7 @@ Name:           perl-Catalyst-Controller-HTML-FormFu
 Version:        2.04
 Release:        alt1_2
 Summary:        HTML::FormFu controller for Catalyst
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/Catalyst-Controller-HTML-FormFu
 Source0:        https://cpan.metacpan.org/authors/id/N/NI/NIGELM/Catalyst-Controller-HTML-FormFu-%{version}.tar.gz

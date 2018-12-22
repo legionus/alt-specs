@@ -9,7 +9,7 @@ Release: alt3
 
 Group: System/Libraries
 Summary: Rasqal RDF Query Library
-License: LGPL v2.1+ or GPL v2+ or Apache v2.0+
+License: LGPL-2.1-or-later or GPL-2.0-or-later or Apache-2.0+
 Url: http://librdf.org/rasqal/
 
 Source: http://download.librdf.org/source/%name-%version.tar

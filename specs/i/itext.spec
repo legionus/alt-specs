@@ -126,7 +126,7 @@ files.
 Summary:        Library to output Rich Text Files
 Group:          Development/Other
 BuildArch:      noarch
-License:        MPLv1.1 or LGPLv2+
+License:        MPL-1.1 or LGPLv2+
 Requires:       %{name}-core = %{?epoch:%epoch:}%{version}-%{release}
 
 %description rtf
@@ -152,7 +152,7 @@ iText's PdfStamper to manipulate a PDF file.
 Summary:        Some %{alternate_name} tools
 Group:          Development/Java
 BuildArch:      noarch
-License:        MPLv1.1 or MIT
+License:        MPL-1.1 or MIT
 Requires:       %{name} = %{?epoch:%epoch:}%{version}-%{release}
 
 %description toolbox

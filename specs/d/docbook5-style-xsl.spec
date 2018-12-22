@@ -10,7 +10,7 @@ Summary: Norman Walsh's XSL stylesheets for DocBook 5.X
 
 # Package is licensed as MIT/X (http://wiki.docbook.org/topic/DocBookLicense),
 # some .js files under ./slides/browser/ are licensed MPLv1.1
-License: MIT and MPLv1.1
+License: MIT and MPL-1.1
 URL: https://github.com/docbook/xslt10-stylesheets
 
 Provides: docbook-xsl-ns = %{version}
@@ -41,7 +41,7 @@ Group: Text tools
 Summary: Norman Walsh's XSL stylesheets extensions for DocBook 5.X
 # Package is licensed as MIT/X (http://wiki.docbook.org/topic/DocBookLicense),
 # some .js files under ./slides/browser/ are licensed MPLv1.1
-License: MIT and ASL 2.0
+License: MIT and Apache-2.0
 Requires: docbook-xsl-ns = %{version}
 
 %description extensions

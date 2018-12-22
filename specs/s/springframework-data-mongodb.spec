@@ -30,7 +30,7 @@ Name:          springframework-data-mongodb
 Version:       1.5.2
 Release:       alt1_8jpp8
 Summary:       MongoDB support for Spring Data
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://projects.spring.io/spring-data-mongodb/
 Source0:       https://github.com/spring-projects/spring-data-mongodb/archive/%{namedversion}.tar.gz
 

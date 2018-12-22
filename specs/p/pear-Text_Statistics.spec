@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Compute readability indexes for documents
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Text_Statistics
 

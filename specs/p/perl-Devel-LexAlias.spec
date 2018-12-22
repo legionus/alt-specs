@@ -8,7 +8,7 @@ Name:           perl-Devel-LexAlias
 Version:        0.05
 Release:        alt2_17
 Summary:        Alias lexical variables
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Devel-LexAlias
 Source0:        https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Devel-LexAlias-%{version}.tar.gz

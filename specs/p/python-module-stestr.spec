@@ -5,7 +5,7 @@ Version: 2.2.0
 Release: alt1
 Summary: stestr is parallel Python test runner
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://stestr.readthedocs.io/en/latest
 Source: %oname-%version.tar.gz
 BuildArch: noarch

@@ -11,7 +11,7 @@ Name:           patricia-trie
 Version:        0.2
 Release:        alt2_12.20091116svnjpp8
 Summary:        Java prefix tree library
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://patricia-trie.googlecode.com/
 # https://github.com/rkapsi/patricia-trie/archive/patricia-trie-0.6.tar.gz
 # svn export -r108 http://patricia-trie.googlecode.com/svn/trunk@108 patricia-trie

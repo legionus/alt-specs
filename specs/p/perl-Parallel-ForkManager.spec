@@ -5,7 +5,7 @@ Version: 2.02
 Release: alt1
 
 Summary: A simple parallel processing fork manager
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

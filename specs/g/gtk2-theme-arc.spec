@@ -4,7 +4,7 @@ Release: alt1.git20161005
 Summary: Arc GTK theme
 
 Group: Graphical desktop/GNOME
-License: GPL3
+License: GPL-3.0-only
 Url: https://github.com/horst3180/Arc-theme
 
 Source: %name-%version.tar

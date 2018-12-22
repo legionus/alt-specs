@@ -10,7 +10,7 @@ Release: alt1.1
 Summary: Python bindings for libparted
 
 Group: Development/Python
-License: GPL v2 or later
+License: GPL-2.0-or-later
 URL: https://github.com/rhinstaller/pyparted
 
 # https://github.com/rhinstaller/pyparted.git

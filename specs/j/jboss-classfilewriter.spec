@@ -15,7 +15,7 @@ Name:             jboss-classfilewriter
 Version:          1.1.2
 Release:          alt1_4jpp8
 Summary:          JBoss Class File Writer
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://github.com/jbossas/jboss-classfilewriter
 Source0:          https://github.com/jbossas/jboss-classfilewriter/archive/%{namedversion}.tar.gz
 # https://github.com/jbossas/jboss-classfilewriter/issues/11

@@ -5,7 +5,7 @@ Version: 2.32
 Release: alt1
 
 Summary: Module for creation and manipulation of tar archives
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

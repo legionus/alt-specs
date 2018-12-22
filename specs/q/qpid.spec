@@ -6,7 +6,7 @@ Name: qpid
 Version: 1.36.0
 Release: alt1.2
 Summary: Libraries for Qpid C++ client applications
-License: ASL 2.0
+License: Apache-2.0
 Url: http://qpid.apache.org
 Group: System/Servers
 

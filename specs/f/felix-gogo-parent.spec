@@ -10,7 +10,7 @@ Name:             felix-gogo-parent
 Version:          2
 Release:          alt1_3jpp8
 Summary:          Parent package for Felix Gogo
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://felix.apache.org/documentation/subprojects/apache-felix-gogo.htm
 
 Source0:          https://repo1.maven.org/maven2/org/apache/felix/gogo-parent/%{version}/gogo-parent-%{version}-source-release.tar.gz

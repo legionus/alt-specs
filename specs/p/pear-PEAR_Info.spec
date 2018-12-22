@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Show Information about your PEAR install and its packages
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/PEAR_Info
 

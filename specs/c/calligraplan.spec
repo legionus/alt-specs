@@ -24,7 +24,7 @@ Epoch: 0
 
 Group: Office
 Summary: A project planner
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Url: https://www.calligra.org/plan/
 Provides: koffice-kplato = %koffice_ver
 Obsoletes: koffice-kplato < %koffice_ver
@@ -55,7 +55,7 @@ moderately large projects with multiple resources.
 %package -n %oname
 Group: Office
 Summary: A project planner
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Provides: koffice-kplato = %koffice_ver
 Obsoletes: koffice-kplato < %koffice_ver
 Requires: %oname-common = %EVR

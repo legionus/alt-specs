@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.8.0
 Release: alt1
 Summary: A toolbelt of useful classes and functions to be used with python-module-requests
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/requests-toolbelt
 

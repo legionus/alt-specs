@@ -9,7 +9,7 @@ Name:           perl-Alien-cmake3
 Version:        0.04
 Release:        alt1_3
 Summary:        Find or download or build cmake 3 or better
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Alien-cmake3
 Source0:        https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-cmake3-%{version}.tar.gz
 # This is an Alien::Build plugin, it stores data about architecture specific

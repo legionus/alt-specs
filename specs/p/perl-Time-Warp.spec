@@ -8,7 +8,7 @@ BuildRequires: perl-podlators
 Name:       perl-Time-Warp 
 Version:    0.54
 Release:    alt1_1
-License:    GPL+ or Artistic 
+License:    GPL-1.0-or-later or Artistic
 Summary:    Control over the flow of time
 Source:     https://cpan.metacpan.org/authors/id/M/MA/MANWAR/Time-Warp-%{version}.tar.gz
 Url:        https://metacpan.org/release/Time-Warp

@@ -11,7 +11,7 @@ Version: 1.11
 Release: alt2
 Summary: Software::License pack for Creative Commons' licenses
 Group: Development/Perl
-License: lgpl
+License: LGPL-1.0-only
 URL: https://github.com/SineSwiper/Software-License-CCpack
 
 Source0: http://cpan.org.ua/authors/id/B/BB/BBYRD/%{module_name}-%{module_version}.tar.gz

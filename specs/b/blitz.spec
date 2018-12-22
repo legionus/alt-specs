@@ -5,7 +5,7 @@ Summary: C++ class library for scientific computing
 Version: 1.0.1
 Release: alt1
 Group: Sciences/Mathematics
-License: LGPL v3
+License: LGPL-3.0-only
 URL: https://github.com/blitzpp/blitz
 
 # https://github.com/blitzpp/blitz.git

@@ -5,7 +5,7 @@ Version: 1.903
 Release: alt1
 
 Summary: Convert singular to plural, select "a" or "an"
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

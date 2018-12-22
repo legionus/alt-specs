@@ -6,7 +6,7 @@ Version: 0.22
 Release: alt2
 
 Summary: RFC 2553's getaddrinfo and getnameinfo functions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

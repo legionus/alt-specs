@@ -5,7 +5,7 @@ Version: 0.29
 Release: alt1.1.1
 
 Summary: A generalisation of "wantarray"
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

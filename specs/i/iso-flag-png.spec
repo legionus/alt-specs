@@ -2,7 +2,7 @@ Summary: A collection of flags
 Name: iso-flag-png
 Version: 1.0.1
 Release: alt1
-License: Public Domain
+License: ALT-Public-Domain
 Group: Graphical desktop/GNOME
 BuildArch: noarch
 URL: https://github.com/linuxmint/flags

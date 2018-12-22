@@ -8,7 +8,7 @@ Name:           perl-Regexp-IPv6
 Version:        0.03
 Release:        alt1_21
 Summary:        Regular expression for IPv6 addresses
-License:        GPLv2+ or Artistic
+License:        GPL-2.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Regexp-IPv6
 Source0:        https://cpan.metacpan.org/authors/id/S/SA/SALVA/Regexp-IPv6-%{version}.tar.gz

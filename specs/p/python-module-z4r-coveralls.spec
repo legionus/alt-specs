@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 2.9.1
 Release: alt3.1
 Summary: Python interface to coveralls.io API
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/python-coveralls/

@@ -4,7 +4,7 @@ Version: 0.17
 Release: alt4.1.1.1.1
 
 Summary: Light-weight interface to shared memory
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

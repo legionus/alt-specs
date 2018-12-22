@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: regularly prune stale part of apt's cache
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Packaging
 
 Url: https://bugzilla.altlinux.org/show_bug.cgi?id=918

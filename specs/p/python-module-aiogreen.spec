@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.3
 Release: alt3.1.2
 Summary: asyncio event loop scheduling callbacks in eventlet
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/aiogreen
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

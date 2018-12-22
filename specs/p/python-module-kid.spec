@@ -8,7 +8,7 @@ Release: %release.1
 
 Summary: Template language for XML
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 BuildArch: noarch
 Url: http://www.kid-templating.org/

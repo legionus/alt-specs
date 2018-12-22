@@ -4,7 +4,7 @@ Version: 0.27
 Release: alt1
 
 Summary: Perl ASN.1 parser module
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -13,7 +13,7 @@ Version:	20070829
 Release:	alt3_15
 Summary:	N'Ko font by Michael Everson
 
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.evertype.com/fonts/nko/
 Source0:	http://www.evertype.com/fonts/nko/ConakryFont.zip
 Source1:	%{oldname}-fontconfig.conf

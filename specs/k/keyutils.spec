@@ -7,7 +7,7 @@ Version: %version
 Release: alt2
 
 Summary: Linux Key Management Utilities
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: System/Base
 Url: http://people.redhat.com/~dhowells/keyutils/
 

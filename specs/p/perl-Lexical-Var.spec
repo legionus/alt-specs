@@ -8,7 +8,7 @@ Name:           perl-Lexical-Var
 Version:        0.009
 Release:        alt2_17
 Summary:        Static variables without name space pollution
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Lexical-Var
 Source0:        https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Lexical-Var-%{version}.tar.gz

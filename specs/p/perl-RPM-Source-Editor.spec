@@ -9,7 +9,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: Perl library for src.rpm and spec file editing
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/RPM/%module-%version.tar.gz
 #Url: http://search.cpan.org/dist/%module
 Url: http://git.altlinux.org/people/viy/packages/RPM-Source-Editor.git

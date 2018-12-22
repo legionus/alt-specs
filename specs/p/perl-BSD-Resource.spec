@@ -5,7 +5,7 @@ Version: 1.2911
 Release: alt1.1
 
 Summary: BSD process resource limit and priority functions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

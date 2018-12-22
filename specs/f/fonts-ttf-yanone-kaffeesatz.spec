@@ -15,7 +15,7 @@ Version: 20100514
 Release: alt3_12
 Summary: Yanone Kaffeesatz decorative fonts
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.yanone.de/typedesign/kaffeesatz/
 Source0:   %{url}%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

@@ -4,7 +4,7 @@ Version: 1.01
 Release: alt1
 
 Summary: Porters stemming algorithm for Denmark
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

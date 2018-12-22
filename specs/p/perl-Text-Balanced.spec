@@ -4,7 +4,7 @@ Version: 2.03
 Release: alt1
 
 Summary: Extract delimited text sequences from strings
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

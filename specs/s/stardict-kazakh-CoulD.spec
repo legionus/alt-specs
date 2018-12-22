@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 Summary: Kazakh-Russian and Russian-Kazakh dictionaries for stardict
 Summary(ru_RU.UTF-8): Казахско-русский (46972 слов) и Русско-казахский (7716 слов) словари
-License: GPL2
+License: GPL-2.0-only
 Group: Text tools
 Url: http://gnu.kz/
 BuildArch: noarch

@@ -4,7 +4,7 @@ Version: 7.4
 Release: alt1.1.1.1.1
 
 Summary: Efficient bit vector, set of integers and "big int" math library
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

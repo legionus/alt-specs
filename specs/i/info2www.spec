@@ -7,7 +7,7 @@ Source:		%name-%version.tar
 # Note this version is already patched one
 Source1:	%name.pl
 URL:		http://packages.debian.org/source/sid/info2www
-License:	public domain
+License:	ALT-Public-Domain
 Group:		Networking/WWW
 Packager: Fr. Br. George <george@altlinux.ru>
 

@@ -6,7 +6,7 @@ Version: 1.33
 Release: alt1.1
 
 Summary: Object Oriented time objects
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

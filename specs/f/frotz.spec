@@ -3,7 +3,7 @@ Version: 2.43
 Release: alt1
 
 Summary: a curses-based Z-Machine interpreter for interactive fiction games
-License: GPL v2
+License: GPL-2.0-only
 Group: Games/Other
 Url: http://www.ifarchive.org/indexes/if-archiveXinfocomXinterpretersXfrotz.html
 

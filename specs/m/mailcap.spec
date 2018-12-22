@@ -3,7 +3,7 @@ Version: 2.1.48
 Release: alt1
 
 Summary: Associates helper applications with particular file types
-License: Public domain and MIT
+License: ALT-Public-Domain and MIT
 Group: System/Configuration/Networking
 
 # https://fedorahosted.org/released/mailcap/%{name}-%{version}.tar.xz

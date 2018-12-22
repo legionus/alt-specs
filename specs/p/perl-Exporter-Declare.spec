@@ -8,7 +8,7 @@ Name:           perl-Exporter-Declare
 Version:        0.114
 Release:        alt2_8
 Summary:        Exporting done right
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Exporter-Declare
 Source0:        https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Exporter-Declare-%{version}.tar.gz

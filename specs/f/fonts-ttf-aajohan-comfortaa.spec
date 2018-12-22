@@ -13,7 +13,7 @@ Version:        3.001
 Release:        alt1_1
 Summary:        Modern style true type font
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://aajohan.deviantart.com
 Source0:        http://www.deviantart.com/download/105395949/comfortaa___font_by_aajohan-d1qr019.zip
 Source1:        %{oldname}-fontconfig.conf

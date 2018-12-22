@@ -4,7 +4,7 @@ Name:		libev4
 Version:	4.24
 Release:	alt1
 Summary:	libev - an event notification library
-License:	BSD or GPL v2+
+License:	BSD or GPL-2.0-or-later
 URL:		http://software.schmorp.de/pkg/libev
 Group:		System/Libraries
 Source:		%name-%version.tar

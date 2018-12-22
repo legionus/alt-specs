@@ -5,7 +5,7 @@ Version: 0.30
 Release: alt2
  
 Summary: A gem that configures gettext for internationalization
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/puppetlabs/gettext-setup-gem
  

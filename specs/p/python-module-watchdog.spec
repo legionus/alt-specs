@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.8.3
 Release: alt3.git20150727.1
 Summary: Filesystem events monitoring
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/watchdog/
 

@@ -2,7 +2,7 @@
 Name: fonts-otf-asana-math
 Version: 000.955
 Release: alt1
-License: OFL
+License: OFL-1.0
 Group: System/Fonts/True type
 Summary: OpenType MATH-enabled Asana font
 Url: http://www.ctan.org/tex-archive/fonts/Asana-Math/

@@ -5,7 +5,7 @@ Version: 1.1.0
 Release: alt1.1
 
 Summary: Manages a group of processes which can run concurrently using fibers
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ioquatix/process-group
 

@@ -3,7 +3,7 @@ Version: 3.4.1
 Release: alt1
 
 Summary: Rules for SpamAssassin
-License: Apache License v2.0
+License: Apache-2.0
 Group: Networking/Mail
 
 URL: http://spamassassin.org/

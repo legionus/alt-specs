@@ -11,7 +11,7 @@ Name:           plexus-velocity
 Version:        1.2
 Release:        alt1_4jpp8
 Summary:        Plexus Velocity Component
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://codehaus-plexus.github.io/plexus-velocity/
 BuildArch:      noarch
 

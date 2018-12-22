@@ -9,7 +9,7 @@ Name:           perl-Test-utf8
 Version:        1.01
 Release:        alt1_12
 Summary:        Handy utf8 tests
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Test-utf8
 Source0:        https://cpan.metacpan.org/authors/id/M/MA/MARKF/Test-utf8-%{version}.tar.gz
 # Do not require author's dependencies

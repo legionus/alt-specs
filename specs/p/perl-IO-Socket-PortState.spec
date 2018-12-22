@@ -9,7 +9,7 @@ Name:           perl-IO-Socket-PortState
 Version:        0.03
 Release:        alt1_15
 Summary:        Perl extension for checking the open or closed status of a port
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/IO-Socket-PortState
 Source0:        https://cpan.metacpan.org/authors/id/D/DM/DMUEY/IO-Socket-PortState-%{version}.tar.gz
 BuildArch:      noarch

@@ -2,7 +2,7 @@ Name: setxkbmap
 Version: 1.3.1
 Release: alt1
 Summary: set the keyboard using the X Keyboard Extension
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: https://cgit.freedesktop.org/xorg/app/setxkbmap/
 

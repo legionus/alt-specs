@@ -5,7 +5,7 @@ Version: 1.0.9
 Release: alt1.1.1.1
 
 Summary: Perl extension for creating ARP packets
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

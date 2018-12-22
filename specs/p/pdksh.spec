@@ -4,7 +4,7 @@ Release: alt5
 Epoch: 1
 
 Summary: A public domain clone of the Korn shell (ksh)
-License: Public Domain
+License: ALT-Public-Domain
 Group: Shells
 
 Url: http://www.cs.mun.ca/~michael/pdksh/

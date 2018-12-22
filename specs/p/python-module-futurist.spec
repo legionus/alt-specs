@@ -7,7 +7,7 @@ Version: 1.7.0
 Release: alt1
 Summary: Useful additions to futures, from the future
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/futurist
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 BuildArch: noarch

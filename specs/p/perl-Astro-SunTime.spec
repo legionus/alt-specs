@@ -5,7 +5,7 @@ Version: 0.06
 Release: alt2
 Summary: Astro::SunTime provides a function interface to calculate sun rise/set times.
 Group: Development/Perl
-License: Artistic/GPL
+License: Artistic or GPL-1.0-only
 Url: http://search.cpan.org/dist/Astro-SunTime/
 Source0: http://www.cpan.org/authors/id/R/RO/ROBF/Astro-SunTime-%{version}.tar.gz
 BuildRequires: perl-Time-modules perl-devel perl(Module/Build.pm)

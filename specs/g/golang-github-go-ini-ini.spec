@@ -55,7 +55,7 @@ Release:        alt1_0.5.git%{shortcommit}
 Summary:        Package ini provides INI file read and write functionality in Go
 # Detected licences
 # - *No copyright* UNKNOWN at 'LICENSE'
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

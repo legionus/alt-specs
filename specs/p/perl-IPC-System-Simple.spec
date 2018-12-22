@@ -5,7 +5,7 @@ BuildRequires: perl(English.pm) perl(Fatal.pm) perl-devel perl-podlators
 Name:		perl-IPC-System-Simple 
 Version:	1.25
 Release:	alt2_1
-License:	GPL+ or Artistic 
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Perl
 Summary:	Run commands simply, with detailed diagnostics 
 URL:		http://search.cpan.org/dist/IPC-System-Simple

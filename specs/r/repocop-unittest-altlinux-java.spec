@@ -9,7 +9,7 @@ Url: http://repocop.altlinux.org
 
 Summary: repocop package checks for conformance with Java Packaging Policy.
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 #Url: 
 Source: %name-%version.tar
 

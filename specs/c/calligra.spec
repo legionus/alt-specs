@@ -16,7 +16,7 @@ Epoch: 0
 Group: Office
 Summary: An integrated office suite
 Url: http://www.calligra-suite.org/
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: koffice = %koffice_ver
 Obsoletes: koffice < %koffice_ver

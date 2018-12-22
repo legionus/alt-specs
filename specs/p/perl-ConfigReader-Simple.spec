@@ -13,7 +13,7 @@ Name:       perl-%{upstream_name}
 Version:    %{upstream_version}
 Release:    alt1_1
 
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Summary:    Read simple configuration file formats
 Url:        http://search.cpan.org/dist/%{upstream_name}

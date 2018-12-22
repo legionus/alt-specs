@@ -12,7 +12,7 @@ Release:        alt3_8jpp8
 # Maven-shared defines maven-repository-builder version as 1.0
 Epoch:          1
 Summary:        Maven repository builder
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-repository-builder/
 BuildArch:      noarch
 

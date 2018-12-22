@@ -10,7 +10,7 @@ Release:	alt1
 Summary:	Russian (RU) Language Pack for Firefox
 Summary(ru_RU.UTF-8): Русский языковой пакет для Firefox
 
-License:	MPL/GPL/LGPL
+License:	MPL or GPL-1.0-only or LGPL-1.0-only
 Group:		Networking/WWW
 URL:		http://www.mozilla-russia.org/products/firefox/
 Packager:	Alexey Gladkov <legion@altlinux.ru>

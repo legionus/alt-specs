@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Filehandle-like I/O support for Perl in-core objects
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 
 URL: %CPAN %dist
 Source: http://www.cpan.org/authors/id/D/DS/DSKOLL/IO-stringy-%{version}.tar.gz

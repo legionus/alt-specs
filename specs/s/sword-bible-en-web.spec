@@ -5,7 +5,7 @@ Release: alt1
 Summary: World English Bible for SWORD
 Summary(ru_RU.UTF-8): World English Bible для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

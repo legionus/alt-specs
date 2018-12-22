@@ -2,7 +2,7 @@ Name: boomaga
 Version: 1.3.0
 Release: alt1
 Group: System/Configuration/Printing
-License: GPLv2 and LGPLv2+
+License: GPL-2.0-only and LGPLv2+
 
 Summary: A virtual printer for viewing a document before printing
 Url: http://boomaga.github.io/

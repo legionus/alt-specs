@@ -5,7 +5,7 @@ Version: 1.3
 Release: alt1.1.1
 
 Summary: Perl module for manipulating the passwd and shadow files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

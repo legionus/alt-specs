@@ -12,7 +12,7 @@ Url: http://www.mediawiki.org/wiki/Extension:%ShortName
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 
-License: GPL2
+License: GPL-2.0-only
 
 BuildPreReq: rpm-build-mediawiki >= 0.2
 BuildPreReq: rpm-build-intro

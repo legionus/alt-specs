@@ -5,7 +5,7 @@ Version: 0.04
 Release: alt2
 Summary: X10 - Perl extension for X10 'ActiveHome' Controller
 Group: Development/Perl
-License: Artistic/GPL
+License: Artistic or GPL-1.0-only
 Url: http://search.cpan.org/dist/X10-0.03/
 Source0: http://www.cpan.org/authors/id/R/RO/ROBF/X10-%{version}.tar.gz
 BuildRequires: perl-Astro-SunTime perl-Device-SerialPort perl-Storable perl-devel perl(Pod/Man.pm) perl(Time/ParseDate.pm)

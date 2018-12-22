@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.7.0
 Release: alt1.2
 Summary: Sphinx "images" extension
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/sphinxcontrib-images/

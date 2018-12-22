@@ -6,7 +6,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: ProjectDb database data file
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: %name-%version.tar
 Url: https://www.altlinux.org/Packaging_Automation/ProjectDb
 

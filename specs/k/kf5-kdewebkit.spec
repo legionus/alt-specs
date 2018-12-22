@@ -8,7 +8,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Frameworks 5 integration of the HTML rendering engine WebKit
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 

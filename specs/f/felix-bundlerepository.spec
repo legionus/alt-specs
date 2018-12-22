@@ -10,7 +10,7 @@ Name:           felix-bundlerepository
 Version:        2.0.10
 Release:        alt1_3jpp8
 Summary:        Bundle repository service
-License:        ASL 2.0 and MIT
+License:        Apache-2.0 and MIT
 URL:            http://felix.apache.org/documentation/subprojects/apache-felix-osgi-bundle-repository.html
 BuildArch:      noarch
 

@@ -9,7 +9,7 @@ Name:           perl-Pod-Coverage-TrustPod
 Version:        0.100005
 Release:        alt1_2
 Summary:        Allow a module's pod to contain Pod::Coverage hints
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Pod-Coverage-TrustPod
 Source0:        https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Pod-Coverage-TrustPod-%{version}.tar.gz
 BuildArch:      noarch

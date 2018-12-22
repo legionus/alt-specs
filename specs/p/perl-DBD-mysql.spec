@@ -5,7 +5,7 @@ Version: 4.049
 Release: alt1
 
 Summary: MySQL driver for DBI interface in Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

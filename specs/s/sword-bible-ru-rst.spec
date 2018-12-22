@@ -5,7 +5,7 @@ Release: alt1
 Summary: Russian Synodal Translation for SWORD
 Summary(ru_RU.UTF-8): Russian Synodal Translation для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

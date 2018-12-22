@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Comparing the schema (table structures) of two MySQL databases
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Databases
 Url: http://adamspiers.org/computing/mysqldiff/
 

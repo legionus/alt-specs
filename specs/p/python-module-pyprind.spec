@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: Python Progress Bar and Percent Indicator Utility
 Group: Development/Python
-License: 3-clause BSD
+License: BSD-3-Clause
 Url: http://pypi.python.org/pypi/%Modname
 Source: http://pypi.io/packages/source/P/%Modname/%Modname-%version.tar.gz
 

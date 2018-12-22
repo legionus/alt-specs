@@ -5,7 +5,7 @@ Version: 3.20
 Release: alt1
 
 Summary: Converting Mbox mailboxes to Maildir format
-License: Public domain
+License: ALT-Public-Domain
 Group: File tools
 Url: http://batleth.sapienti-sat.org/projects/mb2md/
 Source: %name-%version.pl.gz

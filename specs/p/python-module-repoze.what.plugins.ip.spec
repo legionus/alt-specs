@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 0.2
 #Release: alt2.1
 Summary: ip based restrictions for repoze.what
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://pypi.python.org/pypi/repoze.what.plugins.ip/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

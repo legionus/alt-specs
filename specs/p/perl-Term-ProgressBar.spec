@@ -9,7 +9,7 @@ Summary: Provides a progress meter on a standard terminal
 Summary(ru_RU.UTF-8): Индикатор процесса в консоли.
 Group: Development/Perl
 URL: http://ftp.spbu.ru/CPAN/authors/id/F/FL/FLUFFY
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source0: http://www.cpan.org/authors/id/M/MA/MANWAR/%{module_name}-%{version}.tar.gz
 Buildarch: noarch
 AutoReqProv: yes, perl

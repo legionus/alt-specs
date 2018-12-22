@@ -4,7 +4,7 @@ Version: 1.22
 Release: alt2
 
 Summary: DSN sensitive base class
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

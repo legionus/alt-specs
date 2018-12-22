@@ -5,7 +5,7 @@ Version: 0.3.3
 Release: alt1.1
  
 Summary: The Ruby CookieJar is a library to help manage client-side cookies in pure Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://github.com/dwaite/cookiejar
  

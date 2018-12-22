@@ -9,7 +9,7 @@ Release:	%php7_release
 
 Summary:	php7 extension for interfacing with memcached via libmemcached library
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/memcached
 

@@ -9,7 +9,7 @@ Name:           perl-DBIx-Class-TimeStamp
 Version:        0.14
 Release:        alt2_22
 Summary:        DBIx::Class extension to update and create date and time based fields
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/DBIx-Class-TimeStamp
 Source0:        https://cpan.metacpan.org/authors/id/R/RI/RIBASUSHI/DBIx-Class-TimeStamp-%{version}.tar.gz
 Patch0:         DBIx-Class-TimeStamp-0.14-Fix-building-on-Perl-without-dot-in-INC.patch

@@ -4,7 +4,7 @@ Version: 0.25
 Release: alt3.1.1.1.1
 
 Summary: Perl extension to manipulate raw IP packets
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

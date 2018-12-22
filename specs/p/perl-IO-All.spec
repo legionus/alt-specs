@@ -5,7 +5,7 @@ Version: 0.87
 Release: alt1
 
 Summary: IO::All of it to Graham and Damian!
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

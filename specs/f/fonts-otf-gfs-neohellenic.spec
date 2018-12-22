@@ -15,7 +15,7 @@ Version: 20090918
 Release: alt3_12
 Summary: A 20th century Greek typeface
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces20th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

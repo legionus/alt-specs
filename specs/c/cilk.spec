@@ -2,7 +2,7 @@ Name: cilk
 Version: 5.4.6
 Release: alt11
 Summary: Language for multithreaded parallel programming based on ANSI C
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Development/C
 Url: http://supertech.csail.mit.edu/cilk/
 

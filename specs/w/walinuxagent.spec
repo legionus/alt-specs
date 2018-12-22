@@ -4,7 +4,7 @@ Release: alt1
 Summary: Windows Azure Linux Agent
 
 Group: System/Configuration/Boot and Init
-License: Apache 2.0
+License: Apache-2.0
 Url: https://www.windowsazure.com/en-us/manage/downloads/
 
 Source0: %name-%version.tar

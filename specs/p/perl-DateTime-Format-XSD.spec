@@ -8,7 +8,7 @@ Name:           perl-DateTime-Format-XSD
 Version:        0.2
 Release:        alt2_18
 Summary:        Format DateTime according to xsd:dateTime
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DateTime-Format-XSD
 Source0:        https://cpan.metacpan.org/modules/by-module/DateTime/DateTime-Format-XSD-%{version}.tar.gz

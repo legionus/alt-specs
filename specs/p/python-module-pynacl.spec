@@ -9,7 +9,7 @@ Release: alt1.1.1.qa1
 Summary: Python binding to the Networking and Cryptography (NaCl) library
 
 Url: https://github.com/pyca/pynacl
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

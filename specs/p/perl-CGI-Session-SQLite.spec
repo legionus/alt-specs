@@ -4,7 +4,7 @@ Version: 1.0
 Release: alt4
 
 Summary: Simple Common Gateway Interface class for Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

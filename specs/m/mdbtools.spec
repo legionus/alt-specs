@@ -9,7 +9,7 @@ Release: alt2
 Summary: Utilities for use M$ Access databases under Linux
 
 Group: Databases
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Url: https://github.com/brianb/mdbtools
 
 %if_disabled snapshot

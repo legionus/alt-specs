@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 4.18.0
 Release: alt1
 Summary: OpenStack Sphinx Extensions and Theme
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://docs.openstack.org/developer/oslosphinx
 

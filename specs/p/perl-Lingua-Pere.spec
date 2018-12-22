@@ -3,7 +3,7 @@
 Name:      perl-%pkgname
 Version:   0.2.0
 Release:   alt1.1
-License:   GPL or Artistic
+License:   GPL-1.0-only or Artistic
 Summary:   Lingua-Pere - Scripts and modules for multilanguage translation.
 Summary(uk_UA.CP1251): Lingua-Pere - скрипти та модулі для багатомовного перекладу
 Summary(ru_RU.CP1251): Lingua-Pere - скрипты и модули для многоязычного перевода

@@ -7,7 +7,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: %testname intergration tests for repocop test platform
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://repocop.altlinux.org 
 Requires: repocop
 Requires: repocop-collector-rpmbuild-files-req-list

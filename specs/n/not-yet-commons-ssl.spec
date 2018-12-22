@@ -14,7 +14,7 @@ Release:        alt2_4jpp8
 Summary:        Library to make SSL and Java Easier
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://juliusdavies.ca/commons-ssl
 Source0:        http://juliusdavies.ca/commons-ssl/not-yet-commons-ssl-%{version}.zip
 Source1:        %{name}-MANIFEST.MF

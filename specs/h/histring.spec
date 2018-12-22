@@ -1,7 +1,7 @@
 Name: histring
 Version: 1.1.0
 Release: alt1.qa1
-License: GPL2
+License: GPL-2.0-only
 Group: Text tools
 Url: git://git.grml.org/histring.git
 Summary: highlight strings using ANSI terminal escape sequences

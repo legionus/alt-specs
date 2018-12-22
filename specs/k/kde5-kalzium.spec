@@ -14,7 +14,7 @@ Release: alt1%ubt
 Group: Education
 Summary: Periodic system of the elements
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 %if_enabled avogadro
 Requires: avogadro

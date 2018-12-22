@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.3.0
 Release: alt1.1
 Summary: Simple and flexible password generation library
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/grampg/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

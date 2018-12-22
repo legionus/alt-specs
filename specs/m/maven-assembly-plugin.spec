@@ -10,7 +10,7 @@ Name:           maven-assembly-plugin
 Version:        3.1.0
 Release:        alt1_3jpp8
 Summary:        Maven Assembly Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-assembly-plugin/
 BuildArch:      noarch
 

@@ -13,7 +13,7 @@ Name:             snappy-java
 Version:          1.1.2.4
 Release:          alt2_9jpp8
 Summary:          Fast compressor/decompresser
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://xerial.org/snappy-java/
 Source0:          https://github.com/xerial/snappy-java/archive/%{version}.tar.gz
 # Not able to build snappy-java jni library with sbt:

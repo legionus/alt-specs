@@ -19,7 +19,7 @@ Name:          tesla-polyglot
 Version:       0.1.19
 Release:       alt1_3jpp8
 Summary:       Modules to enable Maven usage in other JVM languages
-License:       EPL
+License:       EPL-1.0
 URL:           https://github.com/takari/maven-polyglot
 Source0:       https://github.com/takari/polyglot-maven/archive/polyglot-%{version}.tar.gz
 Source1:       eclipse-1.0.txt

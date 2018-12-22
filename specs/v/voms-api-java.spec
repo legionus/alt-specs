@@ -12,7 +12,7 @@ Version:	3.3.0
 Release:	alt1_1jpp8
 Summary:	Virtual Organization Membership Service Java API
 
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://wiki.italiangrid.it/VOMS
 Source0:	https://github.com/italiangrid/%{name}/archive/v%{version}/%{name}-%{version}.tar.gz
 #		Disable tests using non-local network interface

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 16.8
 Release: alt1.qa1%ubt
 Summary: Core utilities for Python packages
-License: ASLv2.0 or BSD
+License: Apache-2.0 or BSD
 Group: Development/Python
 Url: https://pypi.python.org/pypi/packaging
 BuildArch: noarch

@@ -2,7 +2,7 @@ Name:    disable-usb-autosuspend
 Version: 1.1
 Release: alt1
 Summary: Disables autosuspend USB devices
-License: Public domain
+License: ALT-Public-Domain
 Group:   System/Kernel and hardware
 BuildArch: noarch
 

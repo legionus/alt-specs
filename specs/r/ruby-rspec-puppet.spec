@@ -5,7 +5,7 @@ Version: 0.1.6
 Release: alt1.1
  
 Summary: RSpec tests for your Puppet manifests
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/puppetlabs/rspec-puppet
  

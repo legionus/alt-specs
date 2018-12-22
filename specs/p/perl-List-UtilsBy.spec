@@ -7,7 +7,7 @@ Name:           perl-List-UtilsBy
 Version:        0.11
 Release:        alt1
 Summary:        Higher-order list utility functions
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/List-UtilsBy/
 Source0:        http://www.cpan.org/authors/id/P/PE/PEVANS/List-UtilsBy-%{version}.tar.gz

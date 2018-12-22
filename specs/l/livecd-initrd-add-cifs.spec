@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: Added CIFS support for initrd
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Base
 
 Url: http://altlinux.org/m-p

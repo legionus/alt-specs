@@ -6,7 +6,7 @@ Release: alt1
 Summary: etcd3 gateway Python Client
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/dims/etcd3-gateway
 Source: %oname-%version.tar.gz
 

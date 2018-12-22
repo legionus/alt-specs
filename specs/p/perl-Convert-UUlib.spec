@@ -7,7 +7,7 @@ Release: alt1.1.1.1
 Epoch: 2
 Summary: Perl interface to the uulib library (a.k.a. uudeview/uuenview)
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/%module/
 Packager: Alexey Shabalin <shaba@altlinux.ru>

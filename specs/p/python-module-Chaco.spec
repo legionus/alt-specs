@@ -5,7 +5,7 @@ Release: alt1.dev.git20150427
 Summary: Interactive 2-Dimensional Plotting
 
 Group: Development/Python
-License: BSD and GPLv2
+License: BSD and GPL-2.0-only
 URL: http://code.enthought.com/projects/chaco/
 # https://github.com/enthought/chaco.git
 Source: %oname-%version.tar.gz

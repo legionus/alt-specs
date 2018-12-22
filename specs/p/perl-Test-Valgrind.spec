@@ -8,7 +8,7 @@ Summary:	Generate suppressions, analyze and test any command with valgrind
 Version:	1.19
 Release:	alt1
 Group:		Development/Perl
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		http://search.cpan.org/dist/Test-Valgrind/
 Source:	http://www.cpan.org/authors/id/V/VP/VPIT/Test-Valgrind-%{version}.tar.gz
 BuildArch:	noarch

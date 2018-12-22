@@ -5,7 +5,7 @@ Version: 4.06
 Release: alt1
 
 Summary: Color output using ANSI escape sequences
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

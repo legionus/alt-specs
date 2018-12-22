@@ -3,7 +3,7 @@ Version: 6.10.2
 Release: alt1
 Epoch: 4
 Summary: ATI Rage 128 video driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

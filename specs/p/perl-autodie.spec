@@ -5,7 +5,7 @@ Version: 2.29
 Release: alt1
 
 Summary: Replace functions with ones that succeed or die with lexical scope
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

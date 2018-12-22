@@ -7,7 +7,7 @@ Release: alt3%minor_release
 
 Summary: The Purdue Compiler-Construction Tools Set
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/C++
 Url: http://www.polhode.com/pccts.html
 

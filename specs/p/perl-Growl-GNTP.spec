@@ -8,7 +8,7 @@ Name:           perl-Growl-GNTP
 Version:        0.21
 Release:        alt1_7
 Summary:        Perl implementation of GNTP Protocol (Client Part)
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Growl-GNTP
 Source0:        https://cpan.metacpan.org/authors/id/M/MA/MATTN/Growl-GNTP-%{version}.tar.gz

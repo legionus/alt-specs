@@ -8,7 +8,7 @@ Name:           perl-Crypt-Eksblowfish
 Version:        0.009
 Release:        alt5_22
 Summary:        Eksblowfish block cipher
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Crypt-Eksblowfish
 Source0:        https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Crypt-Eksblowfish-%{version}.tar.gz

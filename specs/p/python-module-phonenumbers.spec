@@ -8,7 +8,7 @@ Release: alt1.1
 
 Summary: Python port of Google's libphonenumber
 
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/phonenumbers/
 

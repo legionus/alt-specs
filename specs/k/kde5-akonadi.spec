@@ -10,7 +10,7 @@ Release: alt1%ubt
 Group: Databases
 Summary: An extensible cross-desktop storage service for PIM
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: %name-database tar bzip2
 

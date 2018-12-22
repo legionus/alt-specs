@@ -10,7 +10,7 @@ Version:        0.10
 Release:        alt3_15
 Summary:        A Latin typeface for documents 
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://fonts.google.com/specimen/Molengo
 Source0:        https://github.com/google/fonts/raw/master/ofl/molengo/Molengo-Regular.ttf
 Source1:        https://raw.githubusercontent.com/google/fonts/master/ofl/molengo/OFL.txt

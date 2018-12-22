@@ -9,7 +9,7 @@ Name:           perl-Carp-Always
 Version:        0.16
 Release:        alt1_1
 Summary:        Warn and die in Perl noisily with stack backtraces
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/Carp-Always
 Source0:        https://cpan.metacpan.org/authors/id/F/FE/FERREIRA/Carp-Always-%{version}.tar.gz

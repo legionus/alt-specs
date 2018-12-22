@@ -3,7 +3,7 @@ Version: 1.20
 Release: alt1
 
 Summary: LZMA compressed file recovery
-License: GPL v3+
+License: GPL-3.0-or-later
 Group: Archiving/Compression
 
 Url: http://savannah.nongnu.org/projects/lzip/

@@ -4,7 +4,7 @@ Version: 1.05
 Release: alt1
 
 Summary: Modification of UTF-7 encoding for IMAP
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

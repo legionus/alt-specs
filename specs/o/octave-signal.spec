@@ -13,7 +13,7 @@ Release: alt1
 Summary: Signal Processing
 
 Group: Sciences/Mathematics
-License: GPLv3+, public domain
+License: GPL-3.0-or-later and ALT-Public-Domain
 URL: https://octave.sourceforge.io/signal/
 
 Source0: %{octave_pkg_name}-%{octave_pkg_version}.tar.gz

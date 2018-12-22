@@ -10,7 +10,7 @@ Name:          directory-project
 Version:       35
 Release:       alt1_5jpp8
 Summary:       Apache Directory Project Root pom
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://directory.apache.org/
 # svn export http://svn.apache.org/repos/asf/directory/project/tags/35 directory-project-35
 # tar cJf directory-project-35.tar.xz directory-project-35

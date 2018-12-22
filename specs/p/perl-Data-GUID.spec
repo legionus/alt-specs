@@ -8,7 +8,7 @@ Name:           perl-Data-GUID
 Version:        0.049
 Release:        alt1_6
 Summary:        Globally unique identifiers
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Data-GUID
 Source0:        https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Data-GUID-%{version}.tar.gz

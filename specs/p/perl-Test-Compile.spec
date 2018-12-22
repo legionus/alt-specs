@@ -5,7 +5,7 @@ Name: perl-Test-Compile
 Version: 1.3.0
 Release: alt1
 Summary: Check whether Perl module files compile correctly
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Test-Compile/
 Source: %sname-%version.tar

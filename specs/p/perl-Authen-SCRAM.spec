@@ -10,7 +10,7 @@ Version: 0.011
 Release: alt1
 Summary: Salted Challenge Response Authentication Mechanism (RFC 5802)
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/Authen-SCRAM
 
 Source0: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/%{module_name}-%{version}.tar.gz

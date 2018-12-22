@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Browser-based multilingual IMAP client with an application-like user interface
 
-License: GPL2
+License: GPL-2.0-only
 Group: Networking/Mail
 Url: http://roundcube.net/
 

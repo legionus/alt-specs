@@ -8,7 +8,7 @@ Release:        alt1_4
 Summary:        Free Punjabi font
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            https://fedorahosted.org/lohit/
 Source0:        https://fedorahosted.org/releases/l/o/lohit/%{fontname}-%{version}.tar.gz
 BuildArch:      noarch

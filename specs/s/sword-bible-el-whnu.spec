@@ -5,7 +5,7 @@ Release: alt1
 Summary: Westcott-Hort with NA27/UBS4 variants (1881) for SWORD
 Summary(ru_RU.UTF-8): Westcott-Hort with NA27/UBS4 variants (1881) для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

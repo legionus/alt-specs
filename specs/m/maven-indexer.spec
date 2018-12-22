@@ -15,7 +15,7 @@ Version:        5.1.2
 Release:        alt1_0.4.gite0570bfjpp8
 Summary:        Standard for producing indexes of Maven repositories
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/maven-indexer/index.html
 
 Source0:        https://github.com/apache/maven-indexer/archive/%{git_tag}/maven-indexer-%{version}.tar.gz

@@ -5,7 +5,7 @@ Version: 2.0.4
 Release: alt1%ubt
 
 Summary: Simple DirectMedia Layer - Sample Mixer Library
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 Url: http://www.libsdl.org/projects/SDL_mixer/

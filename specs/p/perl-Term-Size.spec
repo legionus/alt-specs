@@ -4,7 +4,7 @@ Version: 0.209
 Release: alt1
 
 Summary: Perl module for get the size of the terminal
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

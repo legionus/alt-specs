@@ -5,7 +5,7 @@ Release: alt2
 Summary: A C++11 wrapper for LMDB
 
 Group: Development/Other
-License: Public Domain
+License: ALT-Public-Domain
 Url: https://github.com/drycpp/lmdbxx
 
 Source: %name-%version.tar

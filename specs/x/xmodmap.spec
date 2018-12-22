@@ -2,7 +2,7 @@ Name: xmodmap
 Version: 1.0.9
 Release: alt1
 Summary: utility for modifying keymaps and pointer button mappings in X
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: https://cgit.freedesktop.org/xorg/app/xmodmap/
 

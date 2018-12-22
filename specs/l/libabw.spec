@@ -4,7 +4,7 @@ Release: alt1
 Summary: A library for import of AbiWord files
 
 Group: System/Libraries
-License: MPLv2.0
+License: MPL-2.0
 Url: https://wiki.documentfoundation.org/DLP/Libraries/libabw
 Source: %name-%version.tar
 

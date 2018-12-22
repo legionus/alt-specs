@@ -7,7 +7,7 @@ Version: 1.11.1
 Release: alt1
 Summary: A library for plugging and unplugging virtual interfaces in OpenStack
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/os_vif-%version.tar.gz
 

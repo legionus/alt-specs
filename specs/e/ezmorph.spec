@@ -11,7 +11,7 @@ Name:          ezmorph
 Version:       1.0.6
 Release:       alt1_17jpp8
 Summary:       Object transformation library for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://ezmorph.sourceforge.net/
 # A plain jarball with the source is provided by upstream.  We could use
 # it, but we choose to build with maven for the sake of consistency.

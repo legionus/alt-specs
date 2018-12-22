@@ -4,7 +4,7 @@ Name: carfac
 Version: 0.0
 Release: alt1.git20140829
 Summary: Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model
-License: ASL v2.0
+License: Apache-2.0
 Group: Sound
 Url: https://github.com/google/carfac
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

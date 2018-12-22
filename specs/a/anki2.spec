@@ -4,7 +4,7 @@ Release: alt1
 Summary: Flashcard program for using space repetition learning
 
 Group: Games/Educational
-License: GPLv3+ and MIT
+License: GPL-3.0-or-later and MIT
 Url: https://apps.ankiweb.net/
 Source0: %name-%version.tar
 

@@ -2,7 +2,7 @@ Name:    pacemaker
 Summary: Scalable High-Availability cluster resource manager
 Version: 2.0.0
 Release: alt1
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Url:     http://www.clusterlabs.org
 # VCS:   https://github.com/ClusterLabs/pacemaker.git
 Group:   System/Servers
@@ -46,7 +46,7 @@ Available rpmbuild rebuild options:
   --with(out) : heartbeat cman corosync doc publican snmp esmtp pre_release
 
 %package cli
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Summary: Command line tools for controlling Pacemaker clusters
 Group: System/Servers
 Requires: perl-DateTime-Format-DateParse
@@ -62,7 +62,7 @@ to query and control the cluster from machines that may, or may not,
 be part of the cluster.
 
 %package -n lib%name
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Summary: Core Pacemaker libraries
 Group: System/Servers
 
@@ -74,7 +74,7 @@ The lib%name package contains shared libraries needed for cluster
 nodes and those just running the CLI tools.
 
 %package remote
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Summary: Pacemaker remote daemon for non-cluster nodes
 Group: System/Servers
 
@@ -92,7 +92,7 @@ which is capable of extending pacemaker functionality to remote
 nodes not running the full corosync/cluster stack.
 
 %package -n lib%name-devel
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Summary: Pacemaker development package
 Group: Development/C
 Requires: lib%name = %version-%release
@@ -108,7 +108,7 @@ The lib%name-devel package contains headers and shared libraries
 for developing tools for Pacemaker.
 
 %package cts
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Summary: Test framework for cluster-related technologies like Pacemaker
 Group: System/Servers
 Requires: resource-agents
@@ -120,7 +120,7 @@ BuildArch: noarch
 Test framework for cluster-related technologies like Pacemaker
 
 %package doc
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Summary: Documentation for Pacemaker
 Group: System/Servers
 BuildArch: noarch

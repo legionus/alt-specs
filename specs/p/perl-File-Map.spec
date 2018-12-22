@@ -10,7 +10,7 @@ Name:           perl-File-Map
 Version:        0.66
 Release:        alt1
 Summary:        Memory mapping made simple and safe
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/File-Map
 Source0:        http://www.cpan.org/authors/id/L/LE/LEONT/File-Map-%{version}.tar.gz

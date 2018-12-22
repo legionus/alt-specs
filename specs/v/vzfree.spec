@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Checking Memory Usage inside OpenVZ VE
 
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 Url: http://hostingfu.com/article/vzfree-checking-memory-usage-inside-openvz-ve
 

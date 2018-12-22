@@ -4,7 +4,7 @@ Version: 1.4.0
 Release: alt1
 Summary: A composable build system for OCaml
 Group: Development/ML
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/ocaml/dune
 Source0: %name-%version-%release.tar
 Provides: jbuilder = %version-%release

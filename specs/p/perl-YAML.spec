@@ -5,7 +5,7 @@ Version: 1.27
 Release: alt1
 
 Summary: YAML Ain't Markup Language
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

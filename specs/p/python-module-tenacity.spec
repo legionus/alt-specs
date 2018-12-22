@@ -9,7 +9,7 @@ Version: 4.12.0
 Release: alt1
 Summary: Retrying library
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/jd/tenacity
 Source: %oname-%version.tar.gz
 Patch: tenacity-fix-py2.patch

@@ -5,7 +5,7 @@ Version: 0.20
 Release: alt1
 
 Summary: Inflect short English Phrases
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

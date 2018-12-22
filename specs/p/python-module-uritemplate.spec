@@ -7,7 +7,7 @@ Version: 0.6
 Release: alt3.1.1
 
 Summary: Python implementation of RFC6570, URI Template
-License: Apache Software License
+License: Apache
 Group: Development/Python
 
 Url: https://pypi.python.org/pypi/uritemplate

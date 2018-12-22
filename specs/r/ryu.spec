@@ -3,7 +3,7 @@ Version: 4.30
 Release: alt1
 Summary: Component-based Software-defined Networking Framework
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://osrg.github.io/ryu/
 Source: %name-%version.tar.gz
 

@@ -5,7 +5,7 @@ Version: 1.1.0
 Release: alt1.1.1.1
 
 Summary: Perl extension for the DBus message system
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

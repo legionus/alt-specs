@@ -7,7 +7,7 @@ Version: 3.4.1
 Release: alt1
 
 Summary: Engine for processing 3D models into G-code instructions for 3D printers
-License: AGPL-3.0
+License: AGPL-3.0-only
 Group: Engineering
 Url: https://github.com/Ultimaker/CuraEngine
 

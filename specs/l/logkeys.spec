@@ -5,7 +5,7 @@ Release: alt2
 
 Summary: A GNU/Linux keylogger that works!
 Group: Development/Debug
-License: GNU GPLv3
+License: GPL-3.0-only
 Url: https://github.com/kernc/logkeys
 
 Source: %name-%version.tar

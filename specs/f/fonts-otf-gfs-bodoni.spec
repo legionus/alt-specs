@@ -15,7 +15,7 @@ Version: 20070415
 Release: alt3_22
 Summary: GFS Bodoni fonts
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces20th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

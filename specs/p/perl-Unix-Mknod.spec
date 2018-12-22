@@ -4,7 +4,7 @@ Version: 0.04
 Release: alt3.1.1.1.1
 
 Summary: Perl extension for mknod, major, minor, and makedev
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -7,7 +7,7 @@ Name: golang-github-juju-schema
 Version: 0
 Release: alt1.git%abbrev
 Summary: Helpers for coercing dynamically typed data structures into known forms.
-License: LGPL v.3
+License: LGPL-3.0-only
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

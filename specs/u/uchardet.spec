@@ -3,7 +3,7 @@ Summary:	Universal charset detection
 Version:	0.0.1
 Release:	alt2
 Group:		Development/Tools
-License:	MPLv1.1
+License:	MPL-1.1
 Url:		http://code.google.com/p/uchardet/
 Source0:	http://uchardet.googlecode.com/files/%name-%version.tar.gz
 

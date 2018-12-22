@@ -8,7 +8,7 @@ Release: alt1.1
 
 Summary: A simple universally unique ID generation library
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://github.com/sporkmonger/uuidtools
 
 BuildArch: noarch

@@ -2,7 +2,7 @@ Name: fi_lib
 Version: 1.2
 Release: alt4
 Summary: A fast interval library
-License: LGPL v2.0 or later
+License: LGPL-2.0-or-later
 Group: Sciences/Mathematics
 Url: http://www2.math.uni-wuppertal.de/~xsc/software/filib.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

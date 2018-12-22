@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.0.4
 Release: alt1
 Summary: Simple decorator implementation of an interface
-License: Apache v2
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/interfaces/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

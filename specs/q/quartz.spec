@@ -12,7 +12,7 @@ Name:           quartz
 Version:        2.2.1
 Release:        alt1_8jpp8
 Epoch:          0
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.quartz-scheduler.org/
 # svn export http://svn.terracotta.org/svn/quartz/tags/quartz-2.2.1
 # tar caf quartz-2.2.1.tar.xz quartz-2.2.1

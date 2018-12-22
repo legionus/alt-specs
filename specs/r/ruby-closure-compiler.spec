@@ -5,7 +5,7 @@ Version: 1.1.12
 Release: alt1.1
 
 Summary: A Ruby Wrapper for the Google Closure Compiler
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/documentcloud/closure-compiler
 

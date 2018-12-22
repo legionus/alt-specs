@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.3.2
 Release: alt1.1
 Summary: Allows you to run a test with multiple data sets
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/genty/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

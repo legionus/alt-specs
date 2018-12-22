@@ -5,7 +5,7 @@ Version: 0.076
 Release: alt1
 
 Summary: A small, simple, correct HTTP/1.1 client
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -20,7 +20,7 @@ Release: alt1
 
 Summary: Render simple UML class diagrams, by loading the code
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/UML-Class-Simple/
 

@@ -5,7 +5,7 @@ Release: alt3
 Group: Games/Puzzles
 Summary: 3D logical game
 Summary(ru_RU.UTF-8): Логическая 3D игра
-License: Public Domain
+License: ALT-Public-Domain
 Url: http://kiki.sf.net
 Source0: %name-%version.tar
 Source1: %name.16.png

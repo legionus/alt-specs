@@ -8,7 +8,7 @@ Name:           perl-HTML-Form
 Version:        6.03
 Release:        alt1_18
 Summary:        Class that represents an HTML form element
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/HTML-Form
 Source0:        https://cpan.metacpan.org/authors/id/G/GA/GAAS/HTML-Form-%{version}.tar.gz

@@ -14,7 +14,7 @@ Version:        2.01
 Release:        alt1_7
 Summary:        Unicode font for Javanese script
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://sites.google.com/site/jawaunicode/main-page
 Source0:        https://sites.googlegroups.com/site/jawaunicode/TuladhaJejegGr_2.01.zip
 Source1:        %{oldname}-fontconfig.conf

@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Fix bashisms in shell code
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Other
 Url: https://github.com/vitlav/fixbashisms
 

@@ -10,7 +10,7 @@ Release: alt1
 
 Summary: Net::Pcap is awesome, but it's difficult to bootstrap
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 BuildArch: noarch
 
 Url: %CPAN %dist

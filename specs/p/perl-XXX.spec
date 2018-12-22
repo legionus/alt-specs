@@ -9,7 +9,7 @@ Name:           perl-XXX
 Version:        0.32
 Release:        alt1
 Summary:        See Your Data in the Nude
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/XXX
 Source0:        http://www.cpan.org/authors/id/T/TI/TINITA/XXX-%{version}.tar.gz

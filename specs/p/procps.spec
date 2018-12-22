@@ -3,7 +3,7 @@ Version: 3.3.7
 Release: alt2
 
 Summary: System and process monitoring utilities
-License: GPLv2+, LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: Monitoring
 URL: https://sourceforge.net/projects/procps-ng/
 

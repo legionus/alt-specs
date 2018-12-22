@@ -2,7 +2,7 @@
 Name: svox-pico
 Version: 20120212
 Release: alt2
-License: Apache License
+License: Apache
 Group: Sound
 Summary: Text-To-Speech engine from Android project
 URL: http://android.googlesource.com/platform/external/svox.git

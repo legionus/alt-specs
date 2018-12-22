@@ -7,7 +7,7 @@ Name:           perl-Devel-CheckOS
 Version:        1.81
 Release:        alt1
 Summary:        Check what OS we're running on
-License:        GPLv2 or Artistic
+License:        GPL-2.0-only or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/Devel-CheckOS/
 Source0:        http://www.cpan.org/authors/id/D/DC/DCANTRELL/Devel-CheckOS-%{version}.tar.gz

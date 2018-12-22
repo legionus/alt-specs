@@ -4,7 +4,7 @@ Version: 2018.11
 Release: alt1
 Url: http://saltstack.org
 #VCS: https://github.com/saltstack/salt
-License: apache-2.0
+License: Apache-2.0
 Group: System/Configuration/Other
 
 Packager: Andrey Cherepanov <cas@altlinux.org>

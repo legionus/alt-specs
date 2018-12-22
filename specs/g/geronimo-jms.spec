@@ -12,7 +12,7 @@ Name:           geronimo-jms
 Version:        1.1.1
 Release:        alt3_25jpp8
 Summary:        J2EE JMS v1.1 API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://geronimo.apache.org/
 BuildArch:      noarch
 

@@ -15,7 +15,7 @@ Release:        alt3_6
 Summary:        A sans-serif font for use as primary interface font
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.geocities.com/hartke01/
 Source0:        %{url}%{archivename}.tgz
 Source1:        %{fontname}-fonts-fontconfig.conf

@@ -5,7 +5,7 @@ Name: resource-agents
 Summary: Open Source HA Reusable Cluster Resource Scripts
 Version: 4.0.1
 Release: alt1%ubt
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Url: https://github.com/ClusterLabs/resource-agents
 Group: System/Base
 Source: %name-%version.tar

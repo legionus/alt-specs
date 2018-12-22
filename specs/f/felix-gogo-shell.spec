@@ -12,7 +12,7 @@ Name:           felix-gogo-shell
 Version:        1.0.0
 Release:        alt1_3jpp8
 Summary:        Community OSGi R4 Service Platform Implementation - Basic Commands
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org/documentation/subprojects/apache-felix-gogo.html
 BuildArch:      noarch
 

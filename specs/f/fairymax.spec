@@ -3,7 +3,7 @@ Version: 4.8j
 Release: alt1.qa1
 
 Summary: Fairy-Max, a sub-2KB (source) micro-Max Chess program
-License: Public domain
+License: ALT-Public-Domain
 Group: Games/Boards
 
 Url: http://home.hccnet.nl/h.g.muller/

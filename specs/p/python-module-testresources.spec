@@ -6,7 +6,7 @@ Release:        alt2
 Summary:        Testresources, a pyunit extension for managing expensive test resources
 
 Group:		Development/Python
-License:        ASL 2.0 and BSD and GPLv2+
+License:        Apache-2.0 and BSD and GPL-2.0-or-later
 # file testresources/tests/TestUtil.py is GPLv2+
 URL:            https://launchpad.net/testresources
 Source0:        %{name}-%{version}.tar

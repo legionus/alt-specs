@@ -4,7 +4,7 @@ Version: 1.07
 Release: alt2.1.1.1.1
 
 Summary: Simple standalone param-checking functions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

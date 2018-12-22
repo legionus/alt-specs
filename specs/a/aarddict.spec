@@ -8,7 +8,7 @@ Packager: Ildar Mulyukov <ildar@altlinux.ru>
 BuildArch: noarch
 Group: System/Internationalization
 Url: http://aarddict.org
-License: GPL3
+License: GPL-3.0-only
 
 Source: %name.tar
 Source1: %name.desktop

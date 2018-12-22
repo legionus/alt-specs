@@ -5,7 +5,7 @@ Version: 1.2.5
 Release: alt1
  
 Summary: Ruby binding for curses, ncurses, and PDCurses
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ruby/curses
  

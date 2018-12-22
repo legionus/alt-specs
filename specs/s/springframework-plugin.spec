@@ -15,7 +15,7 @@ Name:          springframework-plugin
 Version:       1.1.0
 Release:       alt1_9jpp8
 Summary:       Simple plugin infrastructure
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/SpringSource/spring-plugin
 Source0:       https://github.com/spring-projects/spring-plugin/archive/%{namedversion}.tar.gz
 # https://github.com/spring-projects/spring-plugin/issues/12

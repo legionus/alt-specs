@@ -8,7 +8,7 @@ Name:    ggz-base-libs
 Version: 0.99.5
 Release: alt3_22.qa1
 
-License: LGPLv2+ and GPLv2+
+License: LGPLv2+ and GPL-2.0-or-later
 URL: http://www.ggzgamingzone.org/
 #Source0: http://ftp.belnet.be/packages/ggzgamingzone/ggz/%{version}/ggz-base-libs-snapshot-%{version}.tar.gz
 Source0: http://mirrors.ibiblio.org/pub/mirrors/ggzgamingzone/ggz/snapshots/ggz-base-libs-snapshot-%{version}.tar.gz

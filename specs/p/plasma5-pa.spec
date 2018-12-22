@@ -11,7 +11,7 @@ Release: alt1
 Group: Graphical desktop/KDE
 Summary: Audio Volume Plasma Applet
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: pulseaudio-daemon
 

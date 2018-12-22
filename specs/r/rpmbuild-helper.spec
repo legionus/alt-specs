@@ -6,7 +6,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: A set of helper utilities that automate routine packaging tasks.
 Group: Development/Tools
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://www.altlinux.org/Icon_Paths_Policy
 
 Source: %name-%version.tar

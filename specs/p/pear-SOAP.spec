@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: SOAP Client/Server for PHP
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/SOAP/
 

@@ -7,7 +7,7 @@ Name:           perl-Math-Random-ISAAC-XS
 Version:        1.004
 Release:        alt4_11.1.1.1.1
 Summary:        C implementation of the ISAAC PRNG algorithm
-License:        MIT or GPL+ or Artistic
+License:        MIT or GPL-1.0-or-later or Artistic
 URL:            http://search.cpan.org/dist/Math-Random-ISAAC-XS/
 Source0:        http://www.cpan.org/authors/id/J/JA/JAWNSY/Math-Random-ISAAC-XS-%{version}.tar.gz
 BuildRequires:  perl(ExtUtils/CBuilder.pm)

@@ -4,7 +4,7 @@ Version: 2.6
 Release: alt1
 
 Summary: ASCII sprite animation framework
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

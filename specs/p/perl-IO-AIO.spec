@@ -7,7 +7,7 @@ Version: 4.6
 Release: alt1
 
 Summary: Asynchronous Input/Output
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

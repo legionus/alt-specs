@@ -4,7 +4,7 @@ Name:       python-module-%oname
 Version:    4.7.1
 Release:    alt1
 Summary:    Client Library for OpenStack Barbican Key Management API
-License:    ASL 2.0
+License:    Apache-2.0
 Url:        http://docs.openstack.org/developer/python-%oname
 Source:     https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz
 Group:      Development/Python

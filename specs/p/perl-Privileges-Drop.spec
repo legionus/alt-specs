@@ -4,7 +4,7 @@ Version: 1.03
 Release: alt1
 
 Summary: A module to make it simple to drop all privileges, even POSIX groups.
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 Url: %CPAN %dist

@@ -5,7 +5,7 @@ Version: 1.412
 Release: alt1
 
 Summary: SQL parsing and processing engine
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/SQL-Statement/

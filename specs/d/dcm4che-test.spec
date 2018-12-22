@@ -13,7 +13,7 @@ Name:           dcm4che-test
 Version:        2.6
 Release:        alt3_0.15.20110530svn15516jpp8
 Summary:        Test images for dcm4che2
-License:        MPLv1.1 or GPLv2 or LGPLv2
+License:        MPL-1.1 or GPL-2.0-only or LGPLv2
 URL:            http://www.dcm4che.org/confluence/display/proj/The+Project
 BuildArch:      noarch
 # Generated from an svn checkout:

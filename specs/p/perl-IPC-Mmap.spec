@@ -4,7 +4,7 @@ Version: 0.21
 Release: alt5.1
 
 Summary: Minimal unified mmap for POSIX and Win32
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

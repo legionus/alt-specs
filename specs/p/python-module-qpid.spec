@@ -4,7 +4,7 @@ Version: 0.32
 Release: alt1
 Summary: Python client library for AMQP
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://qpid.apache.org
 Source: %name-%version.tar

@@ -6,7 +6,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: test for filesystem conflicts in rpm packages.
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://repocop.altlinux.org
 Requires: repocop > 0.59
 Requires: perl-RPM-Source-Editor >= 0.70

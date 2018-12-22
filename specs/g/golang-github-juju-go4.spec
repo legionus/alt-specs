@@ -7,7 +7,7 @@ Name: golang-github-juju-go4
 Version: 0
 Release: alt1.git%abbrev
 Summary: go4.org is a collection of packages for Go programmers
-License: Apache v.2
+License: Apache-2.0
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

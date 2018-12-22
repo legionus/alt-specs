@@ -4,7 +4,7 @@ Release: alt2
 Summary: A C++ port of the Typesafe Config library
  
 Group:   System/Libraries
-License: Apache 2.0
+License: Apache-2.0
 Url:     https://github.com/puppetlabs/cpp-hocon
 Packager: Andrey Cherepanov <cas@altlinux.org>
  

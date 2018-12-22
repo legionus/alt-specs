@@ -10,7 +10,7 @@ Release: alt2.1
 Summary: Perl module to convert currencies using Yahoo
 Summary(ru_RU.UTF-8): модуль Perl для преобразования валют с использованием Yahoo
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 %define real_name Finance-Currency-Convert-Yahoo

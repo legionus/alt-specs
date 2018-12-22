@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.0.1
 Release: alt2.git20141127.1
 Summary: Logging nose plugin to create log per test
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/nose-logpertest

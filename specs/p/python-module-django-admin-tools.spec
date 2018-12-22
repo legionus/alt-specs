@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: A collection of tools for the django administration interface
 
-License: MIT License
+License: MIT
 Group: Development/Python
 Url: http://www.bitbucket.org/izi/django-admin-tools
 

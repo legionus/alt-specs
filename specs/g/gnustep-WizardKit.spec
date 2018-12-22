@@ -4,7 +4,7 @@ Name: gnustep-WizardKit
 Version: 0.1
 Release: alt3
 Summary: Framework needed by Project Manager
-License: MIT / FDL
+License: MIT or FDL
 Group: Graphical desktop/GNUstep
 Url: http://wiki.gnustep.org/index.php/WizardKit
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Generation of CAPTCHAs
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/%pear_name
 

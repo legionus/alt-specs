@@ -5,7 +5,7 @@ Version: 2.023
 Release: alt1
 
 Summary: Less indentation and newlines plus sub deparsing
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -2,7 +2,7 @@ Name: liblogging
 Version: 1.0.6
 Release: alt1
 Summary: LibLogging stdlog library
-License: 2-clause BSD
+License: BSD-2-Clause
 Group: System/Libraries
 Url: http://www.liblogging.org
 Source: %name-%version.tar

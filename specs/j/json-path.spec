@@ -11,7 +11,7 @@ Version:       2.1.0
 Release:       alt1_4jpp8
 Summary:       Java JsonPath implementation
 # Some files in src/main/java/com/jayway/jsonassert/impl/matcher/ are licensed under BSD
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 URL:           https://github.com/jayway/JsonPath
 Source0:       https://github.com/jayway/JsonPath/archive/%{name}-%{version}.tar.gz
 # Too many unavailable plugins for use gradle

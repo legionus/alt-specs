@@ -6,7 +6,7 @@ Release: alt1
 Epoch: 1
 
 Summary: Collection of Network protocol modules for Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

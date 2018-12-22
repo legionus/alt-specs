@@ -8,7 +8,7 @@ Release: alt1.1
 Summary: C language reference manual designed for Vim
 Summary(ru_RU.CP1251): Справочник по языку C для просмотра в Vim
 Group: Development/C
-License: GPL & FDL
+License: GPL-1.0-only and FDL
 Url: https://www.vim.org/scripts/script.php?script_id=614
 BuildArch: noarch
 

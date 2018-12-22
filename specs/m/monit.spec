@@ -8,7 +8,7 @@ Version: 5.25.2
 Release: alt1.1
 
 Summary: Process monitor and restart utility
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Monitoring
 
 Url: http://mmonit.com/monit

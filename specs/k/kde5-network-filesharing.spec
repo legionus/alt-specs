@@ -9,7 +9,7 @@ Release: alt1%ubt
 Group: Graphical desktop/KDE
 Summary: Fileshare Konqueror Directory Properties Page
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 #Requires: %pkg_samba
 

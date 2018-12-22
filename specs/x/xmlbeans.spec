@@ -70,7 +70,7 @@ Patch4:         xmlbeans-scripts-classpath.patch
 # error: cannot access TypeStoreUser
 Patch5:         xmlbeans-2.6.0-java8.patch
 
-License:        ASL 2.0
+License:        Apache-2.0
 
 %if %without bootstrap
 BuildRequires:  xmlbeans

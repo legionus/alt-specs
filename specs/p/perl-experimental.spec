@@ -9,7 +9,7 @@ Name:           perl-experimental
 Version:        0.020
 Release:        alt1_2
 Summary:        Experimental features made easy
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/experimental
 Source0:        https://cpan.metacpan.org/authors/id/L/LE/LEONT/experimental-%{version}.tar.gz
 BuildArch:      noarch

@@ -5,7 +5,7 @@ Version: 0.9.7
 Release: alt1
 
 Summary: Ruby bindings for libcurl
-License: MIT/ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/taf2/curb
 

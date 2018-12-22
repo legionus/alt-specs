@@ -8,7 +8,7 @@ Release: alt1
 Summary: Release Notes manager
 Group: Development/Python
 
-License: ASL 2.0
+License: Apache-2.0
 Url: http://www.openstack.org/
 Source: %pypi_name-%version.tar.gz
 BuildArch: noarch

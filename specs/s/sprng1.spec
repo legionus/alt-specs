@@ -7,7 +7,7 @@ Name: sprng1
 Version: 1.0
 Release: alt7
 Summary: The Scalable Parallel Random Number Generators Library
-License: GPL v2
+License: GPL-2.0-only
 Group: Sciences/Mathematics
 Url: http://sprng.cs.fsu.edu/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -12,7 +12,7 @@ Version:        1.1
 Release:        alt2_17jpp8
 Summary:        Java port of Mozilla's automatic character set detection algorithm
 
-License:        MPLv1.1 or GPLv2+ or LGPLv2+
+License:        MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 URL:            http://jchardet.sourceforge.net/
 Source0:        http://download.sourceforge.net/jchardet/%{version}/jchardet-%{version}.zip
 Source1:        http://repo1.maven.org/maven2/net/sourceforge/%{name}/%{name}/1.0/%{name}-1.0.pom

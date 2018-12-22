@@ -10,7 +10,7 @@ Name:          johnzon
 Version:       0.9.4
 Release:       alt1_5jpp8
 Summary:       Implementation of JSR-353
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://johnzon.apache.org/
 Source0:       http://www.apache.org/dist/johnzon/%{name}-%{version}/apache-%{name}-%{version}-src.tar.gz
 

@@ -5,7 +5,7 @@ Release: alt1
 Summary: Westminster Leningrad Codex for SWORD
 Summary(ru_RU.UTF-8): Westminster Leningrad Codex для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

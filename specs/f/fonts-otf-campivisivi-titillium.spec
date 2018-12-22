@@ -13,7 +13,7 @@ Version:	20120913
 Release:	alt1_14
 Summary:	Sans-serif typeface designed inside Campi Visivi's Type Design course
 
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.campivisivi.net/titillium/
 Source0:	http://www.campivisivi.net/titillium/download/Titillium_roman_upright_italic_2_0_OT.zip
 Source1:	%{oldname}-fontconfig.conf

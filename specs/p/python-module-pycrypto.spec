@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 2.7
 Release: alt3.a1.git20140620.1.1.1
 Summary: Cryptographic modules for Python
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pycrypto/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

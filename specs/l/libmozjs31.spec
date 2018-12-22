@@ -5,7 +5,7 @@ Name:		libmozjs31
 Version:	31.2.0
 Release:	alt1
 Group:		System/Libraries
-License:	MPL/GPL/LGPL
+License:	MPL or GPL-1.0-only or LGPL-1.0-only
 Packager:	Alexey Gladkov <legion@altlinux.ru>
 URL:		https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/31
 Source0:	%name-%version.tar

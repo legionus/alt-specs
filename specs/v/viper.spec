@@ -2,7 +2,7 @@ Name: viper
 Version: 1.0.1
 Release: alt1.bzr20130107
 Summary: A simple mesh plotter and run--time visualization module
-License: LGPL v3+
+License: LGPL-3.0-or-later
 Group: Graphics
 Url: http://fenicsproject.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

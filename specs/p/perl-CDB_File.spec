@@ -5,7 +5,7 @@ Version: 0.99
 Release: alt1.1.1
 
 Summary: Perl extension for access to cdb databases
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

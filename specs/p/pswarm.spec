@@ -11,7 +11,7 @@ Name: pswarm
 Version: 1.5
 Release: alt11
 Summary: Global optimization solver for bound and linear constrained problems
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Sciences/Mathematics
 Url: http://www.norg.uminho.pt/aivaz/pswarm/
 

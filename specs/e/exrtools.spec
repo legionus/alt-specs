@@ -3,7 +3,7 @@ Version: 0.4
 Release: alt1.qa3
 
 Summary: Command line utilities for manipulating high dynamic range images
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: Graphics
 
 Url: http://scanline.ca/exrtools

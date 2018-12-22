@@ -8,7 +8,7 @@ Release: alt1
 Summary: Execute commands and copy files over SSH to multiple machines at once
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 URL: https://launchpad.net/pycadf
 Source: %name-%version.tar
 BuildArch: noarch

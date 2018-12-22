@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.4.0
 Release: alt1.1
 Summary: Synchronization primitive RWLock for asyncio (PEP 3156) 
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/aiorwlock/

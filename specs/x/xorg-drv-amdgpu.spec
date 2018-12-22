@@ -2,7 +2,7 @@ Name: xorg-drv-amdgpu
 Version: 18.1.0
 Release: alt1
 Summary: AMD GPU video driver for the Xorg X server
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://cgit.freedesktop.org/xorg/driver/xf86-video-amdgpu
 

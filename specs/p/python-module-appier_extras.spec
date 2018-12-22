@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.8.11
 Release: alt1
 Summary: Appier Framework Extra Elements
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/appier_extras/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

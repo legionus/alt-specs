@@ -10,7 +10,7 @@ Name:           maven-remote-resources-plugin
 Version:        1.5
 Release:        alt1_1jpp8
 Summary:        Maven Remote Resources Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-remote-resources-plugin/
 BuildArch:      noarch
 

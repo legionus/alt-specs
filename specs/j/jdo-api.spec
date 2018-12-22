@@ -14,7 +14,7 @@ Name:          jdo-api
 Version:       3.1
 Release:       alt1_0.11.rc1jpp8
 Summary:       JDO 3.1 API
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://db.apache.org/jdo/
 # svn export http://svn.apache.org/repos/asf/db/jdo/tags/3.1-rc1/ jdo-api-3.1-rc1
 # find jdo-api-3.1-rc1/ -name "*.jar" -delete

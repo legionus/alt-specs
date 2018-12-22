@@ -10,7 +10,7 @@ Name:          evo-inflector
 Version:       1.2.1
 Release:       alt1_7jpp8
 Summary:       Implements English pluralization algorithm
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/atteo/evo-inflector
 Source0:       https://github.com/atteo/evo-inflector/archive/%{version}.tar.gz
 # Test deps

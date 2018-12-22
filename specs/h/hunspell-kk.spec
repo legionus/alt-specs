@@ -4,7 +4,7 @@ Release: alt2
 Summary: Kazakh Language Dictionary for Hunspell
 Summary(ru_RU.UTF-8): Орфографический cловарь казахского языка для Hunspell
 Summary(kk_KZ.UTF-8): Hunspell арналған Орфографиялық қазақ тілі сөздігі
-License: GPL2
+License: GPL-2.0-only
 Group: Text tools
 Url: https://addons.mozilla.org/ru/firefox/addon/14049
 BuildArch: noarch

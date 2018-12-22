@@ -2,7 +2,7 @@ Epoch: 1
 Name: eclipse-swt
 Version: 4.6.0
 Summary: SWT Library for GTK+
-License: EPL
+License: EPL-1.0
 Url: http://www.eclipse.org/
 Packager: Igor Vlasenko <viy@altlinux.ru>
 Provides: eclipse-swt = 1:4.6.0-1.fc24

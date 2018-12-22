@@ -13,7 +13,7 @@ Version:        1.0
 Release:        alt2_0.23.beta2jpp8
 Summary:        Plexus Container-Backed Active Collections
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://plexus.codehaus.org/
 #svn export http://svn.codehaus.org/plexus/tags/plexus-active-collections-1.0-beta-2/
 #tar zcf plexus-active-collections-1.0-beta-2.tar.gz plexus-active-collections-1.0-beta-2/

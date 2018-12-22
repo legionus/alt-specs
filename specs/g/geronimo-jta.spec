@@ -12,7 +12,7 @@ Name:		geronimo-jta
 Version:	1.1.1
 Release:	alt3_23jpp8
 Summary:	J2EE JTA v1.1 API
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://geronimo.apache.org/
 BuildArch:	noarch
 

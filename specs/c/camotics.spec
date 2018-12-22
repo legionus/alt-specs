@@ -4,7 +4,7 @@ Release: alt1.3
 
 Summary: Open-Source Simulation and Computer Aided Machining - A 3-axis CNC GCode simulator
 
-License: GPLv2+ and LGPL2.1
+License: GPL-2.0-or-later and LGPL2.1
 Group: Engineering
 Url: https://github.com/CauldronDevelopmentLLC/CAMotics
 

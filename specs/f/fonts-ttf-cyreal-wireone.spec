@@ -12,7 +12,7 @@ Name:          fonts-ttf-cyreal-wireone
 Version:       1.000
 Release:       alt1_0.6.%{alphatag}
 Summary:       Wire One font by Alexei Vanyashin and Gayaneh Bagdasaryan
-License:       OFL
+License:       OFL-1.0
 URL:           http://www.cyreal.org/2012/07/wire/
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/wireone/WireOne.ttf
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/wireone/OFL.txt

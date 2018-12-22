@@ -8,7 +8,7 @@ Summary: 	Calculate business hours in a time period
 Name: 		perl-Business-Hours
 Version: 	0.12
 Release: 	alt2_14
-License: 	GPL+ or Artistic
+License: 	GPL-1.0-or-later or Artistic
 Group: 		Development/Other
 URL: 		https://metacpan.org/release/Business-Hours
 

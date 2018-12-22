@@ -14,7 +14,7 @@ Name:          fonts-ttf-wallpoet
 Version:       1.000
 Release:       alt1_0.4.%{alphatag}
 Summary:       Wallpoet font by Lars Berggren
-License:       OFL
+License:       OFL-1.0
 URL:           https://www.google.com/fonts/specimen/Wallpoet
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/wallpoet/src/Wallpoet-Regular-TTF.sfd
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/wallpoet/OFL.txt

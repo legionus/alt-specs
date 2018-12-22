@@ -3,7 +3,7 @@ Name: python-module-%oname
 Version: 0.2.12
 Release: alt1.git20141223.1
 Summary: Authentication and Authorization via SQL for Autobahn
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/sqlauth/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -16,7 +16,7 @@ Version: 1.0
 Release: alt3_18
 Summary: A font for literacy and beginning readers
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://scripts.sil.org/Andika
 # Actual download URL
 # http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=%{archivename}&filename=%{archivename}.zip

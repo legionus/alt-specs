@@ -11,7 +11,7 @@ Version:        1.045
 Release:        alt3_8
 Summary:        A font for scholarly use in classical and medieval languages
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://scholarsfonts.net/cardofnt.html
 Source0:        http://scholarsfonts.net/cardo104.zip
 Source1:        %{oldname}-fontconfig.conf

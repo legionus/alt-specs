@@ -7,7 +7,7 @@ Release: alt2
 Group: Graphical desktop/KDE
 Summary: Plasma applet written in QML for managing network connections
 Url: https://projects.kde.org/projects/playground/network/plasma-nm
-License: LGPLv2+ and GPLv2+
+License: LGPLv2+ and GPL-2.0-or-later
 
 Requires: NetworkManager-daemon >= 0.9.8
 Requires: NetworkManager-adsl NetworkManager-wifi

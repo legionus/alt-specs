@@ -5,7 +5,7 @@ Release:        alt1
 Summary:        Java library for export to a variety of vector and bitmap image formats
 
 Group:          Development/Java
-License:        Apache 2 and LGPL 2
+License:        Apache-2.0 and LGPL-2.0-only
 URL:            http://freehep.github.io/freehep-vectorgraphics/
 Source0:        %name-%version.tar
 

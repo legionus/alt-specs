@@ -5,7 +5,7 @@ Version: 1.3
 Release: alt1
 
 Summary: Perl extension for reading from continously updated files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

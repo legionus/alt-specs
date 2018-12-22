@@ -10,7 +10,7 @@ Version: 3.3.7
 Release: alt1_11
 Source: http://downloads.sourceforge.net/rospell/ro_RO.%{version}.zip
 URL: http://rospell.sourceforge.net/
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

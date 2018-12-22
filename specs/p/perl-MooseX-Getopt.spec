@@ -6,7 +6,7 @@ Version: 0.74
 Release: alt1
 
 Summary: A Moose role for processing command line options
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

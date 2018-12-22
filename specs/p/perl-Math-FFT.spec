@@ -4,7 +4,7 @@ Release: alt1.1
 
 Summary: Perl extension for Fast Fourier Transforms
 Group: Development/Perl
-License: Perl and Public Domain
+License: Perl and ALT-Public-Domain
 
 Url: %CPAN Math-FFT
 Source: %name-%version.tar

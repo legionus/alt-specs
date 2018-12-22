@@ -42,7 +42,7 @@ Name:           jarjar
 Version:        1.4
 Release:        alt1_20jpp8
 Summary:        Jar Jar Links
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://code.google.com/p/jarjar/
 Source0:        http://jarjar.googlecode.com/files/jarjar-src-1.4.zip
 Source1:        jarjar.pom

@@ -9,7 +9,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: RPM-Source-Editor extension for converting tarballs to SRPMs
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/RPM/%module-%version.tar.gz
 Url: http://search.cpan.org/dist/%module
 

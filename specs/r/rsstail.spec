@@ -2,7 +2,7 @@ Summary: RSS reader
 Name: rsstail
 Version: 1.6
 Release: alt1.qa1
-License: GPL2
+License: GPL-2.0-only
 Group: Networking/File transfer
 Source0: http://www.vanheusden.com/rsstail/%name-%version.tgz
 Url: http://www.vanheusden.com/rsstail/

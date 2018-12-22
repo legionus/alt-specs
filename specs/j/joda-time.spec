@@ -14,7 +14,7 @@ Version:          2.9.9
 Release:          alt1_2.tzdata2017bjpp8
 Summary:          Java date and time API
 
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://www.joda.org/joda-time/
 Source0:          https://github.com/JodaOrg/%{name}/archive/v%{version}.tar.gz
 Source1:          ftp://ftp.iana.org/tz/releases/%{tzversion}.tar.gz

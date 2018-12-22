@@ -10,7 +10,7 @@ Name:           buildnumber-maven-plugin
 Version:        1.3
 Release:        alt1_10jpp8
 Summary:        Build Number Maven Plugin
-License:        MIT and ASL 2.0
+License:        MIT and Apache-2.0
 URL:            http://svn.codehaus.org/mojo/tags/buildnumber-maven-plugin-%{version}
 BuildArch: 	noarch
 

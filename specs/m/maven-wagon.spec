@@ -21,7 +21,7 @@ Epoch:          0
 Version:        3.0.0
 Release:        alt1_1jpp8
 Summary:        Tools to manage artifacts and deployment
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/wagon
 BuildArch:      noarch
 

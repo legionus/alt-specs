@@ -3,7 +3,7 @@ Version: 20090401
 Release: alt1.qa1
 
 Summary: HardDrive Active Protection System
-License: GPL v2
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 
 Url: http://www.thinkwiki.org/wiki/How_to_protect_the_harddisk_through_APS

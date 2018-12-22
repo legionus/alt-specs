@@ -4,7 +4,7 @@ Version: 0.14
 Release: alt3
 
 Summary: Mixin to add / call inheritable triggers
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

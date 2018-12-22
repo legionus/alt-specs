@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.4.2
 Release: alt2.2
 Summary: MochiKit packaged as TurboGears widgets
-License: AFL/MIT
+License: AFL or MIT
 Group: Development/Python
 Url: http://pypi.python.org/pypi/tgMochiKit/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

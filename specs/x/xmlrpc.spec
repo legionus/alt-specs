@@ -11,7 +11,7 @@ Version:        3.1.3
 Release:        alt7_20jpp8
 Epoch:          1
 Summary:        Java XML-RPC implementation
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://ws.apache.org/xmlrpc/
 BuildArch:      noarch
 

@@ -6,7 +6,7 @@ Version: 1.5.3.3
 Release: alt2
 
 Summary: Password gorilla is simple but powerful password manager writen in tcl/tk
-License: GPL2
+License: GPL-2.0-only
 Group: Databases
 Url: http://github.com/zdia/gorilla
 BuildArch: noarch

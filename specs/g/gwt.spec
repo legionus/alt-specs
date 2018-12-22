@@ -3,7 +3,7 @@ Version: 2.5.1
 Release: alt3
 Summary: Google Web Toolkit
 Group: Development/Java
-License: ASL 2.0
+License: Apache-2.0
 Url: http://www.gwtproject.org/
 # git clone https://gwt.googlesource.com/gwt
 # cd gwt

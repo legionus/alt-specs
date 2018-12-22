@@ -19,7 +19,7 @@ Version: 0.6.0
 Release: alt2%ubt
 Summary: Container Network Interface - networking for Linux containers
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 Source: %name-%version.tar
 ExclusiveArch: %go_arches

@@ -5,7 +5,7 @@ Version: 0.8.3
 Release: alt1
  
 Summary: A library to handle IP (both IPv4 and IPv6) addresses for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/bluemonk/ipaddress
  

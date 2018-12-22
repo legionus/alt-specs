@@ -4,7 +4,7 @@ Version: 6.1
 Release: alt6.1
 
 Summary: Gregorian calendar date calculations
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

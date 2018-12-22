@@ -5,7 +5,7 @@ Version: 1.12.0
 Release: alt1%ubt
 Summary: Client library written in C for MongoDB
 Group: System/Libraries
-License: ASL 2.0 and ISC and MIT and zlib
+License: Apache-2.0 and ISC and MIT and Zlib
 Url: https://github.com/mongodb/mongo-c-driver
 #vsc-git https://github.com/mongodb/mongo-c-driver.git
 Source: %name-%version.tar
@@ -33,7 +33,7 @@ for mongo-c-driver
 
 %package -n libbson
 Group: System/Libraries
-License: ASLv2.0
+License: Apache-2.0
 Summary: A BSON utility library
 
 %description -n libbson

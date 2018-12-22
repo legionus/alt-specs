@@ -15,7 +15,7 @@ Version:    %{upstream_version}
 Release:    alt1_1
 
 Summary:    Accessors for TAP::DOM summary part
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/TAP/%{upstream_name}-%{upstream_version}.tar.gz

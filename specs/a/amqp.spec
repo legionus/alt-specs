@@ -13,7 +13,7 @@ Summary:        The AMQP specification
 
 # Fedora treats these files as content, not code.
 # The AMQP license does not give the right to modify.
-License:        ASL 2.0
+License:        Apache-2.0
 
 URL:            http://www.amqp.org
 Source0:        %{name}-%{version}-%{revision}.tar.gz

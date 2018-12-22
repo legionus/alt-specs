@@ -13,7 +13,7 @@ Version:        3.005
 Release:        alt1_5
 Summary:        A serif Latin font with good readability
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://vollkorn-typeface.com/
 Source0:        http://vollkorn-typeface.com/download/vollkorn-3-005.zip
 Source1:        %{oldname}-fontconfig.conf

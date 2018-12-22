@@ -6,7 +6,7 @@ Release:        alt1_3
 Summary:        Patched version of GNU dd for use in computer forensics
 
 Group:          Editors
-License:        GPLv2+ and GPLv3+
+License:        GPL-2.0-or-later and GPL-3.0-or-later
 URL:            http://sourceforge.net/projects/dc3dd/
 Source0:        http://downloads.sourceforge.net/dc3dd/%{name}-%{version}.tar
 

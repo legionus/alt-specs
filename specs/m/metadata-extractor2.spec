@@ -11,7 +11,7 @@ Name:          metadata-extractor2
 Version:       2.10.1
 Release:       alt1_2jpp8
 Summary:       Extracts EXIF, IPTC, XMP, ICC and other metadata from image files
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://drewnoakes.com/code/exif/
 Source0:       https://github.com/drewnoakes/metadata-extractor/archive/%{version}/metadata-extractor-%{version}.tar.gz
 

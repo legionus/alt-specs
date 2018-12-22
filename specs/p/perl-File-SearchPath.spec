@@ -14,7 +14,7 @@ Version: 0.07
 Release: alt2
 
 Summary: Search for a file in an environment variable path
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 
 Url: http://search.cpan.org/dist/%upstream_name

@@ -6,7 +6,7 @@ Version: 0.55
 Release: alt1.3.1
 
 Summary: Perl bindings to Berkeley DB version 2.x and greater
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -15,7 +15,7 @@ Release: alt3_22
 Summary: GFS Solomos oblique Greek font
 
 Group:     System/Fonts/True type
-License:   OFL
+License:   OFL-1.0
 URL:       http://www.greekfontsociety.gr/pages/en_typefaces19th.html
 Source0:   http://www.greekfontsociety.gr/%{archivename}.zip
 Source1:   %{oldname}-fontconfig.conf

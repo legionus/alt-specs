@@ -6,7 +6,7 @@ Release: alt1
 Source0: %name-%version.tar
 Patch0: %name-%version-%release.patch
 Group: Networking/Instant messaging
-License: Apache Software License 2.0
+License: Apache-2.0
 Url: http://www.igniterealtime.org/
 BuildArch: noarch
 

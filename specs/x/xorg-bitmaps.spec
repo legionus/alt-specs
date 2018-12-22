@@ -5,7 +5,7 @@ Version: 1.1.0
 Release: alt1
 Serial: 1
 Summary: Bitmaps that are shared between X applications
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

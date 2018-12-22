@@ -7,7 +7,7 @@ Version: 1.6.3
 Release: alt1
 Summary: Cotyledon provides a framework for defining long-running services
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/sileht/cotyledon
 Source: %name-%version.tar
 BuildArch: noarch

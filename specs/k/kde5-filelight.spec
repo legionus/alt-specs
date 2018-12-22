@@ -8,7 +8,7 @@ Release: alt1%ubt
 Group: Graphical desktop/KDE
 Summary: Graphical disk usage information
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: filelight = %version-%release
 %if "%(%__kf5_if_have_opt altplace yes no)" == "no"

@@ -5,7 +5,7 @@ Release: alt1
 Packager: Victor Forsyuk <force@altlinux.org>
 
 Summary: Repository of PCI IDs (pci.ids database)
-License: GPLv2+ or BSD
+License: GPL-2.0-or-later or BSD
 Group: System/Libraries
 
 Url: http://pciids.sourceforge.net

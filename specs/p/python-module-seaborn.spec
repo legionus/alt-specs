@@ -3,7 +3,7 @@ Version: 0.7.1
 Release: alt1
 
 Summary: Seaborn: statistical data visualization
-License: BSD (3-clause)
+License: BSD-3-Clause
 Group: Sciences/Other
 
 URL: https://github.com/mwaskom/seaborn

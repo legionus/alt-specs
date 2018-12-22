@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Framework to benchmark PHP scripts or function calls
 
-License: New BSD
+License: BSD-3-Clause
 Group: Development/Other
 Url: http://pear.php.net/package/Benchmark
 

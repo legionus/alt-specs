@@ -5,7 +5,7 @@ Version: 0.64
 Release: alt2
 
 Summary: Event::ExecFlow - High level API for event-based execution flow control  
-License: GPL/Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 Url: http://www.exit1.org/Event-ExecFlow/ 

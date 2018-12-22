@@ -8,7 +8,7 @@ Release: alt1.2
 
 Summary: A collection of strategies for Warden
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://github.com/tundraghost/warden_strategies
 
 BuildArch: noarch

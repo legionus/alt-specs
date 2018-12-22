@@ -19,7 +19,7 @@ Name:           stream-lib
 Version:        %{streamlib_version}
 Release:        alt1_9jpp8
 Summary:        Stream summarizer and cardinality estimator
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/addthis/stream-lib/
 Source0:        https://github.com/addthis/stream-lib/archive/%{commit}/stream-lib-%{commit}.tar.gz
 BuildArch:      noarch

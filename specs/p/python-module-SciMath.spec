@@ -5,7 +5,7 @@ Release: alt2.git20141125
 Summary:  Scientific and Mathematical calculations
 
 Group: Development/Python
-License: BSD and GPLv2
+License: BSD and GPL-2.0-only
 URL: http://www.enthought.com/
 # https://github.com/enthought/scimath.git
 Source: %oname-%version.tar.gz

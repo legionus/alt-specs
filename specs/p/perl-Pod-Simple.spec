@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Framework for parsing Pod
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 
 URL: %CPAN %dist
 Source: http://www.cpan.org/authors/id/K/KH/KHW/Pod-Simple-%{version}.tar.gz

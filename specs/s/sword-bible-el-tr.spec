@@ -5,7 +5,7 @@ Release: alt1
 Summary: Textus Receptus (1550/1894) for SWORD
 Summary(ru_RU.UTF-8): Textus Receptus (1550/1894) для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

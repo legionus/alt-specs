@@ -4,7 +4,7 @@ Version: 0.92
 Release: alt3.1.1.1.1
 
 Summary: Perl extension for filesystem disk space information
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

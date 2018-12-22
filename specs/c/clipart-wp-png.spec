@@ -7,7 +7,7 @@ Release: alt0.1
 Summary: WP Clip Art Library
 Summary(ru_RU.KOI8-R): Свободная коллекция изображений (WP Clip Art)
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 Url: http://www.pcbypaul.com/wpclipart/
 

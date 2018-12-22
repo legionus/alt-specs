@@ -5,7 +5,7 @@ Version: 3.1.0
 Release: alt1.1
 
 Summary: Ruby Facets
-License: BSD 2 Clause
+License: BSD-2-Clause
 Group:   Development/Ruby
 Url:     http://github.com/rubyworks/facets
 

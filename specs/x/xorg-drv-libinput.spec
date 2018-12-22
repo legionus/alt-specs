@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: Xorg libinput input driver
 Group: System/X11
-License: MIT/X11
+License: (MIT or X11)
 Url: http://www.x.org
 
 %if_enabled snapshot

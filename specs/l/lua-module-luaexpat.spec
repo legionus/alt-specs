@@ -6,7 +6,7 @@ Name: lua-module-%oname
 Version: 1.3.0
 Release: alt2
 Summary: XML Expat parsing
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: http://www.keplerproject.org/luaexpat/
 Packager: Ildar Mulyukov <ildar@altlinux.ru>

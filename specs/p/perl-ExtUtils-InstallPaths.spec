@@ -9,7 +9,7 @@ Name:		perl-ExtUtils-InstallPaths
 Version:	0.012
 Release:	alt1_2
 Summary:	Build.PL install path logic made easy
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/ExtUtils-InstallPaths
 Source0:	http://cpan.metacpan.org/authors/id/L/LE/LEONT/ExtUtils-InstallPaths-%{version}.tar.gz
 BuildArch:	noarch

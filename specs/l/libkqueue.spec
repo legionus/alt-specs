@@ -4,7 +4,7 @@ Name: libkqueue
 Version: 2.0.1
 Release: alt3
 Summary: Portable implementation of the kqueue() and kevent() system calls
-License: MIT / BSD
+License: MIT or BSD
 Group: System/Libraries
 Url: https://sourceforge.net/projects/libkqueue/
 

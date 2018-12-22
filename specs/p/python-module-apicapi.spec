@@ -5,7 +5,7 @@ Version:    1.6.0
 Release:    alt1
 
 Summary:    Library for APIC REST api
-License:    ASL 2.0
+License:    Apache-2.0
 URL:       http://github.com/noironetworks/%oname
 Group:      Development/Python
 BuildArch:  noarch

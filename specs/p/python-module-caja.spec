@@ -17,7 +17,7 @@ Epoch:          1
 Summary:        Python bindings for Caja
 
 Group:          Development/Other
-License:        GPLv2+ and LGPLv2+
+License:        GPL-2.0-or-later and LGPLv2+
 URL:            http://mate-desktop.org
 Source0:        http://pub.mate-desktop.org/releases/1.20/%{oldname}-%{version}.tar.xz
 

@@ -11,7 +11,7 @@ Name:    c3p0
 Version: 0.9.5
 Release: alt1_0.6.pre8jpp8
 Summary: JDBC DataSources/Resource Pools
-License: LGPLv2 or EPL
+License: LGPLv2 or EPL-1.0
 URL:     https://github.com/swaldman/c3p0
 Group:   Development/Other
 

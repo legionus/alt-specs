@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: OpenVZ control tool
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: System/Configuration/Packaging
 Url: https://github.com/Etersoft/evz
 

@@ -24,7 +24,7 @@ Savitar is a C++ implementation of 3mf loading with SIP Python bindings.
 %package devel
 Summary: Development files for libsavitar
 # The cmake scripts are BSD
-License: AGPLv3+ and BSD
+License: AGPL-3.0-or-later and BSD
 Group: Development/Other
 Requires: %name = %version-%release
 

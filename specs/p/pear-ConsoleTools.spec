@@ -6,7 +6,7 @@ Release: alt2
 
 Summary: Set of classes to do different actions with the console
 
-License: New BSD
+License: BSD-3-Clause
 Group: Development/Other
 Url: http://ezcomponents.org/
 

@@ -11,7 +11,7 @@ Name:           plexus-io
 Version:        3.0.0
 Release:        alt1_2jpp8
 Summary:        Plexus IO Components
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/codehaus-plexus/plexus-io
 BuildArch:      noarch
 

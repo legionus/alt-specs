@@ -10,7 +10,7 @@ Release:        alt1_12
 Summary:        Xalan XSLT processor for C
 
 Group:          System/Libraries
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://xml.apache.org/xalan-c/
 Source0:        http://www.us.apache.org/dist/xalan/xalan-c/sources/xalan_c-1.11-src.tar.gz
 Patch0:         xalan-c-1.10.0-escaping.patch

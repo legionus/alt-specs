@@ -4,7 +4,7 @@
 Name: fonts-ttf-roboto
 Version: 1.0
 Release: alt1
-License: Apache 2
+License: Apache-2.0
 Summary: Android Roboto Fonts
 Url: http://code.google.com/android/
 Group: System/Fonts/True type

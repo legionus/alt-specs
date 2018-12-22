@@ -7,7 +7,7 @@ Name:           biber
 Version:        2.6
 Release:        alt1_0
 Summary:        Command-line bibliographic manager, BibTeX replacement
-License:        (GPL+ or Artistic 2.0) and Artistic 2.0
+License:        (GPL-1.0-or-later or Artistic 2.0) and Artistic 2.0
 Group:          Development/Tools
 URL:            http://biblatex-biber.sourceforge.net/
 Source0:        https://github.com/plk/biber/archive/v%{version}.tar.gz

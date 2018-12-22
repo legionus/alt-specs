@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt2.qa1
 
 Summary: A library for reading and writing xorg configuration files
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Vladislav Zavjalov <slazav@altlinux.org>

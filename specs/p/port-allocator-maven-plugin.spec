@@ -12,7 +12,7 @@ Release:	alt4_12jpp8
 Summary:	Port Allocator Maven Plugin
 
 Group:		Development/Other
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://github.com/sonatype/port-allocator-maven-plugin
 
 # git clone git://github.com/sonatype/port-allocator-maven-plugin.git

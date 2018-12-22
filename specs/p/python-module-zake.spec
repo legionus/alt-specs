@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.2.2
 Release: alt1.1
 Summary: Testing utilities for the kazoo library
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/yahoo/Zake
 

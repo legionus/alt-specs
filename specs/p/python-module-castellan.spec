@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.19.0
 Release: alt1
 Summary: Generic Key Manager interface for OpenStack
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz

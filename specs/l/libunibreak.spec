@@ -3,7 +3,7 @@ Version: 3.0
 Release: alt1
 
 Summary: Unicode line-breaking library
-License: zlib
+License: Zlib
 Group: System/Libraries
 URL: http://vimgadgets.sourceforge.net/libunibreak
 Packager: Mikhail Kolchin <mvk@altlinux.org>

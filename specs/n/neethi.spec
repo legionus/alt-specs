@@ -10,7 +10,7 @@ Name:          neethi
 Version:       3.0.3
 Release:       alt1_1jpp8
 Summary:       Web Services Policy framework
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://ws.apache.org/neethi/
 Source0:       http://archive.apache.org/dist/ws/neethi/%{version}/neethi-%{version}-source-release.zip
 BuildArch:     noarch

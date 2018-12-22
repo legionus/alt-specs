@@ -5,7 +5,7 @@ Version: 0.80
 Release: alt2
 
 Summary: Write Perl subroutines in other programming languages
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

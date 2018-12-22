@@ -5,7 +5,7 @@ Release: alt1.1
 Summary: A very fast network logon cracker which support many different services
 Summary(ru_RU.KOI8-R): Очень быстрый сетевой взломщик с поддержкой множства сервисов
 Group: Networking/Other
-License: AGPLv3
+License: AGPL-3.0-only
 Url: http://thc.org/thc-hydra/
 Packager: Ilya Mashkin <oddity@altlinux.ru>
 

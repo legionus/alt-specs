@@ -5,7 +5,7 @@ Version: 1.7.2
 Release: alt1.1.1.1
 
 Summary: Perl interface to file system quotas
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URl: %CPAN %dist

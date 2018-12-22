@@ -11,7 +11,7 @@ Version:        3.0
 Release:        alt3_13jpp8
 Epoch:          1
 Summary:        API to manage report generation
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-reporting-api
 # svn export http://svn.apache.org/repos/asf/maven/shared/tags/maven-reporting-api-3.0 maven-reporting-api-3.0
 # tar caf maven-reporting-api-3.0.tar.xz maven-reporting-api-3.0/

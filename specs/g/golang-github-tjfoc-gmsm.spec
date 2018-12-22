@@ -41,7 +41,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        1.1
 Release:        alt1_2
 Summary:        GM SM2/3/4 library based on Golang
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/v%{version}/%{project}-%{repo}-%{version}.tar.gz
 

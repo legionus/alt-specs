@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: autostart connector within desktop session
-License: public domain
+License: ALT-Public-Domain
 Group: Networking/Remote access
 
 BuildArch: noarch

@@ -2,7 +2,7 @@ Name: xtruss
 Version: 20150926
 Release: alt1
 Summary: Trace X protocol exchanges, in the manner of strace
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Source: %name-%version.tar.gz
 Url: http://www.chiark.greenend.org.uk/~sgtatham/xtruss/

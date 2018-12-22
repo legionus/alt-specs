@@ -5,7 +5,7 @@ Version: 2.3
 Release: alt1.1
 
 Summary: Inspect lexical variables in any subroutine which called you
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -20,7 +20,7 @@ Summary:          WildFly Security Manager
 # ./src/main/java/org/wildfly/security/manager/StackInspector.java
 # ./src/main/java/org/wildfly/security/ParametricPrivilegedAction.java
 # ./src/test/java/org/wildfly/security/manager/TestStackInspector.java
-License:          ASL 2.0 and LGPLv2+
+License:          Apache-2.0 and LGPLv2+
 Url:              https://github.com/wildfly-security/security-manager/
 Source0:          https://github.com/wildfly-security/security-manager/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

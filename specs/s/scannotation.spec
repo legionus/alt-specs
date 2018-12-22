@@ -16,7 +16,7 @@ Name:          scannotation
 Version:       1.0.3
 Release:       alt2_0.16.r12jpp8
 Summary:       A Java annotation scanner
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://scannotation.sourceforge.net
 # Also available here https://github.com/jharting/scannotation
 # How we created tarball:

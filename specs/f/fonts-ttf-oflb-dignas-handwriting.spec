@@ -10,7 +10,7 @@ Version:        20031109
 Release:        alt3_15
 Summary:        Handwriting font
 
-License:        OFL
+License:        OFL-1.0
 # Upstream is dead and there is no download link available
 URL:            http://openfontlibrary.org/media/files/phranzysko/407
 Source0:        http://openfontlibrary.org/people/phranzysko/phranzysko_-_Digna_s_Handwriting.ttf

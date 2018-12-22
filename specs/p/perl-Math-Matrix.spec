@@ -10,7 +10,7 @@ Version:    %{upstream_version}
 Release:    alt1_5
 
 Summary:    Matrix data type (transpose, multiply etc)
-License:    GPL or Artistic
+License:    GPL-1.0-only or Artistic
 Group:      Development/Perl
 Source0:     http://www.cpan.org/modules/by-module/Math/%{upstream_name}-%{upstream_version}.tar.gz
 Url:        http://search.cpan.org/dist/%{upstream_name}

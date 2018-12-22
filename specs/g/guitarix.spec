@@ -114,7 +114,7 @@ Summary: Collection of Ladspa plug-ins
 Group: Sound
 # ladspa/distortion.cpp and ladspa/guitarix-ladspa.cpp are BSD
 # The rest of ladspa/* is GPLv+
-License: GPL+ and BSD
+License: GPL-1.0-or-later and BSD
 Requires: ladspa_sdk
 
 %description -n ladspa-%name-plugins

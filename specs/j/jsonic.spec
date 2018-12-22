@@ -11,7 +11,7 @@ Name:          jsonic
 Version:       1.3.0
 Release:       alt1_10jpp8
 Summary:       Simple JSON encoder/decoder for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://jsonic.sourceforge.jp/
 Source0:       http://jaist.dl.sourceforge.jp/%{name}/56583/%{name}-%{version}.zip
 # fix maven compiler-plugin configuration

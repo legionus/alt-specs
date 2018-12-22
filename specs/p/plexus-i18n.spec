@@ -13,7 +13,7 @@ Name:           plexus-i18n
 Version:        1.0
 Release:        alt7_0.11.b10.4jpp8
 Summary:        Plexus I18N Component
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          Development/Java
 URL:            https://github.com/codehaus-plexus/plexus-i18n
 BuildArch:      noarch

@@ -5,7 +5,7 @@ Version: 2.081
 Release: alt1
 
 Summary: Low-level interface to the bzip2 compression library
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

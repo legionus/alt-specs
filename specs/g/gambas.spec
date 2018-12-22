@@ -569,7 +569,7 @@ gb.gtk in the other cases.
 
 %package gb-image
 Summary:	Gambas3 component package for image
-License:	GPLv2 or QPL
+License:	GPL-2.0-only or QPL
 Group:		Development/Tools
 Requires:	%name-runtime = %version-%release
 %prov3 gb-image

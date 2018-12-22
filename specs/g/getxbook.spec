@@ -3,7 +3,7 @@ Version: 1.2
 Release: alt3
 
 Summary: a collection of tools to download books
-License: ISC License
+License: ISC
 Group:   Text tools
 URL:     https://njw.me.uk/getxbook/
 

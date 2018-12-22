@@ -18,7 +18,7 @@ Version:	1.0
 Release:	alt3_16
 # License attribution confirmed by author and Open Font Library
 # http://openfontlibrary.org/media/files/jkottke/218
-License:	OFL
+License:	OFL-1.0
 Group:		System/Fonts/True type
 Source0:	http://www.kottke.org/plus/type/silkscreen/download/silkscreen.tar.gz
 Source1:	%{oldname}-fontconfig.conf

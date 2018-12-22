@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Render text using FIGlet fonts
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Text_Figlet
 

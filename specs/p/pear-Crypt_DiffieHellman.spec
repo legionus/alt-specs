@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Implementation of Diffie-Hellman Key Exchange cryptographic protocol for PHP5
 
-License: New BSD License
+License: BSD-3-Clause
 Group: Development/Other
 Url: http://pear.php.net/package/%pear_name
 

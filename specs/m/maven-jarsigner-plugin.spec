@@ -10,7 +10,7 @@ Name:             maven-jarsigner-plugin
 Version:          1.4
 Release:          alt1_6jpp8
 Summary:          Signs or verifies a project artifact and attachments using jarsigner
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://maven.apache.org/plugins/%{name}/
 Source0:          http://repo1.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

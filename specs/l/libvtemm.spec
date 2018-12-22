@@ -17,7 +17,7 @@ Summary:        C++ interface for VTE (a GTK2 terminal emulator widget)
 
 Group:          System/Libraries
 # library is LGPLv3+, examples are GPLv3+.
-License:        LGPLv3+ and GPLv3+
+License:        LGPLv3+ and GPL-3.0-or-later
 URL:            http://gtkmm.org
 Source0:        http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{release_version}/%{name}-%{version}.tar.bz2
 

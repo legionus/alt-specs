@@ -12,7 +12,7 @@ Url: https://projects.kde.org/projects/extragear/network/telepathy/%rname
 # GPLv2+: most code
 # (BSD or AFL): data/styles/renkoo.AdiumMessageStyle
 # MIT:  data/styles/simkete/, fadomatic javascript code used in Renkoo
-License: GPLv2+ and (BSD or AFL) and MIT
+License: GPL-2.0-or-later and (BSD or AFL) and MIT
 
 Requires: telepathy-logger
 

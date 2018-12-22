@@ -11,7 +11,7 @@ Version: 9
 Release: alt2
 Summary: Misc other helpers for Image::Base.
 Group: Development/Perl
-License: gpl
+License: GPL-1.0-only
 URL: http://user42.tuxfamily.org/image-base-other/index.html
 
 Source0: http://cpan.org.ua/authors/id/K/KR/KRYDE/%module_name-%module_version.tar.gz

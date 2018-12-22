@@ -5,7 +5,7 @@ Version: 1.13
 Release: alt1.1.1.1
 
 Summary: Crypt::CBC compliant Rijndael encryption module
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

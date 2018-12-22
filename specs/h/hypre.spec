@@ -7,7 +7,7 @@ Name: hypre
 Version: 2.13.0
 Release: alt2
 Summary: Scalable algorithms for solving linear systems of equations
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Sciences/Mathematics
 Url: http://www.llnl.gov/casc/hypre/
 

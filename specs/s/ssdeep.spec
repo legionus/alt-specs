@@ -24,7 +24,7 @@ Authors:
 See some examples here: http://www.forensicswiki.org/wiki/Ssdeep
 
 %package -n libfuzzy
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: System/Libraries
 Summary: Library that provides %summary
 
@@ -32,7 +32,7 @@ Summary: Library that provides %summary
 Library that provides %summary, used by %name
 
 %package -n libfuzzy-devel
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Development/C
 Summary: API for libfuzzy
 
@@ -40,7 +40,7 @@ Summary: API for libfuzzy
 API for libfuzzy, %summary
 
 %package -n libfuzzy-devel-static
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Development/C
 Summary: API for %name
 Requires: libfuzzy-devel = %version

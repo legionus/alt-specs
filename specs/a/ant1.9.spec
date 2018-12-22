@@ -44,7 +44,7 @@ Release:        alt7_3jpp8
 Epoch:          0
 Summary:        Java build tool
 Group:          Development/Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://ant.apache.org/
 Source0:        http://www.apache.org/dist/ant/source/apache-ant-%{version}-src.tar.bz2
 Source2:        apache-ant-1.8.ant.conf

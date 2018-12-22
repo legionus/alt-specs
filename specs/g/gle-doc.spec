@@ -4,7 +4,7 @@ Version: 4.2.4
 Release: alt2
 Summary: Documentation for the GLE - Graphics language that produces ps/eps/pdf/png/jpg ouput
 Summary(ru_RU.UTF-8): GLE - язык создания изображений. Вывод в ps/eps/pdf/png/jpg
-License: GPL2+
+License: GPL-2.0-or-later
 Packager: Igor Vlasenko <viy@altlinux.org>
 
 Source4: http://dl.sourceforge.net/glx/gle-manual-4.2.2.pdf

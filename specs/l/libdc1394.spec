@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Library for 1394 Digital Camera Specification
 
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: System/Libraries
 Url: http://sf.net/projects/libdc1394/
 

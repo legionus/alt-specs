@@ -8,7 +8,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: %module - Perl extension for quering ALTLinux ACL files
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: %module-%version.tar.gz
 # TODO: upload
 #Url: http://search.cpan.org/dist/%module

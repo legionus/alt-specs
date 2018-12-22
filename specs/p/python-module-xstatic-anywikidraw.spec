@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.14.2
 Release: alt2.1
 Summary: AnyWikiDraw (XStatic packaging standard)
-License: GPLv2 or LGPLv2
+License: GPL-2.0-only or LGPLv2
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

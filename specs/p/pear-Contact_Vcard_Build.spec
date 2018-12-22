@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Build (create) and fetch vCard 2.1 and 3.0 text blocks
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Contact_Vcard_Build
 

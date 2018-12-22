@@ -2,7 +2,7 @@ Name: libXtst
 Version: 1.2.2
 Release: alt1
 Summary: The Xtst Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

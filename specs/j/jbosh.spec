@@ -26,7 +26,7 @@ Name:          jbosh
 Version:       0.8.0
 Release:       alt1_6jpp8
 Summary:       XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH)
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/igniterealtime/jbosh
 Source0:       https://github.com/igniterealtime/jbosh/archive/%{version}.tar.gz
 Source1:       http://repo1.maven.org/maven2/org/igniterealtime/jbosh/jbosh/%{version}/jbosh-%{version}.pom

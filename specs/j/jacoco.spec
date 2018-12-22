@@ -12,7 +12,7 @@ Version:   0.7.8
 Release:   alt1_5jpp8
 Summary:   Java Code Coverage for Eclipse 
 Group:     System/Libraries
-License:   EPL
+License:   EPL-1.0
 URL:       http://www.eclemma.org/jacoco/
 Source0:   https://github.com/jacoco/jacoco/archive/v%{version}.tar.gz
 Source1:   EnchancedManifest.mf

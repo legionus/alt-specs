@@ -9,7 +9,7 @@ Release: alt2
 Summary: A Python MessagePack (de)serializer
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 URL: https://pypi.org/project/msgpack
 
 # https://github.com/msgpack/msgpack-python.git

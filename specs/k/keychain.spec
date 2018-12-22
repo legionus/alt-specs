@@ -5,7 +5,7 @@ Summary: agent manager for OpenSSH, ssh.com, Sun SSH, and GnuPG
 Packager: Kirill Maslinsky <kirill@altlinux.org>
 Url: http://www.gentoo.org/proj/en/keychain/index.xml
 Source0: %name-%version.tar.bz2
-License: GPL v2
+License: GPL-2.0-only
 Group: Networking/Remote access
 BuildArch: noarch
 

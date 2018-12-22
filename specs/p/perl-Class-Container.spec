@@ -5,7 +5,7 @@ Version: 0.13
 Release: alt1.1
 
 Summary: Glues object frameworks together transparently
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

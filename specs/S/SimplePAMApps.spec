@@ -6,7 +6,7 @@ Release: alt35
 %def_with su
 
 Summary: Simple PAM-based Applications
-License: BSD or GPL
+License: BSD or GPL-1.0-only
 Group: System/Base
 Url: http://www.linux-pam.org/pre/applications/
 

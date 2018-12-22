@@ -10,7 +10,7 @@ Name:           perl-Gearman
 Version:        2.004.015
 Release:        alt1_1
 Summary:        Perl interface for Gearman distributed job system
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://danga.com/gearman/
 Source0:        https://cpan.metacpan.org/authors/id/P/PA/PALIK/Gearman-%{version}.tar.gz
 BuildArch:      noarch

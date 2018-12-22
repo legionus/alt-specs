@@ -4,7 +4,7 @@ Version: 2.44
 Release: alt2.1.1
 
 Summary: Perl module for parsing XML files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

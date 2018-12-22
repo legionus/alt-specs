@@ -8,7 +8,7 @@ Epoch: 1
 
 Summary: International Components for Unicode
 Group: System/Libraries
-License: X License
+License: X11
 URL: http://www.icu-project.org/
 
 Source: http://download.icu-project.org/files/icu4c/5.1.1/icu4c-50_1_1-src.tgz

@@ -5,7 +5,7 @@ Version: 1.0.2
 Release: alt1.1
  
 Summary: A selection of extensions to Ruby's IPAddr module
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/jamesotron/IPAddrExtensions
  

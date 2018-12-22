@@ -26,7 +26,7 @@ Name:           xmvn
 Version:        3.0.0
 Release:        alt1_18jpp8
 Summary:        Local Extensions for Apache Maven
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://fedora-java.github.io/xmvn/
 BuildArch:      noarch
 

@@ -9,7 +9,7 @@ Release:        alt2.hg20141215.2
 Summary:        Python command line parser
 
 Group:          Development/Python
-License:        BSD and/or LGPLv2+
+License:        BSD or LGPLv2+
 URL:            http://code.google.com/p/argparse/
 # hg clone https://code.google.com/p/argparse/
 Source: %oname-%version.tar.gz

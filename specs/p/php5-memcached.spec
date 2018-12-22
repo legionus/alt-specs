@@ -8,7 +8,7 @@ Release:	%php5_release.1
 
 Summary:	PHP5 extension for interfacing with memcached via libmemcached library
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/memcached
 

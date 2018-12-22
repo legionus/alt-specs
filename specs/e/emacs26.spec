@@ -25,7 +25,7 @@ Release: alt1
 
 Group: Editors
 Summary: GNU Emacs text editor
-License: GPLv3 or later
+License: GPL-3.0-only or later
 
 URL: http://www.gnu.org/software/emacs/
 

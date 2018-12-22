@@ -5,7 +5,7 @@ Release: alt1.2
 
 Summary: EventMachine based, async HTTP Request client
 Group:   Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 URL:     https://github.com/igrigorik/em-http-request
 
 BuildArch: noarch

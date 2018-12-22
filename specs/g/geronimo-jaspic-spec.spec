@@ -13,7 +13,7 @@ Name:          geronimo-jaspic-spec
 Version:       1.1
 Release:       alt3_16jpp8
 Summary:       Java Authentication SPI for Containers
-License:       ASL 2.0 and W3C
+License:       Apache-2.0 and W3C
 URL:           http://geronimo.apache.org/
 Source0:       http://repo2.maven.org/maven2/org/apache/geronimo/specs/%{pkg_name}/%{version}/%{pkg_name}-%{version}-source-release.tar.gz
 

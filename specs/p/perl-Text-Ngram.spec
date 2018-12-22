@@ -5,7 +5,7 @@ Version: 0.15
 Release: alt1.1.1.1.1
 
 Summary: Ngram analysis of text
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

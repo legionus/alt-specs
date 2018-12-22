@@ -17,7 +17,7 @@ Version:	1.3
 Release:	alt1_7
 Summary:	Check your source for encoding misbehavior
 Group:		Development/Other
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/Test-Mojibake
 Source0:	https://cpan.metacpan.org/authors/id/S/SY/SYP/Test-Mojibake-%{version}.tar.gz
 Patch1:		Test-Mojibake-1.3-old-Test::More.patch

@@ -12,7 +12,7 @@ Version:	0.15
 Release:	alt1_10
 Summary:	Test your SYNOPSIS code
 Group:		Development/Other
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/Test-Synopsis
 Source0:	https://cpan.metacpan.org/authors/id/Z/ZO/ZOFFIX/Test-Synopsis-%{version}.tar.gz
 BuildArch:	noarch

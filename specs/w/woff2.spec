@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: WOFF2 compress/decompress tools
 Group: File tools
-License: Apache 2.0
+License: Apache-2.0
 Url: https://github.com/google/woff2
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 

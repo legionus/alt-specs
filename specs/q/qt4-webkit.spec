@@ -6,7 +6,7 @@ Epoch: 1
 
 Group: System/Libraries
 Summary: WebKit library for the Qt4 GUI toolkit
-License: LGPLv2 / GPLv3
+License: LGPLv2 or GPL-3.0-only
 Url: http://trac.webkit.org/wiki/QtWebKit
 
 Source: qtwebkit-%version.tar

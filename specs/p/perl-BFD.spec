@@ -11,7 +11,7 @@ Release: alt1.1
 Summary: dump of data structures for debugging purposes
 Summary(ru_RU.UTF-8): выводит структуры данных для отладочных целей
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 %define real_name BFD

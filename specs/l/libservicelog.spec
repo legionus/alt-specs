@@ -3,7 +3,7 @@ Version: 1.1.17
 Release: alt1
 Summary: Servicelog Database and Library
 Group: System/Libraries
-License: LGPLv2 and GPLv2+
+License: LGPLv2 and GPL-2.0-or-later
 URL: http://linux-diag.sourceforge.net/libservicelog
 
 Source: %name-%version.tar.gz

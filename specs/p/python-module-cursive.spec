@@ -6,7 +6,7 @@ Release: alt1
 Summary: Cursive implements OpenStack-specific validation of digital signatures
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://www.openstack.org/
 Source: %modname-%version.tar.gz
 

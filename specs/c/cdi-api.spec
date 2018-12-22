@@ -25,7 +25,7 @@ Name:             cdi-api
 Version:          1.2
 Release:          alt1_8jpp8
 Summary:          CDI API
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://seamframework.org/Weld
 BuildArch:        noarch
 

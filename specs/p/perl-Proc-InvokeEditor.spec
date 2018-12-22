@@ -14,7 +14,7 @@ Version:    %{upstream_version}
 Release:    alt1_2
 
 Summary:    Perl extension for starting a text editor
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Proc/%{upstream_name}-%{upstream_version}.tar.gz

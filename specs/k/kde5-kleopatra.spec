@@ -13,7 +13,7 @@ Release: alt1%ubt
 Group: Graphical desktop/KDE
 Summary: Certificate Manager for KDE
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: kde5-pim-kleopatra = %EVR
 Obsoletes: kde5-pim-kleopatra < %EVR

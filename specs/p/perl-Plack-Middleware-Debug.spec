@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: The debug middleware offers a configurable set of panels that displays information about the current request and response.
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: %CPAN %dist
 
 BuildArch: noarch

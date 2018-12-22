@@ -8,7 +8,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: %module - Perl interface for DistroMap database
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: http://www.cpan.org/modules/by-module/DistroMap/%module-%version.tar.gz
 Url: http://search.cpan.org/dist/%module
 

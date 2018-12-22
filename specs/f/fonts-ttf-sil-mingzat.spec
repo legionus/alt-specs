@@ -13,7 +13,7 @@ Name:    fonts-ttf-sil-mingzat
 Version: 0.100
 Release: alt1_7
 Summary: A font for Lepcha script
-License: OFL
+License: OFL-1.0
 URL:     http://scripts.sil.org/Mingzat
 # The source link is a redirect and is not directly accessible
 Source0: %{archivename}-%{version}.zip

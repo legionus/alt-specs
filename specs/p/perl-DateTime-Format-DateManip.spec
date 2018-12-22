@@ -8,7 +8,7 @@ Name:           perl-DateTime-Format-DateManip
 Version:        0.04
 Release:        alt2_27
 Summary:        Convert Date::Manip to DateTime and vice versa
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DateTime-Format-DateManip
 Source0:        https://cpan.metacpan.org/authors/id/B/BB/BBENNETT/dt-fmt-datemanip/DateTime-Format-DateManip-%{version}.tar.gz

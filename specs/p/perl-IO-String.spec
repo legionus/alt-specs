@@ -3,7 +3,7 @@ Name: perl-%dist
 Version: 1.08
 Release: alt2
 Summary: IO::File interface emulation for in-core Perl strings
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

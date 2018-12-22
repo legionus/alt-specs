@@ -8,7 +8,7 @@ Name:           perl-IO-Capture-Extended
 Version:        0.13
 Release:        alt1_10
 Summary:        Extend functionality of IO::Capture
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/IO-Capture-Extended
 Source0:        https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/IO-Capture-Extended-%{version}.tar.gz

@@ -35,7 +35,7 @@ Name: origin
 Version: 3.9.0
 Release: alt1%ubt
 Summary: Open Source Container Management
-License: ASL 2.0
+License: Apache-2.0
 Group: System/Configuration/Other
 Url: https://%import_path
 Source: %name-%version.tar

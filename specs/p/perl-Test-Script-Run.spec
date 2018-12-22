@@ -5,7 +5,7 @@ Name: perl-Test-Script-Run
 Version: 0.08
 Release: alt1
 Summary: Test the script with run
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Test-Script-Run/
 Source: %sname-%version.tar

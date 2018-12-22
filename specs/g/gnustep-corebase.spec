@@ -4,7 +4,7 @@ Name: gnustep-corebase
 Version: 0.2
 Release: alt2.svn20140220.2
 Summary: Open implementation of CoreFoundation
-License: LGPLv2+, GPLv3+
+License: LGPLv2+ and GPL-3.0-or-later
 Group: Graphical desktop/GNUstep
 Url: http://www.gnustep.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

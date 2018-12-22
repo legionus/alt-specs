@@ -11,7 +11,7 @@ Name:		xjparse
 Version:	1.0
 Release:	alt1_17jpp8
 Summary:	Wrapper for the Xerces XML Schema validator
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://nwalsh.com/java/xjparse
 Source0:	http://nwalsh.com/java/xjparse/xjparse-src-%{version}.zip
 BuildArch:	noarch

@@ -9,7 +9,7 @@ Name:           perl-Test-Without-Module
 Version:        0.20
 Release:        alt1_6
 Summary:        Test fallback behavior in absence of modules
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/Test-Without-Module
 Source0:        https://cpan.metacpan.org/modules/by-module/Test/Test-Without-Module-%{version}.tar.gz

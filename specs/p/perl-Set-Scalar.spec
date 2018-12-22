@@ -9,7 +9,7 @@ Version:        1.29
 Release:        alt1_10
 Summary:        Basic set operations
 Group:          Development/Other
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Set-Scalar
 Source0:        https://cpan.metacpan.org/authors/id/D/DA/DAVIDO/Set-Scalar-%{version}.tar.gz
 BuildArch:      noarch

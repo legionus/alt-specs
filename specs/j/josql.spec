@@ -10,7 +10,7 @@ Name:          josql
 Version:       2.2
 Release:       alt1_12jpp8
 Summary:       Library to apply SQL-like syntax to Java objects
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://josql.sourceforge.net/
 Source0:       http://sourceforge.net/projects/%{name}/files/%{name}/stable-%{version}/JoSQL-src-stable-%{version}.tar.gz
 Source1:       josql-pom-template.xml

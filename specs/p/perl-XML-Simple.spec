@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Easy API to read/write XML
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 
 URL: %CPAN %dist
 Source0: http://www.cpan.org/authors/id/G/GR/GRANTM/%{dist}-%{version}.tar.gz

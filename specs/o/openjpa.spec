@@ -15,7 +15,7 @@ Version:       2.4.1
 Release:       alt2_8jpp8
 Summary:       Java Persistence 2.0 API
 # For a breakdown of the licensing, see NOTICE file
-License:       ASL 2.0 and CDDL
+License:       Apache-2.0 and CDDL-1.0
 Url:           http://openjpa.apache.org/
 Source0:       http://www.apache.org/dist/openjpa/%{version}/%{name}-parent-%{version}-source-release.zip
 # Thanks to Robert Rati

@@ -5,7 +5,7 @@ Name: ruby-%orig_name
 Version: 2.8.2.4
 Release: alt1.2
 Group: Development/Ruby
-License: GPLv2 or Ruby License
+License: GPL-2.0-only or Ruby
 URL: https://github.com/nahi/httpclient
 Source0: %name-%version.tar
 Patch0: %name-%version-%release.patch

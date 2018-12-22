@@ -5,7 +5,7 @@ Release: alt2
 Summary: wgetpaste is a special bash-script that simplifies publication of text files at various pastebin services
 Summary(ru_RU.UTF-8): wgetpaste - это скрипт, упрощающий публикацию различных текстовых файлов на pastebin-сервисах
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/WWW
 Url: http://wgetpaste.zlin.dk/
 BuildArch: noarch

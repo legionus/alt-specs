@@ -1,7 +1,7 @@
 Name: eclipse-equinox-servlet
 Version: 4.6.0
 Summary: Eclipse OSGi - Equinox
-License: EPL
+License: EPL-1.0
 Url: http://www.eclipse.org/
 Packager: Igor Vlasenko <viy@altlinux.ru>
 Provides: eclipse-platform = 1:4.6.0-1

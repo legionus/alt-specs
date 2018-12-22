@@ -9,7 +9,7 @@ Epoch: 1
 Group: Graphical desktop/KDE
 Summary: Encrypted vaults support for KDE
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: fuse
 #Requires: fuse-encfs >= 1.9.1

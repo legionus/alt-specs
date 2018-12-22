@@ -7,7 +7,7 @@ Release: alt1
 Packager: Victor Forsyuk <force@altlinux.org>
 
 Summary: Generate CODE 128 bar codes
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Perl
 
 Url: %CPAN %module_name

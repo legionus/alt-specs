@@ -54,7 +54,7 @@ Summary:        Lightweight Scripting for Java
 URL:            http://www.beanshell.org/
 # bundled asm is BSD
 # bsf/src/bsh/util/BeanShellBSFEngine.java is public-domain
-License:        ASL 2.0 and BSD and Public Domain
+License:        Apache-2.0 and BSD and ALT-Public-Domain
 BuildArch:      noarch
 Source0:        https://github.com/beanshell/beanshell/archive/%{version}%{reltag}.tar.gz
 Source1:        %{name}-desktop.desktop

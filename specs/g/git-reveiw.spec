@@ -4,7 +4,7 @@ Release: alt1
 Summary: A Git helper for integration with Gerrit
 
 Group: Development/Tools
-License: ASL 2.0
+License: Apache-2.0
 URL: https://github.com/openstack-infra/git-review
 
 BuildArch: noarch

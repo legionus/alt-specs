@@ -9,7 +9,7 @@ Name:           perl-File-BOM
 Version:        0.15
 Release:        alt2_8
 Summary:        Utilities for handling Byte Order Marks
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/File-BOM
 Source0:        https://cpan.metacpan.org/authors/id/M/MA/MATTLAW/File-BOM-%{version}.tar.gz
 BuildArch:      noarch

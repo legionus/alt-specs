@@ -13,7 +13,7 @@ Name:           felix-osgi-core
 Version:        1.4.0
 Release:        alt5_23jpp8
 Summary:        Felix OSGi R4 Core Bundle
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org/site/apache-felix-osgi-core.html
 BuildArch:      noarch
 

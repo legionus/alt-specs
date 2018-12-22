@@ -9,7 +9,7 @@ Name:           perl-Catalyst-Runtime
 Summary:        Catalyst Framework Runtime
 Version:        5.90123
 Release:        alt1
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 Source0:        http://www.cpan.org/authors/id/H/HA/HAARG/Catalyst-Runtime-%{version}.tar.gz
 URL:            http://search.cpan.org/dist/Catalyst-Runtime/

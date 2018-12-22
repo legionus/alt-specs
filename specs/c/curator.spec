@@ -4,7 +4,7 @@ Release: alt2
 Summary: Tending your Elasticsearch indices
 
 Group: Text tools
-License: Apache2
+License: Apache-2.0
 Url: https://github.com/elastic/curator
 Source0: %name-%version.tar
 Patch0: %name-%version-%release.patch

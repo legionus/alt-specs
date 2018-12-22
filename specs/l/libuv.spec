@@ -5,7 +5,7 @@ Release: alt1
 Summary: Evented I/O for NodeJS
 
 Group: Development/Tools
-License: MIT License
+License: MIT
 Url: https://github.com/libuv/libuv
 
 # Source-url: https://github.com/libuv/libuv/archive/v%version.tar.gz

@@ -140,7 +140,7 @@ new Malayalam Scripts.
 Group: System/Fonts/True type
 Summary: Open Type Fonts for Malayalam script
 Requires: %{name}-common = %{version}-%{release}
-License: OFL
+License: OFL-1.0
 %description -n fonts-ttf-smc-anjalioldlipi
 The Anjali OldLipi package contains fonts for the display of
 traditional Malayalam Scripts.

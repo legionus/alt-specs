@@ -4,7 +4,7 @@ Version: 1.08
 Release: alt4.1.1.1.1
 
 Summary: Perl bindings for the Newt library
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

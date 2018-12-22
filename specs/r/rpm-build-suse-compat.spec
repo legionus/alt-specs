@@ -3,7 +3,7 @@ Name:		rpm-build-suse-compat
 Version:	0.033
 Release:	alt1
 Summary:	Compatibility environment to build SuSE rpms
-License:	GPL2+
+License:	GPL-2.0-or-later
 Group:		Development/Other
 
 Source:		%name-%version.tar

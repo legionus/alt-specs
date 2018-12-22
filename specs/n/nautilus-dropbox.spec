@@ -5,7 +5,7 @@ Release: alt1
 Summary: Dropbox integration for Nautilus
 Summary(ru_RU.UTF-8): Интеграция Dropbox с Nautilus
 
-License: GPL, CC BY-ND 3.0
+License: GPL and CC-BY-ND-3.0
 Group: Graphical desktop/GNOME
 Url: http://www.dropbox.com/
 

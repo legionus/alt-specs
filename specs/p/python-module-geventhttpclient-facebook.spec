@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.4.4
 Release: alt1.1.1
 Summary: Port of the original facebook sdk to use geventhttpclient
-License: ASL
+License: Apache
 Group: Development/Python
 Url: https://pypi.python.org/pypi/geventhttpclient-facebook/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

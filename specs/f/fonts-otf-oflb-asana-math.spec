@@ -10,7 +10,7 @@ Version:        0.954
 Release:        alt1_5
 Summary:        An OpenType font with a MATH table
 
-License:        OFL
+License:        OFL-1.0
 ## Note that upstream is dead and there is no download link available at this minute
 ## so please don't report FTBFS bugs for this package.
 URL:            http://www.ctan.org/tex-archive/fonts/Asana-Math/

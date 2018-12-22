@@ -7,7 +7,7 @@ Release: alt1
 Serial: 1
 
 Summary: Mozilla's Fira fonts
-License: OFL
+License: OFL-1.0
 Group: System/Fonts/True type
 
 Url: https://github.com/mozilla/Fira

@@ -26,7 +26,7 @@ Name:          tika
 Version:       1.12
 Release:       alt1_5jpp8
 Summary:       A content analysis toolkit
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://tika.apache.org/
 # sh tika-repack.sh <VERSION>
 Source0:       %{name}-%{version}-clean.tar.xz

@@ -6,7 +6,7 @@ Release: alt1.1
 
 Summary: Simple configuration file class
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 
 Url: %CPAN %dist
 Source: http://www.cpan.org/modules/by-module/Config/SHERZODR/Config-Simple-%version.tar.gz

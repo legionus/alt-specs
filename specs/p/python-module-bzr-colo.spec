@@ -6,7 +6,7 @@ Release: alt1
 %setup_python_module bzr-colo
 
 Summary: Colocated branches in Bazaar using present technology
-License: gpl2
+License: GPL-2.0-only
 Group: Development/Python
 
 Url: https://launchpad.net/sample

@@ -5,7 +5,7 @@ Name:       dontpanic
 Version:    1.02
 Release:    alt1_1
 Summary:    Very simple library and executable used in testing Alien::Base
-License:    GPL+ or Artistic    
+License:    GPL-1.0-or-later or Artistic
 URL:        https://perl5-alien.github.io/page/%{name}.html
 Source0:    https://github.com/Perl5-Alien/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
 BuildRequires:  autoconf

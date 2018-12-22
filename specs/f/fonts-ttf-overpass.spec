@@ -10,7 +10,7 @@ Name:		fonts-ttf-overpass
 Version:	3.0.3
 Release:	alt1_1
 Summary:	Typeface based on the U.S. interstate highway road signage type system
-License:	OFL or LGPLv2+
+License:	OFL-1.0 or LGPLv2+
 URL:		https://github.com/RedHatBrand/overpass/
 Source0:	https://github.com/RedHatBrand/Overpass/archive/%{version}.tar.gz
 Source1:	%{oldname}-fontconfig.conf

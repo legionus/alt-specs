@@ -5,7 +5,7 @@ Release: alt2
 
 Group: Graphical desktop/KDE
 Summary: Set of KDE 5 applications
-License: Public Domain
+License: ALT-Public-Domain
 
 BuildArch: noarch
 BuildRequires(pre): rpm-build-ubt

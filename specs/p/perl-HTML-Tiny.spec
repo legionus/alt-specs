@@ -9,7 +9,7 @@ Name:           perl-HTML-Tiny
 Version:        1.05
 Release:        alt2_27
 Summary:        Lightweight, dependency free HTML/XML generation
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/HTML-Tiny
 Source0:        https://cpan.metacpan.org/authors/id/A/AN/ANDYA/HTML-Tiny-%{version}.tar.gz

@@ -11,7 +11,7 @@ Name:           apache-commons-cli
 Version:        1.4
 Release:        alt1_4jpp8
 Summary:        Command Line Interface Library for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/cli/
 BuildArch:      noarch
 

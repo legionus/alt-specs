@@ -5,7 +5,7 @@ Version: 1.022
 Release: alt1
 
 Summary: Parse a MIME Content-Type Header
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

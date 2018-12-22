@@ -6,7 +6,7 @@ Name: lua-module-%oname
 Version: 1.6.2
 Release: alt2
 Summary: File System Library for the Lua Programming Language
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: http://www.keplerproject.org/luafilesystem/
 Packager: Ildar Mulyukov <ildar@altlinux.ru>

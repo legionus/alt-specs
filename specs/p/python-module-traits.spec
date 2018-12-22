@@ -14,7 +14,7 @@ Group:          Development/Python
 # image_LICENSE.txt file. Except enthought/traits/ui/editors_gen.py
 # which is GPLv2+ all remaining source or image files are in BSD
 # 3-clause license. Confirmed from upstream.
-License:        BSD and EPL and LGPLv2 and GPLv2+
+License:        BSD and EPL-1.0 and LGPLv2 and GPL-2.0-or-later
 URL:            http://code.enthought.com/projects/traits/
 
 # https://github.com/enthought/traits.git

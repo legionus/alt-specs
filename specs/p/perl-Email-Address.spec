@@ -5,7 +5,7 @@ Version: 1.909
 Release: alt1
 
 Summary: RFC 2822 Address Parsing
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

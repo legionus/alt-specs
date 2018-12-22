@@ -3,7 +3,7 @@ Version:  3.1.0
 Release:  alt1
 
 Summary:  Web administration for LDAP users and groups
-License:  GPL3
+License:  GPL-3.0-only
 Group:    System/Configuration/Networking
 Url: 	  http://open.iabsis.com/subversion/igestis
 

@@ -8,7 +8,7 @@ Release:        alt2
 Summary:        A small build system with a focus on speed
 
 Group:          Development/Tools
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://ninja-build.org/
 
 #VCS:           git://github.com/ninja-build/ninja.git

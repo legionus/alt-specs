@@ -14,7 +14,7 @@ Release:        alt1_0.10.%{shortcommit}
 Summary:        Library for communicating with USB and Bluetooth HID devices
 
 Group:          Development/Other
-License:        GPLv3 or BSD
+License:        GPL-3.0-only or BSD
 URL:            http://www.signal11.us/oss/hidapi/
 
 Source0:        https://github.com/signal11/hidapi/archive/%{commit}/%{oldname}-%{version}-%{shortcommit}.tar.gz

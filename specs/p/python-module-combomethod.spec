@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.10
 Release: alt1.1
 Summary: Decorator indicating a method is both a class and an instance method
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/combomethod

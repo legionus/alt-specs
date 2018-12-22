@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: This package provides a module for robust enumerations in Python
 
-License: GPL/Python
+License: GPL-1.0-only or Python
 Group: Development/Python
 Url: https://pypi.python.org/pypi/enum/
 

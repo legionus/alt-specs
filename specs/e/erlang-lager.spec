@@ -5,7 +5,7 @@ Version: 3.4.2
 Release: alt1%ubt
 Summary: A logging framework for Erlang/OTP
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/erlang-lager/lager
 

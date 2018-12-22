@@ -9,7 +9,7 @@ Name:           perl-HTML-Mason-PSGIHandler
 Version:        0.53
 Release:        alt1_14
 Summary:        PSGI handler for HTML::Mason
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/HTML-Mason-PSGIHandler
 Source0:        https://cpan.metacpan.org/authors/id/R/RU/RUZ/HTML-Mason-PSGIHandler-%{version}.tar.gz
 BuildArch:      noarch

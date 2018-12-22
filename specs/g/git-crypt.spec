@@ -5,7 +5,7 @@ Release: alt1.1
 Summary: Transparent file encryption in git
 Url:     https://github.com/AGWA/git-crypt
 Group:   Development/Other
-License: GPL3
+License: GPL-3.0-only
 
 Packager: Alexey Gladkov <legion@altlinux.ru>
 

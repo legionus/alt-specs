@@ -41,7 +41,7 @@ Static version of ploop library
 %package -n lib%name-devel
 Summary: Headers for development with ploop library
 Group: Development/C
-License: GPLv2 or LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 Requires: lib%name = %version-%release
 
 %description -n lib%name-devel

@@ -47,7 +47,7 @@ Release:        alt4_34jpp8
 Epoch:          0
 Summary:        Java XSLT processor
 # src/org/apache/xpath/domapi/XPathStylesheetDOM3Exception.java is W3C
-License:        ASL 2.0 and W3C
+License:        Apache-2.0 and W3C
 URL:            http://xalan.apache.org/
 Source0:        http://archive.apache.org/dist/xml/xalan-j/xalan-j_2_7_1-src.tar.gz
 Source1:        %{name}-serializer-MANIFEST.MF

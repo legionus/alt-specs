@@ -13,7 +13,7 @@ Release:        alt2_12jpp8
 Summary:        Sonatype Plugins Parent POM
 BuildArch:      noarch
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/sonatype/oss-parents
 Source:         https://github.com/sonatype/oss-parents/tarball/plugins-parent-%{version}#/%{name}-%{version}.tar.gz
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

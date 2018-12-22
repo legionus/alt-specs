@@ -10,7 +10,7 @@ Version:        1.2
 Release:        alt2_12
 Summary:        Free Kannada opentype sans-serif font
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/aravindavk/Navilu
 Source0:        https://github.com/aravindavk/Navilu/archive/v%{version}.tar.gz#/%{fontname}-%{version}.tar.gz
 BuildArch:      noarch

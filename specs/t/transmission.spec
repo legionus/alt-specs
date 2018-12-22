@@ -11,7 +11,7 @@ Release: alt3
 
 Group: Networking/File transfer
 Summary: Llightweight BitTorrent client
-License: GPLv2 + MIT
+License: GPL-2.0-only and MIT
 Url: http://www.transmissionbt.com/
 
 Provides: %rname = %version-%release

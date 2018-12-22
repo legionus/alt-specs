@@ -4,7 +4,7 @@ Release: alt1
 Summary: FreeCol is opensource Colonization clone.
 Url: http://freecol.org
 Group: Games/Strategy
-License: GPL3
+License: GPL-3.0-only
 BuildArch: noarch
 
 Source: %name-%version-%release.tar

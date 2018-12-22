@@ -12,7 +12,7 @@ Version:        3.5.1
 Release:        alt1_1jpp8
 Epoch:          0
 Summary:        Maven Plugin Tools
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugin-tools/
 BuildArch:      noarch
 

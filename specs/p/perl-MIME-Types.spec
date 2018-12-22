@@ -5,7 +5,7 @@ Version: 2.17
 Release: alt1
 
 Summary: Definition of MIME types
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

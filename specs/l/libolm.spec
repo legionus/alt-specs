@@ -5,7 +5,7 @@ Release: alt1
 Summary: An implementation of the Double Ratchet cryptographic ratchet
 
 Group: Development/Other
-License: Apache v2.0
+License: Apache-2.0
 Url: https://git.matrix.org/git/olm
 
 Source: %name-%version.tar

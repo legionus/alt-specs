@@ -8,7 +8,7 @@ Name:       perl-CSS-Minifier
 Version:    0.01 
 Release:    alt2_26
 # lib/CSS/Minifier.pm -> GPL+ or Artistic
-License:    GPL+ or Artistic 
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Other
 Summary:    Remove unnecessary whitespace from CSS files 
 Source:     https://cpan.metacpan.org/authors/id/P/PM/PMICHAUX/CSS-Minifier-%{version}.tar.gz

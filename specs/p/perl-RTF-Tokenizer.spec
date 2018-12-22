@@ -5,7 +5,7 @@ Name:      perl-%pkgname
 Summary:   %pkgname - Tokenize RTF
 Version:   1.20
 Release:   alt1
-License:   GPL or Artistic
+License:   GPL-1.0-only or Artistic
 Group:     Development/Perl
 URL:       http://www.cpan.org
 Source:    http://www.cpan.org/authors/id/S/SA/SARGIE/RTF-Tokenizer-%{version}.tar.gz

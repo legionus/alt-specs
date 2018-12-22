@@ -6,7 +6,7 @@ Release: alt2
 
 Summary: A collection of LV2/LADSPA/JACK audio plugins
 Group: Sound
-License: GPLv2+ and ISC
+License: GPL-2.0-or-later and ISC
 Url: http://www.zamaudio.com/
 
 %if_disabled snapshot

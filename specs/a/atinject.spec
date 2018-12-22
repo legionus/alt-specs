@@ -13,7 +13,7 @@ Name:           atinject
 Version:        1
 Release:        alt7_28.20100611svn86jpp8
 Summary:        Dependency injection specification for Java (JSR-330)
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://code.google.com/p/atinject/
 BuildArch:      noarch
 

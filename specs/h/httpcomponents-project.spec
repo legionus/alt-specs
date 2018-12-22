@@ -10,7 +10,7 @@ Name:           httpcomponents-project
 Summary:        Common POM file for HttpComponents
 Version:        9
 Release:        alt1_1jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://hc.apache.org/
 Source0:        http://archive.apache.org/dist/httpcomponents/httpcomponents-parent/9/httpcomponents-parent-9.pom
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

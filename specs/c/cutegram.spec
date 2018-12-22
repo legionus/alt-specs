@@ -9,7 +9,7 @@ Summary: Cutegram is a telegram client by Aseman Land
 # js-linkify: MIT
 # js-twemoji: MIT and CC-BY-4.0
 # awesome-fonts: MIT and OFL-1.0
-License: GPLv3+ and MIT and CC-BY-4.0 and OFL
+License: GPL-3.0-or-later and MIT and CC-BY-4.0 and OFL-1.0
 Group: Networking/Instant messaging
 Url: https://github.com/Aseman-Land/%origname
 Packager: Hihin Ruslan <ruslandh@altlinux.ru>

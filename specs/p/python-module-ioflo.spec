@@ -8,7 +8,7 @@ Release: alt1
 Url: https://github.com/ioflo/ioflo.git
 Source: %name-%version.tar
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 # For more detailed autoreqs (to be on the safer side).

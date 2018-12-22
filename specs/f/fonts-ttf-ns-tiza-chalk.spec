@@ -14,7 +14,7 @@ Version:        20080210
 Release:        alt3_13
 Summary:        Chalky slab-serif fonts
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.nuevostudio.com/project/tiza/
 Source0:        http://www.nuevostudio.com/files/downloads/tiza.zip
 Source1:        %{oldname}-fontconfig.conf

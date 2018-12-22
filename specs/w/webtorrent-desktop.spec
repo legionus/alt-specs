@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Streaming torrent app for Mac, Windows, and Linux
 
-License: Apache 2.0
+License: Apache-2.0
 Url: https://webtorrent.io
 Group: Networking/Instant messaging
 

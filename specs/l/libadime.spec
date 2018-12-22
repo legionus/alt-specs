@@ -6,7 +6,7 @@ Version:        2.2.1
 Release:        alt2_23
 Summary:        Allegro Dialogs Made Easy
 Group:          System/Libraries
-License:        zlib
+License:        Zlib
 URL:            http://adime.sourceforge.net/
 Source0:        http://downloads.sourceforge.net/%{oldname}/%{oldname}-%{version}.tar.gz
 Patch0:         adime-2.2.1-so-fixes.patch

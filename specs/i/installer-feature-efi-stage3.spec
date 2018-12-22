@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: configure efivars kernel module for autoload
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://www.altlinux.org/Installer/beans

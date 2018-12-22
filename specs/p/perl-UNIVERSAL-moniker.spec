@@ -4,7 +4,7 @@ Version: 0.08
 Release: alt2
 
 Summary: Guess how class would be called in real world
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

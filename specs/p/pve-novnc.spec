@@ -5,7 +5,7 @@ Name: pve-%sname
 Summary: HTML5 VNC client
 Version: 0.6.4
 Release: alt2
-License: MPL 2.0
+License: MPL-2.0
 Group: Networking/WWW
 Url: https://git.proxmox.com/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

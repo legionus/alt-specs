@@ -4,7 +4,7 @@ Release: alt1
 Summary: OpenStack Object Storage (Swift)
 
 Group: System/Servers
-License: ASL 2.0
+License: Apache-2.0
 Url: http://launchpad.net/swift
 Source: %name-%version.tar
 

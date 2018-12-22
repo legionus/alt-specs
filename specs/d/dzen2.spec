@@ -3,7 +3,7 @@ Version: 0.9.5
 Release: alt3.git20130923
 Summary: A general purpose messaging and notification program. 
 
-License: MIT/X
+License: (MIX or XConsortium)
 Group: Graphical desktop/Other
 
 Url: http://gotmor.googlepages.com/dzen

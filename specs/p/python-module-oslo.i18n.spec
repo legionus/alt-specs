@@ -5,7 +5,7 @@ Version: 3.21.0
 Release: alt1
 Summary: OpenStack i18n library
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/oslo.i18n
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 BuildArch: noarch

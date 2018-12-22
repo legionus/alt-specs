@@ -5,7 +5,7 @@ Version: 3.1.3
 Release: alt1.1.1
 Summary: Multidicts are useful for working with HTTP headers, URL query args etc
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/multidict
 Packager: Anton Midyukov <antohami@altlinux.org>

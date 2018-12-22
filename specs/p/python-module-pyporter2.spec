@@ -8,7 +8,7 @@ Release: alt1.git81d39.2
 
 Summary: Implementation of the Porter2 (english) stemming algorithm
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 BuildArch: noarch
 Url: http://www.dirolf.com/project/pyporter2

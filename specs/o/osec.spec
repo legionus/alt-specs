@@ -3,7 +3,7 @@ Version: 1.2.7
 Release: alt3
 
 Summary: Lightweight file permission checker
-License: GPL3
+License: GPL-3.0-only
 Group: System/Base
 Url: https://sourceforge.net/projects/o-security/
 Packager: Alexey Gladkov <legion@altlinux.ru>

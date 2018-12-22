@@ -17,7 +17,7 @@ Release: alt1
 
 Summary: Cross-platform path specification manipulation
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Path-Class/
 

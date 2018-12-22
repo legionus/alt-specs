@@ -4,7 +4,7 @@ Version: 0.23
 Release: alt2
 
 Summary: Checks if the documentation of a module is comprehensive
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

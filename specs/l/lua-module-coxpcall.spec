@@ -6,7 +6,7 @@ Name: lua-module-%oname
 Version: 1.16.0
 Release: alt1
 Summary: Coroutine safe xpcall and pcall
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: http://keplerproject.github.com/coxpcall
 Provides: luarocks(%oname) = %version

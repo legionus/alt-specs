@@ -10,7 +10,7 @@ Name:          lightcouch
 Version:       0.1.8
 Release:       alt1_5jpp8
 Summary:       CouchDB Java API
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.lightcouch.org/
 Source0:       https://github.com/lightcouch/LightCouch/archive/%{name}-%{version}.tar.gz
 

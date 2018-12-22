@@ -6,7 +6,7 @@ Version: 0.14
 Release: alt1
 
 Summary: Expose the flag which marks global destruction
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

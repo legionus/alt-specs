@@ -8,7 +8,7 @@ Name:           perl-Fennec-Lite
 Version:        0.004
 Release:        alt2_15
 Summary:        Minimalist Fennec, the commonly used bits
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Fennec-Lite
 Source0:        https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Fennec-Lite-%{version}.tar.gz

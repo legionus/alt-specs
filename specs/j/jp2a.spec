@@ -12,7 +12,7 @@ Release: alt1.0.qa1
 Summary: an utility for converting JPEG images to ASCII
 Summary(ru_RU.UTF-8): утилита для конвертации изображений JPEG в ASCII art
 
-License: GPL v.2
+License: GPL-2.0-only
 Group: Terminals
 URL: http://jp2a.sourceforge.net/
 

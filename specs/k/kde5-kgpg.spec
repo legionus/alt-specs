@@ -8,7 +8,7 @@ Release: alt3
 Group: File tools
 Summary: Graphical frontend to GPG
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch:  alt-fix-text-cropping-in-setup-master.patch

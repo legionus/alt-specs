@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Wyabdc RealPeople TTS
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Sound
 Url: http://www.openclipart.org/
 

@@ -4,7 +4,7 @@ Version: 0.009032
 Release: alt1
 
 Summary: Emulate Class::Accessor::Fast behavior using Moose attributes
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

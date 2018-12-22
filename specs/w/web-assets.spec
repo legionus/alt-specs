@@ -28,7 +28,7 @@ Source44: import.info
 Group: Other
 Summary:        The basic directory layout for Web Assets
 #there's nothing copyrightable about a few directories and symlinks
-License:        Public Domain
+License:        ALT-Public-Domain
 
 %description filesystem
 %{summary}.

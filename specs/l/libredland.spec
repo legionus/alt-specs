@@ -13,7 +13,7 @@ Release: alt2
 
 Summary: Redland - a library that provides a high-level interface for RDF
 
-License: LGPL v2.1+ or GPL v2+ or Apache v2
+License: LGPL-2.1-or-later or GPL-2.0-or-later or Apache-2.0
 Group: System/Libraries
 Url: http://librdf.org/
 

@@ -2,7 +2,7 @@ Name:           perl-Authen-Simple-Passwd
 Version:        0.6
 Release:        alt2
 Summary:        Simple Passwd authentication
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Authen-Simple-Passwd
 Source0:        https://cpan.metacpan.org/authors/id/C/CH/CHANSEN/Authen-Simple-Passwd-%{version}.tar.gz

@@ -5,7 +5,7 @@ Version: 1.1.0
 Release: alt1
 
 Summary: A ruby interface for GraphViz graph visualisation toolkit
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ioquatix/graphviz
 

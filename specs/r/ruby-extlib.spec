@@ -5,7 +5,7 @@ Version: 0.9.16
 Release: alt1.1
 
 Summary: General Ruby extensions for Merb
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/datamapper/extlib
 

@@ -10,7 +10,7 @@ Name:           spice-parent
 Version:        26
 Release:        alt1_8jpp8
 Summary:        Sonatype Spice Components
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://github.com/sonatype/oss-parents
 BuildArch:      noarch
 

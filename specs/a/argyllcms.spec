@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: ICC compatible color management system
 Group: Graphics
-License: GPLv3 and MIT
+License: GPL-3.0-only and MIT
 
 URL: http://gitorious.org/%_name
 Source: http://people.freedesktop.org/~hughsient/releases/%_name-%version.tar.xz

@@ -15,7 +15,7 @@ BuildRequires: /usr/bin/desktop-file-install /usr/bin/desktop-file-validate glib
 Name:		im-chooser
 Version:	1.7.1
 Release:	alt1_5
-License:	GPLv2+ and LGPLv2+
+License:	GPL-2.0-or-later and LGPLv2+
 URL:		http://pagure.io/im-chooser/
 %{?_with_gtk2:BuildRequires:	gtk-builder-convert gtk-demo libgail-devel libgtk+2-devel libgtk+2-gir-devel}
 %{!?_with_gtk2:BuildRequires:	gtk3-demo libgail3-devel libgtk+3 libgtk+3-devel libgtk+3-gir-devel}

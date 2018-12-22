@@ -3,7 +3,7 @@ Version: 0.16.19
 Release: alt1
 
 Summary: A real mode 80x86 assembler and linker
-License: GPL+ and GPLv2+ and LGPLv2+
+License: GPL-1.0-or-later and GPL-2.0-or-later and LGPLv2+
 Group: Development/Other
 Url: http://www.debath.co.uk/dev86/
 

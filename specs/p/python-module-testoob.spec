@@ -8,7 +8,7 @@ Release: alt1.git20110725
 Summary: Testing Out Of (The) Box
 
 Group: Development/Python
-License: Apache License, Version 2.0
+License: Apache-2.0
 URL: http://testoob.sourceforge.net/
 # https://github.com/testoob/testoob.git
 Source: %oname-%version.tar.gz

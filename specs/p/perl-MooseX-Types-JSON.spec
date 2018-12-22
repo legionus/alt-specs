@@ -5,7 +5,7 @@ Version: 1.00
 Release: alt1.1
 
 Summary: JSON datatype for Moose
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

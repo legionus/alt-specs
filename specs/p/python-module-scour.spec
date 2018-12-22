@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.29
 Release: alt1.git20140726.1.1.1
 Summary: Scour SVG Optimizer
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/scour/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

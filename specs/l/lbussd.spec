@@ -5,7 +5,7 @@ Version: 0
 Release: alt1.%cvs.4
 
 Summary: LTSP.org's %name
-License: LGPL 2.1+
+License: LGPL-2.1-or-later
 Group: System/Configuration/Hardware
 
 Url: http://www.ltsp.org

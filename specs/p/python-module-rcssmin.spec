@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.6
 Release: alt1.1.1
 Summary: CSS Minifier
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%oname
 

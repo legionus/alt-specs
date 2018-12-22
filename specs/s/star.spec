@@ -3,7 +3,7 @@ Version: 1.5.1
 Release: alt2
 
 Summary: A very fast, POSIX compliant tape archiver
-License: CDDL
+License: CDDL-1.0
 Group: Archiving/Backup
 
 URL: http://cdrecord.berlios.de/old/private/star.html

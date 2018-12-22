@@ -2,7 +2,7 @@ Name: syfi
 Version: 1.1.0
 Release: alt6.bzr20130304
 Summary: Symbolic Finite Elements (SyFi) and The SyFi Form Compiler (SFC)
-License: GPL v2
+License: GPL-2.0-only
 Group: Sciences/Mathematics
 Url: http://www.fenics.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

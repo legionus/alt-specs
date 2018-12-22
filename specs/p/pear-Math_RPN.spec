@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Reverse Polish Notation
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Math_RPN
 

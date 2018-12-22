@@ -8,7 +8,7 @@ Name:           perl-CGI-PSGI
 Version:        0.15
 Release:        alt1_20
 Summary:        Enable your CGI.pm aware applications to adapt PSGI protocol
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/CGI-PSGI
 Source0:        https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/CGI-PSGI-%{version}.tar.gz

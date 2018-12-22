@@ -12,7 +12,7 @@ Name:          activemq
 Version:       5.6.0
 Release:       alt4_18jpp8
 Summary:       Open source messaging and Integration Patterns server
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://activemq.apache.org
 # git clone -b activemq-5.6.0 https://github.com/apache/activemq.git activemq-core-5.6.0
 # rm -rf activemq-core-5.6.0/.git

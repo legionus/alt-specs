@@ -8,7 +8,7 @@ Version: 3.25.2
 Release: alt1.%rel
 
 Summary: Another Python SQLite Wrapper
-License: zlib/libpng License
+License: Zlib or Libpng
 Group: Development/Python
 Url: http://rogerbinns.github.io/apsw
 

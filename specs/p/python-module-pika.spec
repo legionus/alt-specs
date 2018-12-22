@@ -9,7 +9,7 @@ Release: alt1
 %setup_python_module %modulename
 
 Summary: Pika is a pure-Python implementation of the AMQP 0-9-1 protocol.
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 
 Url: http://github.com/pika/pika

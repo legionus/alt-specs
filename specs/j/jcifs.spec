@@ -54,7 +54,7 @@ This package contains the API documentation for %{name}.
 Group: Development/Java
 Summary:       Demo for %{name}
 # Files from the directory 'examples' are here, some are under GPLv2+
-License:       LGPLv2+ and GPLv2+
+License:       LGPLv2+ and GPL-2.0-or-later
 Requires:      %{name} = %{?epoch:%epoch:}%{version}-%{release}
 
 %description demo

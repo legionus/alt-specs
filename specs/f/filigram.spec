@@ -2,7 +2,7 @@ Name:		filigram
 Version:	7422
 Release:	alt1.qa1
 Group:		Sciences/Mathematics
-License:	MIT/X11
+License:	(MIT or X11)
 Summary:	Pretty pictures generation by mathematical means
 # wget -r -l1 --cut-dirs=2 -k -nH -np -P filigram http://www.chiark.greenend.org.uk/~sgtatham/filigram
 Source:		%name-%version.tar

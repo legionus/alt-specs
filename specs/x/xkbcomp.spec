@@ -2,7 +2,7 @@ Name: xkbcomp
 Version: 1.4.2
 Release: alt1
 Summary: Compile XKB keyboard description
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: https://cgit.freedesktop.org/xorg/app/xkbcomp
 

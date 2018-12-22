@@ -4,7 +4,7 @@ Version: 0.12
 Release: alt1
 
 Summary: Common utilities for IRC-related tasks
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

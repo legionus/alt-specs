@@ -3,7 +3,7 @@ Version: 4.2.4.4
 Release: alt1
 
 Summary: Fast compression and decompression utilities
-License: Public domain
+License: ALT-Public-Domain
 Group: Archiving/Compression
 Url: http://ncompress.sourceforge.net/
 

@@ -21,7 +21,7 @@ Summary:        Plexus Common Utilities
 #      src/main/java/org/codehaus/plexus/util/cli/Commandline            
 # Public domain: src/main/java/org/codehaus/plexus/util/TypeFormat.java
 # rest is ASL 2.0
-License:        ASL 1.1 and ASL 2.0 and xpp and BSD and Public Domain
+License:        Apache-1.1 and Apache-2.0 and xpp and BSD and ALT-Public-Domain
 URL:            https://codehaus-plexus.github.io/plexus-utils/
 BuildArch:      noarch
 

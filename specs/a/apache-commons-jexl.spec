@@ -15,7 +15,7 @@ Name:           apache-%{jarname}
 Version:        2.1.1
 Release:        alt2_20jpp8
 Summary:        Java Expression Language (JEXL)
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/jexl
 BuildArch:      noarch
 

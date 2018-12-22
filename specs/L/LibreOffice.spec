@@ -215,7 +215,7 @@ KDE5 extensions for %name
 %package -n libreofficekit
 Summary: A library providing access to LibreOffice functionality
 Group: Graphical desktop/GNOME
-License: MPLv2.0
+License: MPL-2.0
 %description -n libreofficekit
 LibreOfficeKit can be used to access LibreOffice functionality
 through C/C++, without any need to use UNO.
@@ -223,7 +223,7 @@ through C/C++, without any need to use UNO.
 %package -n libreofficekit-devel
 Summary: Development files for libreofficekit
 Group: Development/GNOME and GTK+
-License: MPLv2.0
+License: MPL-2.0
 %description -n libreofficekit-devel
 The libreofficekit-devel package contains libraries and header files for
 developing applications that use libreofficekit.

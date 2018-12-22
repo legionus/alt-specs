@@ -5,7 +5,7 @@ Release: alt1%ubt
 
 Group: Graphical desktop/KDE
 Summary: Virtual packages for KDE 5
-License: Public Domain
+License: ALT-Public-Domain
 
 BuildArch: noarch
 BuildRequires(pre): rpm-build-ubt

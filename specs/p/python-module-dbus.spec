@@ -11,7 +11,7 @@ Version: 1.2.8
 Release: alt1
 
 Summary: Python bindings for D-BUS library
-License: AFL/GPL
+License: AFL or GPL-1.0-only
 Group: Development/Python
 Url: http://www.freedesktop.org/wiki/Software/DBusBindings
 
@@ -40,7 +40,7 @@ D-Bus python bindings for use with python programs.
 
 %package -n python3-module-dbus
 Summary: Python3 bindings for D-BUS library
-License: AFL/GPL
+License: AFL or GPL-1.0-only
 Group: Development/Python3
 Requires: dbus
 

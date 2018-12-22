@@ -4,7 +4,7 @@ Version: 1.67
 Release: alt1
 
 Summary: Encapsulate SQL queries and rows in simple perl objects
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

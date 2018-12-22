@@ -5,7 +5,7 @@ Version: 1.11
 Release: alt1
 
 Summary: Testing made absolute easy.
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Packager: Boris Savelev <boris@altlinux.org>
 

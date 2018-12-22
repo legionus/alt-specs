@@ -12,7 +12,7 @@ Name:           felix-configadmin
 Version:        1.8.14
 Release:        alt1_3jpp8
 Summary:        Apache Felix Configuration Admin Service
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org/site/apache-felix-config-admin.html
 
 Source0:        http://archive.apache.org/dist/felix/%{bundle}-%{version}-source-release.tar.gz

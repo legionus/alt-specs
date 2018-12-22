@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.5.1
 Release: alt2
 Summary: A Python wrapper for the extremely fast Blosc compression library
-License: MIT / BSD
+License: MIT or BSD
 Group: Development/Python
 Url: http://python-blosc.blosc.org/
 

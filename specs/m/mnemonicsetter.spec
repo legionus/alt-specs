@@ -10,7 +10,7 @@ Name:           mnemonicsetter
 Version:        0.5
 Release:        alt1_4jpp8
 Summary:        Menu and toolbar mnemonic library
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/dpolivaev/%{name}
 BuildArch:      noarch
 

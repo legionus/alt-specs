@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Check the syntax of IPv4 addresses
 
-License: MIT License
+License: MIT
 Group: Development/Other
 Url: http://pear.php.net/package/Net_CheckIP
 

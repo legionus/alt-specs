@@ -2,7 +2,7 @@ Name: sessreg
 Version: 1.0.7
 Release: alt2
 Summary: manage utmp/wtmp entries for non-init clients
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

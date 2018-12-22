@@ -8,7 +8,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: repocop specfile collector.
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://repocop.altlinux.org
 Requires: repocop >= 0.15
 

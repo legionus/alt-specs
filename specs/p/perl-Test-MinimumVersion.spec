@@ -8,7 +8,7 @@ Name:		perl-Test-MinimumVersion
 Version:	0.101082
 Release:	alt1_9
 Summary:	Check whether your code requires a newer perl
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Other
 URL:		https://metacpan.org/release/Test-MinimumVersion
 Source0:	https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Test-MinimumVersion-%{version}.tar.gz

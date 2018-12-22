@@ -54,7 +54,7 @@ Release:        alt1_2
 Summary:        Lua 5.3 VM and compiler written in Go
 
 # License is confirmed to be zlib: https://github.com/milochristiansen/lua/issues/5
-License:        zlib
+License:        Zlib
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/v%{version}/%{project}-%{repo}-%{version}.tar.gz
 

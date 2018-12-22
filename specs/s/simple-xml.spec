@@ -11,7 +11,7 @@ Name:          simple-xml
 Summary:       An XML serialization framework for Java
 Version:       2.7.1
 Release:       alt1_12jpp8
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://simple.sourceforge.net/
 Source0:       http://downloads.sourceforge.net/simple/%{name}-%{version}.tar.gz
 Source1:       http://repo1.maven.org/maven2/org/simpleframework/%{name}/%{version}/%{name}-%{version}.pom

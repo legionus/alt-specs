@@ -8,7 +8,7 @@ Name: python-module-%module_name
 Version: 0.2.1
 #Release: alt1.git20140207.1
 Group: Development/Python
-License: MIT License
+License: MIT
 Summary: User notification management for the Django web framework
 URL: http://github.com/Star2Billing/django-notification
 Source: %name-%version.tar

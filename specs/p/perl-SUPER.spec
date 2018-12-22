@@ -9,7 +9,7 @@ Name:		perl-SUPER
 Version:	1.20141117
 Release:	alt2_11
 Summary:	Sane superclass method dispatcher
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/SUPER
 Source0:	https://cpan.metacpan.org/authors/id/C/CH/CHROMATIC/SUPER-%{version}.tar.gz
 BuildArch:	noarch

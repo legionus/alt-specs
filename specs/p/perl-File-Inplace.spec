@@ -8,7 +8,7 @@ Name:           perl-File-Inplace
 Version:        0.20
 Release:        alt2_20
 Summary:        Perl module for in-place editing of files
-License:        (GPL+ or Artistic)
+License:        (GPL-1.0-or-later or Artistic)
 Group:          Development/Other
 URL:            https://metacpan.org/release/File-Inplace
 Source0:        https://cpan.metacpan.org/modules/by-module/File/File-Inplace-%{version}.tar.gz

@@ -11,7 +11,7 @@ Name:           apache-mime4j
 Version:        0.8.1
 Release:        alt1_1jpp8
 Summary:        Apache JAMES Mime4j
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://james.apache.org/mime4j
 BuildArch:      noarch
 

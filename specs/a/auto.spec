@@ -11,7 +11,7 @@ Name:          auto
 Version:       1.1
 Release:       alt1_6jpp8
 Summary:       A collection of source code generators for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/google/auto
 Source0:       https://github.com/google/auto/archive/auto-value-%{version}.tar.gz
 

@@ -20,7 +20,7 @@ Name:             snakeyaml
 Version:          1.17
 Release:          alt1_5jpp8
 Summary:          YAML parser and emitter for the Java programming language
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://bitbucket.org/asomov/%{name}/
 Source0:          https://bitbucket.org/asomov/snakeyaml/get/v%{version}.tar.bz2#/%{name}-%{version}.tar.bz2
 

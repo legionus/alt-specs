@@ -10,7 +10,7 @@ Name:          pegdown
 Version:       1.4.2
 Release:       alt1_12jpp8
 Summary:       Java library for Markdown processing
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://pegdown.org
 Source0:       https://github.com/sirthias/pegdown/archive/%{version}.tar.gz
 # Newer release use sbt builder

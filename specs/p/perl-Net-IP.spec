@@ -4,7 +4,7 @@ Version: 1.26
 Release: alt1
 
 Summary: Perl extension for manipulating IPv4/IPv6 addresses
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 Url: %CPAN %module

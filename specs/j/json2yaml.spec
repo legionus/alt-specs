@@ -2,7 +2,7 @@ Name: json2yaml
 Version: 1.1.1
 Release: alt2.1
 Summary: Convert JSON to YAML or vice versa, while preserving the order of associative arrays
-License: ASLv2.0
+License: Apache-2.0
 Group: File tools
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/json2yaml/

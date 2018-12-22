@@ -5,7 +5,7 @@ Version: 1.010
 Release: alt1
 
 Summary: Map Perl operating system names to generic types
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

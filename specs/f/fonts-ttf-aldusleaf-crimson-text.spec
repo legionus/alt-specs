@@ -10,7 +10,7 @@ Version:        0.8
 Release:        alt1_0.8.20130806
 Summary:        A latin font for the production of technical books and papers
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://aldusleaf.org/0-crimson.html
 Source0:        https://github.com/skosch/Crimson/archive/webfonts-august2013-2.tar.gz
 Source1:        %{oldname}-fontconfig.conf

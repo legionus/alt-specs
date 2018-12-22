@@ -4,7 +4,7 @@ Version: 0.51
 Release: alt2.1
 
 Summary: Perl compiler backend to produce graphs of OP trees
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

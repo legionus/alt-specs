@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Database Abstraction Layer
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/DB
 

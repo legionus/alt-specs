@@ -7,7 +7,7 @@ Name: golang-gopkg-httprequest-v1
 Version: 1.1.1
 Release: alt1
 Summary: This package provides functionality for unmarshaling HTTP request parameters into a struct type.
-License: LGPL v.3
+License: LGPL-3.0-only
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

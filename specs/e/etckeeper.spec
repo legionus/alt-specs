@@ -5,7 +5,7 @@ Version: 1.18.8
 Release: alt1
 
 Summary: Etckeeper help to keep your /etc directory in VCS repository
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Development/Other
 Url: http://etckeeper.branchable.com
 Source: %name-%version.tar

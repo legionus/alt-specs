@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Etersoft EPM package manager
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: System/Configuration/Packaging
 Url: http://wiki.etersoft.ru/EPM
 

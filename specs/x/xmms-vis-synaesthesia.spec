@@ -3,7 +3,7 @@ Version: 0.0.3
 Release: alt4.qa1
 
 Summary: Synaesthesia for xmms
-License: GPL v2+
+License: GPL-2.0-or-later
 Group: Sound
 
 Url: http://zinx.xmms.org/xmms

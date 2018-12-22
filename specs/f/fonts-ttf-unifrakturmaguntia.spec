@@ -14,7 +14,7 @@ Name:          fonts-ttf-unifrakturmaguntia
 Version:       0
 Release:       alt1_0.6.%{source_date}
 Summary:       Font that provide a Fraktur typeface that may be embedded on websites
-License:       OFL
+License:       OFL-1.0
 URL:           http://unifraktur.sourceforge.net/maguntia.html
 Source0:       http://sourceforge.net/projects/unifraktur/files/fonts/UnifrakturMaguntia.2014-07-06.zip
 Source10:      %{fontconf}

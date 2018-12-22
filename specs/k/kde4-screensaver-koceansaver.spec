@@ -8,7 +8,7 @@ Epoch: 1
 Summary: An under water screen saver for KDE4
 Url: http://sourceforge.net/projects/koceansaver/
 Group: Graphical desktop/KDE
-License: GPL2+
+License: GPL-2.0-or-later
 Source0: %oname-%version.tar.gz
 
 # Automatically added by buildreq on Mon May 13 2013

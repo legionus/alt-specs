@@ -13,7 +13,7 @@ Version:        0.2.3
 Release:        alt1_7
 Summary:        A tool to manage Windows dynamic disks
 Group:		System/Libraries
-License:        LGPLv3+ and GPLv3+
+License:        LGPLv3+ and GPL-3.0-or-later
 URL:            https://github.com/mdbooth/libldm
 Source0:        %{url}/downloads/%{name}-%{version}.tar.gz
 Patch0:         cast_be64toh.patch

@@ -14,7 +14,7 @@ Name:           perl-GSSAPI
 Version:        0.28
 Release:        alt5_24
 Summary:        Perl extension providing access to the GSSAPIv2 library
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/GSSAPI
 Source0:        https://cpan.metacpan.org/authors/id/A/AG/AGROLMS/GSSAPI-%{version}.tar.gz

@@ -10,7 +10,7 @@ Name:             castor-maven-plugin
 Version:          2.5
 Release:          alt3_7jpp8
 Summary:          Maven plugin for Castor XML's code generator
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://www.mojohaus.org/castor-maven-plugin/
 
 Source0:          https://github.com/mojohaus/castor-maven-plugin/archive/castor-maven-plugin-%{version}.tar.gz

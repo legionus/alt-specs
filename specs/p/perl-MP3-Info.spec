@@ -4,7 +4,7 @@ Version: 1.26
 Release: alt1
 
 Summary: Manipulate / fetch info from MP3 audio files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

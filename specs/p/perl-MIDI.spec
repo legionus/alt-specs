@@ -6,7 +6,7 @@ Version: 0.83
 Release: alt1
 
 Summary: %{module} module for perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 Source: http://www.cpan.org/authors/id/C/CO/CONKLIN/MIDI-Perl-%{version}.tar.gz

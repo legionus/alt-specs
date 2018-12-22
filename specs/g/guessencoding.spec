@@ -12,7 +12,7 @@ Version:          1.4
 Release:          alt2_15jpp8
 Summary:          Guess encoding of files and return configured reader
 Group:            Development/Other
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://docs.codehaus.org/display/GUESSENC/
 # svn export http://svn.codehaus.org/guessencoding/tags/guessencoding-1.4/
 # tar caf guessencoding-1.4.tar.gz guessencoding-1.4

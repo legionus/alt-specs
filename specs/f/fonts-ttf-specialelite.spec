@@ -11,7 +11,7 @@ Name:          fonts-ttf-specialelite
 Version:       1.000
 Release:       alt1_0.6.%{alphatag}
 Summary:       Special Elite font by Brian J. Bonislawsky
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.google.com/fonts/specimen/Special+Elite
 Source0:       https://googlefontdirectory.googlecode.com/hg/apache/specialelite/SpecialElite.ttf
 Source1:       https://googlefontdirectory.googlecode.com/hg/apache/specialelite/LICENSE.txt

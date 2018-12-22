@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: A Personal Finance Manager for KDE4
 Summary(ru_RU.UTF-8): Учёт финансов под KDE4
-License: GPLv2 or GPLv3
+License: GPL-2.0-only or GPL-3.0-only
 Group:   Office
 URL:     http://kmymoney2.sourceforge.net
 

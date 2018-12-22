@@ -9,7 +9,7 @@ Name:		perl-Archive-Any-Lite
 Version:	0.11
 Release:	alt1_7
 Summary:	Simple CPAN package extractor 
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 URL:		https://metacpan.org/release/Archive-Any-Lite
 Source0:	http://cpan.metacpan.org/authors/id/I/IS/ISHIGAKI/Archive-Any-Lite-%{version}.tar.gz
 Patch0:		Archive-Any-Lite-0.08-EU:MM.patch

@@ -3,7 +3,7 @@ Version:  0.1
 Release:  alt1.20170916%ubt.1
 
 Summary:  SDDM Configuration Editor
-License:  ASL 2.0
+License:  Apache-2.0
 Group:    Graphical desktop/KDE
 Url:      https://github.com/hagabaka/sddm-config-editor
 

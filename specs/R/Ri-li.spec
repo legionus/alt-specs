@@ -5,7 +5,7 @@ Version: 2.0.1
 Release: alt3.2.qa1
 
 Summary: Ri-li arcade game
-License: GPL v2 or GPL v3
+License: GPL-2.0-only or GPL-3.0-only
 Group: Games/Arcade
 URL: http://www.ri-li.org
 

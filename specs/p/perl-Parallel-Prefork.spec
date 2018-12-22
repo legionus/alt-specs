@@ -8,7 +8,7 @@ Name:           perl-Parallel-Prefork
 Version:        0.18
 Release:        alt1_7
 Summary:        Simple prefork server framework
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Parallel-Prefork
 Source0:        https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Parallel-Prefork-%{version}.tar.gz

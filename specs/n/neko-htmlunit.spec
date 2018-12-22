@@ -10,7 +10,7 @@ Name:          neko-htmlunit
 Version:       2.23
 Release:       alt1_4jpp8
 Summary:       HtmlUnit adaptation of NekoHtml
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://htmlunit.sourceforge.net
 # svn export http://svn.code.sf.net/p/htmlunit/code/tags/HtmlUnit\ NekoHtml-2.23 neko-htmlunit-2.23
 # tar cJf neko-htmlunit-2.23.tar.xz neko-htmlunit-2.23

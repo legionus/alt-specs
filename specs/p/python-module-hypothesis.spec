@@ -12,7 +12,7 @@ Name: python-module-%oname
 Version: 3.66.30
 Release: alt1
 Summary: A library for property based testing
-License: MPLv2
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/hypothesis
 

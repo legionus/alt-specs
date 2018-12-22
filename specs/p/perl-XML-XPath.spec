@@ -5,7 +5,7 @@ Version: 1.44
 Release: alt1
 
 Summary: A set of modules for parsing and evaluating XPath statements
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

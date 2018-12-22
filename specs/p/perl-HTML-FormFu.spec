@@ -10,7 +10,7 @@ Name:           perl-HTML-FormFu
 Version:        2.07
 Release:        alt1
 Summary:        HTML Form Creation, Rendering and Validation Framework
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/HTML-FormFu
 Source0:        http://www.cpan.org/authors/id/C/CF/CFRANKS/HTML-FormFu-%{version}.tar.gz
 BuildArch:      noarch

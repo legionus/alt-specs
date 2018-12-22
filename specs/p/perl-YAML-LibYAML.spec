@@ -24,7 +24,7 @@ Epoch:          1
 Version:        0.75
 Release:        alt1_1
 Summary:        Perl YAML Serialization using XS and libyaml
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/YAML-LibYAML
 Source0:        https://cpan.metacpan.org/modules/by-module/YAML/YAML-LibYAML-%{version}.tar.gz
 

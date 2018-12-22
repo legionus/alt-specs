@@ -42,7 +42,7 @@ Version:        1.7
 Release:        alt7_25jpp8
 Epoch:          0
 Summary:        Automated web site testing toolkit
-License:        MIT and ASL 2.0
+License:        MIT and Apache-2.0
 # ./create-tarball.sh %%{version}
 Source0:        httpunit-1.7-clean.tar.gz
 Source1:        http://repo1.maven.org/maven2/httpunit/httpunit/1.7/httpunit-1.7.pom

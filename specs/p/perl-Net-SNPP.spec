@@ -4,7 +4,7 @@ Version: 1.17
 Release: alt1.1.1
 
 Summary: Simple Network Pager Protocol Client
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 Url: %CPAN %dist

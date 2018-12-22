@@ -5,7 +5,7 @@ Release: alt1
 Summary: Aleppo Codex for SWORD
 Summary(ru_RU.UTF-8): Aleppo Codex для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

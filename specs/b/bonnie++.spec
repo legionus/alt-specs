@@ -3,7 +3,7 @@ Version: 1.97.3
 Release: alt1
 
 Summary: A program for benchmarking hard drives and filesystems
-License: GPL v2
+License: GPL-2.0-only
 Group: Monitoring
 
 Url: http://www.coker.com.au/bonnie++/

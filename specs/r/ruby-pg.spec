@@ -6,7 +6,7 @@ Release: alt2.5
 
 Summary: Ruby interface to PostgreSQL RDBMS
 Group: Development/Ruby
-License: MIT/Ruby or GPL
+License: MIT or Ruby or GPL-1.0-only
 Url: http://bitbucket.org/ged/ruby-pg/
 
 Source: %name-%version.tar

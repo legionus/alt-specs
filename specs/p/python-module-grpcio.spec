@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 1.12.0
 Release: alt1%ubt
 Summary: HTTP/2-based RPC framework
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.org/project/grpcio
 

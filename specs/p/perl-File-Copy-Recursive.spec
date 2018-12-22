@@ -5,7 +5,7 @@ Version: 0.44
 Release: alt1
 
 Summary: Perl extension for recursively copying files and directories
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

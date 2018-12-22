@@ -3,7 +3,7 @@ Version: 1.3.0
 Release: alt2.1
 
 Summary: Library for reading and writing GeoTIFF information tags.
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Libraries
 Url: http://trac.osgeo.org/geotiff/
 Packager: Dmitry Derjavin <dd@altlinux.org>

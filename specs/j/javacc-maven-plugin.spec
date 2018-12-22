@@ -11,7 +11,7 @@ Name:           javacc-maven-plugin
 Version:        2.6
 Release:        alt5_25jpp8
 Summary:        JavaCC Maven Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://mojo.codehaus.org/javacc-maven-plugin/
 BuildArch:      noarch
 

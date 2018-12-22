@@ -9,7 +9,7 @@ Name:           perl-Test-FailWarnings
 Version:        0.008
 Release:        alt1_13
 Summary:        Add test failures if warnings are caught
-License:        ASL 2.0 
+License:        Apache-2.0
 
 URL:            https://metacpan.org/release/Test-FailWarnings
 Source0:        https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Test-FailWarnings-%{version}.tar.gz

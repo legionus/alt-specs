@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 2.2.11
 Release: alt1.1
 Summary: Null values and sentinels like, but not, None
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/nulltype

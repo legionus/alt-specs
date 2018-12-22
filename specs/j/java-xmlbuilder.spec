@@ -11,7 +11,7 @@ Name:          java-xmlbuilder
 Version:       1.1
 Release:       alt1_6jpp8
 Summary:       XML Builder Java library for creating XML documents
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           https://github.com/jmurty/java-xmlbuilder
 Source0:       https://github.com/jmurty/java-xmlbuilder/archive/v%{version}.tar.gz
 BuildRequires: sonatype-oss-parent

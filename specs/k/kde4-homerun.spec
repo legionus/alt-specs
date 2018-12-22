@@ -11,7 +11,7 @@ Release: alt1
 Group: Graphical desktop/KDE
 Summary: KDE Application Launcher
 Url: http://userbase.kde.org/Homerun
-License: GPLv2 / GPLv3
+License: GPL-2.0-only or GPL-3.0-only
 
 Source: %rname-%version.tar
 Patch1: alt-install-includes.patch

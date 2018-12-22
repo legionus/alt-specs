@@ -14,7 +14,7 @@ Name:          mavibot
 Version:       1.0.0
 Release:       alt1_0.7.M8jpp8
 Summary:       ApacheDS MVCC BTree implementation
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://directory.apache.org/mavibot/
 Source0:       http://www.apache.org/dist/directory/mavibot/dist/%{namedversion}/%{name}-%{namedversion}-src.tar.gz
 

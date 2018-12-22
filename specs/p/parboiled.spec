@@ -11,7 +11,7 @@ Name:          parboiled
 Version:       1.1.6
 Release:       alt1_13jpp8
 Summary:       Java/Scala library providing parsing of input text based on PEGs
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://parboiled.org/
 Source0:       https://github.com/sirthias/parboiled/archive/%{version}.tar.gz
 # for build see https://github.com/sirthias/parboiled/wiki/Building-parboiled

@@ -41,7 +41,7 @@ Version:        1.3.4
 Release:        alt1_24jpp8
 Epoch:          0
 Summary:        Utility classes for concurrent Java programming
-License:        Public Domain
+License:        ALT-Public-Domain
 Source0:        http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/current/concurrent.tar.gz
 # Source1 not used, kept for reference
 Source1:        %{name}-%{version}.build.xml

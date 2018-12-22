@@ -9,7 +9,7 @@ Release: alt1%ubt
 Group: System/Libraries
 Summary: An implementation of the FITS World Coordinate System standard
 Url: http://www.atnf.csiro.au/people/mcalabre/WCS/
-License: LGPLv3+ / GPLv3+
+License: LGPLv3+ or GPL-3.0-or-later
 
 Source: %name-%version.tar
 

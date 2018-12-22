@@ -6,7 +6,7 @@ Release: alt1
 Summary: Generate a matrix of pluggable drivers and their support to an API in Sphinx.
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 

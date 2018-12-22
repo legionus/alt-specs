@@ -14,7 +14,7 @@ Version:        59.1
 Release:        alt3_3jpp8
 Epoch:          1
 Summary:        International Components for Unicode for Java
-License:        MIT and EPL
+License:        MIT and EPL-1.0
 URL:            http://site.icu-project.org/
 
 #CAUTION

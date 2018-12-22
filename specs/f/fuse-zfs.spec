@@ -10,7 +10,7 @@ Name:             fuse-zfs
 Version:          0.7.2.2
 Release:          alt1_6.1
 Summary:          ZFS ported to Linux FUSE
-License:          CDDL
+License:          CDDL-1.0
 URL:              https://github.com/gordan-bobic/zfs-fuse
 Source00:         http://github.com/gordan-bobic/zfs-fuse/archive/%{oldname}-%{version}.tar.gz
 Source01:         zfs-fuse.service

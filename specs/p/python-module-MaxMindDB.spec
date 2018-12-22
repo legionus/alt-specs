@@ -5,7 +5,7 @@ Version: 1.4.1
 Release: alt1
 
 Summary: %descr
-License: ASLv2
+License: Apache-2.0
 Group:   Development/Python
 URL:     https://github.com/maxmind/MaxMind-DB-Reader-python
 

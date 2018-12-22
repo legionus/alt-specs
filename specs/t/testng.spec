@@ -21,7 +21,7 @@ Name:           testng
 Version:        6.14.3
 Release:        alt1_2jpp8
 Summary:        Java-based testing framework
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://testng.org/
 Source0:        https://github.com/cbeust/testng/archive/%{version}.tar.gz
 

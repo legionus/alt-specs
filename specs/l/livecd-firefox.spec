@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt6
 
 Summary: configure firefox for a livecd environment
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://altlinux.org/m-p

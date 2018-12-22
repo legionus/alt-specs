@@ -8,7 +8,7 @@ Name:           perl-Color-Library
 Version:        0.021
 Release:        alt2_14
 Summary:        Easy-to-use and comprehensive named-color library
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Color-Library
 Source0:        https://cpan.metacpan.org/authors/id/R/RO/ROKR/Color-Library-%{version}.tar.gz

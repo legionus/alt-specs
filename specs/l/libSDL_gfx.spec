@@ -6,7 +6,7 @@ Version: %ver_major.25
 Release: alt1
 
 Summary: SDL graphics drawing primitives and other support functions
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 URL: http://www.ferzkopp.net/Software/%_name-%ver_major/

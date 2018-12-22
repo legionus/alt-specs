@@ -4,7 +4,7 @@ Version: 0.21
 Release: alt3
 
 Summary: Simple interface to Locale::Maketext::Lexicon
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Dynamically create Perl language bindings
 Group: Development/Perl
-License: lgpl
+License: LGPL-1.0-only
 
 Url: %CPAN Glib-Object-Introspection
 Source: %name-%version.tar

@@ -2,7 +2,7 @@ Name: perl-HTML-Table
 Version: 2.08a
 Release: alt1.1
 Summary: Create HTML tables using simple interface
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/HTML-Table/
 Packager: Boris Savelev <boris@altlinux.org>

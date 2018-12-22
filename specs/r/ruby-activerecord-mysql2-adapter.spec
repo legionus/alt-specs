@@ -5,7 +5,7 @@ Version: 0.0.3
 Release: alt1.1
  
 Summary: MySQL2 connection adapter for ActiveRecord
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/kronn/activerecord-mysql2-adapter
  

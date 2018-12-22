@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: File_Fortune provides an interface for reading from and writing to fortune files
 
-License: New BSD License
+License: BSD-3-Clause
 Group: Development/Other
 Url: http://pear.php.net/package/File_Fortune
 

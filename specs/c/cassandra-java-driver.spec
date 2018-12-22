@@ -10,7 +10,7 @@ Name:		cassandra-java-driver
 Version:	3.4.0
 Release:	alt1_1jpp8
 Summary:	DataStax Java Driver for Apache Cassandra
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://github.com/datastax/java-driver
 Source0:	https://github.com/datastax/java-driver/archive/%{version}.tar.gz
 

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.5
 Release: alt1.git20140607.1.1.1
 Summary: Sign- and validate- data (dictionaries, strings) using symmetric-key algorithm
-License: GPLv2.0/LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 Group: Development/Python
 Url: https://pypi.python.org/pypi/ska/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -6,7 +6,7 @@ Release: alt2
 
 Summary: Construct and validate a logical chess game, does not display
 
-License: PHP License 3.01
+License: PHP-3.01
 Group: Development/Other
 Url: http://pear.php.net/package/Games_Chess
 

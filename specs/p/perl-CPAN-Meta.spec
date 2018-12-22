@@ -5,7 +5,7 @@ Version: 2.150010
 Release: alt2
 
 Summary: The distribution metadata for a CPAN dist
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

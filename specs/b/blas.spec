@@ -4,7 +4,7 @@ Version: 3.9.2
 Release: alt1
 Group: System/Libraries
 URL: http://www.netlib.org/blas/
-License: Public Domain
+License: ALT-Public-Domain
 Summary: Basic Linear Algebra Reference implementation
 
 Source: %name-%version.tar

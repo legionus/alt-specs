@@ -14,7 +14,7 @@ Summary:        Jetty build support files
 # licensing bug upstream
 # https://bugs.eclipse.org/bugs/show_bug.cgi?id=362646
 # - commit stating the license is already there
-License:        ASL 2.0 or EPL
+License:        Apache-2.0 or EPL-1.0
 URL:            http://www.eclipse.org/jetty/
 BuildArch:      noarch
 

@@ -10,7 +10,7 @@ Release: alt1.1
 Summary: Perl extension for easy multiple module imports
 #Summary(ru_RU.UTF-8): расширение Perl для упрощения импорта подулей
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 URL: http://search.cpan.org/~dhageman/Exporter-Cluster/
 

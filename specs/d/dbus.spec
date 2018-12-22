@@ -12,7 +12,7 @@ Version: 1.12.12
 Release: alt1
 
 Summary: D-BUS is a simple IPC framework based on messages.
-License: AFL/GPL
+License: AFL or GPL-1.0-only
 Group: System/Servers
 Url: http://www.freedesktop.org/Software/dbus
 

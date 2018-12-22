@@ -8,7 +8,7 @@ Name:           perl-Class-Field
 Version:        0.23
 Release:        alt1_8
 Summary:        Class Field Accessor Generator
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Class-Field
 Source0:        https://cpan.metacpan.org/authors/id/I/IN/INGY/Class-Field-%{version}.tar.gz

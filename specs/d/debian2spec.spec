@@ -8,7 +8,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: converter of debian source directory to RPM specfile format
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: http://search.cpan.org/dist/RPM-Specfile-Multispec
 
 Source: http://www.cpan.org/modules/by-module/RPM/%module-%version.tar.gz

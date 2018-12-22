@@ -9,7 +9,7 @@ Name:           perl-XML-SAX-ExpatXS
 Version:        1.33
 Release:        alt3_20
 Summary:        Perl SAX 2 XS extension to Expat parser
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/XML-SAX-ExpatXS
 Source0:        https://cpan.metacpan.org/authors/id/P/PC/PCIMPRICH/XML-SAX-ExpatXS-%{version}.tar.gz

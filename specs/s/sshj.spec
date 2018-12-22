@@ -10,7 +10,7 @@ Name:          sshj
 Version:       0.13.0
 Release:       alt1_6jpp8
 Summary:       SSHv2 library for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/hierynomus/sshj
 Source0:       https://github.com/hierynomus/sshj/archive/v%{version}.tar.gz
 

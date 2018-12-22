@@ -11,7 +11,7 @@ Name:          ehcache-parent
 Version:       2.3
 Release:       alt2_15jpp8
 Summary:       Ehcache Parent
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.terracotta.org/
 # svn export http://svn.terracotta.org/svn/ehcache/tags/ehcache-parent-2.3
 # tar czf ehcache-parent-2.3-src-svn.tar.gz ehcache-parent-2.3

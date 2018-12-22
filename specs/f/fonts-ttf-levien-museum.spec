@@ -13,7 +13,7 @@ Release:        alt3_12
 Summary:        Based on historical metal Centaur fonts
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            http://levien.com/type/myfonts/museum.html
 Source0:        http://levien.com/type/myfonts/museum.zip
 Source1:        %{oldname}-fontconfig.conf

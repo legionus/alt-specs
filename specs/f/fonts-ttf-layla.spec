@@ -8,7 +8,7 @@ Name:		fonts-ttf-layla
 Version:	2.0
 Release:	alt1_2
 Summary:	A collection of traditional Arabic fonts
-License:	OFL
+License:	OFL-1.0
 URL:		http://sites.google.com/site/mohammedisam2000/home/projects
 Source0:	http://sites.google.com/site/mohammedisam2000/home/projects/%{oldname}-%{version}.tar.gz
 

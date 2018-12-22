@@ -5,7 +5,7 @@ Release: alt1
 Summary: Redis is an advanced key-value store
 
 Group: System/Libraries
-License: New BSD License
+License: BSD-3-Clause
 URL: http://redis.io/
 #URL: https://github.com/antirez/redis
 

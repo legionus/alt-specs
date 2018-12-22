@@ -220,7 +220,7 @@ This package contains the DedaEna Block font family.
 Group: System/Fonts/True type
 Summary:	DejaVu Sans with BPG Georgian changes
 Version:	2.28
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 Requires:	%{name}-common = %{common_ver}-%{release}
 
 %description -n fonts-ttf-bpg-dejavu-sans
@@ -257,7 +257,7 @@ Group: System/Fonts/True type
 Summary:	Excelsior family of BPG Georgian fonts
 Version:	2.03
 Requires:	%{name}-common = %{common_ver}-%{release}
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 
 %description -n fonts-ttf-bpg-excelsior
 %common_desc
@@ -275,7 +275,7 @@ Group: System/Fonts/True type
 Summary:	Excelsior Caps family of BPG Georgian fonts
 Version:	2.003
 Requires:	%{name}-common = %{common_ver}-%{release}
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 
 %description -n fonts-ttf-bpg-excelsior-caps
 %common_desc
@@ -293,7 +293,7 @@ Group: System/Fonts/True type
 Summary:	Excelsior Condenced family of BPG Georgian fonts
 Version:	2.003
 Requires:	%{name}-common = %{common_ver}-%{release}
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 
 %description -n fonts-ttf-bpg-excelsior-condenced
 %common_desc
@@ -558,7 +558,7 @@ This package contains the Sans Medium font family.
 Group: System/Fonts/True type
 Summary:	Sans Modern family of BPG Georgian fonts
 Version:	2.025
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 Requires:	%{name}-common = %{common_ver}-%{release}
 
 %description -n fonts-ttf-bpg-sans-modern
@@ -610,7 +610,7 @@ This package contains the Serif font family.
 Group: System/Fonts/True type
 Summary:	Serif Modern family of BPG Georgian fonts
 Version:	2.028
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 Requires:	%{name}-common = %{common_ver}-%{release}
 
 %description -n fonts-ttf-bpg-serif-modern

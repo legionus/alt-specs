@@ -17,7 +17,7 @@ Version: 0.10.0
 Release: alt1%ubt
 Summary: flannel is a network fabric for containers
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 Source: %name-%version.tar
 Source1: flanneld.sysconfig

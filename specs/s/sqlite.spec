@@ -3,7 +3,7 @@ Version: 2.8.17
 Release: alt2.3
 
 Summary: An Embeddable SQL Database Engine, version 2
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Databases
 
 URL: http://www.sqlite.org

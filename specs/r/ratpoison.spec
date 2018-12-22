@@ -4,7 +4,7 @@ Release: alt1.git20140917.1
 
 Group: Graphical desktop/Other
 Summary: ratpoison - Simple window manager with no fat library dependencies
-License: GPL2
+License: GPL-2.0-only
 Url: http://www.nongnu.org/ratpoison
 
 Source: %name-%version.tar

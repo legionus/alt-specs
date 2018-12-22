@@ -54,7 +54,7 @@ Version: 4.9.3
 Release: alt1
 Group: System/Servers
 Summary: The Samba4 CIFS and AD client and server suite
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Url: http://www.samba.org/
 
 Source: %name-%version.tar

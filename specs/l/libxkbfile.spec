@@ -2,7 +2,7 @@ Name: libxkbfile
 Version: 1.0.9
 Release: alt1
 Summary: The xkbfile Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

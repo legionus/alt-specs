@@ -4,7 +4,7 @@ Version: 0.11
 Release: alt2.1.1.1.1
 
 Summary: Automatically Learns Decision Trees
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

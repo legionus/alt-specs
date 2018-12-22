@@ -5,7 +5,7 @@ Version: 1.08
 Release: alt2
 
 Summary: XBase driver for DBI interface in Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -3,7 +3,7 @@ Version: 2.7.0
 Release: alt3.1
  
 Summary: A fast and extensible eRuby implementation
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://www.kuwata-lab.com/erubis/
  

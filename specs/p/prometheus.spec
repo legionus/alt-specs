@@ -14,7 +14,7 @@ Release: alt2%ubt
 Summary: Prometheus monitoring system and time series database
 
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 Source: %name-%version.tar
 

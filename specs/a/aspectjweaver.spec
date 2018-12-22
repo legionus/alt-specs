@@ -11,7 +11,7 @@ Name:          aspectjweaver
 Version:       1.8.9
 Release:       alt1_5jpp8
 Summary:       Java byte-code weaving library
-License:       EPL
+License:       EPL-1.0
 URL:           http://eclipse.org/aspectj/
 Source0:       http://repo1.maven.org/maven2/org/aspectj/%{name}/%{version}/%{name}-%{version}-sources.jar
 # This build.xml file was adapted from the Ubuntu package. The src jar has no build scripts.

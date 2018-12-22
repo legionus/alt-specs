@@ -4,7 +4,7 @@ Name: ispell-uk
 Version: 1.2
 Release: alt3
 
-License: GPL and LGPL
+License: GPL-1.0-only and LGPL-1.0-only
 Group: Text tools
 %define sourcename spell-uk-%{version}
 Url: http://ispell-uk.sourceforge.net/ispell-uk/

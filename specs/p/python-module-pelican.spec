@@ -6,7 +6,7 @@ Release: alt1
 Summary: A tool to generate a static blog from reStructuredText or Markdown input files
 Group: Development/Python
 
-License: AGPLv3
+License: AGPL-3.0-only
 Url: http://getpelican.com/
 # https://github.com/getpelican/pelican/archive/%version.tar.gz#/%pypi_name-%version.tar.gz
 Source: %pypi_name-%version.tar

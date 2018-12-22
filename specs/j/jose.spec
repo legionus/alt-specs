@@ -3,7 +3,7 @@ Version: 10
 Release: alt1
 Summary: C-language implementation of Javascript Object Signing and Encryption
 
-License: Apache 2.0
+License: Apache-2.0
 Group:   System/Libraries
 URL:     https://github.com/latchset/jose
 Source:  jose-%{version}.tar.gz

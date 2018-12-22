@@ -9,7 +9,7 @@ Name:           perl-Contextual-Return
 Version:        0.004014
 Release:        alt1_5
 Summary:        Create context-sensitive return values
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Contextual-Return
 Source0:        https://cpan.metacpan.org/authors/id/D/DC/DCONWAY/Contextual-Return-%{version}.tar.gz
 BuildArch:      noarch

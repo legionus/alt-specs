@@ -3,7 +3,7 @@ Version: 1.0.6
 Release: alt1
 
 Summary: server font list displayer for X
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

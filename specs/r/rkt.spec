@@ -23,7 +23,7 @@ Version: 1.30.0
 Release: alt3
 Summary: A pod-native container engine for Linux
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%provider_prefix
 ExclusiveArch: %go_arches aarch64
 Source: %name-%version.tar

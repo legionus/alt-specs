@@ -29,7 +29,7 @@ Name:          springframework-batch
 Version:       2.2.7
 Release:       alt1_6jpp8
 Summary:       Tools for enterprise batch or bulk processing
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.springsource.org/spring-batch
 # lastest release require springframework >= 4
 Source0:       https://github.com/spring-projects/spring-batch/archive/%{namedversion}.tar.gz

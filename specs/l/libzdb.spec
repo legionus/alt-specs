@@ -9,7 +9,7 @@ Name:           libzdb
 Version:        3.1
 Release:        alt1_5
 Summary:        Small, easy to use Database Connection Pool Library
-License:        GPLv3+ and MIT
+License:        GPL-3.0-or-later and MIT
 URL:            http://www.tildeslash.com/libzdb/
 Source0:        http://www.tildeslash.com/%{name}/dist/%{name}-%{version}.tar.gz
 BuildRequires:  flex

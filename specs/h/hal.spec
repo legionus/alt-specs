@@ -6,7 +6,7 @@ Version: 0.5.15
 Release: alt3
 Summary: Hardware Abstraction Layer
 Group: System/Servers
-License: AFL/GPL
+License: AFL or GPL-1.0-only
 Url: http://www.freedesktop.org/wiki/Software/hal
 
 PreReq: shadow-utils dbus udev

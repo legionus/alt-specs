@@ -7,7 +7,7 @@ Version: 0.018
 Release: alt1
 
 Summary: Read and write a subset of YAML for CPAN Meta files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

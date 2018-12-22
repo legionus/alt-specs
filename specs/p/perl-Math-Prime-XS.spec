@@ -8,7 +8,7 @@ Name:           perl-Math-Prime-XS
 Version:        0.27
 Release:        alt1.1_7
 Summary:        Detect and calculate prime numbers with deterministic tests
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Math-Prime-XS
 Source0:        https://cpan.metacpan.org/authors/id/K/KR/KRYDE/Math-Prime-XS-%{version}.tar.gz

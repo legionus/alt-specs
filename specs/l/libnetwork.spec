@@ -19,7 +19,7 @@ Version:        18.09.0
 Release:        alt1.git%shortcommit
 Summary:        Networking for containers
 Group:          Development/Other
-License:        Apache 2.0
+License:        Apache-2.0
 URL:            https://%provider_prefix
 ExclusiveArch:  %go_arches
 

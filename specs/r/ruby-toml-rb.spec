@@ -5,7 +5,7 @@ Version: 1.1.2
 Release: alt1
 
 Summary: A parser for TOML using Citrus library
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/emancu/toml-rb
 

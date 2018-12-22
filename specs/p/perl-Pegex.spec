@@ -8,7 +8,7 @@ Name:           perl-Pegex
 Version:        0.70
 Release:        alt1_2
 Summary:        Pegex Parser Generator
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Pegex
 Source0:        https://cpan.metacpan.org/authors/id/I/IN/INGY/Pegex-%{version}.tar.gz

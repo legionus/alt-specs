@@ -3,7 +3,7 @@ Version: 2.1
 Release: alt8
 
 Summary: Versatile Commodore Emulator
-License: GPL v2+
+License: GPL-2.0-or-later
 Group: Emulators
 
 Url: http://www.viceteam.org

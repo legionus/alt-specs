@@ -11,7 +11,7 @@ Release:        alt1_10jpp8
 Summary:        Java.net parent POM file
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.java.net
 Source0:        http://repo1.maven.org/maven2/net/java/%{name}/%{version}/%{name}-%{version}.pom
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

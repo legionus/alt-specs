@@ -11,7 +11,7 @@ Name:          activemq-protobuf
 Version:       1.1
 Release:       alt4_14jpp8
 Summary:       ActiveMQ Protocol Buffers
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://activemq.apache.org/
 # svn export http://svn.apache.org/repos/asf/activemq/activemq-protobuf/tags/activemq-protobuf-1.1
 # tar czf activemq-protobuf-1.1-src-svn.tar.gz activemq-protobuf-1.1

@@ -7,7 +7,7 @@ Name:       perl-MooseX-Log-Log4perl
 Version:    0.47
 Release:    alt1.2
 # see lib/MooseX/Log/Log4perl.pm
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Summary:    A Logging Role for Moose based on Log::Log4perl
 Source:     http://www.cpan.org/authors/id/L/LA/LAMMEL/MooseX-Log-Log4perl-%{version}.tar.gz

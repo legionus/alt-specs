@@ -4,7 +4,7 @@ Version: 0.01
 Release: alt4.1.1.1.1
 
 Summary: Perl module for handling Compiled HtmlHelp Files (.chm)
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

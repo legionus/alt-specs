@@ -14,7 +14,7 @@ Name:          fonts-ttf-carterone
 Version:       1.00
 Release:       alt1_8.%{checkout}
 Summary:       CarterOne fonts released by Vernon Adams
-License:       OFL
+License:       OFL-1.0
 URL:           http://www.google.com/fonts/specimen/Carter+One
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/carterone/OFL.txt
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/carterone/src/CarterOne-TTF.sfd

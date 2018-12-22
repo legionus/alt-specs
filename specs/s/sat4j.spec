@@ -16,7 +16,7 @@ Version:        2.3.5
 Release:        alt1_12jpp8
 Summary:        A library of SAT solvers written in Java
 
-License:        EPL or LGPLv2
+License:        EPL-1.0 or LGPLv2
 URL:            http://www.sat4j.org/
 # Created by sh sat4j-fetch.sh
 Source0:        sat4j-%{version}.tar.xz

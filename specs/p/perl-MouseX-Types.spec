@@ -8,7 +8,7 @@ Name:           perl-MouseX-Types
 Summary:        Organize your Mouse types in libraries
 Version:        0.06
 Release:        alt2_19
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 Source0:        https://cpan.metacpan.org/authors/id/G/GF/GFUJI/MouseX-Types-%{version}.tar.gz
 URL:            https://metacpan.org/release/MouseX-Types

@@ -14,7 +14,7 @@ Name:           fonts-otf-impallari-raleway
 Version:        3.0
 Release:        alt1_3.git%{commit_date}.%{shortcommit}
 Summary:        Elegant sans-serif typeface family
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/impallari/Raleway
 
 Source0:        %{url}/archive/%{commit}/%{fontname}-%{shortcommit}.tar.gz

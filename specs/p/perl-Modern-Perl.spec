@@ -10,7 +10,7 @@ Name:           perl-Modern-Perl
 Version:        1.20181021
 Release:        alt1_1
 Summary:        Enable all of the features of Modern Perl with one command
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Modern-Perl
 Source0:        https://cpan.metacpan.org/authors/id/C/CH/CHROMATIC/Modern-Perl-%{version}.tar.gz
 BuildArch:      noarch

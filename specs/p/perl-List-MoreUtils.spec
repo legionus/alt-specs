@@ -5,7 +5,7 @@ Version: 0.428
 Release: alt1
 
 Summary: Provide the stuff missing in List::Util
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

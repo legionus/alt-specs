@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.1.3
 Release: alt2.git20150525.1
 Summary: Lightweight markup language-based html5 slideshow generator
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/landslide

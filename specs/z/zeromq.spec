@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: a software library that lets you quickly design and implement a fast message-based application
 Group: System/Libraries
-License: GPLv3, LGPLv3
+License: GPL-3.0-only and LGPLv3
 Url: http://www.zeromq.org
 
 Source: %name-%version.tar

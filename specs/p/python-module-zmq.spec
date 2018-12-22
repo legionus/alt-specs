@@ -8,7 +8,7 @@ Release: alt1
 Summary: Software library for fast, message-based applications
 
 Group: Development/Python
-License: LGPLv3+ and ASL 2.0
+License: LGPLv3+ and Apache-2.0
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
 Url: http://www.zeromq.org/bindings:python
 # http://github.com/zeromq/pyzmq.git

@@ -9,7 +9,7 @@ Release: alt3
 Summary: Data smoothing
 
 Group: Sciences/Mathematics
-License: GPL version 3 or later
+License: GPL-3.0-or-later
 URL: http://octave.sf.net
 
 Source0: https://downloads.sourceforge.net/project/octave/Octave%%20Forge%%20Packages/Individual%%20Package%%20Releases/%{octave_pkg_name}-%{version}.tar.gz

@@ -4,7 +4,7 @@ Version: 0.06
 Release: alt3
 
 Summary: Automatically sets repository URL from svn/svk/Git checkout
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -53,7 +53,7 @@ Summary:        Perl graphic toolkit
 # pod/Prima/Widget/place.pod:   TCL
 # src/Drawable.c:               TCL
 # examples/tiger.eps:   AGPLv3+   (bundled from GhostScript? CPAN RT#122271)
-License:        BSD and MIT and TCL and ImageMagick and LGPLv2+ and AGPLv3+
+License:        BSD and MIT and TCL and ImageMagick and LGPLv2+ and AGPL-3.0-or-later
 URL:            http://search.cpan.org/dist/Prima/
 Source0:        http://www.cpan.org/authors/id/K/KA/KARASIK/Prima-%{version}.tar.gz
 BuildRequires:  findutils

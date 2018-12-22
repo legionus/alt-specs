@@ -10,7 +10,7 @@ Version: 0.011
 Release: alt1
 Summary: Encrypted, expiring, compressed, serialized session data with integrity
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://metacpan.org/release/Session-Storage-Secure
 
 Source0: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/%{module_name}-%{version}.tar.gz

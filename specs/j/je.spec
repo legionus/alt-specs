@@ -11,7 +11,7 @@ Name:          je
 Version:       6.3.8
 Release:       alt1_5jpp8
 Summary:       Berkeley DB Java Edition
-License:       AGPLv3 and BSD
+License:       AGPL-3.0-only and BSD
 URL:           http://www.oracle.com/us/products/database/berkeley-db/je/overview/index.html
 # use SOURCE2: sh je-create-tarball.sh < VERSION >
 Source0:       %{name}-%{version}-clean.tar.xz

@@ -5,7 +5,7 @@ Version: 0.5.2
 Release: alt1.1
  
 Summary: A modern, simple and very fast Mysql library for Ruby - binding to libmysql
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/brianmario/mysql2
  

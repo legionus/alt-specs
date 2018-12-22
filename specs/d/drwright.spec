@@ -1,7 +1,7 @@
 Name: drwright
 Version: 3.5
 Release: alt1.27.gfa0bade
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/GNOME
 Url: https://wiki.gnome.org/Projects/drwright
 Summary: A program that reminds you to take wrist breaks

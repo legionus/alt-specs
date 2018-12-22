@@ -4,7 +4,7 @@ Version: 1.25
 Release: alt3
 
 Summary: Cryptographically Secure, True Random Number Generator
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

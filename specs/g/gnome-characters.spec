@@ -11,7 +11,7 @@ Release: alt1
 
 Summary: Character map application for GNOME
 Group: Text tools
-License: BSD and GPLv2+
+License: BSD and GPL-2.0-or-later
 Url: https://wiki.gnome.org/Design/Apps/CharacterMap
 
 %if_disabled snapshot

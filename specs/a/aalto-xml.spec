@@ -15,7 +15,7 @@ Summary:       Ultra-high performance non-blocking XML processor (Stax/Stax2, SA
 # "To whoever it concerns: policy of the Jackson project is to only include licensing information as project
 # level metadata (in repo, pom.xml, artifact within source and binary jars), and not as headers in source files.
 # Licensing is Apache License 2.0, for Jackson 2.x as indicated by various artifacts, and we have no plans to change this."
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://wiki.fasterxml.com/AaltoHome
 Source0:       https://github.com/FasterXML/aalto-xml/archive/%{name}-%{version}.tar.gz
 

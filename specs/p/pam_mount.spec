@@ -3,7 +3,7 @@ Version: 2.16
 Release: alt1.3
 
 Summary: Pluggable Authentication Module that can mount volumes for a user session 
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: System/Libraries
 Url: http://pam-mount.sourceforge.net/
 

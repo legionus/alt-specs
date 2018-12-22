@@ -10,7 +10,7 @@ Name:           opencsv
 Version:        2.3
 Release:        alt1_16jpp8
 Summary:        A very simple CSV (comma-separated values) parser library for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://opencsv.sourceforge.net/
 Source0:        http://sourceforge.net/projects/%{name}/files/%{name}/%{version}/%{name}-%{version}-src-with-libs.tar.gz
 # opencsv don't include the license file

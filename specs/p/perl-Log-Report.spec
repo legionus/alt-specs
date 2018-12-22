@@ -5,7 +5,7 @@ Version: 1.27
 Release: alt1
 
 Summary: Report a problem, pluggable handlers and language support
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

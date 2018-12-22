@@ -5,7 +5,7 @@ Version: 1.0.2
 Release: alt1.1
 
 Summary: Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/xeger/backticks
 

@@ -18,7 +18,7 @@ Name:           maven-invoker-plugin
 Version:        1.10
 Release:        alt1_6jpp8
 Summary:        Maven Invoker Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-invoker-plugin/
 BuildArch:      noarch
 

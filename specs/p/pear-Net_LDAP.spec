@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Object oriented interface for searching and manipulating LDAP-entries
 
-License: GPL License
+License: GPL-1.0-only
 Group: Development/Other
 Url: http://pear.php.net/package/Net_LDAP
 

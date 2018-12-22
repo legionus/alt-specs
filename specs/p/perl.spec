@@ -4,7 +4,7 @@ Release: alt2
 Epoch: 1
 
 Summary: Practical Extraction and Report Language
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 URL: http://www.perl.org
 Packager: Perl Maintainers Team <cpan@packages.altlinux.org>

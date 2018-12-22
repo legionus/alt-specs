@@ -4,7 +4,7 @@ Name: perl-DBIx-Class-OptimisticLocking
 Version: 0.02
 Release: alt1
 Summary: Optimistic locking support for DBIx::Class
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Group: Development/Perl
 Url: http://search.cpan.org/dist/DBIx-Class-OptimisticLocking/
 Source: %name-%version.tar

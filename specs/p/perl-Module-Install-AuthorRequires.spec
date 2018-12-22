@@ -8,7 +8,7 @@ Name:           perl-Module-Install-AuthorRequires
 Version:        0.02
 Release:        alt2_17
 Summary:        Declare author-only dependencies
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Module-Install-AuthorRequires
 Source0:        https://cpan.metacpan.org/authors/id/F/FL/FLORA/Module-Install-AuthorRequires-%{version}.tar.gz

@@ -14,7 +14,7 @@ Name:          fonts-ttf-vt323
 Version:       1.002
 Release:       alt1_0.4.%{alphatag}
 Summary:       VT323 font by Peter Hull
-License:       OFL
+License:       OFL-1.0
 URL:           https://www.google.com/fonts/specimen/VT323
 Source0:       https://googlefontdirectory.googlecode.com/hg/ofl/vt323/src/VT323-Regular-TTF.sfd
 Source1:       https://googlefontdirectory.googlecode.com/hg/ofl/vt323/OFL.txt

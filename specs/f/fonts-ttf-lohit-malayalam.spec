@@ -10,7 +10,7 @@ Version:        2.92.2
 Release:        alt1_5
 Summary:        Free Malayalam font
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            https://pagure.io/lohit
 Source0:        https://releases.pagure.org/lohit/%{fontname}-%{version}.tar.gz
 BuildArch:      noarch

@@ -5,7 +5,7 @@ Version: 0.280230
 Release: alt1
 
 Summary: Compile and link C code for Perl modules
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

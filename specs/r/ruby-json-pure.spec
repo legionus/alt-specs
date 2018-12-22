@@ -5,7 +5,7 @@ Version: 2.1.0
 Release: alt1.5
  
 Summary: This is a JSON implementation in pure Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/flori/json
  

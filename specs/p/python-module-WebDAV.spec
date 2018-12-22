@@ -3,7 +3,7 @@ Name: python-module-%oname
 Version: 0.4.2
 Release: alt2.1
 Summary: This library provides a WebDAV client
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/Python_WebDAV_Library/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

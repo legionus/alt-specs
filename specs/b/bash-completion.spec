@@ -7,7 +7,7 @@ Version: 2.8
 Release: alt2
 
 Summary: bash-completion offers programmable completion for bash
-License: GPL2
+License: GPL-2.0-only
 Group: Shells
 Url: https://github.com/scop/bash-completion
 

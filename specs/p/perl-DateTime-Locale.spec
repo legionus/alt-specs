@@ -5,7 +5,7 @@ Version: 1.23
 Release: alt1
 
 Summary: Localization support for DateTime.pm
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

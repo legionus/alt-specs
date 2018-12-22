@@ -4,7 +4,7 @@ Name: gnustep-gscoredata
 Version: r33286
 Release: alt4.svn20110612
 Summary: Free implementation of the Apple Core Data framework
-License: LGPLv2.1+, FDLv1.2
+License: LGPLv2.1+ and FDLv1.2
 Group: Graphical desktop/GNUstep
 Url: http://www.gnustep.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

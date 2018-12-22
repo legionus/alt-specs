@@ -16,7 +16,7 @@ Release: alt1
 
 Summary: %m_name - Perl interface to functions that assist in working with salted hashes
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Crypt-SaltedHash/
 

@@ -7,7 +7,7 @@ Version: 0.15.2014120101
 Release: alt1
 
 Summary: Tree Style Tab extension for Firefox
-License: MPL 1.1/GPL 2.0/LGPL 2.1
+License: MPL-1.1 or GPL-2.0-only or LGPL-2.1-only
 Group: Networking/WWW
 
 Url: https://addons.mozilla.org/en-us/firefox/addon/tree-style-tab/

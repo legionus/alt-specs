@@ -6,7 +6,7 @@ Release: alt1
 Summary: Source code tag system
 
 Group: Text tools
-License: GPL/BSD
+License: GPL-1.0-only or BSD
 Url: http://www.gnu.org/software/global
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

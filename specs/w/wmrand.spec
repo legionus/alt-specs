@@ -5,7 +5,7 @@ Version: 1.0
 Release: alt1
 Summary: wmrand - programm select randomize theme for Window Maker
 Summary(ru_RU.UTF-8): wmrand - программа для управления режимом случайной темы в Window Maker
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Window Maker
 
 BuildArch: noarch

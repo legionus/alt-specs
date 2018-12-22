@@ -4,7 +4,7 @@ Version: 0.04
 Release: alt4.1.1.1.1
 
 Summary: Get number of occupied columns of a string on terminal
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

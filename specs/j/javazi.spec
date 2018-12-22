@@ -3,7 +3,7 @@ Version: %{get_version tzdata}
 Release: %{get_release tzdata}
 
 Summary: Timezone data for Java
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 Url: https://www.iana.org/time-zones
 BuildArch: noarch

@@ -4,7 +4,7 @@ Name: milter-greylist
 Version: 4.6.1
 Release: alt1
 Group: System/Servers
-License: 3-clause BSD license
+License: BSD-3-Clause
 Summary: GreyList milter for milter-capable MTA
 Source0: ftp://ftp.espci.fr/pub/milter-greylist/%name-%version.tar
 Source1: %name.init.alt

@@ -5,7 +5,7 @@ Version: 1.2.8
 Release: alt1
 
 Summary: Simple DirectMedia Layer - network
-License: zlib
+License: Zlib
 Group: System/Libraries
 Url: http://www.libsdl.org/projects/SDL_net/
 

@@ -15,7 +15,7 @@ Name:             jboss-servlet-3.0-api
 Version:          1.0.2
 Release:          alt1_9jpp8
 Summary:          Java Servlet 3.0 API
-License:          CDDL
+License:          CDDL-1.0
 Url:              http://www.jboss.org
 Source0:          https://github.com/jboss/jboss-servlet-api_spec/archive/jboss-servlet-api_3.0_spec-1.0.2.Final.tar.gz
 Source1:          cddl.txt

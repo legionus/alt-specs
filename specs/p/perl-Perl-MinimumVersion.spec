@@ -8,7 +8,7 @@ Name:           perl-Perl-MinimumVersion
 Version:        1.38
 Release:        alt1_18
 Summary:        Find a minimum required version of perl for Perl code
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Perl-MinimumVersion
 Source0:        https://cpan.metacpan.org/authors/id/N/NE/NEILB/Perl-MinimumVersion-%{version}.tar.gz

@@ -2,7 +2,7 @@ BuildRequires(pre): rpm-macros-java
 Name: maven-filesystem
 Version: 0.01
 Summary: Maven 3 system repository architecture-dependent symlinks.
-License: ASL 2.0
+License: Apache-2.0
 Packager: Igor Vlasenko <viy@altlinux.ru>
 Group: Development/Java
 Release: alt2.1

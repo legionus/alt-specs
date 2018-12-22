@@ -12,7 +12,7 @@ Release: alt1
 
 Summary: Tighten web applications security for Apache 2.x
 
-License: Apache 2.0
+License: Apache-2.0
 Group:   System/Servers
 URL:     http://www.modsecurity.org
 # VCS:   https://github.com/SpiderLabs/ModSecurity

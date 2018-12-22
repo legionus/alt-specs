@@ -4,7 +4,7 @@ Release: alt1
 Summary: Java JDBC driver to read/write Microsoft Access databases (.accdb, .mdb)
 
 Group:   Development/Java
-License: Apache 2.0
+License: Apache-2.0
 URL:     http://ucanaccess.sourceforge.net
 Source0: UCanAccess-%version-src.zip
 Patch:   ucanaccess-disable-check-java-api.patch

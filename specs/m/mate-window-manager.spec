@@ -5,7 +5,7 @@ Version: 1.20.2
 Release: alt1
 Epoch: 1
 Summary: MATE Desktop window manager
-License: LGPLv2+ and GPLv2+
+License: LGPLv2+ and GPL-2.0-or-later
 Group: Graphical desktop/MATE
 Url: http://mate-desktop.org/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

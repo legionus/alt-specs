@@ -5,7 +5,7 @@ Version: 0.4.1
 Release: alt1.1
  
 Summary: Ruby EventMachine memcached client
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/astro/remcached/
  

@@ -6,7 +6,7 @@ Packager: Michael Pozhidaev <msp@altlinux.ru>
 
 Summary: API version of hts_engine speech synthesis system
 Group: Sound
-License: Simplified BSD license
+License: BSD-2-Clause license
 URL: http://hts-engine.sourceforge.net/
 Source: %{name}_API-%version.tar.gz
 

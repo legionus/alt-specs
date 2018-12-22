@@ -19,7 +19,7 @@ Version:        1.0.0
 Release:        alt5.git%shortcommit
 Summary:        CLI for running Open Containers
 Group:          Development/Other
-License:        Apache 2.0
+License:        Apache-2.0
 URL:            https://%provider_prefix
 ExclusiveArch:  %go_arches
 

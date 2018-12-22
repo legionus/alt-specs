@@ -7,7 +7,7 @@ Version: 1.6.1
 Release: alt2_12
 Source: http://downloads.sourceforge.net/magyarispell/hu_HU-%{version}.tar.gz
 URL: http://magyarispell.sourceforge.net
-License: LGPLv2+ or GPLv2+ or MPLv1.1
+License: LGPLv2+ or GPL-2.0-or-later or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

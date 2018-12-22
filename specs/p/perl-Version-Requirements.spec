@@ -4,7 +4,7 @@ Version: 0.101023
 Release: alt1
 
 Summary: A set of version requirements for a CPAN dist
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

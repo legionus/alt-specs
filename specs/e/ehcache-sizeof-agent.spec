@@ -10,7 +10,7 @@ Name:          ehcache-sizeof-agent
 Version:       1.0.1
 Release:       alt2_15jpp8
 Summary:       Ehcache Size Of Agent
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.terracotta.org/
 # svn export http://svn.terracotta.org/svn/ehcache/tags/sizeof-agent-1.0.1
 # tar czf ehcache-sizeof-agent-1.0.1.tar.gz sizeof-agent-1.0.1

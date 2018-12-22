@@ -3,7 +3,7 @@ Version: 4.07.1
 Release: alt2
 
 Summary: Preprocessor for OCaml
-License: QPL & LGPL
+License: QPL and LGPL-1.0-only
 Group: Development/ML
 Url: https://github.com/ocaml/camlp4
 Source0: %name-%version.tar

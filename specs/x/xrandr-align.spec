@@ -2,7 +2,7 @@ Name: xrandr-align
 Version: 0.3.5
 Release: alt1
 Summary: Utility to keep the proper alignment between the screen and an X input device
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://wolneykien.github.com/xrandr-align/
 Packager: Paul Wolneykien <manowar@altlinux.ru>

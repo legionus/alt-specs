@@ -19,7 +19,7 @@ Summary:   LALR Parser Generator
 # although the text of the licence isn't distributed with some of the source,
 # the author has exlicitly stated that everything is covered under the EPL
 # see: http://sourceforge.net/forum/forum.php?thread_id=3277926&forum_id=523519
-License:   EPL
+License:   EPL-1.0
 URL:       http://lpg.sourceforge.net/
 
 Source0:   http://downloads.sourceforge.net/lpg/lpg-java-runtime-src-%{version}.zip

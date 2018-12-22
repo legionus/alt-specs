@@ -5,7 +5,7 @@ Version: 1.0.6
 Release: alt1.1
  
 Summary: Fiber aware EventMachine clients and convenience classes
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/igrigorik/em-synchrony
  

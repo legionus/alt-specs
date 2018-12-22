@@ -3,7 +3,7 @@ Version:        1.3.0
 Release:        alt2.1.1
 Summary:        Open Input System, OO gaming input library
 Group:          System/Libraries
-License:        zlib
+License:        Zlib
 URL:            http://sourceforge.net/projects/wgois
 Packager: 	Alexey Shentzev <ashen@altlinux.ru>
 Source0:        %name-%version.tar

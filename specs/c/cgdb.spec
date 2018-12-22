@@ -3,7 +3,7 @@ Summary: Frontend for GDB
 Version: 0.6.8
 Release: alt1
 Url: http://cgdb.github.io/
-License: GPL2
+License: GPL-2.0-only
 Group: Development/Debuggers
 
 Packager: Alexey Gladkov <legion@altlinux.ru>

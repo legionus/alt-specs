@@ -4,7 +4,7 @@ Version:        0.1.8
 Release:        alt6
 URL:            http://trac.emma-soft.com/epdfview/
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
-License:	GPL v2+
+License:	GPL-2.0-or-later
 Group:		Office
 
 BuildRequires:	libpoppler-glib-devel cups-devel gtk+-devel libgtk+2-devel gcc-c++ libkrb5-devel

@@ -8,7 +8,7 @@ Name:           perl-DateTime-Format-DB2
 Version:        0.05
 Release:        alt2_26
 Summary:        Parse and format DB2 dates and times
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/DateTime-Format-DB2
 Source0:        https://cpan.metacpan.org/authors/id/J/JR/JROBINSON/DateTime-Format-DB2-%{version}.tar.gz

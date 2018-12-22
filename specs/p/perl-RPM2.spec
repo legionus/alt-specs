@@ -3,7 +3,7 @@ Name:           perl-%module
 Version:        1.4
 Release:        alt1
 Summary:        Perl bindings for the RPM Package Manager API
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/RPM2/
 Source0:        %module-%version.tar

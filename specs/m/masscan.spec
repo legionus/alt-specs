@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: The fastest Internet port scanner
 Group: Monitoring
-License: AGPL-3
+License: AGPL-3.0-only
 Url: https://github.com/robertdavidgraham/masscan
 
 Source: %name.tar

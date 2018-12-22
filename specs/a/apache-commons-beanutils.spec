@@ -15,7 +15,7 @@ Name:           apache-%{short_name}
 Version:        1.9.3
 Release:        alt1_4jpp8
 Summary:        Java utility methods for accessing and modifying the properties of arbitrary JavaBeans
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/%{base_name}
 BuildArch:      noarch
 Source0:        http://archive.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz

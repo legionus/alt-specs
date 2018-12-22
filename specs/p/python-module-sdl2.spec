@@ -2,7 +2,7 @@ Name: python-module-sdl2
 Version: 0.9.5
 Release: alt1.1
 Group: Development/Python
-License: Public Domain
+License: ALT-Public-Domain
 Summary: SDL2 python wrapper
 Url: https://bitbucket.org/marcusva/py-sdl2
 Source: PySDL2-%version.tar.gz

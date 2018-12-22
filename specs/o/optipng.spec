@@ -6,7 +6,7 @@ Summary: Optimizer for png files
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 
-License: zlib/libpng
+License: Zlib or Libpng
 Group: Graphics
 Url: http://optipng.sourceforge.net/
 

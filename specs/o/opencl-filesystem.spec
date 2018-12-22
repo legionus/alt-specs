@@ -5,7 +5,7 @@ Release: alt1
 Summary: OpenCL filesystem layout
 
 Group: System/Libraries
-License: Public Domain
+License: ALT-Public-Domain
 Url: http://www.khronos.org/registry/cl/
 
 BuildArch: noarch

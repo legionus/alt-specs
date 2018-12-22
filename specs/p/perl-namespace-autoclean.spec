@@ -6,7 +6,7 @@ Version: 0.28
 Release: alt1
 
 Summary: Keep imports out of your namespace
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

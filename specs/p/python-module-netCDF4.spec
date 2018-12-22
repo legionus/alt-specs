@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.2.9
 Release: alt2.1.1
 Summary: Python/numpy interface to netCDF library (versions 3 and 4)
-License: BSD / MIT
+License: BSD or MIT
 Group: Development/Python
 Url: https://pypi.python.org/pypi/netCDF4/
 

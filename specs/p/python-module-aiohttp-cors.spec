@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.5.3
 Release: alt1
 Summary: CORS support for aiohttp
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/aiohttp_cors
 

@@ -160,7 +160,7 @@ KDE4 extensions for %name
 %package -n libreofficekit-still
 Summary: A library providing access to LibreOffice functionality
 Group: Graphical desktop/GNOME
-License: MPLv2.0
+License: MPL-2.0
 Conflicts: libreofficekit
 %description -n libreofficekit-still
 LibreOfficeKit can be used to access LibreOffice functionality
@@ -170,7 +170,7 @@ through C/C++, without any need to use UNO.
 Summary: Development files for libreofficekit
 Group: Development/GNOME and GTK+
 Conflicts: libreofficekit-devel
-License: MPLv2.0
+License: MPL-2.0
 %description -n libreofficekit-still-devel
 The libreofficekit-devel package contains libraries and header files for
 developing applications that use libreofficekit.

@@ -12,7 +12,7 @@ Release: alt1
 
 Summary: Turn on Unicode everywhere
 
-License: GPL+ or Artistic
+License: GPL-1.0-or-later or Artistic
 Url: http://search.cpan.org/dist/utf8-all/
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 

@@ -9,7 +9,7 @@ Release:        alt1_1
 Summary:        Library to extract data from Open Streetmap input files
 
 Group:          System/Libraries
-License:        MPLv1.1 or GPLv2+ or LGPLv2+
+License:        MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 Source0:        http://www.gaia-gis.it/gaia-sins/%{name}-%{version}.tar.gz
 URL:            https://www.gaia-gis.it/fossil/readosm
 

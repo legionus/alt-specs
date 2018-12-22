@@ -7,7 +7,7 @@ Release: alt4
 
 Summary: Apache 2.0 module that lets the user configure remote Certificate Revocation Lists
 
-License: Apache 2.0
+License: Apache-2.0
 Group: System/Servers
 Url: http://port389.org/
 

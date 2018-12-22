@@ -12,7 +12,7 @@ Release:   alt2
 Summary:   A replacement for Apache::SOAP designed to work with mod_perl 2
 
 Group:     Development/Other
-License:   GPL+ or Artistic
+License:   GPL-1.0-or-later or Artistic
 URL:       http://search.cpan.org/dist/Apache2-SOAP/
 Source:    http://search.cpan.org/CPAN/authors/id/R/RK/RKOBES/%{perlname}-%{version}.tar.gz
 Patch0:	   perl-Apache2-SOAP-drop-apache1-requires.patch

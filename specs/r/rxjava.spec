@@ -22,7 +22,7 @@ Name:          rxjava
 Version:       1.1.8
 Release:       alt1_4jpp8
 Summary:       Reactive Extensions for the JVM
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/ReactiveX/RxJava
 Source0:       https://github.com/ReactiveX/RxJava/archive/v%{version}/%{name}-%{version}.tar.gz
 Source1:       http://central.maven.org/maven2/io/reactivex/%{name}/%{version}/%{name}-%{version}.pom

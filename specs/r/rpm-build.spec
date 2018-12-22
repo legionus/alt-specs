@@ -80,7 +80,7 @@ BuildRequires: libdb4.7-devel libelf-devel liblzma-devel libpopt-devel python-de
 %package -n lib%oname
 Summary: Shared libraries required for applications which will manipulate RPM packages
 Summary(ru_RU.UTF-8): Файлы, необходимые для разработки приложений, взаимодействующих с RPM-пакетами
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: System/Libraries
 PreReq: zlib >= 1.1.4
 PreReq: libpopt >= 1:1.7-alt3
@@ -89,14 +89,14 @@ PreReq: libdb4.7
 %package -n librpmbuild
 Summary: Shared library required for applications which will build RPM packages
 Summary(ru_RU.UTF-8): Разделяемая библиотека для разработки приложений, собирающих RPM-пакеты
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: System/Libraries
 Requires: lib%oname = %version-%release
 
 %package -n lib%oname-devel
 Summary: Development files for applications which will manipulate RPM packages
 Summary(ru_RU.UTF-8): Файлы, необходимые для разработки приложений, взаимодействующих с RPM-пакетами
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: Development/C
 Provides: %oname-devel = %version-%release
 Obsoletes: %oname-devel
@@ -106,7 +106,7 @@ Requires: libpopt-devel
 %package -n lib%oname-devel-static
 Summary: Static libraries for developing statically linked applications which will manipulate RPM packages
 Summary(ru_RU.UTF-8): Статические библиотеки, необходимые для разработки статических приложений, взаимодействующих с RPM-пакетами
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: Development/C
 Requires: lib%oname-devel = %version-%release
 Requires: libbeecrypt-devel-static, libdb4.7-devel-static, libpopt-devel-static, zlib-devel-static
@@ -175,7 +175,7 @@ This package contains statically linked version of the RPM program.
 Version: %{rpm_version}_%__python_version
 Summary: Python bindings for apps which will manipulate RPM packages
 Summary(ru_RU.UTF-8): Интерфейс для разработки Python-приложений, взаимодействующих с RPM-пакетами
-License: GPL/LGPL
+License: GPL-1.0-only or LGPL-1.0-only
 Group: Development/Python
 PreReq: lib%oname = %rpm_version-%release
 Requires: python = %__python_version

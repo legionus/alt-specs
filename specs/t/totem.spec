@@ -42,7 +42,7 @@ Release: alt1
 
 Summary: Movie player for GNOME 3
 Group: Video
-License: GPLv2/LGPL
+License: GPL-2.0-only or LGPL-1.0-only
 Url: https://wiki.gnome.org/Apps/Videos
 
 %if_enabled snapshot

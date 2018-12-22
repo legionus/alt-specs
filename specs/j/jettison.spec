@@ -11,7 +11,7 @@ Name:           jettison
 Version:        1.3.7
 Release:        alt1_6jpp8
 Summary:        A JSON StAX implementation
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://jettison.codehaus.org/
 BuildArch:      noarch
 

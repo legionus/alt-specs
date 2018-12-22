@@ -22,7 +22,7 @@ Release:        alt3_14jpp8
 Summary:        Java UI testing library
 
 Group:          Development/Other
-License:        CDDL
+License:        CDDL-1.0
 URL:            https://jemmy.dev.java.net
 
 # The source for this package was pulled from upstream's vcs.  Use the

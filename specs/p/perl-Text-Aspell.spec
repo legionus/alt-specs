@@ -4,7 +4,7 @@ Version: 0.09
 Release: alt3.1.1.1.1
 
 Summary: Perl interface to the GNU Aspell library
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

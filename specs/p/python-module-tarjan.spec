@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.2.1.3
 Release: alt1.git20140805.1.1
 Summary: Implementation of Tarjan's algorithm: resolve cyclic deps
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/tarjan/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

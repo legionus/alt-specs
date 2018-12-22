@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: portlets to show ticket counters per user
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: http://www.cpan.org
 

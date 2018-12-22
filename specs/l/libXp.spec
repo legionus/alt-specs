@@ -2,7 +2,7 @@ Name: libXp
 Version: 1.0.2
 Release: alt1
 Summary: X Print Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: XOrg Maintainer Team <xorg@packages.altlinux.org>

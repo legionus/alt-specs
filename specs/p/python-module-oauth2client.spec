@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 4.1.3
 Release: alt1
 Summary: OAuth 2.0 client library
-License: Apache Software License
+License: Apache
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/oauth2client/

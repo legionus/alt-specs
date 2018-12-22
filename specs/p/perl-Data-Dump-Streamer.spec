@@ -5,7 +5,7 @@ Version: 2.40
 Release: alt1.1.1
 
 Summary: Accurately serialize a data structure as Perl code
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

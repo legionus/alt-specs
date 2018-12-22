@@ -7,7 +7,7 @@ Summary: An SPM data visualization and analysis tool
 Summary(ru_RU.UTF-8):  Программа для визуализации и анализа данных АСМ
 
 Group: Sciences/Other
-License: GNU GPL
+License: GPL-1.0-only
 Url: http://gwyddion.net/
 
 # Source-url: http://sourceforge.net/projects/gwyddion/files/gwyddion/%version/gwyddion-%version.tar.xz/download

@@ -11,7 +11,7 @@ Version:       0.8.1
 Release:       alt1_9jpp8
 Summary:       A pure Java library for the reading of Outlook PST and OST files
 # see https://github.com/rjohnsondev/java-libpst/issues/23
-License:       ASL 2.0 and LGPLv3
+License:       Apache-2.0 and LGPLv3
 URL:           https://github.com/rjohnsondev/java-libpst/
 Source0:       https://github.com/rjohnsondev/java-libpst/archive/%{version}.tar.gz
 Source1:       https://www.gnu.org/licenses/lgpl.txt

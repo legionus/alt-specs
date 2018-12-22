@@ -5,7 +5,7 @@ Version: 0.0.1
 Release: alt1
  
 Summary: A lightweight HTTP dispatch interface between Ruby and most webserver configurations
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://rubygems.org/gems/dispatcher/versions/0.0.1
  

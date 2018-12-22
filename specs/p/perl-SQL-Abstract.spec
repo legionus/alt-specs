@@ -5,7 +5,7 @@ Version: 1.86
 Release: alt1
 
 Summary: Generate SQL from Perl data structures
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/SQL-Abstract/

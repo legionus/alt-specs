@@ -4,7 +4,7 @@ Version: 11.11
 Release: alt2
 
 Summary: for writing RSS files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

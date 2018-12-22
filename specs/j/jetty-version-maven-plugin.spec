@@ -12,7 +12,7 @@ Version:        1.0.7
 Release:        alt4_18jpp8
 Summary:        Jetty version management Maven plugin
 
-License:        ASL 2.0 or EPL
+License:        Apache-2.0 or EPL-1.0
 URL:            http://www.eclipse.org/jetty/
 Source0:        http://git.eclipse.org/c/jetty/org.eclipse.jetty.toolchain.git/snapshot/%{name}-%{version}.tar.bz2
 BuildArch:      noarch

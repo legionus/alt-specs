@@ -15,7 +15,7 @@ Version:        %{roman_version}
 Release:        alt1_1
 Summary:        A set of OpenType fonts designed for user interfaces
 
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/adobe-fonts/source-sans-pro
 #unable to build from source: source format is unbuildable with free software
 Source0:        https://github.com/adobe-fonts/source-sans-pro/archive/%{github_tag}/%{oldname}-%{version}.tar.gz

@@ -9,7 +9,7 @@ Name:           perl-App-Nopaste
 Version:        1.012
 Release:        alt1_1
 Summary:        Easy access to any pastebin
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/App-Nopaste
 Source0:        https://cpan.metacpan.org/authors/id/E/ET/ETHER/App-Nopaste-%{version}.tar.gz
 BuildArch:      noarch
@@ -64,7 +64,7 @@ name nopaste).
 %package -n nopaste
 # needs to beat old nopaste-2835-3
 Epoch:          1
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 Summary:        Access pastebins from the command line
 Requires:       %{name} = 0:%{version}-%{release}

@@ -4,7 +4,7 @@ Version: 0.014
 Release: alt1
 
 Summary: Simple helpers for testing code with exceptions
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

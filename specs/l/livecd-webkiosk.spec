@@ -3,7 +3,7 @@ Version: 0.6.0
 Release: alt1
 
 Summary: start the browser for a suitable webkiosk environment
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://en.altlinux.org/starterkits

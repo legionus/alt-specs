@@ -8,7 +8,7 @@ Name:           perl-lib-abs
 Version:        0.93
 Release:        alt2_12
 Summary:        Module lib that makes relative path absolute to caller
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/lib-abs
 Source0:        https://cpan.metacpan.org/authors/id/M/MO/MONS/lib-abs-%{version}.tar.gz

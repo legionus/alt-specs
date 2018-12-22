@@ -5,7 +5,7 @@ Version: 1.11.1
 Release: alt1
 
 Summary: TagLib, is well, a library for reading and editing audio meta data
-License: LGPL / MPL
+License: LGPL-1.0-only or MPL
 Group: System/Libraries
 Url: http://taglib.github.io/
 Packager: Sergey V Turchin <zerg@altlinux.org>

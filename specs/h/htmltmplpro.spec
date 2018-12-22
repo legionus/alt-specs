@@ -9,7 +9,7 @@ Version: 0.9510
 Release: alt1.1
 
 Summary: HTML::Template compatible HTML template library
-License: GPL2+ or Artistic
+License: GPL-2.0-or-later or Artistic
 Group: System/Libraries
 Url: http://sf.net/projects/html-tmpl-pro
 Packager: Igor Vlasenko <viy@altlinux.org>

@@ -5,7 +5,7 @@ Version: 0.32
 Release: alt1
 
 Summary: Load configuration from different file formats, transparently
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/Config-Any/

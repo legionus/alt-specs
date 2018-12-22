@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: The PEAR::Net_Finger class provides a tool for querying Finger Servers
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_Finger
 

@@ -8,7 +8,7 @@ Name:           perl-Module-Package
 Version:        0.30
 Release:        alt2_17
 Summary:        Postmodern Perl Module Packaging
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Module-Package
 Source0:        https://cpan.metacpan.org/authors/id/I/IN/INGY/Module-Package-%{version}.tar.gz

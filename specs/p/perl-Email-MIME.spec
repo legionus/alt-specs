@@ -5,7 +5,7 @@ Version: 1.946
 Release: alt1
 
 Summary: Easy MIME message parsing
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

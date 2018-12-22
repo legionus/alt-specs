@@ -5,7 +5,7 @@ Release: alt1
 Summary: re2c - A tool for generating C-based recognizers from regular expressions
 
 Group: Development/Other
-License: Public Domain
+License: ALT-Public-Domain
 Url: http://sourceforge.net/projects/re2c/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

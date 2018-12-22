@@ -5,7 +5,7 @@ Version: 0.4224
 Release: alt2
 
 Summary: Build and install Perl modules
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

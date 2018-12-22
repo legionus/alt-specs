@@ -3,7 +3,7 @@ Version: 1.4
 Release: alt1.qa1
 Summary: Utility to play WAV files
 Group: Sound
-License: GPL2
+License: GPL-2.0-only
 Url: http://sourceforge.net/projects/wavplay/
 
 Packager: Yuriy Shirokov <yushi@altlinux.org>

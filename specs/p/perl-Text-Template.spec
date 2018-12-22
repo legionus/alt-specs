@@ -9,7 +9,7 @@ Packager: Denis Smirnov <mithraen@altlinux.ru>
 
 Summary: Expand template text with embedded Perl
 Group: Development/Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Url: %CPAN %module
 Source0: http://www.cpan.org/authors/id/M/MS/MSCHOUT/%{module}-%{version}.tar.gz
 

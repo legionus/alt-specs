@@ -10,7 +10,7 @@ Version:    %{upstream_version}
 Release:    alt2_2
 
 Summary:    A class dispatcher that handles namespaces like paths
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Class/%{upstream_name}-%{upstream_version}.tar.gz

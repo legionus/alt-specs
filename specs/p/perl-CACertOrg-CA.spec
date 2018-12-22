@@ -11,7 +11,7 @@ Version:    20110724.005
 Release:    alt1
 
 Summary:    CACert.org's CA root certificate in PEM format
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/B/BD/BDFOY/%{upstream_name}-%{version}.tar.gz

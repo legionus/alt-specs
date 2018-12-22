@@ -8,7 +8,7 @@ Name:           perl-Gearman-Server
 Version:        1.130.1
 Release:        alt1_7
 Summary:        Function call router and load balancer
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          System/Servers
 URL:            https://metacpan.org/release/Gearman-Server
 Source0:        https://cpan.metacpan.org/authors/id/P/PA/PALIK/Gearman-Server-v%{version}.tar.gz

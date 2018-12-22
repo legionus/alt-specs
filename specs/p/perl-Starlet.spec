@@ -8,7 +8,7 @@ Name:           perl-Starlet
 Version:        0.31
 Release:        alt1_6
 Summary:        Simple, high-performance PSGI/Plack HTTP server
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Starlet
 Source0:        https://cpan.metacpan.org/authors/id/K/KA/KAZUHO/Starlet-%{version}.tar.gz

@@ -4,7 +4,7 @@ Version: 0.1.6
 Release: alt1.1.qa1
 
 Summary: LSS is a symbol browser to help creating LaTeX documents with many math symbols.
-License: GNU GPL
+License: GPL-1.0-only
 Group: File tools
 
 Url: http://clay.ll.pl/lss/

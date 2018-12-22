@@ -2,7 +2,7 @@ Summary: Freedesktop compliant Window Manager common requirements.
 Name: wm-common-freedesktop
 Version: 1.3
 Release: alt1
-License: GPL2+ or Artistic
+License: GPL-2.0-or-later or Artistic
 Group: Graphical desktop/Other
 Packager: Igor Vlasenko <viy@altlinux.ru>
 URL: http://wiki.altlinux.org/WMPackagingPolicy

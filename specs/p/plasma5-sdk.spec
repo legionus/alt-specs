@@ -8,7 +8,7 @@ Release: alt1
 Group: Development/KDE and QT
 Summary: KDE Workspace 5 Applications useful for Plasma Development
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: kf5-kirigami
 

@@ -4,7 +4,7 @@ Version: 1.39
 Release: alt1
 
 Summary: Catalyst Development Tools
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: http://search.cpan.org/dist/Catalyst-Devel/

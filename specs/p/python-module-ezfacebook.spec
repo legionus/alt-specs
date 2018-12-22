@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.87.0
 Release: alt2
 Summary: Django Tools to use facebook seamlessly without having to build around it
-License: ASL
+License: Apache
 Group: Development/Python
 Url: https://pypi.python.org/pypi/ezfacebook/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -2,7 +2,7 @@ Name: reminiscence
 Summary: game Flashback engine (re-implementation)
 Version: 0.3.3
 Release: alt1
-License: GPL3
+License: GPL-3.0-only
 Group: Games/Arcade
 Url: http://cyxdown.free.fr/reminiscence/
 

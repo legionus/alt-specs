@@ -13,7 +13,7 @@ Version:        1.28
 Release:        alt1_9
 Summary:        Generic sans font
 
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://tulrich.com/fonts/
 Source0:        http://tulrich.com/fonts/tuffy-20120614.tar.gz
 Source1:        %{oldname}-fontconfig.conf

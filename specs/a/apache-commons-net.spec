@@ -17,7 +17,7 @@ Name:           apache-%{short_name}
 Version:        3.6
 Release:        alt1_3jpp8
 Summary:        Internet protocol suite Java library
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/%{base_name}/
 Source0:        http://archive.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz
 BuildArch:      noarch

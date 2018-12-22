@@ -10,7 +10,7 @@ Version:    %{upstream_version}
 Release:    alt3_8
 
 Summary:    Redirect for Catalyst used easily is offered
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Catalyst/%{upstream_name}-%{upstream_version}.tar.gz

@@ -17,7 +17,7 @@ Version:          2.5.0
 Release:          alt1_5jpp8
 Summary:          JBoss Common Classes
 # Under Public Domain license src/main/java/org/jboss/util/Base64.java
-License:          ASL 2.0 and Public Domain
+License:          Apache-2.0 and ALT-Public-Domain
 URL:              http://www.jboss.org
 Source0:          https://github.com/jboss/jboss-common-core/archive/%{name}-%{namedversion}.tar.gz
 

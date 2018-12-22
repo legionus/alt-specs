@@ -33,7 +33,7 @@ Name:          hornetq
 Version:       2.4.7
 Release:       alt3_6jpp8
 Summary:       High performance messaging system
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://hornetq.jboss.org/
 Source0:       https://github.com/hornetq/hornetq/archive/HornetQ_%{customnamedversion}.tar.gz
 # https://issues.jboss.org/browse/HORNETQ-1534
@@ -93,7 +93,7 @@ very high performance, clustered, asynchronous messaging system.
 Group: Development/Java
 Summary:       HornetQ Commons
 # Public Domain: ./hornetq-commons/src/main/java/org/hornetq/utils/Base64.java
-License:       ASL 2.0 and Public Domain
+License:       Apache-2.0 and ALT-Public-Domain
 Provides:      bundled(java-base64) = 2.2.2
 Obsoletes:     %{name} < 2.4.2
 BuildArch:     noarch
@@ -104,7 +104,7 @@ HornetQ Commons Classes.
 %package core-client
 Group: Development/Java
 Summary:       HornetQ Core Client
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 # LGPLv2: 
 #./hornetq-core-client/src/main/java/org/hornetq/core/filter/impl/Operator.java
 #./hornetq-core-client/src/main/java/org/hornetq/core/filter/impl/RegExp.java
@@ -180,7 +180,7 @@ HornetQ REST Interface Implementation.
 %package server
 Group: Development/Java
 Summary:       HornetQ Server
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 # LGPLv2: ./hornetq-server/src/main/java/org/hornetq/core/messagecounter/MessageCounter.java
 BuildArch:     noarch
 

@@ -7,7 +7,7 @@ Version: 1.0.4
 Release: alt1%ubt
 Summary: Native zlib driver for Erlang / Elixir
 Group: Development/Erlang
-License: Apache 2.0
+License: Apache-2.0
 Url: https://github.com/processone/ezlib
 
 # https://github.com/processone/ezlib.git

@@ -5,7 +5,7 @@ Version: 0.68
 Release: alt1
 
 Summary: Looking up module information / loading at runtime
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

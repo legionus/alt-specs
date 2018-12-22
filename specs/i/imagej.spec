@@ -12,7 +12,7 @@ Release:        alt1_5.hjpp8
 Summary:        Image Processing and Analysis in Java
 
 Group:          Engineering
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://rsbweb.nih.gov/ij/index.html
 Source0:        http://rsbweb.nih.gov/ij/download/src/ij150h-src.zip
 Source1:        %{name}.desktop

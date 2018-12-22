@@ -5,7 +5,7 @@ Version: 1.367
 Release: alt1
 
 Summary: Portable multitasking and networking framework for any event loop
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

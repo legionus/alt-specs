@@ -4,7 +4,7 @@ Version: 0.61
 Release: alt1
 
 Summary: Determine the encoding of HTML/XML/XHTML documents
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

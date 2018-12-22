@@ -10,7 +10,7 @@ Release:        alt3_20
 Summary:        Roadstencil Fonts
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 ## Note that upstream is dead and there is no download link available at this minute
 ## so please don't report FTBFS bugs for this package.
 URL:            http://openfontlibrary.org/media/files/andyfitz/237

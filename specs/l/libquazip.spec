@@ -6,7 +6,7 @@ Name: libquazip
 Version: 0.7.6
 Release: alt1
 Summary: Qt/C++ wrapper for the minizip library
-License: GPLv2+ or LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: System/Libraries
 Url: https://github.com/stachenov/quazip
 Packager: Anton Midyukov <antohami@altlinux.org>

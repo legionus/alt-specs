@@ -7,7 +7,7 @@ Release: alt1
 Group: System/Libraries
 Summary: A Qt 5 module that adds support for getting events from gamepad devices on multiple platforms.
 Url: http://qt.io/
-License: LGPLv2 / GPLv3
+License: LGPLv2 or GPL-3.0-only
 
 Source: %qt_module-opensource-src-%version.tar
 

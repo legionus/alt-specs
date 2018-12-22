@@ -5,7 +5,7 @@ Release: alt1
 Summary: Tischendorf's Eighth Edition GNT for SWORD
 Summary(ru_RU.UTF-8): Tischendorf's Eighth Edition GNT для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

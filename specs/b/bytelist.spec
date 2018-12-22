@@ -18,7 +18,7 @@ Release:        alt2_15jpp8
 Summary:        A java library for lists of bytes
 
 Group:          Development/Other
-License:        CPL or GPLv2+ or LGPLv2+
+License:        CPL or GPL-2.0-or-later or LGPLv2+
 URL:            http://github.com/%{cluster}/%{name}
 Source0:        http://download.github.com/%{cluster}-%{name}-%{version}-0-g%{git_commit}.tar.gz
 

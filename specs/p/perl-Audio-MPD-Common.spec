@@ -5,7 +5,7 @@ Version: 2.003
 Release: alt1
 
 Summary: Common helper classes for mpd
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

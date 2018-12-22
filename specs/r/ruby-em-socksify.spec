@@ -5,7 +5,7 @@ Version: 0.3.2
 Release: alt2.1
  
 Summary: EventMachine SOCKSify shim: adds SOCKS support to any protocol
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/igrigorik/em-socksify
  

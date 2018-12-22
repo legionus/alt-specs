@@ -37,7 +37,7 @@ Release:        alt1_1jpp6
 Summary:        Java Image Filters
 
 Group:          Development/Java
-License:        Apache License 2.0
+License:        Apache-2.0
 URL:            http://www.jhlabs.com/ip/index.html
 Source0:        http://www.jhlabs.com/ip/filters/Filters.zip
 Patch0:         jhlabs-filters-build.patch

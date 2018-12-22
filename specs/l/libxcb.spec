@@ -2,7 +2,7 @@ Name: libxcb
 Version: 1.13.1
 Release: alt1
 Summary: The X C Binding (XCB) library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

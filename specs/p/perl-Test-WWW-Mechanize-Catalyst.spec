@@ -9,7 +9,7 @@ Name:           perl-Test-WWW-Mechanize-Catalyst
 Summary:        Test::WWW::Mechanize for Catalyst
 Version:        0.60
 Release:        alt1_15
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 Source0:        https://cpan.metacpan.org/authors/id/I/IL/ILMARI/Test-WWW-Mechanize-Catalyst-%{version}.tar.gz
 URL:            https://metacpan.org/release/Test-WWW-Mechanize-Catalyst

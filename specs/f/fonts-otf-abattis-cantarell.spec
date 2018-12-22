@@ -10,7 +10,7 @@ Version: 0.111
 Release: alt1_1
 Summary: Humanist sans serif font
 
-License: OFL
+License: OFL-1.0
 URL: https://git.gnome.org/browse/cantarell-fonts/
 Source0: http://download.gnome.org/sources/cantarell-fonts/0.111/cantarell-fonts-%{version}.tar.xz
 Source1: cantarell-fontconfig.conf

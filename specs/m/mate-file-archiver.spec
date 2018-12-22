@@ -6,7 +6,7 @@ Version: 1.20.2
 Release: alt1
 Epoch: 1
 Summary: MATE Desktop file archiver
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: Graphical desktop/MATE
 Url: http://mate-desktop.org/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

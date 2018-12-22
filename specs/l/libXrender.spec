@@ -2,7 +2,7 @@ Name: libXrender
 Version: 0.9.8
 Release: alt1
 Summary: X Render Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

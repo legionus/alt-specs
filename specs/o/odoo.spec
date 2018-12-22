@@ -8,7 +8,7 @@ Release: alt1.%snapshot
 Summary: Odoo is a suite of web based open source business apps
 
 	 # See LICENSING-BREAKDOWN
-License: AGPLv3 and GPLv3 and BSD and Beerware
+License: AGPL-3.0-only and GPL-3.0-only and BSD and Beerware
 Group:   System/Servers
 URL:     http://www.odoo.com/
 # Git: https://github.com/odoo/odoo (branch: 11.0)

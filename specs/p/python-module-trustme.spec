@@ -5,7 +5,7 @@ Version: 0.4.0
 Release: alt1
 
 Summary: #1 quality TLS certs while you wait, for the discerning tester
-License: Apache2 or MIT
+License: Apache-2.0 or MIT
 Group:   Development/Python
 URL:     https://github.com/python-trio/trustme
 

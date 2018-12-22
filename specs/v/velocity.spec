@@ -19,7 +19,7 @@ Version:        1.7
 Release:        alt3_22jpp8
 Epoch:          1
 Summary:        Java-based template engine
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://velocity.apache.org/
 BuildArch:      noarch
 

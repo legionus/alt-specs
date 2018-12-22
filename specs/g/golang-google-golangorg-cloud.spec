@@ -52,7 +52,7 @@ Name:           golang-google-golangorg-cloud
 Version:        0
 Release:        alt1_0.14.git%{shortcommit}
 Summary:        Google Cloud Platform APIs related types and common functions
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

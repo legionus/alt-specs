@@ -10,7 +10,7 @@ Name:           maven-resolver
 Epoch:          1
 Version:        1.1.1
 Release:        alt1_2jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 Summary:        Apache Maven Artifact Resolver library
 URL:            http://maven.apache.org/resolver/
 Source0:        http://archive.apache.org/dist/maven/resolver/%{name}-%{version}-source-release.zip

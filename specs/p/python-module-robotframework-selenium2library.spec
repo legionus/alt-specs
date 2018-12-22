@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.8.0
 Release: alt1.1
 Summary: Web testing library for Robot Framework
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/robotframework-selenium2library/

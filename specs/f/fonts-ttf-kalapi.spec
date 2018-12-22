@@ -9,7 +9,7 @@ Version:        0.1
 Release:        alt1_10
 Summary:        OpenType sanserif font for Gujarati script
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/gujaratilexicon
 Source0:        https://github.com/downloads/gujaratilexicon/font-kalapi/font-kalapi-%{version}.tar.gz
 BuildArch:      noarch

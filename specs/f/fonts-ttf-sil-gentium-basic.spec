@@ -22,7 +22,7 @@ Version: 1.1
 Release: alt3_16
 Summary: SIL Gentium Basic font family
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://scripts.sil.org/Gentium_Basic
 Source0:   GentiumBasic_110.zip
 Source1:   %{fontname}-fontconfig.conf

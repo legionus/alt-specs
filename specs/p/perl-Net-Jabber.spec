@@ -9,7 +9,7 @@ Version:        2.0
 Release:        alt3_34
 Summary:        Net::Jabber - Jabber Perl Library
 Group:          Development/Other
-License:        (GPL+ or Artistic) or LGPLv2+
+License:        (GPL-1.0-or-later or Artistic) or LGPLv2+
 URL:            https://metacpan.org/release/Net-Jabber
 Source0: https://cpan.metacpan.org/authors/id/R/RE/REATMON/Net-Jabber-%{version}.tar.gz
 Source1:        LICENSING.correspondance

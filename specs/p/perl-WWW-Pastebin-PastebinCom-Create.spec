@@ -9,7 +9,7 @@ Name:           perl-WWW-Pastebin-PastebinCom-Create
 Version:        1.003
 Release:        alt1_12
 Summary:        Paste to http://pastebin.com from Perl
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/WWW-Pastebin-PastebinCom-Create
 Source0:        https://cpan.metacpan.org/authors/id/Z/ZO/ZOFFIX/WWW-Pastebin-PastebinCom-Create-%{version}.tar.gz

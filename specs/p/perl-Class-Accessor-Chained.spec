@@ -16,7 +16,7 @@ Release: alt2.1
 
 Summary: %m_name - make chained accessors
 
-License: Artistic and GPL
+License: Artistic and GPL-1.0-only
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Class-Accessor-Chained/
 

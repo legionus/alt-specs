@@ -8,7 +8,7 @@ Name:           perl-Math-Symbolic
 Version:        0.612
 Release:        alt2_14
 Summary:        Symbolic calculations
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Math-Symbolic
 Source0:        https://cpan.metacpan.org/authors/id/S/SM/SMUELLER/Math-Symbolic-%{version}.tar.gz

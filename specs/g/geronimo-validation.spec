@@ -13,7 +13,7 @@ Name:           geronimo-validation
 Version:        1.1
 Release:        alt2_18jpp8
 Summary:        Geronimo implementation of JSR 303
-License:        ASL 2.0
+License:        Apache-2.0
 # should be http://geronimo.apache.org/
 URL:            http://apache.org/
 # svn export https://svn.apache.org/repos/asf/geronimo/specs/tags/geronimo-validation_1.0_spec-1.1/

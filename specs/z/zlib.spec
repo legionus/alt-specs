@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: The zlib compression and decompression library
 Summary(ru_RU.UTF-8): Библиотека сжатия данных zlib
-License: zlib
+License: Zlib
 Group: System/Libraries
 Url: http://zlib.net/
 # http://git.altlinux.org/gears/z/zlib.git

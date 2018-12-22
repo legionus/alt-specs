@@ -2,7 +2,7 @@ Name: libXv
 Version: 1.0.11
 Release: alt1
 Summary: The Xv Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

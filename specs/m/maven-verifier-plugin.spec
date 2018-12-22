@@ -11,7 +11,7 @@ Release:        alt4_19jpp8
 Summary:        Maven Verifier Plugin
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-verifier-plugin/
 Source0:        http://www.apache.org/dist/maven/plugins/%{name}-%{version}-source-release.zip
 

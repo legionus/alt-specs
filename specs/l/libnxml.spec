@@ -5,7 +5,7 @@ Version: 0.18.3
 Release: alt1
 
 Summary: C library for parsing, writing and creating XML 1.0 and 1.1 files or streams
-License: LGPL 2.1
+License: LGPL-2.1-only
 Group: System/Libraries
 
 Url: http://www5.autistici.org/bakunin/codes.php

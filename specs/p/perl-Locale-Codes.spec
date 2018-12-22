@@ -5,7 +5,7 @@ Version: 3.59
 Release: alt1
 
 Summary: ISO codes for countries, languages, currencies, and scripts
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

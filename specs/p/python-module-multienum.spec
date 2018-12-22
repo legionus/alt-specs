@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.2.4
 Release: alt1.1
 Summary: Enumerator type supporting multiple equivalent names
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/multienum/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -8,7 +8,7 @@ Release: alt2.git20140427
 Summary: Modular toolkit for Data Processing
 
 Group: Development/Python
-License: LGPL v2
+License: LGPL-2.0-only
 URL: http://mdp-toolkit.sourceforge.net/
 # git://github.com/mdp-toolkit/mdp-toolkit
 Source: %oname-%version.tar.gz

@@ -12,7 +12,7 @@ Release:       alt1_5jpp8
 Summary:       Java API to obtain Maven artifacts
 # Some file are without license headers
 # reported @ https://issues.jboss.org/projects/SHRINKRES/issues/SHRINKRES-242
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://arquillian.org/modules/resolver-shrinkwrap/
 Source0:       https://github.com/shrinkwrap/resolver/archive/%{version}.tar.gz
 

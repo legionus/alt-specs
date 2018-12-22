@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt1
 
 Summary: Start new X session, or preferably find a running one
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://git.altlinux.org/people/mike/packages/?p=start-or-find-x.git

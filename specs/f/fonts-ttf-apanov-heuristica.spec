@@ -16,7 +16,7 @@ Release: alt1_10
 Epoch:   1
 Summary: A serif latin & cyrillic font
 
-License:   OFL
+License:   OFL-1.0
 URL:       http://sourceforge.net/projects/heuristica/
 
 #we are using binary ttf archive as source archive

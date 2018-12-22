@@ -2,7 +2,7 @@ Name:		Primrose
 Version:	6
 Release:	alt2
 Group:		Games/Puzzles
-License:	public domain
+License:	ALT-Public-Domain
 Source:		%{name}_v%{version}_UnixSource.tar.gz
 Source1:	%name.desktop
 URL:		http://primrose.sourceforge.net

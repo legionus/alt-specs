@@ -3,7 +3,7 @@ Version: 2.1.2
 Release: alt2
 
 Summary: find the latest-version RPMs in a tree
-License: Apache 2.0
+License: Apache-2.0
 Group: File tools
 
 Url: http://www.exmachinatech.net/01/novi/

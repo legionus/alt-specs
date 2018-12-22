@@ -9,7 +9,7 @@ Name:           perl-Plack-Middleware-Test-StashWarnings
 Version:        0.08
 Release:        alt2_14
 Summary:        Test your application's warnings
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Plack-Middleware-Test-StashWarnings
 Source0:        https://cpan.metacpan.org/authors/id/A/AL/ALEXMV/Plack-Middleware-Test-StashWarnings-%{version}.tar.gz
 BuildArch:      noarch

@@ -10,7 +10,7 @@ Version:    0.04
 Release:    alt1
 
 Summary:    Get intersection (of set theory) of arrays
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source:    http://www.cpan.org/authors/id/T/TU/TURUGINA/Set-Intersection-%{version}.tar.gz

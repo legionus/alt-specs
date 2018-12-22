@@ -8,7 +8,7 @@ Name:           perl-Browser-Open
 Version:        0.04
 Release:        alt2_19
 Summary:        Open a browser in a given URL
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Browser-Open
 Source0:        https://cpan.metacpan.org/authors/id/C/CF/CFRANKS/Browser-Open-%{version}.tar.gz

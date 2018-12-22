@@ -4,7 +4,7 @@ Version: 1.03
 Release: alt1
 
 Summary: Perl functions speedup by caching return values
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

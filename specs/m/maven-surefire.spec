@@ -11,7 +11,7 @@ Version:        2.21.0
 Release:        alt1_1jpp8
 Epoch:          0
 Summary:        Test framework project
-License:        ASL 2.0 and CPL
+License:        Apache-2.0 and CPL
 URL:            http://maven.apache.org/surefire/
 BuildArch:      noarch
 

@@ -6,7 +6,7 @@ Version: 2.15
 Release: alt1
 
 Summary: Unicode bidi algorithm for Perl using libfribidi
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

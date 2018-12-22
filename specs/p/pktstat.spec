@@ -3,7 +3,7 @@ Version: 1.8.5
 Release: alt1
 
 Summary: Real-time packet viewer
-License: Public domain
+License: ALT-Public-Domain
 Group: Monitoring
 
 Url: http://www.adaptive-enterprises.com.au/~d/software/pktstat

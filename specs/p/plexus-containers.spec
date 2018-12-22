@@ -13,7 +13,7 @@ Name:           plexus-containers
 Version:        1.7.1
 Release:        alt1_6jpp8
 Summary:        Containers for Plexus
-License:        ASL 2.0 and MIT
+License:        Apache-2.0 and MIT
 URL:            https://github.com/codehaus-plexus/plexus-containers
 BuildArch:      noarch
 

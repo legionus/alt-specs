@@ -7,7 +7,7 @@ Version: 2.000
 Release: alt1
 
 Summary: Tie::CPHash - Case preserving but case insensitive hash table
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 BuildArch: noarch
 Url: %CPAN %module

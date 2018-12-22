@@ -5,7 +5,7 @@ Version: 1.202
 Release: alt1
 
 Summary: Check validity of Internet email addresses 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

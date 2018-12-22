@@ -2,7 +2,7 @@ Name: fslsfonts
 Version: 1.0.3
 Release: alt1.qa1
 Summary: list fonts served by X font server
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

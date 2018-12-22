@@ -9,7 +9,7 @@ Name:           perl-Convert-NLS_DATE_FORMAT
 Version:        0.06
 Release:        alt1_17
 Summary:        Convert Oracle NLS_DATE_FORMAT <-> strftime Format Strings
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/Convert-NLS_DATE_FORMAT
 Source0:        https://cpan.metacpan.org/authors/id/K/KO/KOLIBRIE/Convert-NLS_DATE_FORMAT-%{version}.tar.gz
 BuildArch:      noarch

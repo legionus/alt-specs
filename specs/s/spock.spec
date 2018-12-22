@@ -15,7 +15,7 @@ Name:          spock
 Version:       0.7
 Release:       alt4_0.17.groovy.2.0jpp8
 Summary:       A testing and specification framework
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/spockframework/spock
 Source0:       https://github.com/spockframework/spock/archive/%{name}-%{namedversion}.tar.gz
 Patch0:        0001-Build-with-Gradle-local-mode.patch

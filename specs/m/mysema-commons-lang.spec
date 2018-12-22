@@ -10,7 +10,7 @@ Name:          mysema-commons-lang
 Version:       0.2.4
 Release:       alt1_7jpp8
 Summary:       Mysema Commons Lang
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.mysema.com/
 # often is offline https://github.com/querydsl/querydsl/issues/1080
 # svn export https://source.mysema.com/svn/mysema/projects/commons/lang/tags/lang-0.2.4/ mysema-commons-lang-0.2.4

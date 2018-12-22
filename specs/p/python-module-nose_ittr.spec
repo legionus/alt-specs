@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.0.4
 Release: alt1.git20141202.1
 Summary: nose extension for supporting parametrized testing
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/nose_ittr
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

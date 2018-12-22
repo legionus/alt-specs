@@ -3,7 +3,7 @@ Version: 0.4
 Release: alt3.1
 
 Summary: Gettext linting tools
-License: GPL v2
+License: GPL-2.0-only
 URL: http://gettext-lint.sourceforge.net/
 Source: %name/%name-%version.tar.gz
 Group: Development/Other

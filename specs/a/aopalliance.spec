@@ -13,7 +13,7 @@ Epoch:          0
 Version:        1.0
 Release:        alt6_17jpp8
 Summary:        Java/J2EE AOP standards
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://aopalliance.sourceforge.net/
 BuildArch:      noarch
 

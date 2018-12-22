@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 2.1
 Release: alt2.1
 Summary: Port of the Tulip project (asyncio module, PEP 3156) on Python 2
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/trollius/
 

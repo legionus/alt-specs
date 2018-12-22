@@ -2,7 +2,7 @@ Name:		Stringrolled
 Version:	4
 Release:	alt1.1
 Summary:	Help a cat and a princess escape a castle
-License:	Public Domain
+License:	ALT-Public-Domain
 Group:		Games/Arcade
 Source:		Stringrolled_4.zip
 Source1:	16x16.png

@@ -12,7 +12,7 @@ Release: alt1
 
 Group:     Networking/File transfer
 Summary:   KIO-client for Google Drive
-License:   GPLv2 / GPLv3
+License:   GPL-2.0-only or GPL-3.0-only
 URL:       https://cgit.kde.org/kio-gdrive.git/
 
 Source: %rname-%version.tar

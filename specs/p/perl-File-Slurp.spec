@@ -5,7 +5,7 @@ Version: 9999.25
 Release: alt1
 
 Summary: Efficient Reading/Writing of Complete Files
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -11,7 +11,7 @@ Version:    0.22
 Release:    alt1
 
 Summary:    Test Net::LDAP code
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/authors/id/K/KA/KARMAN/%{upstream_name}-%{version}.tar.gz

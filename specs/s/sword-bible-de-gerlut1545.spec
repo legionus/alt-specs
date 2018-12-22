@@ -6,7 +6,7 @@ Summary: German Unrevidierte Luther Uebersetzung von 1545 for SWORD
 Summary(ru_RU.UTF-8): German Unrevidierte Luther Uebersetzung von 1545 для системы SWORD
 Summary(de_DE.UTF-8): German Unrevidierte Luther Übersetzung von 1545  SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword
@@ -23,7 +23,7 @@ Obsoletes: sword-text-gerlut1545 < 1.2-alt1
 
 %description
 1545 Luther Bibeluebersetzung
-License: Public Domain -- copy freely
+License: ALT-Public-Domain
 Made available in electronic format by Michael Bolsinger
 <Michael.Bolsinger@t-online.de> at http://www.luther-bibel-1545.de
 (see here for the most recent versions in text and HTML format).
@@ -41,7 +41,7 @@ do not wish to risk detection you should NOT use this package!
 
 %description -l ru_RU.UTF-8
 1545 Luther Bibeluebersetzung
-License: Public Domain -- copy freely
+License: ALT-Public-Domain
 Made available in electronic format by Michael Bolsinger
 <Michael.Bolsinger@t-online.de> at http://www.luther-bibel-1545.de
 (see here for the most recent versions in text and HTML format).
@@ -59,7 +59,7 @@ e-mail joachim_at_ansorgs.de
 
 %description -l de_DE.UTF-8
 1545 Luther Bibelübersetzung
-License: Public Domain -- copy freely
+License: ALT-Public-Domain
 Made available in electronic format by Michael Bolsinger
 <Michael.Bolsinger@t-online.de> at http://www.luther-bibel-1545.de
 (see here for the most recent versions in text and HTML format).

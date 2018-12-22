@@ -11,7 +11,7 @@ Name:          mustache-java
 Version:       0.9.4
 Release:       alt1_4jpp8
 Summary:       Implementation of mustache.js for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/spullara/mustache.java/
 Source0:       https://github.com/spullara/mustache.java/archive/%{oname}-%{version}.tar.gz
 

@@ -1,7 +1,7 @@
 Name: snmpb
 Version: 0.8
 Release: alt2
-License: GPL2
+License: GPL-2.0-only
 Packager: Evgenii Terechkov <evg@altlinux.org>
 Summary: Graphical SNMP MIB browser written in QT
 Source: %name-%version.tar.bz2

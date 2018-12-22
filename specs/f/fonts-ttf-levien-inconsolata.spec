@@ -13,7 +13,7 @@ Version:        1.01
 Release:        alt3_15
 Summary:        Inconsolata fonts
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://www.levien.com/type/myfonts/inconsolata.html
 Source0:        http://www.levien.com/type/myfonts/Inconsolata.sfd
 Source1:        %{oldname}-fontconfig.conf

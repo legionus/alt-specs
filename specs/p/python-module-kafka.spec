@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.3.3
 Release: alt1.1
 Summary: Pure Python client for Apache Kafka
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/kafka-python/
 

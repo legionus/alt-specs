@@ -6,7 +6,7 @@ Name: libgarmin
 Version: 0.1.0
 Release: alt2.1
 Summary: Libgarmin is an open source (GPLv2) for Garmin image format maps.
-License: GPL2
+License: GPL-2.0-only
 Group: Sciences/Geosciences
 Url: http://libgarmin.sourceforge.net
 Source: %name-%svn_ver.tar.bz2

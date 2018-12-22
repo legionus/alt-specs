@@ -4,7 +4,7 @@ Version: 0.11
 Release: alt2
 
 Summary: load/save whole file as single string
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Packager: Boris Savelev <boris@altlinux.org>
 

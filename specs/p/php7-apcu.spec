@@ -8,7 +8,7 @@ Release:	%php7_release
 
 Summary:	PHP7 extension APCu - APC User Cache
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/APCu
 #URL:		https://github.com/krakjoe/apcu

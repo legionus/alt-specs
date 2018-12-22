@@ -7,7 +7,7 @@ Name:       perl-MooseX-App-Cmd
 Version:    0.32
 Release:    alt1.1
 # see lib/MooseX/App/Cmd.pm
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Summary:    Mashes up MooseX::Getopt and App::Cmd
 Source:     http://www.cpan.org/authors/id/E/ET/ETHER/MooseX-App-Cmd-%{version}.tar.gz

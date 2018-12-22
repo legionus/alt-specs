@@ -12,7 +12,7 @@ Version:        0.7.0
 Release:        alt1_8jpp8
 Summary:        A software transactional memory implementation for the JVM
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://multiverse.codehaus.org
 Source0:        https://github.com/pveentjer/Multiverse/archive/multiverse-0.7.0.tar.gz
 # Only the license header is included in the source

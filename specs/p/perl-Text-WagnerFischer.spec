@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Text::WagnerFischer is an implementation of the Wagner-Fischer edit distance in Perl.
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: http://www.cpan.org
 

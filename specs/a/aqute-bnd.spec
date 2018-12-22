@@ -23,7 +23,7 @@ Name:           aqute-bnd
 Version:        3.5.0
 Release:        alt1_2jpp8
 Summary:        BND Tool
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://bnd.bndtools.org/
 BuildArch:      noarch
 

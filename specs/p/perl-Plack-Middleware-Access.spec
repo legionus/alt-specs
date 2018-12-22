@@ -5,7 +5,7 @@ Version: 0.4
 Release: alt1
 
 Summary: Middleware to restrict access depending on remote ip or other parameters.
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: %CPAN %dist
 

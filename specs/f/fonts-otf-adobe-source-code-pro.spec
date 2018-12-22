@@ -13,7 +13,7 @@ Release:        alt1_3
 Summary:        A set of mono-spaced OpenType fonts designed for coding environments
 
 Group:          System/Fonts/True type
-License:        OFL
+License:        OFL-1.0
 URL:            https://github.com/adobe-fonts/source-code-pro
 Source0:        https://github.com/adobe-fonts/source-code-pro/archive/%{version_roman}R-ro%2f%{version_italic}R-it.tar.gz#/SourceCodePro-%{version_roman}R-ro-%{version_italic}R-it.tar.gz
 Source1:        %{oldname}-fontconfig.conf

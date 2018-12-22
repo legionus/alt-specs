@@ -10,7 +10,7 @@ Name:           perl-Test-WWW-Mechanize-PSGI
 Version:        0.38
 Release:        alt1
 Summary:        Test PSGI programs using WWW::Mechanize
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            http://search.cpan.org/dist/Test-WWW-Mechanize-PSGI/
 Source0:        http://www.cpan.org/authors/id/O/OA/OALDERS/Test-WWW-Mechanize-PSGI-%{version}.tar.gz
 BuildArch:      noarch

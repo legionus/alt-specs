@@ -10,7 +10,7 @@ Version:        1.002
 Release:        alt1_10
 Summary:        The Myanmar font which is designed by Ngwe Tun
 
-License:        OFL
+License:        OFL-1.0
 URL:            http://code.google.com/archive/p/tharlon-font/
 Source0:        https://raw.githubusercontent.com/google/fonts/master/ofl/tharlon/Tharlon-Regular.ttf
 Source1:        https://raw.githubusercontent.com/google/fonts/master/ofl/tharlon/OFL.txt

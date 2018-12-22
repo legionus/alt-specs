@@ -11,7 +11,7 @@ Name:           jericho-html
 Version:        3.3
 Release:        alt1_12jpp8
 Summary:        Java library allowing analysis and manipulation of parts of an HTML document
-License:        EPL or LGPLv2+
+License:        EPL-1.0 or LGPLv2+
 URL:            http://jericho.htmlparser.net/
 Source0:        http://downloads.sf.net/jerichohtml/%{name}-%{version}.zip
 BuildArch:      noarch

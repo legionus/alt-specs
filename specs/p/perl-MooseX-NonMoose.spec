@@ -5,7 +5,7 @@ Version: 0.26
 Release: alt1.2
 
 Summary: Easy subclassing of non-Moose classes
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

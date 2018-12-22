@@ -3,7 +3,7 @@ Version: 0.2.9
 Release: alt1
 
 Source: %name-%version.tar
-License:  GPL3
+License:  GPL-3.0-only
 Group: Office
 URL: http://gtg.fritalk.com/
 Packager: Damir Shayhutdinov <damir@altlinux.ru>

@@ -3,7 +3,7 @@ Version:  1.6.0
 Release:  alt1
 
 Summary:  A color scheme Bad Wolf for Vim, pieced together by Steve Losh
-License:  MIT/X11
+License:  (MIT or X11)
 Group:    Other
 Url: 	  http://stevelosh.com/projects/badwolf/
 # VCS:    https://github.com/sjl/badwolf/

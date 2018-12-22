@@ -5,7 +5,7 @@ Version: 0.50
 Release: alt1
 
 Summary: Easily create test classes in an xUnit/JUnit style
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

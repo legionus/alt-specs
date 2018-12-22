@@ -10,7 +10,7 @@ Version:    %{upstream_version}
 Release:    alt1_7
 
 Summary:    Essential utilities for the Iterator class
-License:    GPL+ or Artistic
+License:    GPL-1.0-or-later or Artistic
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Iterator/%{upstream_name}-%{upstream_version}.tar.gz

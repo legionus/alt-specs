@@ -5,7 +5,7 @@ Version: 0.82
 Release: alt1
 
 Summary: Perl extension for finding the memory usage of Perl variables
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

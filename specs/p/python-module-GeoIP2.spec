@@ -6,7 +6,7 @@ Version: 2.9.0
 Release: alt1
 
 Summary: %descr
-License: ASLv2.0
+License: Apache-2.0
 Group:   Development/Python
 URL:     https://github.com/maxmind/GeoIP2-python
 

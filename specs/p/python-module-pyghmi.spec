@@ -4,7 +4,7 @@ Release:        alt1
 Summary:        Python General Hardware Management Initiative (IPMI and others)
 Group:          Development/Python
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/stackforge/pyghmi
 Source0:        %name-%version.tar
 BuildArch:      noarch

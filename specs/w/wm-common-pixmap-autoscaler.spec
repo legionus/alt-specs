@@ -2,7 +2,7 @@ Summary: Support for pixmap autoscaling for ancient Window Managers.
 Name: wm-common-pixmap-autoscaler
 Version: 1.0
 Release: alt2
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Graphical desktop/Other
 Packager: Igor Vlasenko <viy@altlinux.ru>
 URL: http://wiki.altlinux.org/WMPackagingPolicy

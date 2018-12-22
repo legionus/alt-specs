@@ -5,7 +5,7 @@ Version: 1.967015
 Release: alt1
 
 Summary: Perl module for generating recursive-descent parsers
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

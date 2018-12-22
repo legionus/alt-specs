@@ -5,7 +5,7 @@ Version: 2.1.2
 Release: alt1.1
  
 Summary: Trollop is a commandline option parser for Ruby that just gets out of your wa
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://manageiq.github.io/trollop/
  

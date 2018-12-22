@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.0.0.40f3377a63.1
 Release: alt2.1
 Summary: JSON-js (XStatic packaging standard)
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

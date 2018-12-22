@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.4.5
 Release: alt2.1
 Summary: Fixtures and markers to simplify testing of asynchronous tornado applications
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/pytest-tornado/

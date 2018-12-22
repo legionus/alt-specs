@@ -3,7 +3,7 @@ Version: 2.8
 Release: alt1.20161001
 
 Summary: Open Source ARM cortex m microcontroller library
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Group: Development/Other
 Url: https://github.com/nucleron/libopencm3
 

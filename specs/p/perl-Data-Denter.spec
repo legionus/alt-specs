@@ -8,7 +8,7 @@ BuildRequires: perl-podlators
 Name:           perl-Data-Denter
 Version:        0.15
 Release:        alt2_25
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Summary:        An alternative to Data::Dumper and Storable
 Source:         https://cpan.metacpan.org/authors/id/I/IN/INGY/Data-Denter-%{version}.tar.gz
 Url:            https://metacpan.org/release/Data-Denter

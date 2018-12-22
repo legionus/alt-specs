@@ -16,7 +16,7 @@ Release:	alt1_8
 Summary:	Nanum Gothic Coding family of Korean TrueType fonts
 
 Group:		System/Fonts/True type
-License:	OFL
+License:	OFL-1.0
 URL:		http://dev.naver.com/projects/nanumfont/
 # NanumGothic_Coding has a mirror redirector for its downloads
 # You can get this zip archive by following a link from:

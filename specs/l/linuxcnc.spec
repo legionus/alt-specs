@@ -10,7 +10,7 @@ Release: alt1
 
 Summary: LinuxCNC controls CNC machines
 Summary(ru_RU.UTF-8): Программа управления ЧПУ станков
-License: GPLv2+ and LGPLv2
+License: GPL-2.0-or-later and LGPLv2
 Group: Engineering
 Url: https://github.com/LinuxCNC/linuxcnc
 

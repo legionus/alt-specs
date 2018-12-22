@@ -4,7 +4,7 @@ Version: 0.001001
 Release: alt1
 
 Summary: Moose role to create only one instance of component per context
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

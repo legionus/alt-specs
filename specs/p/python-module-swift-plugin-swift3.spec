@@ -4,7 +4,7 @@ Release:	alt2
 Summary:	The swift3 plugin for Openstack Swift
 Group:		Development/Python
 
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://github.com/fujita/swift3
 # git config --global tar.tar.xz.command "xz -c"
 # git archive --format=tar.xz --prefix=swift3-1.0.0-#{git_rev}/ #{git_rev}

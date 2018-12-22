@@ -5,7 +5,7 @@ Version: 1.236
 Release: alt1
 
 Summary: Parse, Analyze and Manipulate Perl (without perl)
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

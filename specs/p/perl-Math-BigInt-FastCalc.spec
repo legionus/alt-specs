@@ -6,7 +6,7 @@ Version: 0.5008
 Release: alt1
 
 Summary: XS implementation of arbitrary size integer math
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

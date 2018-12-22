@@ -4,7 +4,7 @@ Version: 0.008
 Release: alt1
 
 Summary: contextual tests that the harness can ignore
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

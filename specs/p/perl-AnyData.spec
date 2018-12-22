@@ -4,7 +4,7 @@ Version: 0.12
 Release: alt1
 
 Summary: Easy access to data in many formats
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

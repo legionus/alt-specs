@@ -18,7 +18,7 @@ Name:           apache-%{short_name}
 Version:        1.0
 Release:        alt1_40jpp8
 Summary:        The Apache Commons Extension Language
-License:        ASL 1.1
+License:        Apache-1.1
 URL:            http://commons.apache.org/%{base_name}
 BuildArch:      noarch
 Source0:        http://archive.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz

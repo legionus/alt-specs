@@ -6,7 +6,7 @@ Source: http://extensions.services.openoffice.org/files/2412/1/dict-be-official.
 Group: Text tools
 Url: http://extensions.services.openoffice.org/project/dict-be-official
 
-License: GPL+ and LGPLv2+
+License: GPL-1.0-or-later and LGPLv2+
 BuildArch: noarch
 
 Requires: libhunspell

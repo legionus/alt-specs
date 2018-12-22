@@ -13,7 +13,7 @@ URL:            http://maven.apache.org/shared/
 Name:           maven-shared
 Version:        22
 Release:        alt1_5jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 BuildArch:      noarch
 
 Source0:        https://github.com/apache/%{name}/archive/%{name}-components-%{version}.tar.gz

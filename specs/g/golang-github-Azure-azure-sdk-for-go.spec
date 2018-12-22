@@ -41,7 +41,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        1.2
 Release:        alt1_0.9.git%{shortcommit}
 Summary:        Microsoft Azure SDK for Go
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

@@ -5,7 +5,7 @@ Version: 1.000006
 Release: alt1
 
 Summary: Sugar Syntax for moose 'has' fields
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

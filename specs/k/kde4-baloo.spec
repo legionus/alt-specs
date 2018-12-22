@@ -9,7 +9,7 @@ Release: alt5
 Group: Graphical desktop/KDE
 Summary: A framework for searching and managing metadata
 Url: https://projects.kde.org/projects/kde/kdelibs/baloo
-License: GPLv2 / LGPLv2
+License: GPL-2.0-only or LGPLv2
 
 %if_enabled separate_polkit
 Requires: polkit-kde-baloo

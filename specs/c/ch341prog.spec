@@ -5,7 +5,7 @@ Name: ch341prog
 Version: 20170517ba1a8306
 Release: alt1
 Summary: 24xx/25xx I2C/SPI IC flashing tool for CH341-based programmers
-License: GPL3
+License: GPL-3.0-only
 Group: Development/Other
 URL: https://github.com/setarcos/ch341prog
 Source0: %name-%version.tar.xz

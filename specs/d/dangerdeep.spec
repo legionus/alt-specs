@@ -3,7 +3,7 @@ Version: 0.4.0_pre3327
 Release: alt2
 
 Summary: Danger from the Deep - WW2 german submarine simulation
-License: GPL v2
+License: GPL-2.0-only
 Group: Games/Other
 
 Url: http://dangerdeep.sourceforge.net

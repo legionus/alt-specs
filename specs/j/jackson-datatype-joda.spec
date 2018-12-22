@@ -10,7 +10,7 @@ Name:          jackson-datatype-joda
 Version:       2.9.4
 Release:       alt1_2jpp8
 Summary:       Add-on module for Jackson to support Joda data-types
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://wiki.fasterxml.com/JacksonModuleJoda
 Source0:       https://github.com/FasterXML/jackson-datatype-joda/archive/%{name}-%{version}.tar.gz
 

@@ -5,7 +5,7 @@ Version: 0.18
 Release: alt2
 Summary: %module (module for perl)
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 Url: %CPAN %module
 

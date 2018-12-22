@@ -4,7 +4,7 @@ Version: 0.90
 Release: alt1.1.1
 
 Summary: Whois Client Interface for Perl5
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

@@ -20,7 +20,7 @@ Name:		perl-Test-LeakTrace
 Summary:	Trace memory leaks
 Version:	0.16
 Release:	alt2
-License:	GPL+ or Artistic
+License:	GPL-1.0-or-later or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/Test-LeakTrace/
 Source0:	http://www.cpan.org/authors/id/L/LE/LEEJO/Test-LeakTrace-%{version}.tar.gz

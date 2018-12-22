@@ -9,7 +9,7 @@ Release: alt4.1
 
 Summary: Pure ruby library which provides basic APIs for localization
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/locale/
 
 BuildArch: noarch

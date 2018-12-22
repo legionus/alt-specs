@@ -6,7 +6,7 @@ Summary: LZMA/XZ compression programs
 # We don't package scripts to grep, diff, and view compressed files here
 # because they are already packaged in gzip-utils.
 # see COPYING
-License: Public Domain
+License: ALT-Public-Domain
 Group: Archiving/Compression
 URL: http://tukaani.org/xz/
 Source: %name-%version.tar

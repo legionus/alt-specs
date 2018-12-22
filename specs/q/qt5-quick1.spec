@@ -8,7 +8,7 @@ Release: alt2%ubt
 
 Group: System/Libraries
 Summary: A declarative language for describing user interfaces in Qt5
-License: LGPLv2 / GPLv3
+License: LGPLv2 or GPL-3.0-only
 Url: http://qt.io/
 
 BuildRequires(pre): rpm-build-ubt

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.2.6
 Release: alt1.git20150113.1.2
 Summary: A module for managing data in streams
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/datastreams/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -11,7 +11,7 @@ Name:          jarbundler
 Version:       2.2.0
 Release:       alt2_12jpp8
 Summary:       A feature-rich Ant task which will create a Mac OS X application bundle
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://informagen.com/JarBundler/
 Source0:       http://informagen.com/JarBundler/dist/%{name}.tar.gz
 Source1:       %{name}-template-pom.xml

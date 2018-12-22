@@ -5,7 +5,7 @@ Version: 2.4.0
 Release: alt1
  
 Summary: mixin library for subprocess management, output collection
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/mixlib-shellout
  

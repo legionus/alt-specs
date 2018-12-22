@@ -9,7 +9,7 @@ Name:           perl-File-Find-Rule-VCS
 Version:        1.08
 Release:        alt3_21
 Summary:        Exclude files/directories for Version Control Systems
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/File-Find-Rule-VCS
 Source0:        https://cpan.metacpan.org/authors/id/A/AD/ADAMK/File-Find-Rule-VCS-%{version}.tar.gz
 BuildArch:      noarch

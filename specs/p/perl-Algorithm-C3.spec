@@ -17,7 +17,7 @@ Release: alt1
 
 Summary: %m_name - A module for merging hierarchies using the C3 algorithm  
 
-License: Perl (Artistic and GPL)
+License: Perl (Artistic and GPL-1.0-only)
 Group: Development/Perl
 Url: http://search.cpan.org/dist/Algorithm-C3/
 

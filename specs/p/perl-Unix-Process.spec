@@ -11,7 +11,7 @@ Version: 1.3101
 Release: alt2
 Summary: perl module %module_name
 Group: Development/Perl
-License: lgpl
+License: LGPL-1.0-only
 Url: %CPAN %module_name
 
 Source0: http://cpan.org.ua/authors/id/J/JE/JETTERO/%{module_name}-%{module_version}.tar.gz

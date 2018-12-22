@@ -2,7 +2,7 @@ Name: xorg-pmproto-devel
 Version: 1.0.3
 Release: alt2
 Summary: X.org PMProto protocol headers
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

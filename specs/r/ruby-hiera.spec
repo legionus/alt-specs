@@ -5,7 +5,7 @@ Version: 3.4.5
 Release: alt1
  
 Summary: A simple pluggable Hierarchical Database
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://projects.puppetlabs.com/projects/hiera/
  

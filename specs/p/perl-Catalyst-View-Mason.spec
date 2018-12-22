@@ -9,7 +9,7 @@ Name:           perl-Catalyst-View-Mason
 Version:        0.19
 Release:        alt1_13
 Summary:        Mason View Class
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 
 URL:            https://metacpan.org/release/Catalyst-View-Mason
 Source0:        https://cpan.metacpan.org/authors/id/J/JJ/JJNAPIORK/Catalyst-View-Mason-%{version}.tar.gz

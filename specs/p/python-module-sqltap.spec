@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.3.6
 Release: alt2.git20150127.1
 Summary: Profiling and introspection for applications using sqlalchemy
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/sqltap/

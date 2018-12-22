@@ -9,7 +9,7 @@ Version: 4.7.0
 Release: alt1
 Summary: Iconic font set, web files
 Group: System/Fonts/True type
-License: OFL and MIT
+License: OFL-1.0 and MIT
 URL: http://fontawesome.io
 
 Provides: fonts-ttf-fontawesome-web = %version-%release
@@ -34,7 +34,7 @@ typically used on the web.
 %package -n fonts-otf-fontawesome
 Summary: Iconic font set
 Group: System/Fonts/True type
-License: OFL
+License: OFL-1.0
 
 Provides: fonts-ttf-fontawesome = %version-%release
 Obsoletes: fonts-ttf-fontawesome < %version-%release

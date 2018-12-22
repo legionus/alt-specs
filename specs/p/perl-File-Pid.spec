@@ -9,7 +9,7 @@ Name:           perl-File-Pid
 Version:        1.01
 Release:        alt3_26
 Summary:        Pid File Manipulation
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 URL:            https://metacpan.org/release/File-Pid
 Source0:        https://cpan.metacpan.org/authors/id/C/CW/CWEST/File-Pid-%{version}.tar.gz
 Patch0:         File-Pid-1.01-RT-18960-Fixed-using-of-uninitialized-value.patch

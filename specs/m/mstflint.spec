@@ -13,7 +13,7 @@ Version: 4.10.0
 Release: alt1
 
 Summary: Mellanox firmware burning application
-License: GPL/BSD
+License: GPL-1.0-only or BSD
 Url: http://openib.org/
 
 Group: System/Base

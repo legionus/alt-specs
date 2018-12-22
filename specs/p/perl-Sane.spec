@@ -5,7 +5,7 @@ Release: alt3.1.1.1.1
 
 Summary: Perl extension for the SANE (Scanner Access Now Easy) Project
 
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 URL: %CPAN %dist
 

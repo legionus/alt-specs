@@ -9,7 +9,7 @@ Name: apache2-mod_vhost_limit
 Version: 0.2
 Release: alt2
 Group: System/Servers
-License: Apache License
+License: Apache
 Url: http://apache.ivn.cl/
 Packager: Boris Savelev <boris@altlinux.org>
 

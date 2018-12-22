@@ -6,7 +6,7 @@ Release: alt1.1.qa1
 
 Summary: DockApp Making Standard Library
 Group: System/Libraries
-License: MIT/X11
+License: (MIT or X11)
 Url: http://solfertje.student.utwente.nl/~dalroi/libdockapp/
 
 Packager: Sir Raorn <raorn@altlinux.ru>

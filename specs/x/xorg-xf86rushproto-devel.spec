@@ -2,7 +2,7 @@ Name: xorg-xf86rushproto-devel
 Version: 1.1.2
 Release: alt3
 Summary: X.org XF86RushProto protocol headers
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

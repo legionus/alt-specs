@@ -10,7 +10,7 @@ Name:           jetty-test-helper
 Version:        3.1
 Release:        alt1_5jpp8
 # header-template.txt documents dual licensing
-License:        ASL 2.0 or EPL
+License:        Apache-2.0 or EPL-1.0
 Summary:        Jetty toolchain test helper
 URL:            https://github.com/eclipse/jetty.toolchain
 Source0:        https://github.com/eclipse/jetty.toolchain/archive/%{name}-%{version}.tar.gz

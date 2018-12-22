@@ -16,7 +16,7 @@ Name:		fonts-otf-drehatlas-widelands
 Version:	1.0.3.1
 Release:	alt3_17
 Summary:	A Latin typeface inspired by feudal calligraphy
-License:	OFL
+License:	OFL-1.0
 URL:		http://www.drehatlas.de/
 Source0:	http://downloads.sourceforge.net/project/drehatlas-fonts/Font-Packages/COMPLETE/drehatlas-fonts-%{metapkgver}.zip
 Source1:	%{fontconf}

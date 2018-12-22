@@ -2,7 +2,7 @@ Summary: Generate statistics on any textfile
 Name: genstats
 Version: 1.0.0
 Release: alt1.qa1
-License: GPL2
+License: GPL-2.0-only
 Group: Text tools
 Source0: http://www.vanheusden.com/genstats/%name-%version.tgz
 Url: http://www.vanheusden.com/genstats/

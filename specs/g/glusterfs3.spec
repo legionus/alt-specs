@@ -33,7 +33,7 @@ Release: alt2
 
 Summary: Cluster File System
 
-License: GPLv2/LGPLv3
+License: GPL-2.0-only or LGPLv3
 Group: System/Base
 Url: http://www.gluster.org/
 

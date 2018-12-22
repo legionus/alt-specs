@@ -8,7 +8,7 @@ Epoch: 1
 Version: 0.13.0
 Release: alt1.1
 Summary: jinja2 template renderer for aiohttp.web
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/aiohttp_jinja2/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

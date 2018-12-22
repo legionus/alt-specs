@@ -12,7 +12,7 @@ Release:        alt3_22
 Summary:        Library for accessing various model file formats
 
 Group:          Development/Other
-License:        zlib
+License:        Zlib
 URL:            http://www.worldforge.org
 Source0:        http://downloads.sourceforge.net/worldforge/%{name}-%{version}.tar.gz
 

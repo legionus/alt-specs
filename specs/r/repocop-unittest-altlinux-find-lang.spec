@@ -7,7 +7,7 @@ Url: http://repocop.altlinux.org
 
 Summary: repocop package checks for conformance with FindLangPolicy.
 Group: Development/Other
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Source: %name-%version.tar
 
 Requires: repocop >= 0.10

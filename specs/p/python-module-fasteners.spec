@@ -6,7 +6,7 @@ Release: alt2
 
 Summary: A python package that provides useful locks
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/harlowja/fasteners
 BuildArch: noarch
 

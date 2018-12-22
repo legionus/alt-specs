@@ -5,7 +5,7 @@ Version: 0.6.8
 Release: alt1
 
 Summary: SIP connection manager for the Telepathy framework
-License: LGPL v2.1+
+License: LGPL-2.1-or-later
 Group: Networking/Instant messaging
 Url: http://sourceforge.net/projects/tp-sofiasip
 

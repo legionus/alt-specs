@@ -2,7 +2,7 @@ Name: xdriinfo
 Version: 1.0.6
 Release: alt1
 Summary: query configuration information of DRI drivers
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 

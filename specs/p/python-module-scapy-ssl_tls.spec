@@ -7,7 +7,7 @@ Release: alt1
 Summary: SSL/TLS layers for scapy the interactive packet manipulation tool
 
 Group: Development/Python
-License: GPL3
+License: GPL-3.0-only
 Url: https://github.com/tintinweb/scapy-ssl_tls
 
 # Source-url: https://github.com/tintinweb/scapy-ssl_tls/archive/v%version.tar.gz

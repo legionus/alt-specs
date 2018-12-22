@@ -13,7 +13,7 @@ Name:          datanucleus-rdbms
 Version:       3.2.13
 Release:       alt1_7jpp8
 Summary:       DataNucleus RDBMS
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.datanucleus.org/%{name}
 Source:        https://github.com/datanucleus/%{name}/archive/%{commit}/%{name}-%{commit}.tar.gz
 

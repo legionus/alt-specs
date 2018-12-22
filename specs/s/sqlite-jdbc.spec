@@ -49,7 +49,7 @@ Summary:       SQLite JDBC library
 # ./src/main/java/org/sqlite/core/NativeDB.c
 # ./src/main/java/org/sqlite/core/NativeDB.java
 
-License:       ASL 2.0 and BSD and ISC
+License:       Apache-2.0 and BSD and ISC
 URL:           https://github.com/xerial/sqlite-jdbc
 Source0:       https://github.com/xerial/sqlite-jdbc/archive/%{version}/%{name}-%{version}.tar.gz
 Patch0:        %{name}-3.15.1-build.patch

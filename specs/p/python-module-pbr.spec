@@ -10,7 +10,7 @@ Summary:	Python Build Reasonableness
 Group:		Development/Python
 BuildArch:	noarch
 
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		http://pypi.python.org/pypi/pbr
 
 # git://git.openstack.org/openstack-dev/pbr

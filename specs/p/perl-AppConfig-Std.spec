@@ -4,7 +4,7 @@ Version: 1.10
 Release: alt1
 
 Summary: Subclass of AppConfig that provides standard options
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

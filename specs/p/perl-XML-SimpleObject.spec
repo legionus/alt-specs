@@ -4,7 +4,7 @@ Version: 0.53
 Release: alt2
 
 Summary: A simple object representation of a parsed XML::Parser tree
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

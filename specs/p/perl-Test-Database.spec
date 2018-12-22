@@ -8,7 +8,7 @@ Name:           perl-Test-Database
 Version:        1.113
 Release:        alt1_10
 Summary:        Database handles ready for testing
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Other
 URL:            https://metacpan.org/release/Test-Database
 Source0:        https://cpan.metacpan.org/authors/id/B/BO/BOOK/Test-Database-%{version}.tar.gz

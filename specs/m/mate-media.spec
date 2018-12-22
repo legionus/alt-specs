@@ -3,7 +3,7 @@ Version: 1.20.0
 Release: alt1
 Epoch: 1
 Summary: MATE media programs
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: Graphical desktop/MATE
 Url: http://mate-desktop.org/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

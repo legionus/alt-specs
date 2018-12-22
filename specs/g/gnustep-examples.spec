@@ -4,7 +4,7 @@ Version:        1.3.0
 Release:        alt5.1
 
 Summary:        The GNUstep examples 
-License:        GPLv2+ and GPLv3+
+License:        GPL-2.0-or-later and GPL-3.0-or-later
 Group:          Graphical desktop/GNUstep
 
 URL:            http://www.gnustep.org

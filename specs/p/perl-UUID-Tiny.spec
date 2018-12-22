@@ -6,7 +6,7 @@ Name:           perl-UUID-Tiny
 Version:        1.04
 Release:        alt1_3
 Summary:        Pure Perl UUID Support With Functional Interface
-License:        GPL+ or Artistic
+License:        GPL-1.0-or-later or Artistic
 Group:          Development/Perl
 URL:            http://search.cpan.org/dist/UUID-Tiny/
 Source0:        http://www.cpan.org/authors/id/C/CA/CAUGUSTIN/UUID-Tiny-%{version}.tar.gz

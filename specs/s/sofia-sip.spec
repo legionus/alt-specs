@@ -9,7 +9,7 @@ Version: 1.12.11
 Release: alt2.1.qa1
 
 Summary: Sofia SIP User-Agent library 
-License: LGPL v2.1+
+License: LGPL-2.1-or-later
 Group: System/Libraries
 Url: http://sofia-sip.sourceforge.net/
 

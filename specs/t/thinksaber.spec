@@ -3,7 +3,7 @@ Version: 0.4
 Release: alt1.1.1
 
 Summary: Turn your HDAPS-enabled Thinkpad into Jedi's Lightsabre
-License: GPL v2
+License: GPL-2.0-only
 Group: Toys
 
 Url: http://elfsternberg.com/projects/thinksaber/

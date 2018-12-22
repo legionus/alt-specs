@@ -15,7 +15,7 @@ Version:        1.7
 Release:        alt1_5jpp8
 Summary:        Jansi Native implements the JNI Libraries used by the Jansi project
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://jansi.fusesource.org/
 Source0:        https://github.com/fusesource/jansi-native/archive/jansi-native-%{version}.tar.gz
 

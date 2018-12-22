@@ -3,7 +3,7 @@ Name:		nspr
 Version:	4.20
 Release:	alt1
 Epoch:		1
-License:	MPL/GPL/LGPL
+License:	MPL or GPL-1.0-only or LGPL-1.0-only
 Group:		System/Libraries
 Url:		http://www.mozilla.org/projects/nspr/
 Packager:	Alexey Gladkov <legion@altlinux.ru>

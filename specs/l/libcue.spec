@@ -7,7 +7,7 @@ Summary: Cue sheet parser library
 
 Group: System/Libraries
 # Files libcue/rem.{c,h} contains a BSD header
-License: GPLv2 and BSD
+License: GPL-2.0-only and BSD
 Url: http://libcue.sourceforge.net/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

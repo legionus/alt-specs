@@ -5,7 +5,7 @@ Version: 1.0.21
 Release: alt1%ubt
 Summary: STUN and TURN library for Erlang / Elixir
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/processone/stun
 

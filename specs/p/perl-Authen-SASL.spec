@@ -4,7 +4,7 @@ Version: 2.16
 Release: alt1
 
 Summary: SASL authentication framework for Perl
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist

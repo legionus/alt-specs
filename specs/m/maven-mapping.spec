@@ -10,7 +10,7 @@ Name:           maven-mapping
 Version:        3.0.0
 Release:        alt1_6jpp8
 Summary:        Apache Maven Mapping
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/%{name}/
 BuildArch:      noarch
 

@@ -10,7 +10,7 @@ Name:          extra166y
 Version:       1.7.0
 Release:       alt1_9jpp8
 Summary:       Concurrency JSR-166 - Collections supporting parallel operations
-License:       Public Domain
+License:       ALT-Public-Domain
 URL:           http://gee.cs.oswego.edu/dl/concurrency-interest
 # cvs -d :pserver:anonymous@gee.cs.oswego.edu/home/jsr166/jsr166 login
 # cvs -d :pserver:anonymous@gee.cs.oswego.edu/home/jsr166/jsr166 export -r release-1_7_0 jsr166

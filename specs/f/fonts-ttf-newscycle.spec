@@ -2,7 +2,7 @@ Name: fonts-ttf-newscycle
 Version: 0.5.2
 Release: alt1
 Summary: A realist sans-serif font family based on specimens of the 1908 News Gothic typeface from ATF
-License: OFL
+License: OFL-1.0
 Group: System/Fonts/True type
 Url: https://launchpad.net/newscycle
 Source: newscycle-%version.zip

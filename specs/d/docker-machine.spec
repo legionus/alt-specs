@@ -14,7 +14,7 @@ Release: alt1%ubt
 Summary: Docker Machine is a tool that lets you install Docker Engine on virtual hosts
 
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 ExclusiveArch: %go_arches
 Source: %name-%version.tar

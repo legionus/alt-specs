@@ -6,7 +6,7 @@ Name: lua-module-%oname
 Version: 0.1
 Release: alt4_lr1.git.g67f9007
 Summary: loose parsing of Lua code, ignoring syntax errors
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Other
 Url: https://github.com/davidm/lua-parser-loose
 Provides: luarocks(%oname) = %version

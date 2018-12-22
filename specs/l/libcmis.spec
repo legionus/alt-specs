@@ -3,7 +3,7 @@ Version: 0.5.2
 Release: alt4.git.172e837
 
 Summary: A C++ client library for the CMIS interface
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 Group: System/Libraries
 
 Url: https://github.com/tdf/libcmis

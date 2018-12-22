@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Starfighter is an old school 2D shoot'em up
 Group: Games/Arcade
-License: GPLv2, GPLv3, CC0, CC BY 3.0, CC BY-SA 3.0, Public Domain
+License: GPL-2.0-only and GPL-3.0-only and CC0 and CC-BY-3.0 and CC-BY-SA-3.0 and ALT-Public-Domain
 
 Url: http://sourceforge.net/projects/pr-starfighter/
 # http://download.savannah.gnu.org/releases/starfighter/1.7/starfighter-1.7-src.tar.gz

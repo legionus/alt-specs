@@ -5,7 +5,7 @@ Version: 0.11.0
 Release: alt3
 Summary: Helper library for gathering system configuration
 Group: Development/ML
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/janestreet/%oname
 Source0: %name-%version.tar
 BuildRequires: jbuilder

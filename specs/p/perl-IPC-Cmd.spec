@@ -5,7 +5,7 @@ Version: 1.02
 Release: alt1
 
 Summary: Finding and running system commands made easy
-License: GPL or Artistic
+License: GPL-1.0-only or Artistic
 Group: Development/Perl
 
 URL: %CPAN %dist
