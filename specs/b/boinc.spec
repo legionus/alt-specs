@@ -2,7 +2,7 @@ Name:		boinc
 Version: 7.8.4
 Release: alt4.1
 Packager: Ilya Mashkin <oddity@altlinux.ru>
-License:	GPLv3+/LGPLv3+
+License:	GPL-3.0-or-later or LGPLv3+
 Group:		Sciences/Other
 URL:		http://boinc.berkeley.edu/
 Summary:	The Berkeley Open Infrastructure for Network Computing

@@ -2,7 +2,7 @@ Name: hyphen
 Summary: A text hyphenation library
 Version: 2.8.8
 Release: alt1
-License: LGPLv2+ or MPLv1.1
+License: LGPLv2+ or MPL-1.1
 Group: System/Libraries
 URL: http://hunspell.sourceforge.net/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

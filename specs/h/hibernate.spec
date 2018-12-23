@@ -31,7 +31,7 @@ Name:          hibernate
 Version:       5.0.10
 Release:       alt1_4jpp8
 Summary:       Relational persistence and query service
-License:       LGPLv2+ and ASL 2.0
+License:       LGPLv2+ and Apache-2.0
 URL:           http://www.hibernate.org/
 Source0:       https://github.com/hibernate/hibernate-orm/archive/%{version}/%{name}-%{namedversion}.tar.gz
 

@@ -12,7 +12,7 @@ Name:          apache-curator
 Version:       2.10.0
 Release:       alt1_5jpp8
 Summary:       A set of Java libraries that make using Apache ZooKeeper much easier
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://%{oldname}.apache.org/
 Source0:       http://archive.apache.org/dist/%{oldname}/%{version}/apache-%{oldname}-%{version}-source-release.zip
 # Fix test deps

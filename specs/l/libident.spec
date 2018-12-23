@@ -8,7 +8,7 @@ Version:        0.32
 Release:        alt2_16
 Summary:        New LibIdent C library
 Group:          System/Libraries
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://www.remlab.net/libident/
 Source0:        http://www.remlab.net/files/libident/libident-%{version}.tar.bz2
 Source1:        xinetd.identtest

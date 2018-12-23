@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.3.0
 Release: alt1.1
 Summary: Mock out responses from the requests package
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/requests-mock/
 

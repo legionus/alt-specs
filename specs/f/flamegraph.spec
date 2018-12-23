@@ -3,7 +3,7 @@ Version: 20170208
 Release: alt1
 
 Summary: Flame Graphs visualize profiled code-paths
-License: CDDL1.0/GPLv2+
+License: CDDL-1.0 or GPL-2.0-or-later
 Group: Monitoring
 URL: http://www.brendangregg.com/flamegraphs.html
 

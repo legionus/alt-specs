@@ -15,7 +15,7 @@ Version:	4.19
 Release:	alt2_7jpp8
 Epoch:		1
 Summary: 	The Mozilla LDAP Java SDK
-License:	MPLv1.1 or GPLv2+ or LGPLv2+
+License:	MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 Group:		Development/Java
 URL:		http://www-archive.mozilla.org/directory/javasdk.html
 # mkdir ldapjdk-4.19 ; 

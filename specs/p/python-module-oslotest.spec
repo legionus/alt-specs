@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 3.6.0
 Release: alt1
 Summary: OpenStack test framework
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/oslotest/
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz

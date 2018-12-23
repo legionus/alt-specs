@@ -7,7 +7,7 @@ Release: alt1.hg20141226.1.1.1
 
 Name: python-module-%origname
 Summary: Scripts and modules for freezing Python scripts into executables
-License: PSF
+License: Python-2.0
 URL: http://cx-freeze.sourceforge.net/
 Provides: cx_Freeze
 # hg clone https://bitbucket.org/anthony_tuininga/cx_freeze

@@ -43,7 +43,7 @@ Release:        alt1_3.%{commitdate}.git%{shortcommit}
 Summary:        Embedded SQL database written in Go
 
 # This package is BSD licensed, but the vendored go4.org/lock library is ASLv2.0
-License:        BSD and ASL 2.0
+License:        BSD and Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{project}-%{repo}-%{shortcommit}.tar.gz
 

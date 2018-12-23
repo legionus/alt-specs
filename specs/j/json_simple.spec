@@ -10,7 +10,7 @@ Name:           json_simple
 Version:        1.1.1
 Release:        alt2_16jpp8
 Summary:        Simple Java toolkit for JSON
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://code.google.com/p/json-simple/
 BuildArch:      noarch
 

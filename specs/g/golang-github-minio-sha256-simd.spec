@@ -38,7 +38,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0
 Release:        alt1_0.6.git%{shortcommit}
 Summary:        SHA256 implementation using SIMD instructions for Go
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{project}-%{repo}-%{shortcommit}.tar.gz
 

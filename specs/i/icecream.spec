@@ -10,7 +10,7 @@ Name: icecream
 Version: 1.0.1
 Release: alt2
 Summary: Icecream is a distributed compile system for C and C++
-License: GPLv2+ and LGPLv2.1+
+License: GPL-2.0-or-later and LGPLv2.1+
 Group: Development/Tools
 URL: https://github.com/icecc/%name
 Source: %name-%version.tar

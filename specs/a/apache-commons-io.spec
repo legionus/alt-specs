@@ -11,7 +11,7 @@ Epoch:          1
 Version:        2.6
 Release:        alt1_3jpp8
 Summary:        Utilities to assist with developing IO functionality
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/io
 BuildArch:      noarch
 

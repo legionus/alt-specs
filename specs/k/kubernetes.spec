@@ -16,7 +16,7 @@ Release: alt1
 Summary: Container cluster management
 
 Group: System/Configuration/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 Source: %name-%version.tar
 

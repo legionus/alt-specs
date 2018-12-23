@@ -7,7 +7,7 @@ Release: alt1
 Summary: Horizon UI support for Neutron LBaaS
 Group: System/Servers
 
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/neutron-lbaas-dashboard/
 Source:  %oname-%version.tar.gz
 

@@ -13,7 +13,7 @@ Version: 4.07.1
 Release: alt2
 
 Summary: The Objective Caml compiler and programming environment
-License: QPL & LGPL
+License: QPL and LGPL
 Group: Development/ML
 
 Url: http://caml.inria.fr/

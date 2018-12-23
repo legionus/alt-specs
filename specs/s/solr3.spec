@@ -10,7 +10,7 @@ Name:             solr3
 Version:          3.6.2
 Release:          alt1_17jpp8
 Summary:          Apache Solr
-License:          ASL 2.0
+License:          Apache-2.0
 Url:              http://lucene.apache.org/solr/
 
 # wget http://archive.apache.org/dist/lucene/solr/3.6.2/apache-solr-3.6.2-src.tgz

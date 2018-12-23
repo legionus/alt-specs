@@ -10,7 +10,7 @@ Name:          xml-maven-plugin
 Version:       1.0.2
 Release:       alt1_1jpp8
 Summary:       Maven XML Plugin
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.mojohaus.org/xml-maven-plugin/
 Source0:       http://repo2.maven.org/maven2/org/codehaus/mojo/xml-maven-plugin/%{version}/xml-maven-plugin-%{version}-source-release.zip
 

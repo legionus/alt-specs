@@ -7,7 +7,7 @@ Release: alt1.1
 Summary: A general purpose library of data-structures, aspects, patterns and utilities for Python.
 Source: %modulename-%{version}dev.tar.gz
 Patch: libutilitaspy-0.1-alt-no-distribute.patch
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://sites.google.com/site/libutilitaspy/home
 Buildarch: noarch

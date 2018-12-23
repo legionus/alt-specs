@@ -3,7 +3,7 @@ Name: xorg-drv-vmware
 Version: 13.3.0
 Release: alt1
 Summary: VMware SVGA Device video driver
-License: MIT/X11
+License: (MIT or X11)
 Epoch: 1
 Group: System/X11
 Url: http://cgit.freedesktop.org/xorg/driver/xf86-video-vmware

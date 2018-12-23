@@ -7,7 +7,7 @@ Release: alt1
 Summary: Vulkan loader and validation layers
 
 Group: System/Libraries
-License: ASL 2.0
+License: Apache-2.0
 Url: http://www.khronos.org/
 
 # https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers

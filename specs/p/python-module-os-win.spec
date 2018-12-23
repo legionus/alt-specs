@@ -7,7 +7,7 @@ Version: 4.0.1
 Release: alt1
 Summary: Windows Hyper-V library for OpenStack projects
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 

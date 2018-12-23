@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt1
 
 Summary: A set of ALT Linux certificates to verify UEFI binaries
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Kernel and hardware
 
 Url: http://www.altlinux.org/UEFI

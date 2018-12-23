@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.3.0.1
 Release: alt3.1
 Summary: less (XStatic packaging standard)
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

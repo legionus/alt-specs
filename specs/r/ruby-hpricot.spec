@@ -8,7 +8,7 @@ Release: alt2.1
 
 Summary: A Fast, Enjoyable HTML Parser for Ruby
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: https://github.com/hpricot/hpricot
 
 Source: %pkgname-%version.tar

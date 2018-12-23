@@ -13,7 +13,7 @@ Name:             apache-%{short_name}
 Version:          1.5.0
 Release:          alt1_6jpp8
 Summary:          Apache Commons Validator
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://commons.apache.org/validator/
 BuildArch:        noarch
 

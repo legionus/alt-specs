@@ -3,7 +3,7 @@ Name: mpdris2
 Summary: provides MPRIS 2 support to mpd (Music Play Daemon)
 Version: 0.7
 Release: alt1.git.40.g19e8783
-License: GPL3
+License: GPL-3.0-only
 Group: Sound
 Url: https://github.com/eonpatapon/%origname
 BuildArch: noarch

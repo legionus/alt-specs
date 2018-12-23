@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 2.4.18
 Release: alt2.git20141002.1
 Summary: Asynchronous Redis client that works within Tornado IO loop
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/tornado-redis/

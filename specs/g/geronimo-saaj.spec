@@ -13,7 +13,7 @@ Name:             geronimo-saaj
 Version:          1.1
 Release:          alt2_20jpp8
 Summary:          Java EE: SOAP with Attachments API Package v1.3
-License:          ASL 2.0 and W3C
+License:          Apache-2.0 and W3C
 
 URL:              http://geronimo.apache.org/
 Source0:          http://repo2.maven.org/maven2/org/apache/geronimo/specs/%{spec_name}/%{version}/%{spec_name}-%{version}-source-release.tar.gz

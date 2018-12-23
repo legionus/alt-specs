@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Generic server class
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_Server
 

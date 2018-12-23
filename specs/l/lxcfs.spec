@@ -4,7 +4,7 @@ Release:	alt1
 Summary:	FUSE filesystem for LXC
 
 Group:		Development/Other
-License:	Apache v.2
+License:	Apache-2.0
 URL:		https://github.com/lxc/lxcfs
 
 Packager:	Denis Pynkin <dans@altlinux.ru>

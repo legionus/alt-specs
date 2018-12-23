@@ -10,7 +10,7 @@ Release: alt1.qa1
 Summary: SCIM Bridge Gtk IM module
 Packager: Ilya Mashkin <oddity@altlinux.ru>
 Group: System/Libraries
-License: GPLv2+ or LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Url: http://www.scim-im.org/projects/scim_bridge
 Source0: http://dl.sourceforge.net/sourceforge/scim/%name-%version%{?snapdate:-%snapdate}.tar.gz
 

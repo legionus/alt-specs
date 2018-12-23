@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.2
 Release: alt1.dev0.git20130315.1.1
 Summary: Python 3 compatible Python 2 `random` Module
-License: PSFL
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/random2/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

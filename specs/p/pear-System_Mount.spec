@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Mount and unmount devices in fstab
 
-License: PHP License v3.0
+License: PHP-3.0
 Group: Development/Other
 Url: http://pear.php.net/package/System_Mount
 

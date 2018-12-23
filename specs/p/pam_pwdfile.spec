@@ -5,7 +5,7 @@ Release: alt0.1
 Summary: A PAM module that allows users to authenticate on htpasswd-type files separate from /etc/passwd.
 
 Url: http://cpbotha.net/pam_pwdfile.html
-License: GPL / BSD
+License: GPL or BSD
 Group: System/Libraries
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

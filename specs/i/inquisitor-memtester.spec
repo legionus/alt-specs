@@ -5,7 +5,7 @@ Version: 4.0.8
 Release: alt1
 
 Summary: Userspace utility for testing the memory subsystem for faults
-License: GPLv2 only
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 
 Url: http://pyropus.ca/software/memtester/

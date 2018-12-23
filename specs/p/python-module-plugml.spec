@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.2.4
 Release: alt1.git20150215.1.1
 Summary: Easy-to-use and highly modular machine learning framework
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/plugml/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

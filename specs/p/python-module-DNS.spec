@@ -7,7 +7,7 @@ Release: alt2
 
 Name: %packagename
 Source0: %modulename-%version.tar
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 URL: http://pydns.sourceforge.net/
 

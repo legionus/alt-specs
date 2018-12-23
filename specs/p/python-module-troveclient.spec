@@ -5,7 +5,7 @@ Version: 2.16.0
 Release: alt1
 Summary: Client library for OpenStack DBaaS API
 Group:   Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url:     http://docs.openstack.org/developer/python-%oname
 Source:  https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz
 

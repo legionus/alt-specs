@@ -11,7 +11,7 @@ Epoch:          0
 Version:        2.1
 Release:        alt2_29jpp8
 Summary:        Java logging toolkit
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://avalon.apache.org/
 BuildArch:      noarch
 

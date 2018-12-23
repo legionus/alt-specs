@@ -24,7 +24,7 @@ Name:           xbean
 Version:        4.8
 Release:        alt1_1jpp8
 Summary:        Java plugin based web server
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://geronimo.apache.org/xbean/
 BuildArch:      noarch
 

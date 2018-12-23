@@ -5,7 +5,7 @@ Version: 0.3.0
 Release: alt1.1
 
 Summary: An eventmachine-based implementation of the Redis protocol
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://github.com/libc/em-redis
 

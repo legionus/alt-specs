@@ -112,7 +112,7 @@ Version: 3.1.0
 Release: alt1
 
 Summary: QEMU CPU Emulator
-License: GPL/LGPL/BSD
+License: GPL or LGPL or BSD
 Group: Emulators
 Url: https://www.qemu.org
 # git://git.qemu.org/qemu.git

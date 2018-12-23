@@ -13,7 +13,7 @@ Release:        alt6_23jpp8
 Summary:        Maven plugin to update header licenses of source files
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://code.google.com/p/maven-license-plugin
 ### upstream only provides binaries or source without build scripts
 # tar creation instructions

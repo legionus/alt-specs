@@ -11,7 +11,7 @@ Name:          codenarc
 Version:       0.24.1
 Release:       alt1_4jpp8
 Summary:       Groovy library that provides static analysis features for Groovy code
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://codenarc.sourceforge.net/
 Source0:       https://github.com/CodeNarc/CodeNarc/archive/%{version}/%{name}-%{version}.tar.gz
 

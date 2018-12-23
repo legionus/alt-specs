@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.3.0
 Release: alt3.1
 Summary: A utility library for mocking out the requests Python library
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/responses/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

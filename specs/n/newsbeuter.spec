@@ -4,7 +4,7 @@ Release: alt3
 
 Summary: Newsbeuter is an open-source RSS/Atom feed reader for text terminals
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Networking/News
 Url: http://www.newsbeuter.org/
 

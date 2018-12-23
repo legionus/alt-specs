@@ -13,7 +13,7 @@ Name:           plexus-classworlds
 Version:        2.5.2
 Release:        alt2_9jpp8
 Summary:        Plexus Classworlds Classloader Framework
-License:        ASL 2.0 and Plexus
+License:        Apache-2.0 and Plexus
 URL:            https://github.com/codehaus-plexus/plexus-classworlds
 BuildArch:      noarch
 

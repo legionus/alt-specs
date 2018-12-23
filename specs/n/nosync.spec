@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: library to disable sync/fsync/fdatasync
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/C
 
 #Url:

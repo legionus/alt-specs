@@ -9,7 +9,7 @@ Release: alt1.qa1
 Summary: Library to parse and apply unified diffs
 
 Url: https://pypi.python.org/pypi/patch/
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 
 

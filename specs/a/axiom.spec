@@ -11,7 +11,7 @@ Version:        1.2.14
 Release:        alt1_2jpp8
 Epoch:          2
 Summary:        Axis Object Model
-License:        ASL 2.0
+License:        Apache-2.0
 Url:            http://ws.apache.org/commons/axiom/
 Source0:        http://archive.apache.org/dist/ws/axiom/%{version}/axiom-%{version}-source-release.zip
 

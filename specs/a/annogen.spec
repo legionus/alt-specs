@@ -11,7 +11,7 @@ Name:          annogen
 Version:       0.1.0
 Release:       alt1_17jpp8
 Summary:       Java framework for JSR-175 annotations 
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/codehaus/annogen
 # git clone https://github.com/codehaus/annogen/ annogen-0.1.0
 # rm -rf annogen-0.1.0/annogen/ide-projects rm -rf annogen-0.1.0/annogen/trunk

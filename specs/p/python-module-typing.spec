@@ -7,7 +7,7 @@ Version: 3.6.4
 Release: alt1
 
 Summary: This is a backport of the standard library typing module to Python versions older than 3.6
-License: PSF
+License: Python-2.0
 Group: Development/Python
 
 Url: https://pypi.python.org/pypi/%modname/

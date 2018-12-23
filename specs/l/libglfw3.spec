@@ -2,7 +2,7 @@ Name: libglfw3
 Version: 3.2.1
 Release: alt1
 Summary: A cross-platform multimedia library
-License: zlib
+License: Zlib
 Group: System/Libraries
 Url: http://www.glfw.org/index.html
 Source: glfw-%version.tar.bz2

@@ -5,7 +5,7 @@ Release: alt2
 Summary: A journaling archiver optimized for backup
 
 Group: Archiving/Compression
-License: Public domain
+License: ALT-Public-Domain
 Url: http://mattmahoney.net/dc/zpaq.html
 
 # Use $ rpmrb NEWVERSION for update the package

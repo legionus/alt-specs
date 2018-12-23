@@ -15,7 +15,7 @@ Name:             bean-validation-api
 Version:          1.1.0
 Release:          alt1_9jpp8
 Summary:          Bean Validation API (JSR 349)
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://beanvalidation.org/
 Source0:          https://github.com/beanvalidation/beanvalidation-api/archive/%{namedversion}.tar.gz
 

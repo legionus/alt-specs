@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.1
 Release: alt1.1
 Summary: SQL query translation
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/sqlquery/

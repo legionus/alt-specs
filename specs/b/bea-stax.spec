@@ -49,7 +49,7 @@ Source2:        http://dist.codehaus.org/stax/jars/stax-api-%{apiver}.pom
 Name:           bea-stax
 Version:        1.2.0
 Release:        alt4_16jpp8
-License:        ASL 1.1 and ASL 2.0
+License:        Apache-1.1 and Apache-2.0
 BuildArch:      noarch
 
 BuildRequires:  javapackages-local

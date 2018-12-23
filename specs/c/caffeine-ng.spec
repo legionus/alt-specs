@@ -4,7 +4,7 @@ Version: 3.4.0
 Release: alt3
 Summary: Prevent screensaving and powersaving
 Group: Graphical desktop/Other
-License: GPLv3 and LGPLv3
+License: GPL-3.0-only and LGPLv3
 Url: https://gitlab.com/hobarrera/caffeine-ng
 Packager: Anton Midyukov <antohami@altlinux.org>
 

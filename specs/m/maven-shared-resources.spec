@@ -10,7 +10,7 @@ Name:          maven-shared-resources
 Version:       2
 Release:       alt1_6jpp8
 Summary:       A collection of templates that are specific to the Maven project
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://maven.apache.org/shared/maven-shared-resources/
 Source0:       http://repo1.maven.org/maven2/org/apache/maven/shared/%{name}/%{version}/%{name}-%{version}-source-release.zip
 BuildRequires: maven-local

@@ -6,7 +6,7 @@ Release:        alt2_13
 Summary:        The OpenICC profiles
 
 Group:          Graphics
-License:        zlib
+License:        Zlib
 URL:            http://www.freedesktop.org/wiki/OpenIcc
 Source0:        http://downloads.sourceforge.net/project/openicc/OpenICC-Profiles/%{name}-%{version}.tar.bz2
 

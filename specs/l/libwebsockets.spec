@@ -8,7 +8,7 @@ Summary: A lightweight C library for Websockets
 # sha1-hollerbach is under BSD
 # https://fedorahosted.org/fpc/ticket/546
 # Test suite is licensed as Public domain (CC-zero)
-License: LGPLv2 and Public Domain and BSD and MIT and zlib
+License: LGPLv2 and ALT-Public-Domain and BSD and MIT and Zlib
 Group: Development/C
 Url: http://libwebsockets.org
 

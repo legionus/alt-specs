@@ -7,7 +7,7 @@ Name: golang-github-juju-loggo
 Version: 0
 Release: alt1.git%abbrev
 Summary: This package provides an alternative to the standard library log package.
-License: LGPL v.3
+License: LGPL-3.0-only
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

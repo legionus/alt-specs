@@ -3,7 +3,7 @@ Version: 1.5.25
 Release: alt5
 
 Summary: Small utilities built with klibc
-License: BSD/GPL
+License: BSD or GPL
 Group: System/Base
 
 Packager: Alexey Gladkov <legion@altlinux.ru>

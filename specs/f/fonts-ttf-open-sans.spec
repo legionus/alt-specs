@@ -10,7 +10,7 @@ Version:    1.10
 Release:    alt1_8
 Summary:    Open Sans is a humanist sans-serif typeface designed by Steve Matteson
 
-License:    ASL 2.0
+License:    Apache-2.0
 URL:        http://www.google.com/fonts/specimen/Open+Sans
 
 # Since the font doesn't have clear upstream, the source zip package is

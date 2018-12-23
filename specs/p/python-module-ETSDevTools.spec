@@ -8,7 +8,7 @@ Release: alt1.git20130328
 Summary: Enthought tools to support Python development
 
 Group: Development/Python
-License: BSD and GPLv2
+License: BSD and GPL-2.0-only
 URL: http://www.enthought.com/
 # https://github.com/enthought/etsdevtools.git
 Source: %oname-%version.tar.gz

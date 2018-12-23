@@ -5,7 +5,7 @@ Version: 0.2.0
 Release: alt1.1
  
 Summary: Simply builds and verifies OAuth headers
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/laserlemon/simple_oauth
  

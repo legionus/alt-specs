@@ -10,7 +10,7 @@ Name:          hppc
 Version:       0.7.1
 Release:       alt1_6jpp8
 Summary:       High Performance Primitive Collections for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://labs.carrotsearch.com/hppc.html
 Source0:       https://github.com/carrotsearch/hppc/archive/%{version}.tar.gz
 

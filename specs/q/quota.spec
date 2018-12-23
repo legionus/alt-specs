@@ -10,7 +10,7 @@ Epoch: 2
 # svc_socket.c copied from glibc:   LGPLv2+
 # doc/quotas.ms, quotaops.c, quot.c, quotaon.c, edquota.c, quot.h, quota.c,
 # quotaio_v1.c:                     BSD
-License: BSD and LGPLv2+ and GPLv2+
+License: BSD and LGPLv2+ and GPL-2.0-or-later
 Summary: System administration tools for monitoring users' disk usage
 Group: System/Configuration/Other
 Url: http://sourceforge.net/projects/linuxquota/

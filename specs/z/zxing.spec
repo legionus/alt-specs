@@ -10,7 +10,7 @@ Name:          zxing
 Version:       3.2.1
 Release:       alt2_7jpp8
 Summary:       Java multi-format 1D/2D bar-code image processing library
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/zxing/zxing/
 # remove unused files (126MB)
 # sh zxing-repack.sh <VERSION>

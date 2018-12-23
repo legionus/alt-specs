@@ -10,7 +10,7 @@ Name:          mybatis-parent
 Version:       21
 Release:       alt1_8jpp8
 Summary:       The MyBatis parent POM
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.mybatis.org/
 Source0:       https://github.com/mybatis/parent/archive/%{name}-%{version}.tar.gz
 

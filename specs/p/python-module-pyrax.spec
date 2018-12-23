@@ -4,7 +4,7 @@ Release: alt2.qa1
 
 Summary: Python language bindings for OpenStack Clouds
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/rackspace/pyrax
 

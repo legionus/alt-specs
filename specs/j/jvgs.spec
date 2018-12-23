@@ -23,7 +23,7 @@ strange world of danger. He starts a journey along the broken stream of
 thoughts that's left.
 
 %package data
-License:	Public domain
+License:	ALT-Public-Domain
 Summary:	Game data for %name (except music)
 Group:		Games/Arcade
 

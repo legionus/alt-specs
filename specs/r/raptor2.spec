@@ -6,7 +6,7 @@ Release: alt1
 Group: Development/Other
 Summary: RDF Parser Toolkit for Redland
 Url: http://librdf.org/raptor/
-License: GPLv2+ or LGPLv2+ or ASL 2.0
+License: GPL-2.0-or-later or LGPLv2+ or Apache-2.0
 
 # /usr/bin/rapper
 Conflicts: raptor

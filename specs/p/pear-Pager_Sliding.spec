@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Sliding Window Pager
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Pager_Sliding
 

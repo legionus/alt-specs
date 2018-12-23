@@ -8,7 +8,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Workspace 5 display configuration library
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-pnp-ids-path.patch

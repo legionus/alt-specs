@@ -15,7 +15,7 @@ Name:           batik
 Version:        1.10
 Release:        alt1_1jpp8
 Summary:        Scalable Vector Graphics for Java
-License:        ASL 2.0 and W3C
+License:        Apache-2.0 and W3C
 URL:            https://xmlgraphics.apache.org/batik/
 Source0:        http://archive.apache.org/dist/xmlgraphics/batik/source/batik-src-%{version}.zip
 Source1:        %{name}-security.policy

@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Utilities for TCP programming in shell-scripts
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Tools
 Url: ftp://ftp.lysator.liu.se/pub/unix/tcputils
 

@@ -5,7 +5,7 @@ Release: alt1
 Summary: A Set of Utilities for Input Devices
 
 Group: System/Configuration/Hardware
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Url: http://linuxconsole.sourceforge.net/input/input.html
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

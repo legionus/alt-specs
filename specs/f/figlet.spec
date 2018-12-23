@@ -3,7 +3,7 @@ Version: 2.2.5
 Release: alt1
 
 Summary: ASCII-art banners generator
-License: Academic Free License
+License: AFL-1.1
 Group: Graphics
 
 Url: http://www.figlet.org

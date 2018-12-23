@@ -2,7 +2,7 @@ Name: owamp
 Summary: one-way delay tester
 Version: 3.5.0
 Release: alt2
-License: Apache License v2.0
+License: Apache-2.0
 Group: Networking/Other
 URL: http://e2epi.internet2.edu/owamp/
 Source: %{name}-%{version}.tar.gz

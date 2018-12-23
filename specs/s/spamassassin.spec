@@ -8,7 +8,7 @@ Version: 3.4.1
 Release: alt2
 
 Summary: Spam filter for email written in perl
-License: Apache License v2.0
+License: Apache-2.0
 Group: Networking/Mail
 
 URL: http://www.spamassassin.org/

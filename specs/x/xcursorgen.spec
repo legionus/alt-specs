@@ -2,7 +2,7 @@ Name: xcursorgen
 Version: 1.0.5
 Release: alt1
 Summary: create an X cursor file from a collection of PNG images
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: XOrg Maintainer Team <xorg@packages.altlinux.org>

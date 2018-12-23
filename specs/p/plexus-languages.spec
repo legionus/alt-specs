@@ -10,7 +10,7 @@ Name:           plexus-languages
 Version:        0.9.3
 Release:        alt2_4jpp8
 Summary:        Plexus Languages
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/codehaus-plexus/plexus-languages
 BuildArch:      noarch
 

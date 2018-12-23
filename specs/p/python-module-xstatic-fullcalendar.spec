@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 2.2.2.1
 Release: alt2.1
 Summary: fullcalendar (XStatic packaging standard)
-License: MIT & GPL
+License: MIT and GPL
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

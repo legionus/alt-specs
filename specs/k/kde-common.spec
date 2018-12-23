@@ -8,7 +8,7 @@ Version: %major.%minor.%bugfix
 Release: alt1
 
 Summary: The basic directory layout for KDE
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 
 Obsoletes: kde3-common < %version-%release

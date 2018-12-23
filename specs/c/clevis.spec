@@ -3,7 +3,7 @@ Version: 11
 Release: alt1
 Summary: Automated Encryption Framework
 
-License: Apache 2.0
+License: Apache-2.0
 Group:   System/Libraries
 URL:     https://github.com/latchset/clevis
 Source:  clevis-%{version}.tar.gz

@@ -4,7 +4,7 @@ Name: gnustep-Etoile-SystemConfig
 Version: 0.2
 Release: alt1.git20140217.1
 Summary: Provides various a common way to set system specific preferences
-License: LGPLv2.1 / BSD
+License: LGPLv2.1 or BSD
 Group: Graphical desktop/GNUstep
 Url: http://etoileos.com/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

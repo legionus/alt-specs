@@ -5,7 +5,7 @@ Version: 3.6.3
 Release: alt1
 
 Summary: DCMTK - DICOM Toolkit
-License: MIT license
+License: MIT
 Group: Graphics
 Url: http://dcmtk.org/dcmtk.php.en
 

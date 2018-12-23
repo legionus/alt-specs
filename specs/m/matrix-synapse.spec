@@ -3,7 +3,7 @@ Version: 0.33.9
 Release: alt2
 
 Summary: Synapse: Matrix reference homeserver
-License: Apache 2.0
+License: Apache-2.0
 Group: Communications
 
 Url: http://matrix.org

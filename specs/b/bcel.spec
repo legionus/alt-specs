@@ -19,7 +19,7 @@ Version:        6.2
 Release:        alt1_2jpp8
 Epoch:          1
 Summary:        Byte Code Engineering Library
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/proper/commons-bcel/
 Source0:        http://archive.apache.org/dist/commons/bcel/source/bcel-%{version}-src.tar.gz
 

@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 2.2.5
 Release: alt1.1.1
 Summary: http client/server for asyncio
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/KeepSafe/aiohttp.git
 Source: %name-%version.tar

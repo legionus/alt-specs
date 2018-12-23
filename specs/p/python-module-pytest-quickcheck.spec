@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.8.1
 Release: alt1.1.1
 Summary: pytest plugin to generate random data inspired by QuickCheck
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pytest-quickcheck/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

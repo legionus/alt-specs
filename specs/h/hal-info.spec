@@ -4,7 +4,7 @@ Summary: Device information files for HAL
 Name: hal-info
 Version: 20091130
 Release: alt1
-License: AFL/GPL
+License: AFL or GPL
 Group: System/Libraries
 URL: http://www.freedesktop.org/Software/hal
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

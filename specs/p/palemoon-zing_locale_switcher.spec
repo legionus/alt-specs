@@ -11,7 +11,7 @@ Version: 3.0.0
 Release: alt1
 Summary: The Palemoon locale switcher
 
-License: GPL3
+License: GPL-3.0-only
 Group: Networking/WWW
 Url: http://www.gooeysoftware.com/mozaddons/zinglocale/
 BuildArch: noarch

@@ -10,7 +10,7 @@ Name:           jnr-posix
 Version:        3.0.41
 Release:        alt1_3jpp8
 Summary:        Java Posix layer
-License:        CPL or GPLv2+ or LGPLv2+
+License:        CPL or GPL-2.0-or-later or LGPLv2+
 URL:            http://github.com/jnr/jnr-posix
 Source0:        https://github.com/jnr/%{name}/archive/%{name}-%{version}.tar.gz
 

@@ -6,7 +6,7 @@ Version: 1.1.10
 Release: alt2
 Serial: 2
 Summary: X Display Manager with support for XDMCP, host chooser
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 

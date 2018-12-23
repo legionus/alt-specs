@@ -5,7 +5,7 @@ Version: 1.0.0
 Release: alt1.git5bded6.1
  
 Summary: A set of enhancements to the standard library benchmark.rb
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/evanphx/benchmark_suite
  

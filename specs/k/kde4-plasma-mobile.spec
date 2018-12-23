@@ -9,7 +9,7 @@ Release: alt4
 
 Group: Graphical desktop/KDE
 Summary: KDE mobile environment
-License: GPLv2 / LGPLv2 / LGPLv2.1
+License: GPL-2.0-only or LGPLv2 or LGPLv2.1
 Url: http://kde.org/
 
 Requires: kde4-kactivities kde4base-runtime-core

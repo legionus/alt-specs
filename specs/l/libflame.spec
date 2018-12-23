@@ -10,7 +10,7 @@ Epoch: 1
 Version: 5.1.0
 #Release: alt1.git20140417
 Summary: Formal Linear Algebra Method Environment
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: System/Libraries
 Url: http://www.cs.utexas.edu/users/flame/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

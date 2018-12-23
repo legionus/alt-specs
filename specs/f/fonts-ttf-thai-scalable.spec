@@ -17,7 +17,7 @@ Name:      fonts-ttf-thai-scalable
 Version:   0.6.5
 Release:   alt1_1
 Summary:   Thai TrueType fonts
-License:   GPLv2+ and Bitstream Vera
+License:   GPL-2.0-or-later and ALT-Bitstream-Vera
 URL:       http://linux.thai.net/projects/thaifonts-scalable
 Source0:   http://linux.thai.net/pub/ThaiLinux/software/%{archivename}/%{archivename}-%{version}.tar.xz
 Source1:   %{fontconf}-garuda.conf

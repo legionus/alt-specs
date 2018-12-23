@@ -10,7 +10,7 @@ Name:          jaxb2-maven-plugin
 Version:       1.6
 Release:       alt1_7jpp8
 Summary:       JAXB-2 Maven Plugin
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://www.mojohaus.org/jaxb2-maven-plugin/
 # Source code avialable @ https://github.com/mojohaus/jaxb2-maven-plugin
 Source0:       http://repo2.maven.org/maven2/org/codehaus/mojo/%{name}/%{version}/%{name}-%{version}-source-release.zip

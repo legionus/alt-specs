@@ -11,7 +11,7 @@ Name:          fasterxml-oss-parent
 Version:       26
 Release:       alt1_6jpp8
 Summary:       FasterXML parent pom
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://fasterxml.com/
 Source0:       https://github.com/FasterXML/oss-parent/archive/oss-parent-%{version}.tar.gz
 

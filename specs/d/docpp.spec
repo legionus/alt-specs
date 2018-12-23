@@ -3,7 +3,7 @@ Name: docpp
 Version: 3.4.10
 Release: alt4.1
 Summary: Documentation system for C, C++, IDL and Java
-License: GPL v2
+License: GPL-2.0-only
 Group: Development/Tools
 Url: http://docpp.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

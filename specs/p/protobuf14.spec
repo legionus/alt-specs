@@ -15,7 +15,7 @@ Name: %oname%soversion
 Version: 3.4.1
 Release: alt2
 Summary: Protocol Buffers - Google's data interchange format
-License: Apache License 2.0
+License: Apache-2.0
 Group: System/Legacy libraries
 Url: https://github.com/google/protobuf
 

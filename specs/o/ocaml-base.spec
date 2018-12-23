@@ -4,7 +4,7 @@ Name: ocaml-%oname
 Version: 0.11.1
 Release: alt3
 Summary: Full standard library replacement for OCaml
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/ML
 Url: https://github.com/janestreet/%oname
 Source0: %name-%version.tar

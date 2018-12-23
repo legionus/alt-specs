@@ -4,7 +4,7 @@ Release: alt3
 Summary: Skin look and feel Skinning library for java
 
 Group: Development/Java
-License: ASL 2.0 and zlib and ASL 1.1
+License: Apache-2.0 and Zlib and Apache-1.1
 Url: http://skinlf.dev.java.net/
 
 Packager: Vitaly Kuznetsov <vitty@altlinux.ru>

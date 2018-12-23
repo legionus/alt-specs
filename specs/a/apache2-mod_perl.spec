@@ -10,7 +10,7 @@ Release: alt4.1
 Summary: An embedded Perl interpreter for the Apache2 Web server
 Summary(ru_RU.UTF-8): Встроенный интерпретатор Perl для веб-сервера Apache2
 
-License: Apache License v. 2.0
+License: Apache-2.0
 Group:   System/Servers
 
 URL:     http://perl.apache.org/

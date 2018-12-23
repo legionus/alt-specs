@@ -2,7 +2,7 @@ Name: PyrexDoc
 Version: 0.1
 Release: alt1.1
 Summary: PyrexDoc - doco generator for Pyrex
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: http://www.freenet.org.nz/python/pyrexdoc/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

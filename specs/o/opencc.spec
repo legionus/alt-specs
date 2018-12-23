@@ -3,7 +3,7 @@ Version:    1.0.5
 Release:    alt1.qa2
 Summary:    Libraries for Simplified-Traditional Chinese Conversion
 
-License:    ASL 2.0
+License:    Apache-2.0
 Group:      System/Libraries
 URL:        http://code.google.com/p/opencc/
 Source0:    %{name}-%{version}.tar

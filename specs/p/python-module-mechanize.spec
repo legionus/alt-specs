@@ -8,7 +8,7 @@ Release: alt1.1.1.2
 
 Summary: Stateful programmatic web browsing
 
-License: BSD / ZPL
+License: BSD or ZPL
 Group: Development/Other
 Url: http://wwwsearch.sourceforge.net/mechanize/
 

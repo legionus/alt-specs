@@ -2,7 +2,7 @@ Name: cura-fdm-materials
 Version: 3.4.1
 Release: alt1
 Summary: Cura FDM Material database
-License: Public Domain
+License: ALT-Public-Domain
 Group: Engineering
 Url: https://github.com/Ultimaker/fdm_materials
 Packager: Anton Midyukov <antohami@altlinux.org>

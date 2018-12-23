@@ -50,7 +50,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0
 Release:        alt1_0.13.git%{shortcommit}
 Summary:        HCL is a configuration language
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

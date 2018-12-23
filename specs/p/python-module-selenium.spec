@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 3.0.2
 Release: alt2.1
 Summary: Python bindings for Selenium
-License: ASL
+License: Apache
 Group: Development/Python
 Url: https://pypi.python.org/pypi/selenium/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

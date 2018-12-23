@@ -2,7 +2,7 @@ Summary:       Decodes a variety of digital transmission modes (DTMF,ZVEI,AX.25 
 Name:          multimon
 Version:       0.1
 Release:       alt2
-License:       GPL v2
+License:       GPL-2.0-only
 Group:         Sound
 Source:        %name-%version.tar
 URL:           http://www.baycom.org/~tom/ham/linux/multimon.html

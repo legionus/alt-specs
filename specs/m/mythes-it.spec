@@ -10,7 +10,7 @@ Version: 2.0.9l
 Release: alt1_18
 Source: http://downloads.sourceforge.net/sourceforge/linguistico/thesaurus2_it_02_09_l_2008_11_29.zip
 URL: http://linguistico.sourceforge.net/pages/thesaurus_italiano.html
-License: AGPLv3+
+License: AGPL-3.0-or-later
 BuildArch: noarch
 Requires: libmythes
 Source44: import.info

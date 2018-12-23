@@ -11,7 +11,7 @@ Release: alt1
 Group: System/Libraries
 Summary: Qt5 - QtImageFormats component
 Url: http://qt.io/
-License: LGPLv2 / GPLv3
+License: LGPLv2 or GPL-3.0-only
 
 Requires: %name-common = %EVR
 

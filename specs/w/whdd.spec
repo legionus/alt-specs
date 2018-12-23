@@ -3,7 +3,7 @@ Version: 3.0
 Release: alt2
 
 Summary: Diagnostic and recovery tool for block devices
-License: GNU GPL
+License: GPL
 Group: System/Kernel and hardware
 Url: https://github.com/whdd/whdd
 

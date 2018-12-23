@@ -10,7 +10,7 @@ Name:          apache-commons-pool2
 Version:       2.4.2
 Release:       alt4_5jpp8
 Summary:       Apache Commons Object Pooling Library 2.x series
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://commons.apache.org/proper/commons-pool/
 Source0:       http://www.apache.org/dist/commons/pool/source/commons-pool2-%{version}-src.tar.gz
 

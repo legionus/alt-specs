@@ -9,7 +9,7 @@ Release: alt4%ubt
 Group: System/Libraries
 Summary: Decoding RAW pictures
 Url: http://projects.kde.org/projects/kdegraphics/libs/libkdcraw
-License: GPLv2 and LGPLv2 and GPLv3
+License: GPL-2.0-only and LGPLv2 and GPL-3.0-only
 
 Conflicts: libkdcraw <= 0.1.5-alt2
 Provides: libkdcraw4-common = %version-%release

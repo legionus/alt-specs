@@ -16,7 +16,7 @@ Name:          jgroups
 Version:       3.6.10
 Release:       alt1_4jpp8
 Summary:       Toolkit for reliable multicast communication
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 URL:           http://www.jgroups.org
 Source0:       https://github.com/belaban/JGroups/archive/JGroups-%{namedversion}.tar.gz
 

@@ -7,7 +7,7 @@ Release:	alt1_12
 Summary:	TELNET protocol parsing framework
 
 Group:		System/Libraries
-License:	Public Domain
+License:	ALT-Public-Domain
 URL:		http://github.com/elanthis/libtelnet
 Source0:	http://cloud.github.com/downloads/seanmiddleditch/libtelnet/libtelnet-%{version}.tar.gz
 

@@ -4,7 +4,7 @@ Name: spai
 Version: 3.2
 Release: alt7
 Summary: SParse Approximate Inverse Preconditioner
-License: GPL v2
+License: GPL-2.0-only
 Group: Sciences/Mathematics
 Url: http://www.computational.unibas.ch/software/spai/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Allows stream based access to any variable
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Stream_Var
 

@@ -14,7 +14,7 @@ Version:        1.2.1.2
 Release:        alt1_15jpp8
 Summary:        A simple, light-weight, and modular OAuth client library for the Java platform
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/mttkay/signpost
 Source0:        https://github.com/mttkay/signpost/archive/%{githash}/signpost-%{githash}.tar.gz
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

@@ -3,7 +3,7 @@ Version: 0.7.3
 Release: alt1.1
 
 Summary: Ronn builds manuals from Markdown to roff format
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/rtomayko/ronn/
 

@@ -11,7 +11,7 @@ Version:        7
 Release:        alt1_14jpp8
 Summary:        Sonatype OSS Parent
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/sonatype/oss-parents
 # git clone git://github.com/sonatype/oss-parents.git
 # (cd ./oss-parents; git archive --prefix %{name}-%{version}/ oss-parent-%{version}) | gzip >%{name}-%{version}.tar.gz

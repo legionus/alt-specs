@@ -4,7 +4,7 @@ Release: alt3
 Summary: Statistical profiler which outputs in format suitable for FlameGraph
 
 Group: Monitoring
-License: Public Domain
+License: ALT-Public-Domain
 Url: https://github.com/evanhempel/python-flamegraph
 Source0: %name-%version.tar
 BuildRequires: python-module-setuptools

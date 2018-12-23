@@ -7,7 +7,7 @@ Name: golang-github-spf13-cobra
 Version: 0.0.2
 Release: alt1.git%abbrev
 Summary: Cobra is a library for creating powerful modern CLI applications
-License: Apache v.2
+License: Apache-2.0
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

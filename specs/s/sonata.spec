@@ -4,7 +4,7 @@ Release: alt1.a2.git20140903.2
 
 Summary: Sonata is an elegant GTK+ music client for the Music Player Daemon (MPD).
 Summary(ru_RU.UTF8): Sonata - элегантный клиент для Music Player Daemon (MPD), написаный на GTK+
-License: GPL3+
+License: GPL-3.0-or-later
 Group: Sound
 Url: https://github.com/multani/sonata
 

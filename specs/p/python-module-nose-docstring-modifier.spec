@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.0.6
 Release: alt1.git20141126.1.1
 Summary: Add attributes next to the original docstring
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/nose-docstring-modifier/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

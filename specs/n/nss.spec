@@ -4,7 +4,7 @@ Summary:	Netscape Network Security Services(NSS)
 Name:		nss
 Version:	3.40.0
 Release:	alt1
-License:	MPL/GPL/LGPL
+License:	MPL or GPL or LGPL
 Group:		System/Libraries
 Url:		http://www.mozilla.org/projects/security/pki/nss
 Packager:	Alexey Gladkov <legion@altlinux.ru>

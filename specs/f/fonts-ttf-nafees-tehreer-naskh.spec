@@ -14,7 +14,7 @@ Release:        alt2_12
 Summary:        Nafees tehreer naskh font for writing Urdu in the Naskh script
 
 Group:          System/Fonts/True type
-License:        Bitstream Vera
+License:        ALT-Bitstream-Vera
 URL:            http://www.crulp.org/index.htm
 
 Source0:        http://www.crulp.org/Downloads/localization/fonts/NafeesTahreerNaskh/%{archivename}.zip

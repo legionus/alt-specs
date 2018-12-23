@@ -6,7 +6,7 @@ Release: alt1%ubt
 
 Summary: API and commands for processing SPIR-V modules
 Group: Development/C++
-License: Apache 2.0
+License: Apache-2.0
 
 Url: https://www.khronos.org/registry/spir-v/
 Packager: Nazarov Denis <nenderus@altlinux.org>

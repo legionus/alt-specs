@@ -5,7 +5,7 @@ Version: 1.8.5
 Release: alt1
 Summary: Ruby libraries for %Name (HTML, XML, SAX, and Reader parser)
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 URL: http://%bname.org
 Source: %bname-%version.tar
 Patch:  shutdown-libxml2-warning.patch

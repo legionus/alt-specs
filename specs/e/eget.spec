@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: wget wrapper with wildcard support
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Networking/WWW
 Url: https://github.com/Etersoft/eget
 

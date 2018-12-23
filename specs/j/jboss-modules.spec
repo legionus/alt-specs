@@ -19,7 +19,7 @@ Summary:          A Modular Classloading System
 # XPP3 License: src/main/java/org/jboss/modules/xml/MXParser.java
 #  src/main/java/org/jboss/modules/xml/XmlPullParser.java
 #  src/main/java/org/jboss/modules/xml/XmlPullParserException.java
-License:          ASL 2.0 and xpp
+License:          Apache-2.0 and xpp
 URL:              https://github.com/jbossas/jboss-modules
 Source0:          https://github.com/jbossas/jboss-modules/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

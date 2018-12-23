@@ -15,7 +15,7 @@ Name:             weld-api
 Version:          2.3
 Release:          alt1_5.SP2jpp8
 Summary:          Weld API
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://weld.cdi-spec.org
 Source0:          https://github.com/weld/api/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

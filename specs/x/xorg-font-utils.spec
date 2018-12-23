@@ -3,7 +3,7 @@ Version: 1.3.0
 Release: alt1
 Epoch: 1
 Summary: Font utilities required for installing fonts
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

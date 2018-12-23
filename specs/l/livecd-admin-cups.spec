@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: allow user to configure local CUPS print server
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Printing
 
 BuildArch: noarch

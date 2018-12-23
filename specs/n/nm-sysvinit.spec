@@ -3,7 +3,7 @@ Version: 0.2
 Release: alt1
 
 Summary: Create the _nmconnect system group and add the user with UID=500 to the _nmconnect group
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Hardware
 
 Url: http://altlinux.org/sysvinit

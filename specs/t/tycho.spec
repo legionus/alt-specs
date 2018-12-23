@@ -1,7 +1,7 @@
 Name: tycho
 Version: 0.26.0
 Summary: Plugins and extensions for building Eclipse plugins and OSGI bundles with Maven
-License: ASL 2.0 and EPL
+License: Apache-2.0 and EPL
 Url: http://eclipse.org/tycho
 Packager: Igor Vlasenko <viy@altlinux.ru>
 Provides: mvn(org.eclipse.tycho:org.eclipse.tycho.core.shared) = 0.26.0

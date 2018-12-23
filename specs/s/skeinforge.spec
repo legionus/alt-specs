@@ -6,7 +6,7 @@ Summary:        Converts 3D model into G-Code for RepRap
 # Asked author for LICENSE file - will be in next release
 # Dev version for check: http://members.axion.net/~enrique/reprap_python_beanshell.zip
 # Don't ask me, why the dev version isn't on the same website :(
-License:        AGPLv3
+License:        AGPL-3.0-only
 Group:          Engineering
 URL:            http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge
 Source0:        http://fabmetheus.crsndoo.com/files/50_reprap_python_beanshell.zip

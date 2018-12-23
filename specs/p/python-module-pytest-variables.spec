@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.4
 Release: alt1.1
 Summary: pytest plugin for providing variables to tests/fixtures
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pytest-variables/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

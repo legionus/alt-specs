@@ -8,7 +8,7 @@ Summary:        RPM Development Tools from Fedora Project.
 
 Group:          Development/Other
 # rpmdev-setuptree is GPLv2, everything else GPLv2+
-License:        GPLv2+ and GPLv2
+License:        GPL-2.0-or-later and GPL-2.0-only
 URL:            http://fedoraproject.org/
 Source0:        %{name}-%{version}.tar.bz2
 

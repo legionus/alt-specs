@@ -15,7 +15,7 @@ Summary: OpenPrinting CUPS filters and backends
 # GPLv2+:  filters: textonly, texttops, imagetops
 # GPLv3:   filters: bannertopdf
 # MIT:     filters: pdftoijs, pdftoopvp, pdftopdf, pdftoraster
-License: GPLv2 and GPLv2+ and GPLv3 and MIT
+License: GPL-2.0-only and GPL-2.0-or-later and GPL-3.0-only and MIT
 Group: System/Servers
 
 Url: http://www.linuxfoundation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format

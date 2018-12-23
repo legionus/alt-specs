@@ -6,7 +6,7 @@ Release: alt2
 Epoch:   1
  
 Summary: HighLine is a high-level command-line IO Ruby library
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://highline.rubyforge.org
  

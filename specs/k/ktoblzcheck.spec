@@ -6,7 +6,7 @@ Summary: A library to check account numbers and bank codes of German banks
 
 Packager: Andrey Cherepanov <cas@altlinux.org>
 
-License: LGPL v2+
+License: LGPL-2.0-or-later
 Group: System/Libraries
 Url: http://ktoblzcheck.sourceforge.net/
 

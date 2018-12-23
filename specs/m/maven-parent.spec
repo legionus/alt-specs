@@ -10,7 +10,7 @@ Name:           maven-parent
 Version:        27
 Release:        alt1_4jpp8
 Summary:        Apache Maven parent POM
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/%{name}/%{version}/%{name}-%{version}-source-release.zip
 BuildArch:      noarch

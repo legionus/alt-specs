@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: IPv4 network calculations and validation
 
-License: PHP License 3.01
+License: PHP-3.01
 Group: Development/Other
 Url: http://pear.php.net/package/Net_IPv4
 

@@ -11,7 +11,7 @@ Name:          java-oauth
 Version:       20100601
 Release:       alt2_15jpp8
 Summary:       An open protocol to allow API authentication
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://code.google.com/p/oauth/
 # svn export http://oauth.googlecode.com/svn/code/java oauth-20100601
 # find oauth-20100601 -name "*.bat" -delete

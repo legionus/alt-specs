@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Music Player Daemon interaction API
 
-License: PHP License 3.01
+License: PHP-3.01
 Group: Development/Other
 Url: http://pear.php.net/package/Net_MPD
 

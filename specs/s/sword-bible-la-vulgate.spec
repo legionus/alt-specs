@@ -5,7 +5,7 @@ Release: alt1
 Summary: Latin Vulgate for SWORD
 Summary(ru_RU.UTF-8): Latin Vulgate для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

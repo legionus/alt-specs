@@ -16,7 +16,7 @@ Release:       alt1_4jpp8
 Summary:       Security, Authentication, and Authorization SPIs for the WildFly project
 # LGPLv2: ./src/main/java/org/wildfly/security/permission/PermissionActions.java
 # most of the code in ./src/main/java/org/wildfly/security/manager/
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 URL:           http://wildfly.org/
 Source0:       https://github.com/wildfly-security/wildfly-elytron/archive/%{namedversion}.tar.gz
 

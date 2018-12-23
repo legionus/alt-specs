@@ -6,7 +6,7 @@ Release: alt2
 Group: System/Base
 Summary: The password-hashing tools
 
-License: Public Domain or ASL 2.0
+License: ALT-Public-Domain or Apache-2.0
 Url: https://github.com/P-H-C/phc-winner-argon2
 # Git-VCS: https://github.com/P-H-C/phc-winner-argon2.git
 Source: %name-%version.tar

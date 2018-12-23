@@ -10,7 +10,7 @@ Name:          dnssec4j
 Version:       0.1.6
 Release:       alt1_5jpp8
 Summary:       Java Wrapper around DNSSEC primitives in dnsjava
-License:       ASL 2.0 and GPLv3+
+License:       Apache-2.0 and GPL-3.0-or-later
 URL:           https://github.com/adamfisk/DNSSEC4J
 Source0:       https://github.com/adamfisk/DNSSEC4J/archive/%{name}-%{version}.tar.gz
 

@@ -3,7 +3,7 @@ Version: 2.11.19
 Release: alt1
 Epoch: 2
 Summary: AMD Geode GX and LX Xorg graphics Driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

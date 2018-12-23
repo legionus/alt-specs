@@ -10,7 +10,7 @@ Release: alt1.3.1
 
 Summary: Production-quality 'Min' and 'Max' objects
 
-License: PSF or ZPL
+License: Python-2.0 or ZPL
 Group: Development/Python
 BuildArch: noarch
 Url:  http://pypi.python.org/pypi/Extremes

@@ -9,7 +9,7 @@ Name: %{_name}-compat%{soversion}
 Version: 2.4.1
 Release: alt5
 Summary: Protocol Buffers - Google's data interchange format
-License: Apache License 2.0
+License: Apache-2.0
 Group: System/Libraries
 Url: http://code.google.com/p/protobuf/
 Packager: Mikhail A Pokidko <pma@altlinux.ru>

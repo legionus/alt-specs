@@ -11,7 +11,7 @@ Name:           apache-commons-parent
 Version:        43
 Release:        alt1_2jpp8
 Summary:        Apache Commons Parent Pom
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://svn.apache.org/repos/asf/commons/proper/commons-parent/tags/commons-parent-%{version}/
 BuildArch:      noarch
 

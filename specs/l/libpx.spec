@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: A library to read Paradox DB files
 
-License: GPL v2
+License: GPL-2.0-only
 Group: System/Libraries
 Url: http://pxlib.sourceforge.net/
 

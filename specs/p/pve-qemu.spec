@@ -57,7 +57,7 @@ Version: 2.12.1
 Release: alt1
 Epoch: 1
 Summary: QEMU CPU Emulator
-License: GPL/LGPL/BSD
+License: GPL or LGPL or BSD
 Group: Emulators
 Requires: %name-system = %version-%release %name-user = %version-%release
 Conflicts: %rname

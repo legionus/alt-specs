@@ -2,7 +2,7 @@ Name: sqlite3
 Version: 3.25.2
 Release: alt2
 Summary: An Embeddable SQL Database Engine
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Databases
 URL: http://www.sqlite.org/
 

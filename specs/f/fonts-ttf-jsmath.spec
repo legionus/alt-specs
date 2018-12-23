@@ -8,7 +8,7 @@ Version: 20090708
 Release: alt3_12
 
 # derived from computer modern metafont tex sources
-License: Public domain 
+License: ALT-Public-Domain
 Group: 	 System/Fonts/True type
 Url: 	 http://www.math.union.edu/~dpvc/jsmath/welcome.html
 Source0: http://www.math.union.edu/~dpvc/jsmath/download/TeX-fonts-linux.tgz

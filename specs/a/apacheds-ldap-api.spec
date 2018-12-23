@@ -14,7 +14,7 @@ Name:          apacheds-ldap-api
 Version:       1.0.0
 Release:       alt1_0.5.M33jpp8
 Summary:       Apache Directory LDAP API
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://directory.apache.org/api/
 Source0:       http://www.apache.org/dist/directory/api/dist/%{namedversion}/apache-ldap-api-%{namedversion}-src.tar.gz
 

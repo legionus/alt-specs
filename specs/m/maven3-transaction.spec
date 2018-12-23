@@ -1,7 +1,7 @@
 Name: maven3-transaction
 Version: 1.0.1
 Summary: Maven3 transaction files
-License: ASL 2.0
+License: Apache-2.0
 Packager: Igor Vlasenko <viy@altlinux.ru>
 BuildArch: noarch
 Group: Development/Java

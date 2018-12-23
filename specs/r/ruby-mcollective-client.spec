@@ -5,7 +5,7 @@ Version: 2.12.1
 Release: alt1
 
 Summary: Client libraries for the Mcollective Application Server
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://rubygems.org/gems/mcollective-client/versions/2.11.0
 

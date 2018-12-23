@@ -17,7 +17,7 @@ Release: alt3_18.svn96jpp8
 Summary: Bundle Manifest Header Mapper
 
 Group:   Development/Other
-License: ASL 2.0
+License: Apache-2.0
 URL:     http://www.osgi.org/Repository/BIndex
 
 # The source for this package was pulled from upstream's vcs.  Use the

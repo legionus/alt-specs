@@ -54,7 +54,7 @@ Release:        alt1_0.4.git%{shortcommit}
 Summary:        Generates UUID-format strings using purely high quality random bytes
 # Detected licences
 # - *No copyright* MPL (v2.0) at 'LICENSE'
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

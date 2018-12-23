@@ -6,7 +6,7 @@ Summary: Rogue-like RPG
 Summary(de): Rogue-artiges Rollenspiel
 Group: Games/Adventure
 Release: alt6.svn3264
-License: GPL2
+License: GPL-2.0-only
 URL: https://sourceforge.net/projects/scourge/
 
 Source: scourge-%{version}.src.tar

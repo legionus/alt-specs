@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Advanced Knowledge Architecture for Social Human Advocacy
 
-License: Apache 2.0
+License: Apache-2.0
 Url: https://github.com/AkashaProject/node-app#readme
 Group: Networking/Instant messaging
 

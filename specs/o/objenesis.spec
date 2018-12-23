@@ -41,7 +41,7 @@ Summary:        A library for instantiating Java objects
 Name:           objenesis
 Version:        2.6
 Release:        alt1_1jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://objenesis.org/
 Source0:        https://github.com/easymock/%{name}/archive/%{version}.tar.gz
 

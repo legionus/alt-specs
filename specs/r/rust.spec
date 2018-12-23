@@ -8,7 +8,7 @@ Release: alt2
 Summary: The Rust Programming Language
 
 Group: Development/Other
-License: Apache 2.0, MIT 
+License: Apache-2.0 and MIT
 URL: http://www.rust-lang.org/
 
 Source: https://static.rust-lang.org/dist/%{name}c-%version-src.tar.xz
@@ -147,7 +147,7 @@ reformatting, and code completion, and enables renaming and refactorings.
 Summary: Lints to catch common mistakes and improve your Rust code
 Version: 0.0.212
 Group: Development/Tools
-License: MPLv2.0
+License: MPL-2.0
 Requires: rust-cargo
 Requires: %name = %rust_ver-%release
 

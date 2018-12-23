@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Zlib compatible better compressor
 
-License: ASL 2.0
+License: Apache-2.0
 Group: File tools
 Url: https://github.com/google/zopfli
 

@@ -10,7 +10,7 @@ Name:          cxf-build-utils
 Version:       3.2.0
 Release:       alt1_5jpp8
 Summary:       Apache CXF Build Utils
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://cxf.apache.org/build-utils.html
 Source0:       https://github.com/apache/cxf-build-utils/archive/%{name}-%{version}.tar.gz
 

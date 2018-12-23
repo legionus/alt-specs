@@ -54,7 +54,7 @@ Release:        alt1_0.4.20160627git%{shortcommit}
 Summary:        Provides utilities for mapping and injecting dependencies in various ways
 # Detected licences
 # - *No copyright* Apache (v2.0) at 'LICENSE'
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

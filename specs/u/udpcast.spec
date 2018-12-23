@@ -3,7 +3,7 @@ Version: 20110710
 Release: alt1.1
 
 Summary: UDP broadcast file distribution and installation
-License: GPLv2+ and BSD
+License: GPL-2.0-or-later and BSD
 Group: Networking/Other
 
 URL: http://udpcast.linux.lu/

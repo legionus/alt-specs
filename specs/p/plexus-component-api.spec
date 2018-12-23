@@ -14,7 +14,7 @@ Version:        1.0
 Release:        alt4_0.24.alpha15jpp8
 Summary:        Plexus Component API
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://svn.codehaus.org/plexus/plexus-containers/tags/plexus-containers-1.0-alpha-15/plexus-component-api/
 #svn export http://svn.codehaus.org/plexus/plexus-containers/tags/plexus-containers-1.0-alpha-15/plexus-component-api/ plexus-component-api-1.0-alpha-15
 #tar zcf plexus-component-api-1.0-alpha-15.tar.gz plexus-component-api-1.0-alpha-15/

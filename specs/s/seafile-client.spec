@@ -5,7 +5,7 @@ Release: alt1
 Summary: Seafile gui client on QT bassed
 
 Group: Networking/File transfer
-License: Apache License
+License: Apache
 Url: https://github.com/haiwen/seafile-client
 
 Packager: Denis Baranov <baraka@altlinux.ru>

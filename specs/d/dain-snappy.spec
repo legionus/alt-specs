@@ -21,7 +21,7 @@ Name:           dain-snappy
 Version:        0.4
 Release:        alt1_5jpp8
 Summary:        Snappy compression library
-License:        ASL 2.0 and BSD
+License:        Apache-2.0 and BSD
 URL:            https://github.com/dain/snappy
 BuildArch:      noarch
 

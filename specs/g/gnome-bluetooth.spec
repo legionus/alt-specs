@@ -12,7 +12,7 @@ Version: %ver_major.2
 Release: alt1
 
 Summary: The GNOME Bluetooth Subsystem
-License: GPLv2/LGPLv2
+License: GPL-2.0-only or LGPLv2
 Group: System/Libraries
 Url: https://wiki.gnome.org/Projects/GnomeBluetooth
 

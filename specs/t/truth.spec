@@ -11,7 +11,7 @@ Name:           truth
 Version:        0.23
 Release:        alt2_6jpp8
 Summary:        An assertion framework for Java unit tests
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/google/truth
 # Created from revision 3c4492b0f72290c8b4a32f1b313b13501e96f44d
 # of git@github.com:google/truth.git using the following command:

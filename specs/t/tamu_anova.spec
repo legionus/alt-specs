@@ -3,7 +3,7 @@ Name: tamu_anova
 Version: 0.2
 Release: alt3
 Summary: ANOVA Extensions to the GNU Scientific Library
-License: GPL v2
+License: GPL-2.0-only
 Group: Sciences/Other
 Url: http://www.stat.tamu.edu/~aredd/tamuanova/
 

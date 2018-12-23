@@ -17,7 +17,7 @@ Name:             protostream
 Version:          3.0.4
 Release:          alt1_5jpp8
 Summary:          Infinispan ProtoStream
-License:          ASL 2.0 and BSD
+License:          Apache-2.0 and BSD
 Url:              http://infinispan.org/
 Source0:          https://github.com/infinispan/protostream/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

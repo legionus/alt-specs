@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Geographical locations based on Internet address
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_Geo
 

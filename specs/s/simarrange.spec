@@ -7,7 +7,7 @@ Release:        alt3.%{relstring}
 Summary:        STL 2D plate packer with collision simulation
 
 Group:		Engineering
-License:        AGPLv3+
+License:        AGPL-3.0-or-later
 URL:            https://github.com/kliment/%name
 Source0:        %{name}-%{version}.tar
 BuildRequires:  libadmesh-devel

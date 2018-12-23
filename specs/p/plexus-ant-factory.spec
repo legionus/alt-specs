@@ -46,7 +46,7 @@ Epoch:          0
 Summary:        Plexus Ant component factory
 # Email from copyright holder confirms license.
 # See plexus-ant-factory_license_and_copyright.txt
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          Development/Java
 URL:            http://plexus.codehaus.org/
 Source0:        %{name}-src.tar.bz2

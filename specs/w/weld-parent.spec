@@ -10,7 +10,7 @@ Name:             weld-parent
 Version:          34
 Release:          alt1_5jpp8
 Summary:          Parent POM for Weld
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://weld.cdi-spec.org
 Source0:          https://github.com/weld/parent/archive/%{version}.tar.gz
 

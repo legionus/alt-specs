@@ -3,7 +3,7 @@ Version: 0.9.3b.0.31.git701e3a3
 Release: alt3
 
 Summary: Intuitive EDA platform featuring from prototype to product
-License: GPLv3, CC-BY-SA-3.0
+License: GPL-3.0-only and CC-BY-SA-3.0
 Group: Engineering
 
 Url: http://fritzing.org

@@ -7,7 +7,7 @@ Version: 1.0.4
 Release: alt1%ubt
 Summary: Library for ejabberd for PAM authentication support
 Group: Development/Erlang
-License: Apache 2.0
+License: Apache-2.0
 Url: https://github.com/processone/epam
 
 # https://github.com/processone/epam.git

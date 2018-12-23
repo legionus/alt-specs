@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: HTML/XML parser for quick-turnaround applications like screen-scraping
 
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: http://www.crummy.com/software/BeautifulSoup/
 

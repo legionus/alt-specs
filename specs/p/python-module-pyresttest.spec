@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.3.1
 Release: alt1.git20150213.1
 Summary: Python RESTful API Testing & Microbenchmarking Tool
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pyresttest/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

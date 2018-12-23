@@ -5,7 +5,7 @@ Version: 0.7.10
 Release: alt2.1
 
 Summary: Microsoft Azure Client Library for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/azure/azure-sdk-for-ruby
 

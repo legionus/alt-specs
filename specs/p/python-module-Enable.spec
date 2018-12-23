@@ -6,7 +6,7 @@ Release: alt1
 Summary: Drawing and interaction packages
 
 Group: Development/Python
-License: BSD and GPLv2
+License: BSD and GPL-2.0-only
 URL: http://code.enthought.com/projects/enable/
 # https://github.com/enthought/enable.git
 Source0: https://pypi.python.org/packages/08/3d/d57626e77a6fdc16feab3b5df615507193ad5c1ec163d960f1f54e729e70/enable-%{version}.tar.bz2

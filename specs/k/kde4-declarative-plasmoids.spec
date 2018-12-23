@@ -7,7 +7,7 @@ Release: alt2
 
 Group: Graphical desktop/KDE
 Summary: KDE declarative plasmoids
-License: GPLv2+ / LGPLv2
+License: GPL-2.0-or-later or LGPLv2
 Url: http://kde.org/
 
 BuildArch: noarch

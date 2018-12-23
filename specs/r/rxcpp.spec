@@ -6,7 +6,7 @@ Name:    rxcpp
 Version: 4.0.0
 Release: alt1
 Summary: Reactive Extensions for C++
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/C++
 URL:     https://github.com/ReactiveX/RxCpp
 

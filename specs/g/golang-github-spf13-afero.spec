@@ -51,7 +51,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        1.1.0
 Release:        alt1_1
 Summary:        A FileSystem Abstraction System for Go
-License:        ASL2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

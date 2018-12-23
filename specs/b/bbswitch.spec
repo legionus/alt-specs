@@ -3,7 +3,7 @@ Version: 0.8
 Release: alt1
 
 Summary: kernel support for power management of nVidia GPU on Optimus enabled laptops.
-License: GPL2+
+License: GPL-2.0-or-later
 Group: System/Kernel and hardware
 
 URL: https://github.com/Bumblebee-Project/bbswitch.git

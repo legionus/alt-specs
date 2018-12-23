@@ -3,7 +3,7 @@ Version: 1.6.35
 Release: alt1
 
 Summary: A library of functions for manipulating PNG image format files
-License: zlib
+License: Zlib
 Group: System/Libraries
 Url: http://www.libpng.org/pub/png/
 

@@ -13,7 +13,7 @@ Version: 1.12
 Release: alt2_14jpp8
 Summary: RELAX NG Compiler Compiler
 
-License: ASL 1.1
+License: Apache-1.1
 
 Url: http://relaxngcc.sourceforge.net/en/index.htm
 

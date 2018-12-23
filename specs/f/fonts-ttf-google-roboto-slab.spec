@@ -11,7 +11,7 @@ Version:       1.100263
 Release:       alt1_0.6.20150923git
 Summary:       Google Roboto Slab fonts
 
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://www.google.com/fonts/specimen/Roboto+Slab
 # There are no tar archive so let's pick all the individual source files from github
 Source0:       https://raw.githubusercontent.com/google/fonts/%{commit0}/apache/robotoslab/RobotoSlab-Regular.ttf

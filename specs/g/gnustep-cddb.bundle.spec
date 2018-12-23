@@ -4,7 +4,7 @@ Name: gnustep-cddb.bundle
 Version: 0.2
 Release: alt6.1
 Summary: GNUstep bundle for cddb access
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: Graphical desktop/GNUstep
 Url: http://gsburn.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

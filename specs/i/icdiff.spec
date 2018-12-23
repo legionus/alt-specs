@@ -7,7 +7,7 @@ Version:        1.7.3
 Release:        alt2
 URL:            http://www.jefftk.com/icdiff
 Packager: 	Valentin Rosavitskiy <valintinr@altlinux.org>
-License:        PSF
+License:        Python-2.0
 Group: 		File tools
 
 BuildRequires:  python-devel

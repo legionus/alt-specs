@@ -12,7 +12,7 @@ Release: alt1
 # Release: alt1.git_1_%git_commit
 # %%endif
 
-License: MPL/GPL/LGPL
+License: MPL or GPL or LGPL
 Group: Networking/WWW
 
 # git commit 0fe675cd9692cc792c4d5a267dce11702ee4d4f4

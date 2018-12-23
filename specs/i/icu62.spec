@@ -11,7 +11,7 @@ Epoch: 1
 
 Summary: International Components for Unicode
 Group: System/Libraries
-License: X License
+License: X11
 Url: http://www.icu-project.org/
 
 Source: http://download.icu-project.org/files/icu4c/%real_ver/icu4c-%{real_ver_major}_%{real_ver_minor}-src.tgz

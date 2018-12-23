@@ -10,7 +10,7 @@ Name:           google-gson
 Version:        2.8.2
 Release:        alt1_1jpp8
 Summary:        Java lib for conversion of Java objects into JSON representation
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/google/gson
 Source0:        https://github.com/google/gson/archive/gson-parent-%{version}.tar.gz
 Patch0:         osgi-export-internal.patch

@@ -15,7 +15,7 @@ Epoch: 1
 %setup_python_module %modulename
 
 Summary: HTML form validation, generation, and convertion package for Python
-License: PSF
+License: Python-2.0
 Group: Development/Python
 
 URL: http://formencode.org

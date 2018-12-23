@@ -13,7 +13,7 @@ Source: https://ayera.dl.sourceforge.net/project/aoo-extensions/1446/2/dict_sc_i
 URL: http://extensions.services.openoffice.org/project/Dict_sc
 #The license included is AGPLv3 and pkg-desc/pkg-description.txt
 #says AGPLv3 or later, but the sc_IT.aff header states "GPLv2"
-License: AGPLv3+ and GPLv2
+License: AGPL-3.0-or-later and GPL-2.0-only
 BuildArch: noarch
 BuildRequires: hunspell-utils libhunspell-devel
 

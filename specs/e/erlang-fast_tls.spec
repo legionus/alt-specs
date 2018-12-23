@@ -7,7 +7,7 @@ Version: 1.0.21
 Release: alt2%ubt
 Summary: TLS / SSL OpenSSL-based native driver for Erlang / Elixir
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/fast_tls
 
 # https://github.com/processone/fast_tls.git

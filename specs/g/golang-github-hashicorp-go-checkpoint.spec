@@ -42,7 +42,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0
 Release:        alt1_0.12.git%{shortcommit}
 Summary:        Hashicorp checkpoint client
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

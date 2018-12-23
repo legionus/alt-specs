@@ -23,7 +23,7 @@ the Microchip PIC16 and PIC18 targets. It can be retargeted for other
 microprocessors.
 
 %package common
-License: GPL, LGPL
+License: GPL and LGPL
 Group:         Development/C
 Summary:       Libraries and Header Files for the SDCC C compiler
 %description common

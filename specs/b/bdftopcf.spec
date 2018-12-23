@@ -3,7 +3,7 @@ Version: 1.1
 Release: alt1
 
 Summary: convert X font from Bitmap Distribution Format to Portable Compiled Format
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

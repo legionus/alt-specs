@@ -10,7 +10,7 @@ Version: %version
 Release: %release
 Source: %name-%version.tar
 Patch: %name-%version-%release.patch
-License: Apache2
+License: Apache-2.0
 Group: System/Configuration/Networking
 Url: https://github.com/sivel/speedtest-cli
 

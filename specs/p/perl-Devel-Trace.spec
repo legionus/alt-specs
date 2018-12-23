@@ -4,7 +4,7 @@ Version: 0.12
 Release: alt1
 
 Summary: Print out each line before it is executed
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Perl
 
 URL: %CPAN %dist

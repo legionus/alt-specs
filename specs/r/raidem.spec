@@ -8,7 +8,7 @@ Version:        0.3.1
 Release:        alt2_35
 Summary:        2d top-down shoot'em up
 Group:          Games/Other
-License:        zlib
+License:        Zlib
 URL:            http://home.exetel.com.au/tjaden/raidem/
 # This is an exacy copy of the upstream src except that lib/almp3 which is
 # an included mp3 decoder has been removed.

@@ -11,7 +11,7 @@ Version: 0.2.1
 Release: alt1.1
 Summary: Provides tab groups (Panorama)
 
-License: GPL2
+License: GPL-2.0-only
 Group: Networking/WWW
 Url: https://github.com/wolfbeast/palemoon-tabgroups.git
 BuildArch: noarch

@@ -6,7 +6,7 @@ Name: libsodium
 Summary: %name
 Version: 1.0.16
 Release: alt1
-License: ISC license
+License: ISC
 Group: System/Libraries
 Packager: Denis Smirnov <mithraen@altlinux.ru>
 Source: %name-%version.tar

@@ -16,7 +16,7 @@ Release: alt1
 
 Summary: An implementation of basic iCAL protocols
 Group: System/Libraries
-License: LGPL2.1+/MPL-1.0
+License: LGPL2.1+ or MPL-1.0
 Url: https://github.com/%name
 
 %if_disabled snapshot

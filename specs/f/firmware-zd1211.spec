@@ -5,7 +5,7 @@ Version: 1.5
 Release: alt1
 
 Summary: Firmware for ZD1211 USB WLAN chip
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: System/Kernel and hardware
 
 Url: http://zd1211.ath.cx/

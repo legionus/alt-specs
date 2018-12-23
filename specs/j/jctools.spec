@@ -15,7 +15,7 @@ Name:          jctools
 Version:       2.0.2
 Release:       alt1_3jpp8
 Summary:       Java Concurrency Tools for the JVM
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://jctools.github.io/JCTools/
 Source0:       https://github.com/JCTools/JCTools/archive/v%{namedversion}/%{name}-%{namedversion}.tar.gz
 

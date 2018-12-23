@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: rTorrent - rakshasa's ncurses BitTorrent client using librTorrent
 Group: Networking/File transfer
-License: GPL2
+License: GPL-2.0-only
 Url: https://github.com/rakshasa/rtorrent/wiki
 
 # https://github.com/rakshasa/rtorrent.git

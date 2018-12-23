@@ -10,7 +10,7 @@ Version:        1.4
 Release:        alt2_22
 Summary:        Guide the insects safely home before they drop of the cliff
 Group:          Games/Other
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://www.allegro.cc/depot/Ants
 Source0:        http://games.linux.sk/files/ants-1.4.tar.gz
 Source1:        ants.desktop

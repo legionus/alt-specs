@@ -10,7 +10,7 @@ Version: 1.00.1
 Release: alt1_18
 Source: https://downloads.sourceforge.net/project/aoo-extensions/1966/4/hyph_sv_se.oxt
 URL: http://extensions.services.openoffice.org/node/1968
-License: LGPLv2+ or GPLv2+
+License: LGPLv2+ or GPL-2.0-or-later
 BuildArch: noarch
 Requires: libhyphen
 Source44: import.info

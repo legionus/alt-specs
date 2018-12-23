@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 4.8
 Release: alt2.svn20140714.2
 Summary: A Python Utility Library
-License: BSD, LGPL
+License: BSD and LGPL
 Group: Development/Python
 Url: https://software.sandia.gov/trac/pyutilib
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

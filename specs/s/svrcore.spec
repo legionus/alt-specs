@@ -2,7 +2,7 @@ Summary:	Secure PIN handling using NSS crypto
 Name:		svrcore
 Version:	4.1.2
 Release:	alt2
-License:	MPL/GPL/LGPL
+License:	MPL or GPL or LGPL
 URL:		https://pagure.io/svrcore
 Group:		System/Libraries
 Packager:	Andrey Cherepanov <cas@altlinux.org>

@@ -3,7 +3,7 @@ Name: cacti-spine
 Version: 1.0.3
 Release: alt1
 
-License: GPL2
+License: GPL-2.0-only
 Group: Monitoring
 
 Summary: Fast c-based poller for package Cacti

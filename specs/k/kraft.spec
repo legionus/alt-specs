@@ -5,7 +5,7 @@ Release:        alt2
 
 Summary:        Kraft - Software for small business
 Summary(ru_RU.UTF-8): Kraft — программное обеспечение для малого бизнеса
-License:        GPL, LGPL
+License:        GPL and LGPL
 Group:          Office
 URL:            http://www.volle-kraft-voraus.de/
 

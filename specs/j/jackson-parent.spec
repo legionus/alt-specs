@@ -10,7 +10,7 @@ Name:          jackson-parent
 Version:       2.9.1
 Release:       alt1_2jpp8
 Summary:       Parent pom for all Jackson components
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/FasterXML/jackson-parent
 Source0:       https://github.com/FasterXML/jackson-parent/archive/%{name}-%{version}.tar.gz
 # jackson-parent package don't include the license file

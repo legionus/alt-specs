@@ -5,7 +5,7 @@ Version: 1.2.1
 Release: alt1.1
  
 Summary: RR is a test double framework that features a rich selection of double techniques and a terse syntax
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/rr/rr
  

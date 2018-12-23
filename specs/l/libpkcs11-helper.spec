@@ -13,7 +13,7 @@ Release: alt3
 Summary: A library for using PKCS#11 providers
 
 Group: Development/Other
-License: GPLv2 or BSD
+License: GPL-2.0-only or BSD
 Url: https://github.com/OpenSC/pkcs11-helper
 
 Source: %name-%version.tar

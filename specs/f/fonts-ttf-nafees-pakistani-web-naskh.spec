@@ -9,7 +9,7 @@ Release:	alt2_11
 Summary:	Nafees pakistani web naskh font for writing Urdu 
 
 Group:		System/Fonts/True type
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 URL:		http://www.crulp.org/index.htm
 Source0:	http://www.crulp.org/Downloads/NafeesPakistaniWebNaskh(BTK2.0).ttf
 Source1:	%{fontname}-update-preferred-family.pe

@@ -8,7 +8,7 @@ Release: alt1.3
 
 Summary: Fast code profiler for Ruby
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: https://github.com/ruby-prof/ruby-prof
 
 Source: %pkgname-%version.tar

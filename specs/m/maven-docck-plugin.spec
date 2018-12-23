@@ -10,7 +10,7 @@ Name:           maven-docck-plugin
 Version:        1.1
 Release:        alt1_6jpp8
 Summary:        Maven Documentation Checker Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-docck-plugin/
 BuildArch:      noarch
 

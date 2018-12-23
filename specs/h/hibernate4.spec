@@ -18,7 +18,7 @@ Version:       4.3.11
 Release:       alt1_6jpp8
 Summary:       Relational persistence and query service
 # Incorrect Free Software Foundation address https://hibernate.atlassian.net/browse/HHH-10961
-License:       LGPLv2+ and ASL 2.0
+License:       LGPLv2+ and Apache-2.0
 URL:           http://www.hibernate.org/
 Source0:       https://github.com/hibernate/hibernate-orm/archive/%{namedversion}/hibernate-%{namedversion}.tar.gz
 

@@ -8,7 +8,7 @@ Release: alt1.1
 
 Summary: FireWire interface library
 
-License: GPL/LGPL
+License: GPL or LGPL
 Group: System/Libraries
 Url: http://ieee1394.wiki.kernel.org
 

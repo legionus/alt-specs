@@ -8,7 +8,7 @@ Release: alt3%ubt
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 help center
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: kf5-khelpcenter = %EVR kf5-khelpcenter-common = %EVR
 Obsoletes: kf5-khelpcenter < %EVR kf5-khelpcenter-common < %EVR

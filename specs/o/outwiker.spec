@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: OutWiker is designed to store notes in a tree
 
-License: GPL3
+License: GPL-3.0-only
 Group: Text tools
 Url: http://jenyay.net/Soft/Outwiker
 

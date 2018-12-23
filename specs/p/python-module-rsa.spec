@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 3.4.2
 Release: alt1.1
 Summary: Pure-Python RSA implementation
-License: ASLv2
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/rsa/
 

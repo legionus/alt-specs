@@ -6,7 +6,7 @@ Release: alt1
 Summary: A collection of Python deprecation patterns and strategies
 Group: Development/Python
 
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/debtcollector
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 

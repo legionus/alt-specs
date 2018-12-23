@@ -5,7 +5,7 @@ Release: alt1.qa1
 Packager: Victor Forsyuk <force@altlinux.org>
 
 Summary: shd-tcp-tools is a set of TCP network tools
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: Networking/Other
 
 URL: http://zakalwe.fi/~shd/foss/shd-tcp-tools/

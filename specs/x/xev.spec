@@ -2,7 +2,7 @@ Name: xev
 Version: 1.2.2
 Release: alt1
 Summary: print contents of X events
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: https://cgit.freedesktop.org/xorg/app/xev/
 

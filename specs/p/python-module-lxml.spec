@@ -13,7 +13,7 @@ Summary: Powerful and Pythonic XML processing library combining libxml2/libxslt 
 # Source-git: https://github.com/lxml/lxml.git
 Source: %name-%version.tar
 
-License: BSD/GPLv2/ZPL/PSF
+License: BSD or GPL-2.0-only or ZPL or Python-2.0
 Group: Development/Python
 URL: http://codespeak.net/lxml
 

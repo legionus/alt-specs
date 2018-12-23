@@ -5,7 +5,7 @@ Version: 4.0.0
 Release: alt1.gita5aef20.1
  
 Summary: Collection of shared software descriptions, for use by any Omnibus project that needs them
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/omnibus-software.git
  

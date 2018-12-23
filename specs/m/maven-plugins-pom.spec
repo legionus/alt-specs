@@ -12,7 +12,7 @@ Name:           %{short_name}-pom
 Version:        28
 Release:        alt1_6jpp8
 Summary:        Maven Plugins POM
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/
 BuildArch:      noarch
 

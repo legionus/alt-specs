@@ -16,7 +16,7 @@ Name:             log4j-jboss-logmanager
 Version:          1.1.2
 Release:          alt1_5jpp8
 Summary:          JBoss Log4j Emulation
-License:          ASL 2.0
+License:          Apache-2.0
 Url:              https://github.com/jboss-logging/log4j-jboss-logmanager
 Source0:          https://github.com/jboss-logging/log4j-jboss-logmanager/archive/%{namedversion}.tar.gz
 

@@ -10,7 +10,7 @@ Name:             maven-shared-jarsigner
 Version:          1.3.2
 Release:          alt1_7jpp8
 Summary:          Component to assist in signing Java archives
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://maven.apache.org/shared/maven-jarsigner/
 BuildArch:        noarch
 

@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 2.2.1
 Release: alt1.1.2
 Summary: Higher Level Zookeeper Client
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/kazoo/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

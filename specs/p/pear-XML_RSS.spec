@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: RSS parser
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_RSS
 

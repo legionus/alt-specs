@@ -10,7 +10,7 @@ Version: 1.0.4
 Release: alt1%ubt
 Summary: Erlang Image Manipulation Process
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/eimp
 
 # https://github.com/processone/eimp.git

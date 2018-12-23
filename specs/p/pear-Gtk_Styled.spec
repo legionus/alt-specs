@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: PHP-GTK pseudo-widgets that mimic GtkData based objects and allow the look and feel to be controlled by the programmer
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Gtk_Styled
 

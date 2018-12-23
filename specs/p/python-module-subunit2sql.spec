@@ -22,7 +22,7 @@ Release: alt1
 
 Summary: Tool for storing test results data in a SQL database
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://pypi.python.org/pypi/subunit2sql
 

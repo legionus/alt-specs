@@ -11,7 +11,7 @@ Name:           options
 Version:        1.2
 Release:        alt1_10jpp8
 Summary:        Library for managing sets of JVM properties to configure an app or library
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/headius/%{name}
 Source0:        https://github.com/headius/%{name}/archive/%{name}-%{version}.zip
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

@@ -5,7 +5,7 @@ Version: 4.0.1
 Release: alt2
 Summary: OpenStack Telemetry Alarming
 Group: System/Servers
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 BuildArch: noarch

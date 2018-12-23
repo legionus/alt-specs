@@ -9,7 +9,7 @@ Release: alt1
 Group: System/Libraries
 Summary: JSON library implemented in C++
 Url: http://sourceforge.net/projects/%rname/
-License: Public Domain or MIT
+License: ALT-Public-Domain or MIT
 
 Source: %rname-src-%version.tar
 Source1: jsoncpp.pc

@@ -7,7 +7,7 @@ Release: alt1
 %setup_python_module bzr-rewrite
 
 Summary: This plugin provides various commands for rewriting Bazaar revisions
-License: gpl3
+License: GPL-3.0-only
 Group: Development/Python
 
 Url: https://launchpad.net/bzr-rewrite

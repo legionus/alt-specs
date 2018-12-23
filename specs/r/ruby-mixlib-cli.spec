@@ -5,7 +5,7 @@ Version: 1.7.6
 Release: alt1
  
 Summary: A mixin for creating command line applications
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/mixlib-cli
  

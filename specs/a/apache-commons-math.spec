@@ -14,7 +14,7 @@ Version:          3.4.1
 Release:          alt2_8jpp8
 Summary:          Java library of lightweight mathematics and statistics components
 Group:            Development/Other
-License:          ASL 1.1 and ASL 2.0 and BSD
+License:          Apache-1.1 and Apache-2.0 and BSD
 URL:              http://commons.apache.org/math/
 Source0:          http://www.apache.org/dist/commons/math/source/%{short_name}-%{version}-src.tar.gz
 # Fix random build self-test failures reported on RHBZ #1402145 (see

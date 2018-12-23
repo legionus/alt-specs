@@ -3,7 +3,7 @@ Name: %{oname}3
 Version: 3.3.7
 Release: alt1
 Summary: C++ template library for linear algebra
-License: LGPLv3+ or GPLv2+
+License: LGPLv3+ or GPL-2.0-or-later
 Group: Development/C++
 Url: http://eigen.tuxfamily.org/
 Packager: Andrey Cherepanov <cas@altlinux.org>

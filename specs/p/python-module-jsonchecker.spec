@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.7.0
 Release: alt1.git20150109.1.1
 Summary: A script that validates JSON files and checks for duplicate keys
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: https://pypi.python.org/pypi/jsonchecker/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

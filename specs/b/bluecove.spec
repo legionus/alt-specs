@@ -15,7 +15,7 @@ Release:        alt1_0.16.20101024snap63jpp8
 Summary:        Implementation of JSR-82 Java Bluetooth API
 
 Group:          System/Libraries
-License:        ASL 2.0 and LGPLv2+ and GPLv3+
+License:        Apache-2.0 and LGPLv2+ and GPL-3.0-or-later
 URL:            http://code.google.com/p/bluecove/
 
 # Snapshot release sources

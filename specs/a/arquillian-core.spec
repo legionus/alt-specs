@@ -16,7 +16,7 @@ Version:       1.1.11
 Release:       alt1_8jpp8
 Summary:       Java Testing Platform for the JVM Member
 # No license header report @ https://github.com/arquillian/arquillian-core/issues/101
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://arquillian.org/
 Source0:       https://github.com/arquillian/arquillian-core/archive/%{namedversion}.tar.gz
 
@@ -114,7 +114,7 @@ API for the Config Module.
 %package -n arquillian-config-impl-base
 Group: Development/Java
 Summary:       Arquillian Config Implementation Base
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 # Unknown jboss-common-core version
 # LGPLv2:
 # ./config/impl-base/src/main/java/org/jboss/arquillian/config/impl/extension/StringPropertyReplacer.java (Revision: 2898)
@@ -142,7 +142,7 @@ Service Provider Interface for the Config Module.
 Group: Development/Java
 Summary:       Arquillian Container Implementation Base
 # LGPLv2: ./container/impl-base/src/main/java/org/jboss/arquillian/container/impl/DefaultServerKillProcessor.java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 
 %description -n arquillian-container-impl-base
 Implementation for the container extension.
@@ -161,7 +161,7 @@ Summary:       Arquillian Container SPI
 # ./container/spi/src/main/java/org/jboss/arquillian/container/spi/ServerKillProcessor.java
 # ./container/spi/src/main/java/org/jboss/arquillian/container/spi/event/StartClassContainers.java
 # ./container/spi/src/main/java/org/jboss/arquillian/container/spi/event/StopClassContainers.java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 
 %description -n arquillian-container-spi
 Service Provider Interface for the container extension.
@@ -172,7 +172,7 @@ Summary:       Arquillian Container Test API
 # LGPLv2:
 # ./container/test-api/src/main/java/org/jboss/arquillian/container/test/api/Config.java
 # ./container/test-api/src/main/java/org/jboss/arquillian/container/test/api/ContainerController.java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 
 %description -n arquillian-container-test-api
 Integration with the Test extension for the container extension.
@@ -250,7 +250,7 @@ Summary:       Arquillian Protocol Servlet 2.5/3.x
 # ./protocols/servlet/src/main/java/org/jboss/arquillian/protocol/servlet/arq514hack/descriptors/impl/web/ServletDefImpl.java
 # ./protocols/servlet/src/main/java/org/jboss/arquillian/protocol/servlet/arq514hack/descriptors/impl/web/ServletMappingDefImpl.java
 # ./protocols/servlet/src/main/java/org/jboss/arquillian/protocol/servlet/arq514hack/descriptors/impl/web/Strings.java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 
 %description -n arquillian-protocol-servlet
 Protocol handler for communicating using a Servlet / HTTP following the

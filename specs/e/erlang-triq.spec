@@ -7,7 +7,7 @@ Version: 1.2.0
 Release: alt1%ubt
 Summary: A property-based testing library for Erlang
 Group: Development/Erlang
-License: Apache 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/triqng/triq
 

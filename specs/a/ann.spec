@@ -2,7 +2,7 @@ Name: ann
 Version: 1.1.2
 Release: alt4
 Summary: A Library for Approximate Nearest Neighbor Searching
-License: LGPL v2.1 or later
+License: LGPL-2.1-or-later
 Group: Sciences/Mathematics
 Url: http://www.cs.umd.edu/~mount/ANN/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

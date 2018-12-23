@@ -11,7 +11,7 @@ Version:       3.1.5
 Release:       alt1_4jpp8
 Summary:       Java parser for .proto schema declarations
 # Source files without license headers https://github.com/square/protoparser/issues/105
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/square/protoparser
 Source0:       https://github.com/square/protoparser/archive/%{name}-%{version}.tar.gz
 

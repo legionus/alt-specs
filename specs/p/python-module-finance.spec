@@ -7,7 +7,7 @@ Version: 0.2502
 Release: alt1.2
 
 Summary: finance - Financial Risk Calculations
-License: PSFL
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/finance
 

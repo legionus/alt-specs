@@ -9,7 +9,7 @@ Release: alt2.rc3
 
 Summary: PHP/PEAR class for reading and writing OLE containers
 
-License: PHP License 3.0.1
+License: PHP-3.01
 Group: Development/Other
 Url: http://pear.php.net/package/OLE
 #Url: https://github.com/pear/OLE

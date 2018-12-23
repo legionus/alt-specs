@@ -6,7 +6,7 @@ Version: 0.3.0
 Release: alt2
 
 Summary: Check JavaScript code for common mistakes
-License: MPLv1.1
+License: MPL-1.1
 Group: Development/Tools
 
 Url: http://javascriptlint.com

@@ -13,7 +13,7 @@ Version:        0.12
 Release:        alt1_5jpp8
 Summary:        Apache Release Audit Tool (RAT)
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://creadur.apache.org/rat/
 Source0:        http://www.apache.org/dist/creadur/%{name}-%{version}/%{name}-%{version}-src.tar.bz2
 BuildArch:      noarch

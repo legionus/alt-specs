@@ -1,5 +1,5 @@
 Name:           nethack
-License:        NetHack General Public License
+License:        NGPL
 Group:          Games/Adventure 
 Version:        3.4.3
 %define ver	343

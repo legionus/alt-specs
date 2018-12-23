@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Python3 module for GUI programming
 Group: Development/Python
-License: 3-clause BSD
+License: BSD-3-Clause
 Url: http://pypi.python.org/pypi/%modname
 Source: http://pypi.io/packages/source/e/%modname/%modname-%version.tar.gz
 

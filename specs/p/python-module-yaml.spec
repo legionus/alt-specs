@@ -8,7 +8,7 @@ Release: alt1.1
 
 Summary: PyYAML, a YAML parser and emitter for Python
 
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: Development/Python
 Url: https://github.com/yaml/pyyaml
 #BuildArch: noarch

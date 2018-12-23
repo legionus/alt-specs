@@ -13,7 +13,7 @@ Name:           os-maven-plugin
 Version:        1.2.3
 Release:        alt1_9jpp8
 Summary:        Maven plugin for generating platform-dependent properties
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/trustin/os-maven-plugin/
 BuildArch:      noarch
 

@@ -5,7 +5,7 @@ Version: 1.3.2
 Release: alt1.1
  
 Summary: Net::DHCP library for ruby, originally written by etd
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/mjtko/net-dhcp-ruby
  

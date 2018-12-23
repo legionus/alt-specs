@@ -11,7 +11,7 @@ Name:          jdo2-api
 Version:       2.2
 Release:       alt3_16jpp8
 Summary:       Implementation of JSR 243: Java Data Objects 2.0
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://db.apache.org/jdo/
 Source0:       http://svn.apache.org/repos/asf/db/jdo/tags/2.2/dist/db/jdo/2.2/jdo2-api-2.2-src.tar.gz
 Source1:       jdo2-api-2.2-build.xml

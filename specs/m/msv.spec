@@ -12,7 +12,7 @@ Epoch:         1
 Version:       2013.6.1
 Release:       alt1_10jpp8
 Summary:       Multi-Schema Validator
-License:       BSD and ASL 1.1
+License:       BSD and Apache-1.1
 URL:           http://msv.java.net/
 
 # To generate tarball from upstream source control:
@@ -56,7 +56,7 @@ Group: Development/Java
 Summary:       Multi-Schema Validator Core
 # src/com/sun/msv/reader/xmlschema/DOMLSInputImpl.java is under ASL 2.0
 # msv/src/com/sun/msv/writer/ContentHandlerAdaptor.java is partially under Public Domain
-License:       BSD and ASL 1.1 and ASL 2.0 and Public Domain
+License:       BSD and Apache-1.1 and Apache-2.0 and ALT-Public-Domain
 
 %description   msv
 %{summary}.
@@ -87,7 +87,7 @@ Summary:       Multi-Schema Validator XML Schema Library
 %package       javadoc
 Group: Development/Java
 Summary:       API documentation for Multi-Schema Validator
-License:       BSD and ASL 1.1 and ASL 2.0 and Public Domain
+License:       BSD and Apache-1.1 and Apache-2.0 and ALT-Public-Domain
 BuildArch: noarch
 
 %description   javadoc

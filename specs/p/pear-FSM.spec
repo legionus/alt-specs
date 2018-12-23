@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Finite State Machine
 
-License: MIT License
+License: MIT
 Group: Development/Other
 Url: http://pear.php.net/package/FSM
 

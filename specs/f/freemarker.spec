@@ -14,7 +14,7 @@ Name:           freemarker
 Version:        2.3.27
 Release:        alt1_2jpp8
 Summary:        The Apache FreeMarker Template Engine
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://freemarker.apache.org/
 Source0:        https://github.com/apache/incubator-freemarker/archive/v%{version}/%{name}-%{version}.tar.gz
 

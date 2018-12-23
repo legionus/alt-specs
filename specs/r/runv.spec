@@ -22,7 +22,7 @@ Version:        1.0.0
 Release:        alt1.git.%shortcommit
 Summary:        Open Container Initiative hypervisor-based runtime
 Group:          Development/Other
-License:        Apache 2.0
+License:        Apache-2.0
 URL:            https://%provider_prefix
 #ExclusiveArch:  %%go_arches
 ExclusiveArch: x86_64 aarch64

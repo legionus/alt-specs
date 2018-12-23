@@ -16,7 +16,7 @@ Group:          System/Libraries
 #General Public License, which is in the file COPYING.lib.
 #The files which make up the test programs and the documentation are covered
 #under the GNU General Public License, which is in the file COPYING.
-License:        GPLv2+ and LGPLv2+
+License:        GPL-2.0-or-later and LGPLv2+
 URL:            http://sourceforge.net/projects/libirman/
 Source0:        http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 

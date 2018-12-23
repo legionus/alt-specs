@@ -11,7 +11,7 @@ Version: 0.9
 Release: alt1_2
 Source: http://ispell.math.upatras.gr/files/ooffice/el_GR-%{version}.zip
 URL: http://www.elspell.gr/
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

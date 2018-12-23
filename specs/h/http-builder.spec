@@ -10,7 +10,7 @@ Name:          http-builder
 Version:       0.7.2
 Release:       alt1_4jpp8
 Summary:       HTTP client framework for Groovy
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/jgritman/httpbuilder
 Source0:       https://github.com/jgritman/httpbuilder/archive/%{name}-%{version}.tar.gz
 Source1:       http://www.apache.org/licenses/LICENSE-2.0.txt

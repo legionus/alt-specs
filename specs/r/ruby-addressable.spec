@@ -4,7 +4,7 @@ Release: alt1.1
 
 Summary: Addressable is a replacement for the URI implementation that is part of Ruby's standard library
 Group:   Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 URL:     http://addressable.rubyforge.org/
 
 BuildArch: noarch

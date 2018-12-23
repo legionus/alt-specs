@@ -7,7 +7,7 @@ Release:        alt1_3
 Summary:        Aerodynamic and flight-dynamic analysis of rigid aircrafts
 
 # Plotlib is LGPLv2+, the rest is GPLv2+
-License:        GPLv2+ and LGPLv2+
+License:        GPL-2.0-or-later and LGPLv2+
 URL:            http://web.mit.edu/drela/Public/web/avl/
 Source0:        http://web.mit.edu/drela/Public/web/avl/avl%{version}.tgz
 # The package does not ship a license file

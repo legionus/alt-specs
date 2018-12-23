@@ -5,7 +5,7 @@ Version: 0.0.1
 Release: alt1
  
 Summary: Generator gem help to create and use generators like rails 3 
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/maxkazar/generator
  

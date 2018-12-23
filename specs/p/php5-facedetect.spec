@@ -8,7 +8,7 @@ Release:	%php5_release
 
 Summary:	PHP5 extension to detect faces on images
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://www.xarg.org/project/php-facedetect/
 

@@ -19,7 +19,7 @@ Name:           lucene5
 Version:        5.5.0
 Release:        alt2_0jpp8
 Epoch:          0
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://lucene.apache.org/
 # solr source contains both lucene and dev-tools
 Source0:        http://www.apache.org/dist/lucene/solr/%{version}/solr-%{version}-src.tgz

@@ -8,7 +8,7 @@ Release: alt2.2
 
 Summary: Robust HTTP/S Ruby library
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://github.com/rightscale/right_http_connection
 
 BuildArch: noarch

@@ -4,7 +4,7 @@ Release: alt4
 Summary: A library for import of Apple Keynote presentations
 
 Group: System/Libraries
-License: MPLv2.0
+License: MPL-2.0
 # https://gerrit.libreoffice.org/#/admin/projects/libetonyek
 Url: http://www.freedesktop.org/wiki/Software/libetonyek/
 Source: %name-%version.tar.xz

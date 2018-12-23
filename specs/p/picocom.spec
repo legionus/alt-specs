@@ -4,7 +4,7 @@ Release: alt3
 
 Summary: Picocom is a minimal dumb-terminal emulation program
 Summary(ru_RU.UTF-8): Пикоком есть крошечная терминалка
-License: GPL2
+License: GPL-2.0-only
 Group: Communications
 Url: https://github.com/npat-efault/picocom
 Packager: Pavel Skrylev <majioa@altlinux.org>

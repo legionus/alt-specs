@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: A simple GUI to example php data trees
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Gtk_VarDump
 

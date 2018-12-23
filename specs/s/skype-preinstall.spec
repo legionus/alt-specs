@@ -2,7 +2,7 @@ Name:     skype-preinstall
 Version:  1.0
 Release:  alt2
 Summary:  Compatible layer for install official Skype package for OpenSUSE
-License:  Public Domain
+License:  ALT-Public-Domain
 Group:    Networking/Instant messaging
 Packager: Andrey Cherepanov <cas@altlinux.org>
  

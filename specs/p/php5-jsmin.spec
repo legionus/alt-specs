@@ -8,7 +8,7 @@ Release:	%php5_release
 
 Summary:	PHP5 jsmin - extension for minifying JavaScript
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		https://github.com/allegro/php-jsmin
 

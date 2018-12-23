@@ -7,7 +7,7 @@ Group: System/Libraries
 Summary: Accessibility client library for Qt
 Url: https://projects.kde.org/projects/playground/accessibility/libkdeaccessibilityclient
 # KDE e.V. may determine that future LGPL versions are accepted
-License: LGPLv2 / LGPLv3
+License: LGPLv2 or LGPLv3
 
 Source0: %name-%version.tar
 # FC

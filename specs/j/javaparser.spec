@@ -10,7 +10,7 @@ Name:          javaparser
 Version:       1.0.11
 Release:       alt1_5jpp8
 Summary:       Java 1.7 Parser and AST
-License:       GPLv3+ and LGPLv3+
+License:       GPL-3.0-or-later and LGPLv3+
 # https://github.com/before/javaparser/
 URL:           http://javaparser.github.io/javaparser/
 Source0:       https://github.com/javaparser/javaparser/archive/%{name}-%{version}.tar.gz

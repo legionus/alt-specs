@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.7.6
 Release: alt1
 Summary: Google API Client Library for Python
-License: ASL
+License: Apache
 Group: Development/Python
 Url: https://pypi.python.org/pypi/google-api-python-client/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -1,5 +1,5 @@
 Name: black-box
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Games/Puzzles
 Summary: Guess where the crystals are hidden, by watching your shots
 Version: 1.4.8

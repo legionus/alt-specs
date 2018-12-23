@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Provides missing functionality for older versions of PHP
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/PHP_Compat
 

@@ -11,7 +11,7 @@ Release: alt1
 
 Summary: GStreamer Validate Tools and Library
 Group: System/Libraries
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Url: http://cgit.freedesktop.org/gstreamer/gst-devtools/
 
 Source: http://gstreamer.freedesktop.org/src/%name/%name-%version.tar.xz

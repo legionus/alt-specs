@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 0.2.4
 Release: alt2.1
 Summary: Asynchronous Python 3.3+ driver for MongoDB
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/asyncio_mongo/
 

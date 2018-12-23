@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Crystallographic Binary File and Image Library
 # library files (*.so*) are LGPLv2+, all else is GPLv2+
-License: GPLv2+ and (GPLv2+ or LGPLv2+)
+License: GPL-2.0-or-later and (GPL-2.0-or-later or LGPLv2+)
 Group: System/Libraries
 
 Url: http://www.bernstein-plus-sons.com/software/CBF
@@ -33,7 +33,7 @@ applications that use Crystallographic Binary File.
 
 %package -n lib%name-devel
 Summary: Header files and library for developing programs with cbf
-License: LGPLv2+ and GPLv2+
+License: LGPLv2+ and GPL-2.0-or-later
 Group: Development/Other
 Requires: lib%name = %version-%release
 

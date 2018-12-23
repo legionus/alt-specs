@@ -2,7 +2,7 @@ Name:		XORSearch
 Version:	1.6.0
 %define		_ver 1_6_0
 Release:	alt1.qa1
-License:	Public domain
+License:	ALT-Public-Domain
 Group:		File tools
 Summary:	Search for a given string in an XOR, ROL or ROT encoded binary file
 URL:		http://blog.didierstevens.com/programs/xorsearch/

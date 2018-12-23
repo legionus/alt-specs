@@ -5,7 +5,7 @@ Version: 4.1.7
 Release: alt2
 
 Summary: Simple, secure encryption and decryption for Python
-License: Public Domain
+License: ALT-Public-Domain
 Group:   Development/Python
 URL:     https://pypi.python.org/pypi/simple-crypt
 

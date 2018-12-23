@@ -22,7 +22,7 @@ Name:          apache-commons-vfs
 Version:       2.1
 Release:       alt1_12jpp8
 Summary:       Commons Virtual File System
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://commons.apache.org/vfs/
 Source0:       http://www.apache.org/dist/commons/vfs/source/commons-vfs-%{version}-src.tar.gz
 

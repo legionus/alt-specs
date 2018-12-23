@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: is a YAML 1.2 loader/dumper package for Python
 
-License: GPL3
+License: GPL-3.0-only
 Group: Development/Python3
 Url: https://bitbucket.org/ruamel/yaml
 Provides: python3(ruamel)

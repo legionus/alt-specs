@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Trash for Window Maker
 Summary(ru_RU.UTF-8): Корзина для Window Maker
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Window Maker
 
 URL: http://kostyalamer.narod.ru/wmtrashpy/wmtrashpy.html

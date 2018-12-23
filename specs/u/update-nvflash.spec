@@ -5,7 +5,7 @@ Group: Development/Other
 URL: http://ac100.grandou.net/nvflash#debian_ubuntu_package
 Packager: Paul Wolneykien <manowar@altlinux.ru>
 Summary: Nvidia flash tools for Tegra2 devices
-License: GPL v2.0+
+License: GPL-2.0-or-later
 
 Source: %name-%version.tar
 Patch: %name-%version-alt.patch

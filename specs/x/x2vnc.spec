@@ -10,7 +10,7 @@ Release: %release
 Summary: link two display together, simulating a multiheaded display
 Summary(ru_RU.UTF-8): связывает два дисплея для использования одной клавиатуры и мыши
 
-License: GPL v2
+License: GPL-2.0-only
 Group: System/X11
 URL: http://fredrik.hubbe.net/x2vnc.html
 

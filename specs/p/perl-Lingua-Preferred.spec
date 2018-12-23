@@ -6,7 +6,7 @@ Release: alt1.qa1.1
 
 Summary: Perl extension to choose a language
 Summary(ru_RU.UTF8): Расширение Perl для выбора языка веб-страниц
-License: GPL/Artistic
+License: GPL or Artistic
 Group: Development/Perl
 URL: http://backpan.cpan.org/authors/id/E/ED/EDAVIS
 Source: ftp://backpan.cpan.org/authors/id/E/ED/EDAVIS/%module_name-%version.tar.gz

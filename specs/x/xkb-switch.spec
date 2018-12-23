@@ -4,7 +4,7 @@ Version:        1.4.0
 Release:        alt1.git.d7c1856a
 URL:            https://github.com/ierton/xkb-switch
 Packager: 	Valentin Rosavitskiy <valintinr@altlinux.org>
-License:	GPL v2+
+License:	GPL-2.0-or-later
 Group:		Graphical desktop/Other
 
 Source:		%name-%version.tar

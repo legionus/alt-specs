@@ -3,7 +3,7 @@
 Name: apache2-mod_lookup_identity
 Version: 1.0.0
 Release: alt1%ubt
-License: ASL 2.0 
+License: Apache-2.0
 Group: System/Servers
 Summary: Apache module to retrieve additional information about the authenticated user
 Url: http://www.adelton.com/apache/mod_lookup_identity/

@@ -7,7 +7,7 @@ Release: alt1.1.2
 Summary: Python module that implements the Transmission bittorent client RPC protocol
 
 Group: Development/Python
-License: MIT license
+License: MIT
 Url: http://pypi.python.org/pypi/%modulename/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

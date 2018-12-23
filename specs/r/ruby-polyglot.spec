@@ -5,7 +5,7 @@ Version: 0.3.5
 Release: alt1.1
  
 Summary: Augment 'require' to load non-ruby file types
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://polyglot.rubyforge.org/
  

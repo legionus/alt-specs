@@ -5,7 +5,7 @@ Version: 1.6.8
 Release: alt1.1
  
 Summary: An improved Logger replacement that logs to syslog. It is almost drop-in with a few caveats
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ngmoco/syslog_logger
  

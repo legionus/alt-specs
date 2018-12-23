@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.2.5
 Release: alt1.1
 Summary: A wrapper module for pysnmp
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/nelsnmp/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

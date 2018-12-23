@@ -11,7 +11,7 @@ Name:          aries-proxy-impl
 Version:       1.0.5
 Release:       alt2_5jpp8
 Summary:       Apache Aries Proxy Service
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://aries.apache.org/
 #Source0:       http://www.apache.org/dist/aries/%%{bundle}-%%{version}-source-release.zip
 Source0:       http://central.maven.org/maven2/org/apache/aries/proxy/%{bundle}/%{version}/%{bundle}-%{version}-source-release.zip

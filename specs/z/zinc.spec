@@ -10,7 +10,7 @@ Name:           zinc
 Version:        0.3.1
 Release:        alt1_5jpp8
 Summary:        Incremental scala compiler
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/typesafehub/zinc
 BuildArch:      noarch
 

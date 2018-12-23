@@ -8,7 +8,7 @@ Summary: The fun, free snowballing computer game
 
 Release: alt1.2.1
 
-License: GPL v2+
+License: GPL-2.0-or-later
 Url: http://joey101.net/snowballz/
 Group: Games/Arcade
 

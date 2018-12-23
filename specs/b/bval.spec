@@ -29,7 +29,7 @@ Name:          bval
 Version:       1.1.1
 Release:       alt1_5jpp8
 Summary:       Apache Bean Validation
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://bval.apache.org/
 Source0:       http://www.apache.org/dist/bval/%{namedversion}/%{name}-parent-%{namedversion}-source-release.zip
 

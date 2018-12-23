@@ -44,7 +44,7 @@ Release:        alt1_4jpp8
 Epoch:          0
 Summary:        Simple Logging Facade for Java
 # the log4j-over-slf4j and jcl-over-slf4j submodules are ASL 2.0, rest is MIT
-License:        MIT and ASL 2.0
+License:        MIT and Apache-2.0
 URL:            http://www.slf4j.org/
 Source0:        http://www.slf4j.org/dist/%{name}-%{version}.tar.gz
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

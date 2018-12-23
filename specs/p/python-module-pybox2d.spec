@@ -11,7 +11,7 @@ Version:        2.3.2
 Release:        alt1.1_5
 Summary:        A 2D rigid body simulation library for Python
 
-License:        zlib
+License:        Zlib
 URL:            https://github.com/pybox2d/%{oldname}
 Source0:        https://github.com/pybox2d/%{oldname}/archive/%{version}.tar.gz#/%{oldname}-%{version}.tar.gz
 

@@ -12,7 +12,7 @@ Release: alt4%ubt
 Group: File tools
 Summary: The file manager for KDE
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: kf5-kio
 #Requires: kf5-kio-extras

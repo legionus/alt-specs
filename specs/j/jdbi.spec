@@ -10,7 +10,7 @@ Name:          jdbi
 Version:       2.63.1
 Release:       alt1_5jpp8
 Summary:       A SQL convenience library for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://jdbi.org/
 Source0:       https://github.com/brianm/jdbi/archive/%{name}-%{version}.tar.gz
 

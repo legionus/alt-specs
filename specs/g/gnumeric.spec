@@ -15,7 +15,7 @@ Version: %ver_major.44
 Release: alt1
 
 Summary: A full-featured spreadsheet for GNOME
-License: GPLv2+ GPLv3+
+License: GPL-2.0-or-later GPL-3.0-or-later
 Group: Office
 Url: http://www.gnumeric.org/
 

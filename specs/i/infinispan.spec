@@ -30,7 +30,7 @@ Name:          infinispan
 Version:       8.2.4
 Release:       alt1_5jpp8
 Summary:       Data grid platform
-License:       ASL 2.0 and LGPLv2+ and Public Domain
+License:       Apache-2.0 and LGPLv2+ and ALT-Public-Domain
 URL:           http://infinispan.org/
 Source0:       https://github.com/infinispan/infinispan/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

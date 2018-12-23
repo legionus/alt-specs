@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Net_FTP provides an OO interface to the PHP FTP functions plus some additions
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_FTP
 

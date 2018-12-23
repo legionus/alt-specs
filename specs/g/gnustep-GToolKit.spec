@@ -4,7 +4,7 @@ Name: gnustep-GToolKit
 Version: 0.9.5
 Release: alt4
 Summary: Implements a simple and easy to use ObjC interface to the GTK+ widget set
-License: GPLv2 / LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 Group: Graphical desktop/GNUstep
 Url: http://wiki.gnustep.org/index.php/GToolKit
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

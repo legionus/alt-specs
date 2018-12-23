@@ -15,7 +15,7 @@ Name:             jandex
 Version:          2.0.2
 Release:          alt1_4jpp8
 Summary:          Java Annotation Indexer
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://github.com/wildfly/jandex
 Source0:          https://github.com/wildfly/jandex/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

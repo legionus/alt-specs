@@ -5,7 +5,7 @@ Version: 1.6.2
 Release: alt2
 
 Summary: Liboping library
-License: GPL v2
+License: GPL-2.0-only
 Group: System/Libraries
 
 Url: http://verplant.org/liboping/

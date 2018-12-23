@@ -13,7 +13,7 @@ Name:           castor
 Version:        1.3.3
 Release:        alt1_8jpp8
 # Older source files are BSD licensed and newer ones are ASL licensed
-License:        BSD and ASL 2.0
+License:        BSD and Apache-2.0
 URL:            http://castor-data-binding.github.io/castor/
 # Hash sum of source will not match upstream because bundled jars have been removed
 Source0:        http://dist.codehaus.org/castor/%{version}/castor-%{version}-src.tgz

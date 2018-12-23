@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: TeamViewer pre-installation scripts
 Group: Networking/WWW
-License: Public domain
+License: ALT-Public-Domain
 Url: http://www.teamviewer.com
 
 Source: %name-%version.tar

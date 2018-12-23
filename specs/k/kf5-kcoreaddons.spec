@@ -13,7 +13,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Frameworks 5 Tier 1 addon with various classes on top of QtCore
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-simplify-kde4home.patch
@@ -61,7 +61,7 @@ KF5 library
 %if_enabled python
 %package -n python-module-pykf5
 Summary: common package for KF5 python bindings
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Development/Python
 Requires: %name-common = %version-%release
 %description -n python-module-pykf5
@@ -69,7 +69,7 @@ common package for KF5 python bindings
 
 %package -n python-module-%rname
 Summary: Python bindings for KCoreAddons
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Development/Python
 Requires: %name-common = %version-%release
 Requires: python-module-pykf5
@@ -86,7 +86,7 @@ Sip files for python-module-%rname
 
 %package -n python3-module-pykf5
 Summary: common package for KF5 python3 bindings
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Development/Python3
 Requires: %name-common = %version-%release
 %description -n python3-module-pykf5
@@ -94,7 +94,7 @@ common package for KF5 python3 bindings
 
 %package -n python3-module-%rname
 Summary: Python3 bindings for KCoreAddons
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 Group: Development/Python3
 Requires: %name-common = %version-%release
 Requires: python3-module-sip = %sipver3

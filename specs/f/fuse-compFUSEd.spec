@@ -3,7 +3,7 @@
 Name: fuse-compFUSEd
 Version: 200712321
 Release: alt2.qa1
-License: GPL2
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 Url: http://www.biggerbytes.be/documents-related-to-compfused
 Summary: FUSE filesystem providing transparent R/W compression

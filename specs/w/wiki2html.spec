@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Convert wiki source to HTML
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Text tools
 Url: http://tools.wikimedia.de/~merphant/wiki2html/
 

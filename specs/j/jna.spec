@@ -14,7 +14,7 @@ Summary:        Pure Java access to native libraries
 # Most of code is dual-licensed under either LGPL 2.1 only or Apache
 # License 2.0.  WeakIdentityHashMap.java was taken from Apache CXF,
 # which is pure Apache License 2.0.
-License:        (LGPLv2 or ASL 2.0) and ASL 2.0
+License:        (LGPLv2 or Apache-2.0) and Apache-2.0
 URL:            https://github.com/java-native-access/jna/
 # ./generate-tarball.sh
 Source0:        %{name}-%{version}-clean.tar.xz
@@ -70,7 +70,7 @@ This package contains the javadocs for %{name}.
 %package        contrib
 Group: Development/Java
 Summary:        Contrib for %{name}
-License:        LGPLv2 or ASL 2.0
+License:        LGPLv2 or Apache-2.0
 Requires:       %{name} = %{version}-%{release}
 BuildArch:      noarch
 

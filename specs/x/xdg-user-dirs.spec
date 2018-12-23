@@ -3,7 +3,7 @@ Version: 0.14
 Release: alt2
 Summary: Handles user special directories
 Group: Graphical desktop/Other
-License: GPLv2+ and MIT
+License: GPL-2.0-or-later and MIT
 Url: http://freedesktop.org/wiki/Software/xdg-user-dirs
 Packager: Radik Usupov <radik@altlinux.org>
 

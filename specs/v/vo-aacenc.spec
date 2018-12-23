@@ -3,7 +3,7 @@ Version:        0.1.3
 Release:        alt1
 Summary:        VisualOn AAC encoder library
 Group:          System/Libraries
-License:        Apache License v2
+License:        Apache-2.0
 URL:            https://github.com/mstorsjo/vo-aacenc
 Source:         %name-%version.tar
 

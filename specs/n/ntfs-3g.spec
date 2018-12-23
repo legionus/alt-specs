@@ -5,7 +5,7 @@ Epoch: 2
 Summary: third generation Linux NTFS driver
 URL: http://www.ntfs-3g.org/
 Group: System/Kernel and hardware
-License: GPL2
+License: GPL-2.0-only
 Packager: Valery Inozemtsev <shrek@altlinux.ru>
 
 Requires: lib%name = %epoch:%version-%release

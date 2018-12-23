@@ -8,7 +8,7 @@ Release: alt1.1
 %setup_python_module %modulename
 
 Summary: Use class and function decorators -- even in Python 2.3
-License: PSF or ZPL
+License: Python-2.0 or ZPL
 Group: Development/Python
 
 Url: http://pypi.python.org/pypi/DecoratorTools

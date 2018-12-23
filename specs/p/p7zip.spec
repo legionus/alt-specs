@@ -40,7 +40,7 @@ It handles less archive formats than plugin capable version.
 %package devel
 Summary: Development package of p7zip that includes the header files
 Group: Development/C
-License: Public domain
+License: ALT-Public-Domain
 BuildArch: noarch
 
 Requires: %name = %EVR

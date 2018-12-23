@@ -6,7 +6,7 @@ Release:        alt2_9
 Summary:        The OpenICC profiles from basICColor
 
 Group:          Graphical desktop/Other
-License:        zlib
+License:        Zlib
 URL:            http://www.freedesktop.org/wiki/OpenIcc
 Source0:        http://downloads.sourceforge.net/project/openicc/basICColor-Profiles/%{name}-%{version}.tar.bz2
 

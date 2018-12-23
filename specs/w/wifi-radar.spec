@@ -3,7 +3,7 @@ Version: 2.0.10
 Release: alt1
 Summary: Tool for connecting to wireless networks
 Group: System/Configuration/Networking
-License: GPL2
+License: GPL-2.0-only
 BuildArch: noarch
 Url: http://wifi-radar.systemimager.org/
 

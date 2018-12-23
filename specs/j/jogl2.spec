@@ -14,7 +14,7 @@ Summary:        Java bindings for the OpenGL API
 
 Group:          Development/Other
 # For a breakdown of the licensing, see LICENSE.txt 
-License:        BSD and MIT and ASL 2.0 and ASL 1.1 
+License:        BSD and MIT and Apache-2.0 and Apache-1.1
 URL:            http://jogamp.org/
 Source0:        http://jogamp.org/deployment/v%{version}/archive/Sources/%{src_name}.tar.xz
 Source1:        %{name}-pom.xml

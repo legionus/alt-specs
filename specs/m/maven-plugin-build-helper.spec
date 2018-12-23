@@ -11,7 +11,7 @@ Version:        1.9.1
 Release:        alt1_5jpp8
 Summary:        Build Helper Maven Plugin
 Group:          Development/Other
-License:        MIT and ASL 2.0
+License:        MIT and Apache-2.0
 URL:            http://mojo.codehaus.org/build-helper-maven-plugin/
 BuildArch: noarch
 

@@ -6,7 +6,7 @@ Version: 3.10.1
 Release: alt1
 
 Summary: Official home of the DB Browser for SQLite (DB4S) project
-License: GPLv3+ or MPLv2.0
+License: GPL-3.0-or-later or MPL-2.0
 Group: Other
 Url: https://github.com/sqlitebrowser/sqlitebrowser
 

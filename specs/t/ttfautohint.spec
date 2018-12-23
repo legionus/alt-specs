@@ -2,7 +2,7 @@ Name: ttfautohint
 Version: 1.1
 Release: alt1
 Summary: A tool to auto-hint TrueType fonts
-License: FTL, GPLv2+
+License: FTL and GPL-2.0-or-later
 Group: File tools
 Url: http://www.freetype.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

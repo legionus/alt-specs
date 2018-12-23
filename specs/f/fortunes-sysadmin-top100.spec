@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Top 100 things you don't want the sysadmin to say
 Group: Games/Other
-License: Public Domain
+License: ALT-Public-Domain
 Url: http://people.redhat.com/andrew/humor/100sys.html
 
 BuildArch: noarch

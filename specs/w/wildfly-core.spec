@@ -42,7 +42,7 @@ Summary:       The core run-time of WildFly
 #          ./threads/src/main/java/org/jboss/as/threads/ThreadsParser2_0.java
 # BSD 2 C:  ./cli/src/main/java/org/jboss/as/cli/gui/component/ButtonTabComponent.java
 # Some file without license headers https://issues.jboss.org/browse/WFCORE-1575
-License:       ASL 2.0 and BSD and LGPLv2+
+License:       Apache-2.0 and BSD and LGPLv2+
 URL:           http://wildfly.org/
 # sh wildfly-core-create-tarball.sh 2.2.0.Final
 Source0:       %{name}-%{namedversion}-clean.tar.xz

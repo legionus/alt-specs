@@ -7,7 +7,7 @@ Serial: 1
 Summary: Open Clip Art Library
 Summary(ru_RU.UTF-8): Свободная коллекция изображений (Clip Art)
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 Url: http://www.openclipart.org/
 
@@ -51,7 +51,7 @@ Adobe Illustrator, Batik, и др. Формат SVG (Scalable Vector Graphic)
 
 %package svg
 Summary: Open Clip Art Library in SVG format
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 Requires: %name = %version
 
@@ -85,7 +85,7 @@ library, please see http://www.openclipart.org/
 
 %package png
 Summary: Open Clip Art Library in PNG format
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 Requires: %name = %version
 

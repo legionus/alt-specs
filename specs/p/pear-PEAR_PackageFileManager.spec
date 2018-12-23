@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: PEAR_PackageFileManager takes an existing package.xml file and updates it with a new filelist and changelog
 
-License: PHP License 3.01
+License: PHP-3.01
 Group: Development/Other
 Url: http://pear.php.net/package/PEAR_PackageFileManager
 

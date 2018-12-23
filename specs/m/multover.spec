@@ -4,7 +4,7 @@ Version: 0.02
 Release: alt1
 Summary: An Xdialog/kdialog3 script for easy animation assebmly
 Group: Graphics
-License: Public domain
+License: ALT-Public-Domain
 
 Source: %name-%version.tar
 URL: http://git.altlinux.org/people/george/packages/?p=%name.git

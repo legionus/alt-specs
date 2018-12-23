@@ -10,7 +10,7 @@ Summary:        Extension of the Java Collections Framework
 Name:           apache-commons-collections4
 Version:        4.1
 Release:        alt1_2jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/proper/commons-collections/
 BuildArch:      noarch
 

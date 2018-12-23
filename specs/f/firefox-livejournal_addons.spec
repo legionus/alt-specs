@@ -7,7 +7,7 @@ Name:		%firefox_name-%rname
 Version:	9.5
 Release:	alt4
 Source0:	http://vmb.ucoz.com/%rname-%version-fx.xpi
-License:	MPL v1.1
+License:	MPL-1.1
 Group:		Networking/WWW
 URL:		https://addons.mozilla.org/ru/firefox/addon/4536/
 

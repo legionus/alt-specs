@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 1.7.29
 Release: alt1
 Summary: The AWS SDK for Python
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/boto3/

@@ -3,7 +3,7 @@ Version: 1.2
 Release: alt4.qa1
 
 Summary: Cat chases the cursor
-License: Public Domain
+License: ALT-Public-Domain
 Group: Toys
 URL: http://www.daidouji.com/oneko/
 # Modified Source to remove BSD images, due to copyright.

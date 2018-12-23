@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: The PEAR::XML_XPath class provided an XPath/DOM XML manipulation, maneuvering and query interface
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_XPath
 

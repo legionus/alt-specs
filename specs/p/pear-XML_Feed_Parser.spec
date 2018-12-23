@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Providing a unified API for handling Atom/RSS
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_Feed_Parser
 

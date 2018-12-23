@@ -1,7 +1,7 @@
 Name: ghc7.6.1-full
 Version: 0.0.1
 Release: alt1
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Development/Haskell
 Summary: Virtual package that requires all haskell packages
 

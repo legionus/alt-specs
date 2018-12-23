@@ -3,7 +3,7 @@ Summary:	CHM to PDF converter
 Version:	0.9.1
 Release:	alt1
 Group:		Office
-License:	GPL2
+License:	GPL-2.0-only
 Packager: 	Mikhail Pokidko <pma@altlinux.org>
 URL:		http://code.google.com/p/chm2pdf/
 Source:		%name-%version.tar

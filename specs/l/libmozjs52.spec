@@ -24,7 +24,7 @@ Release: alt2
 
 Summary: JavaScript interpreter and libraries
 Group: System/Libraries
-License: MPL/GPL/LGPL
+License: MPL or GPL or LGPL
 Url: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/52
 
 #Source: %name-%version.tar

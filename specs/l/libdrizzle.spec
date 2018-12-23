@@ -8,7 +8,7 @@ Name: libdrizzle
 Version: 0.8
 Release: alt3_10.qa1
 # All code is BSD, except libdrizzle/sha1.{c,h} which are Public Domain
-License: BSD and Public Domain
+License: BSD and ALT-Public-Domain
 Group: System/Libraries
 URL: https://launchpad.net/libdrizzle
 Source0: http://launchpad.net/%{name}/trunk/0.8/+download/%{name}-%{version}.tar.gz

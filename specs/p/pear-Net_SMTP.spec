@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: An implementation of the SMTP protocol
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Net_SMTP
 

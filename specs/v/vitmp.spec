@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt4.qa1
 
 Summary: The temporary text files editor
-License: public domain
+License: ALT-Public-Domain
 Group: Editors
 Packager: Dmitry V. Levin <ldv@altlinux.org>
 

@@ -11,7 +11,7 @@ Name:          ehcache-core
 Version:       2.6.11
 Release:       alt1_5jpp8
 Summary:       Easy Hibernate Cache
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://ehcache.org/
 # svn export http://svn.terracotta.org/svn/ehcache/tags/ehcache-core-2.6.11
 # find ehcache-core-2.6.11 -name '*.jar' -delete

@@ -8,7 +8,7 @@ Release: alt1%ubt
 Group: Graphical desktop/KDE
 Summary: Personal Alarm Scheduler
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: kde5-pim-kalarm = %EVR
 Obsoletes: kde5-pim-kalarm < %EVR

@@ -43,7 +43,7 @@ Version:        2.0.8
 Release:        alt2_23jpp8
 Epoch:          0
 Summary:        Full regular expressions API
-License:        ASL 1.1
+License:        Apache-1.1
 Source0:        http://archive.apache.org/dist/jakarta/oro/%{name}-%{version}.tar.gz
 Source1:        MANIFEST.MF
 Source2:        http://repo1.maven.org/maven2/%{base_name}/%{base_name}/%{version}/%{base_name}-%{version}.pom

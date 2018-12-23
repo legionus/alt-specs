@@ -10,7 +10,7 @@ Name:             avro
 Version:          1.7.6
 Release:          alt3_5jpp8
 Summary:          Data serialization system
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://avro.apache.org
 
 # svn export http://svn.apache.org/repos/asf/avro/tags/release-1.7.6/ avro-1.7.6

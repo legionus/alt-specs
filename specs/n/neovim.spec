@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: heavily refactored vim fork
 
-License: ASLv2 and Vim
+License: Apache-2.0 and Vim
 Group: Editors
 Url: https://neovim.io/
 

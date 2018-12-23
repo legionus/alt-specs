@@ -5,7 +5,7 @@ Release: alt1
 Summary: Python object model built on top of JSON schema
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://pypi.python.org/pypi/warlock
 Source: %name-%version.tar
 BuildArch: noarch

@@ -10,7 +10,7 @@ Name:          sslext
 Version:       1.2
 Release:       alt3_12jpp8
 Summary:       Struts SSL Switching Extension
-License:       ASL 1.1
+License:       Apache-1.1
 Url:           http://sslext.sourceforge.net/
 #cvs -d:pserver:anonymous@sslext.cvs.sourceforge.net:/cvsroot/sslext login
 #cvs -z3 -d:pserver:anonymous@sslext.cvs.sourceforge.net:/cvsroot/sslext export -r Release1_2_1 sslext120

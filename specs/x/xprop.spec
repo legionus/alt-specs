@@ -2,7 +2,7 @@ Name: xprop
 Version: 1.2.3
 Release: alt1
 Summary: property displayer for X
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

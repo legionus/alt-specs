@@ -9,7 +9,7 @@ Release: alt6
 
 Summary: Misc fonts required by the X Window System
 Group: System/Fonts/X11 bitmap
-License: MIT/X11
+License: (MIT or X11)
 
 Url: http://xorg.freedesktop.org
 

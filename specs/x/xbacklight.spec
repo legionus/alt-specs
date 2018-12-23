@@ -2,7 +2,7 @@ Name: xbacklight
 Version: 1.2.2
 Release: alt1
 Summary: adjust backlight brightness using RandR extension
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 

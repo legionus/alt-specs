@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.1.68
 Release: alt2.git20141218.1
 Summary: Basic database connectivity for Autobahn web sockets
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/sqlbridge/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

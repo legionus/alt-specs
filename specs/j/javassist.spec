@@ -15,7 +15,7 @@ Version:        3.18.1
 Release:        alt1_8jpp8
 Summary:        The Java Programming Assistant provides simple Java bytecode manipulation
 Group:          Development/Other
-License:        MPLv1.1 or LGPLv2+ or ASL 2.0
+License:        MPL-1.1 or LGPLv2+ or Apache-2.0
 URL:            http://www.csg.is.titech.ac.jp/~chiba/%{name}/
 BuildArch:      noarch
 

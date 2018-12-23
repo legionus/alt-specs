@@ -4,7 +4,7 @@ Release: alt1
 Summary: A collection of C++ and CMake utility libraries
  
 Group:   System/Libraries
-License: Apache 2.0
+License: Apache-2.0
 Url:     https://github.com/puppetlabs/leatherman
 Packager: Andrey Cherepanov <cas@altlinux.org>
  

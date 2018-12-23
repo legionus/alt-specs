@@ -7,7 +7,7 @@ Version: 1.1.3
 Release: alt1
 Summary: Import exceptions from potentially bundled packages in requests
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/openstack/%pypi_name
 Source: %name-%version.tar
 

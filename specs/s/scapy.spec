@@ -7,7 +7,7 @@ Release: alt1
 Summary: Scapy is a powerful interactive packet manipulation program written in Python
 
 Group: Networking/Other
-License: GPL3
+License: GPL-3.0-only
 Url: http://www.secdev.org/projects/scapy/
 
 # Source-url: https://github.com/secdev/scapy/archive/v%version.zip

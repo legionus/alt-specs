@@ -7,7 +7,7 @@ Version: 1.0.7
 Release: alt1%ubt
 Summary: Fast encoding conversion library for Erlang / Elixir
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/iconv
 
 # https://github.com/processone/iconv.git

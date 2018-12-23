@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 0.4.10
 Release: alt1.git20150808.1.2
 Summary: A library that allows your python tests to easily mock out the boto library
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/moto/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

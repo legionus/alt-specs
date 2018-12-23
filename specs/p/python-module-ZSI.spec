@@ -6,7 +6,7 @@ Release: alt2.1.1.1.qa1
 BuildArch: noarch
 
 Summary: A pure-Python module that provides an implementation of SOAP messaging.
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: http://pywebsvcs.sourceforge.net
 

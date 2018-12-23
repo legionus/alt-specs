@@ -3,7 +3,7 @@ Version: 1.8
 Release: alt1
 
 Summary: Root crontab files used to schedule the execution of programs
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 BuildArch: noarch
 Packager: Dmitry V. Levin <ldv@altlinux.org>

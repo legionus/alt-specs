@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Find out the minimum version and the extensions required for a piece of code to run
 
-License: PHP License 3.01
+License: PHP-3.01
 Group: Development/Other
 Url: http://pear.php.net/package/PHP_CompatInfo
 

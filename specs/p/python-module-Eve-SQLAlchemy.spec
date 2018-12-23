@@ -8,7 +8,7 @@ Version: 0.3
 Release: alt3
 
 Summary: REST API framework powered by Flask, SQLAlchemy and good intentions
-License: GPL / BSD
+License: GPL or BSD
 Group: Development/Python
 Url: https://pypi.python.org/pypi/Eve-SQLAlchemy/
 # https://github.com/RedTurtle/eve-sqlalchemy.git

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.3.4
 Release: alt2.2
 Summary: Lamson is a modern Pythonic mail server built like a web application server
-License: BSD or GPLv3
+License: BSD or GPL-3.0-only
 Group: Development/Python
 Url: http://pypi.python.org/pypi/lamson/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

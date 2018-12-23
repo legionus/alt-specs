@@ -5,7 +5,7 @@ Summary: An enhancement to the dungeon exploration game NetHack
 Source: %name-%version.tar.gz
 Group: Games/Adventure
 Url: http://sourceforge.net/apps/trac/unnethack/
-License: NethackGPL
+License: NGPL
 
 # Automatically added by buildreq on Sat Nov 26 2011
 # optimized out: libtinfo-devel

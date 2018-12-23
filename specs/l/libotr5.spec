@@ -5,7 +5,7 @@ Release: alt1.1
 
 Group: System/Libraries
 Summary: Off-The-Record Messaging library and toolkit
-License: LGPL/GPL
+License: LGPL or GPL
 Url: http://www.cypherpunks.ca/otr/
 
 Source0: http://www.cypherpunks.ca/otr/libotr-%version.tar.gz

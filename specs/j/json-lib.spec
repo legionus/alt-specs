@@ -11,7 +11,7 @@ Name:           json-lib
 Version:        2.4
 Release:        alt1_14jpp8
 Summary:        JSON library for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://json-lib.sourceforge.net/
 # NOTE: newer release (> 2.4) is available here https://github.com/aalmiray/Json-lib/
 # A plain jarball with the source is provided by upstream.  We could use

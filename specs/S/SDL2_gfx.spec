@@ -5,7 +5,7 @@ Version: 1.0.4
 Release: alt1%ubt
 
 Summary: Simple DirectMedia Layer - Graphics primitives and surface functions
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 Url: http://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx/

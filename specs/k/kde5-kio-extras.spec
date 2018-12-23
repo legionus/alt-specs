@@ -15,7 +15,7 @@ Release: alt2
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 additional kio-slaves
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: %name-common = %version-%release
 Requires: kf5-kio

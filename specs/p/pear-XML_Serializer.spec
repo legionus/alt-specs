@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Swiss-army knive for reading and writing XML files. Creates XML files from data structures and vice versa
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/%pear_name
 

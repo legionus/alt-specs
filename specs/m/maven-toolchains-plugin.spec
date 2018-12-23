@@ -10,7 +10,7 @@ Name:           maven-toolchains-plugin
 Version:        1.1
 Release:        alt1_7jpp8
 Summary:        Maven plugin for sharing configuration across projects
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-toolchains-plugin
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 Patch0:         0001-Port-to-Eclipse-Sisu.patch

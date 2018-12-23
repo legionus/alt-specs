@@ -3,7 +3,7 @@ Version: 1.0.2
 Release: alt2.qa1
 
 Summary: X font server information utility
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

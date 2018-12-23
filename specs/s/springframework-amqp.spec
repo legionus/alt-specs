@@ -25,7 +25,7 @@ Name:          springframework-amqp
 Version:       1.3.9
 Release:       alt1_8jpp8
 Summary:       Support for Spring programming model with AMQP
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://projects.spring.io/spring-amqp/
 # Newer release require springframework >= 4.1.7.RELEASE
 Source0:       https://github.com/spring-projects/spring-amqp/archive/v%{namedversion}.tar.gz

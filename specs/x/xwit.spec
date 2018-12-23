@@ -3,7 +3,7 @@ Version: 3.4
 Release: alt2.qa1
 Summary: Window interface tool 
 Source: ftp://ftp.x.org/contrib/utilities/xwit-%version.tar.gz
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 # thanks Debian for the patch
 Patch: xwit_3.4-9.diff

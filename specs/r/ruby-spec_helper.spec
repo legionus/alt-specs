@@ -5,7 +5,7 @@ Version: 1.0.1
 Release: alt1.1
  
 Summary: A set of shared spec helpers specific to Puppetlabs projects
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/puppetlabs/puppetlabs_spec_helper
  

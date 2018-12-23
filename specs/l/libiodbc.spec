@@ -7,7 +7,7 @@ Release: alt1
 Group: System/Libraries
 Summary: The iODBC Driver Manager
 Url: http://www.iodbc.org/
-License: BSD / LGPLv2
+License: BSD or LGPLv2
 
 Source: http://www.iodbc.org/downloads/iODBC/libiodbc-%version.tar.gz
 

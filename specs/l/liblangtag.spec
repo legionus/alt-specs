@@ -3,7 +3,7 @@ Version: 0.6.2
 Release: alt3
 
 Summary: An interface library to access tags for identifying languages
-License: (LGPLv3+ or MPLv2.0) and UCD
+License: (LGPLv3+ or MPL-2.0) and UCD
 Group: System/Libraries
 
 Url: http://tagoh.bitbucket.org/liblangtag/

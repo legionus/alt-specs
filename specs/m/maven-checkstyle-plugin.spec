@@ -10,7 +10,7 @@ Name:             maven-checkstyle-plugin
 Version:          3.0.0
 Release:          alt1_2jpp8
 Summary:          Plugin that generates a report regarding the code style used by the developers
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://maven.apache.org/plugins/%{name}
 
 Source0:          https://repo2.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip

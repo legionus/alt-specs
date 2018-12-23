@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Hashie is a simple collection of useful Hash extensions
 Group:   Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 URL:     https://github.com/intridea/hashie
 
 BuildArch: noarch

@@ -4,7 +4,7 @@ Release: alt0.2
 
 Summary: A python module for memcached daemon
 Group: System/Servers
-License: GPL2+
+License: GPL-2.0-or-later
 Url: http://gijsbert.org/cmemcache/index.html
 Packager: Alexey Morsov <swi@altlinux.ru>
 

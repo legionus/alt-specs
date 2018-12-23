@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 3.7.3
 Release: alt1
 Summary: Provides an API for communicating with HTTP 1.1 servers
-License: PSFLv2
+License: Python-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/dugong/

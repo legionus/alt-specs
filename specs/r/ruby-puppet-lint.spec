@@ -5,7 +5,7 @@ Version: 3.0.0
 Release: alt1.1
  
 Summary: Check that your Puppet manifests conform to the style guide
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/rodjek/puppet-lint/
  

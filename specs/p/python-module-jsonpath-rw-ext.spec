@@ -7,7 +7,7 @@ Release: alt1.1.2
 Summary: Extensions for JSONPath RW
 Group: Development/Python
 
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/kennknowles/python-jsonpath-rw
 Source: %name-%version.tar
 

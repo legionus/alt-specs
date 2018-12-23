@@ -3,7 +3,7 @@ Version: 2.8.0
 Release: alt1.1
 
 Summary: OpenID library for Ruby
-License: MIT/Ruby and Apache 2.0
+License: MIT or Ruby and Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/openid/ruby-openid
 

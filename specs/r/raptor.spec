@@ -6,7 +6,7 @@ Version: 1.4.21
 Release: alt3.qa1
 
 Summary: Raptor RDF Parser Toolkit for Redland
-License: LGPLv2+ or ASL 2.0
+License: LGPLv2+ or Apache-2.0
 Group: Development/Other
 Url: http://librdf.org/raptor/
 

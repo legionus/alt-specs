@@ -3,7 +3,7 @@ Version: 1.6.7
 Release: alt1
 Epoch: 3
 Summary: X11 Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

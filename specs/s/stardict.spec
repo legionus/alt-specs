@@ -9,7 +9,7 @@ Summary: StarDict dictionary
 # dict/src/eggaccelerators.{h,cpp which is GPLv2+
 # dict/stardict-plugins/stardict-wordnet-plugin/tenis.h is CPL
 # refer to README
-License: GPLv3+ and GPLv2+ and CPL
+License: GPL-3.0-or-later and GPL-2.0-or-later and CPL
 Group: System/Internationalization
 URL: http://stardict-4.sourceforge.net
 

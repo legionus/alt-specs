@@ -3,7 +3,7 @@ Name:		libmozjs38
 Version:	38.2.1
 Release:	alt3
 Group:		System/Libraries
-License:	MPL/GPL/LGPL
+License:	MPL or GPL or LGPL
 Packager:	Alexey Gladkov <legion@altlinux.ru>
 URL:		https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/38
 Source0:	%name-%version.tar

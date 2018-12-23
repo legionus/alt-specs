@@ -7,7 +7,7 @@ Version: 1.1.0
 Release: alt3
 
 Summary: Backport of Python 2.7 unittest module
-License: Same as Python
+License: Python-2.0
 Group: Development/Python
 Url: http://pypi.python.org/pypi/unittest2
 # hg clone https://hg.python.org/unittest2

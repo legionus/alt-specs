@@ -6,7 +6,7 @@ Release: alt2
 %define real_version B.0%version
 
 Summary: Hardware Lister
-License: GPLv2 only
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 Url: http://ezix.org/project/wiki/HardwareLiSter
 

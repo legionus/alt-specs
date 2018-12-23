@@ -5,7 +5,7 @@ Release:        alt3
 Summary:        The FreeHEP IO package extends the Java IO package with a number of input and output streams
 
 Group:          Development/Java
-License:        Apache 2 and LGPL 2
+License:        Apache-2.0 and LGPL-2.0-only
 URL:            http://freehep.github.io/freehep-io/
 Source0:        %name-%version.tar
 

@@ -3,7 +3,7 @@ Summary: XML-based XKB configuration registry
 Version: 2.25
 Release: alt1
 Epoch: 1
-License: X11/MIT
+License: (MIT or X11)
 Group: System/X11
 Url: http://gswitchit.sourceforge.net/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

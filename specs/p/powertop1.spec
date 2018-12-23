@@ -5,7 +5,7 @@ Version: 1.13
 Release: alt4
 
 Summary: Tool that helps you find what software is using the most power
-License: GPLv2 only
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 
 Url: http://www.lesswatts.org/projects/powertop

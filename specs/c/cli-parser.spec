@@ -10,7 +10,7 @@ Name:          cli-parser
 Version:       1.1.2
 Release:       alt1_8jpp8
 Summary:       Command Line Interface Parser for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/spullara/cli-parser
 Source0:       https://github.com/spullara/cli-parser/archive/%{name}-%{version}.tar.gz
 

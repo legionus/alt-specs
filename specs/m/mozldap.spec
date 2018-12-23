@@ -6,7 +6,7 @@ Summary:	Mozilla LDAP C SDK
 Name:		mozldap
 Version:	6.0.7
 Release:	alt3.1
-License:	MPL/GPL/LGPL
+License:	MPL or GPL or LGPL
 URL:		https://wiki.mozilla.org/LDAP_C_SDK
 Group:		System/Libraries
 Packager:	Alexey Gladkov <legion@altlinux.ru>

@@ -5,7 +5,7 @@ Release: alt1
 Summary: Byzantine/Majority Text (2000) for SWORD
 Summary(ru_RU.UTF-8): Byzantine/Majority Text (2000) для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

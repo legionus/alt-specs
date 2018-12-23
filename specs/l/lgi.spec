@@ -2,7 +2,7 @@ Summary: Lua bindings to GObject libraries
 Name: lgi
 Version: 0.9.2
 Release: alt1
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://github.com/pavouk/lgi
 Source0: %name-%version.tar

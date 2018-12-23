@@ -5,7 +5,7 @@ Release: alt1.1
 Summary: UCDN - Unicode Database and Normalization
 
 Url: https://github.com/grigorig/ucdn
-License: ISC, PYTHON-LICENSE
+License: ISC and Python-2.0
 Group: Development/C
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

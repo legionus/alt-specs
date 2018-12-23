@@ -11,7 +11,7 @@ Version:	3.1.3
 Release:	alt1_22
 Summary:	MathML rendering solution
 Group:		Development/Java
-License:	ASL 2.0 and SPL
+License:	Apache-2.0 and SPL
 URL:		http://jeuclid.sourceforge.net/index.html
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-parent-%{version}-src.zip
 #fedora specific build script based on debian

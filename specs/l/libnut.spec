@@ -23,7 +23,7 @@ Patch1: %name-svn-r505-soname.patch
 Summary: %Name open container format
 URL: http://www.nut.hu
 # svn checkout svn://svn.mplayerhq.hu/nut/trunk/libnut
-License: MIT/X
+License: (MIX or XConsortium)
 Group: System/Libraries
 
 

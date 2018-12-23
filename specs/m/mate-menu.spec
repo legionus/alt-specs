@@ -17,7 +17,7 @@ Release:        alt1_4
 Summary:        Advanced Menu for the MATE Desktop
 Group:          Shells
 # mate_menu/keybinding.py use MIT license and the rest is under GPLv2+
-License:        GPLv2+ and MIT
+License:        GPL-2.0-or-later and MIT
 BuildArch:      noarch
 Url:            https://bitbucket.org/ubuntu-mate/mate-menu
 # download link

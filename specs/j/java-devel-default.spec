@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: chooser of default ALT Linux java compiler.
 Group: Development/Java
-License: GPL2+ or Apache
+License: GPL-2.0-or-later or Apache
 Url: http://www.sisyphus.ru/packages/viy/srpms
 
 BuildArch: noarch

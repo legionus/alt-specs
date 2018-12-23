@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.0.6
 Release: alt1.git20140628.2
 Summary: HTML/CSS to PDF converter based on Python
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://www.xhtml2pdf.com/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

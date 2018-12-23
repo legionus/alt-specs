@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 2011.2.3.2
 Release: alt2.1
 Summary: svgweb (XStatic packaging standard)
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

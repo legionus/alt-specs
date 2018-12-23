@@ -9,7 +9,7 @@ Packager: Korneechev Evgeniy <ekorneechev@altlinux.org>
 
 Summary: Cloud platform
 Group: Networking/WWW
-License: AGPLv3
+License: AGPL-3.0-only
 Url: https://owncloud.org/
 
 BuildRequires(pre): rpm-macros-webserver-common

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.001
 Release: alt1.git20110216.2
 Summary: Test Anything Protocol
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 Url: http://testanything.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

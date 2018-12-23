@@ -6,7 +6,7 @@ Version: 0.5.1
 Release: alt1
 Summary: Python Netlink library
 Group: Development/Python
-License: GPLv2+, ASL 2.0
+License: GPL-2.0-or-later and Apache-2.0
 Url: https://github.com/svinota/pyroute2
 Source: %oname-%version.tar.gz
 BuildArch: noarch

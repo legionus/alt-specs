@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Nginx template to work as caching proxy for apt
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Other
 Url: http://www.altlinux.org/
 

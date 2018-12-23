@@ -6,7 +6,7 @@ Release: alt1
 Summary: OpenVZ stats collection daemon
 
 Group: System/Base
-License: GPL2+
+License: GPL-2.0-or-later
 Url: http://stats.openvz.org
 Source: %name-%version.tar
 Source1: vzstats.filetrigger

@@ -8,7 +8,7 @@ Version: 0.%{upstreamid}
 Release: alt2_14
 Source: http://ayaspell.sourceforge.net/data/hunspell-am_test.tar.gz
 URL: http://ayaspell.sourceforge.net/am.html
-License: GPL+ or LGPLv2+ or MPLv1.1
+License: GPL+ or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

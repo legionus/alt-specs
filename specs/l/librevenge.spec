@@ -5,7 +5,7 @@ Release: alt1
 Summary: A base library for writing document import filters
 Group: System/Libraries
 # src/lib/RVNGOLEStream.{h,cpp} are BSD
-License: (LGPLv2+ or MPLv2.0) and BSD
+License: (LGPLv2+ or MPL-2.0) and BSD
 Url: http://sourceforge.net/p/libwpd/wiki/librevenge/
 
 Source: %name-%version.tar

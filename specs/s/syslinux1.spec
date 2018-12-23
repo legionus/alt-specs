@@ -3,7 +3,7 @@ Summary: Simple kernel loader which boots from a FAT filesystem
 Name: %{rname}1
 Version: 1.62
 Release: alt4.1.qa1
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: System/Kernel and hardware
 Packager: Kachalov Anton <mouse@altlinux.ru>
 Url: http://syslinux.zytor.com

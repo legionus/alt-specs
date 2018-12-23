@@ -3,7 +3,7 @@ Version: 1.9.93
 Release: alt2
 
 Summary: A plugin based PlayStation (PSX) emulator with high compatibility
-License: GPLv2 / Public Domain
+License: GPL-2.0-only or ALT-Public-Domain
 Group: Emulators
 
 Url: http://pcsxr.codeplex.com/

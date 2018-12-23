@@ -10,7 +10,7 @@ Name:          uimaj
 Version:       2.8.1
 Release:       alt1_7jpp8
 Summary:       Apache UIMA is an implementation of the OASIS-UIMA specifications
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://uima.apache.org/
 Source0:       http://www.apache.org/dist/uima/%{name}-%{version}/%{name}-%{version}-source-release.zip
 Patch0:        uimaj-2.8.1-jackson2.7.patch

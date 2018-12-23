@@ -5,7 +5,7 @@ Version: 1.8.0
 Release: alt1.1
 
 Summary: EventMachine-based RabbitMQ client. Prefer Bunny: http://rubybunny.info. See documentation guides at http://rubyamqp.info.
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://rubyamqp.info
 

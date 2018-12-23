@@ -55,7 +55,7 @@ Release:        alt1_0.2.%{commitdate}git%{shortcommit}
 Summary:        Configuration file parser for the Go Programming Language
 # Detected licences
 # - *No copyright* Apache (v2.0) at 'LICENSE'
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

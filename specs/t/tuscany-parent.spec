@@ -10,7 +10,7 @@ Name:          tuscany-parent
 Version:       2
 Release:       alt1_16jpp8
 Summary:       Apache Tuscany Project Parent
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://tuscany.apache.org/
 # svn export http://svn.apache.org/repos/asf/tuscany/tags/java/pom/parent/2 tuscany-parent-2
 # tar czf tuscany-parent-2-src-svn.tar.gz tuscany-parent-2

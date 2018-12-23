@@ -2,7 +2,7 @@ Name: xorg-xf86miscproto-devel
 Version: 0.9.3
 Release: alt1
 Summary: X.org XF86MiscProto protocol headers
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

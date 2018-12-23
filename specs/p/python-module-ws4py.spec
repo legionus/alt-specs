@@ -8,7 +8,7 @@ Release: alt1
 Url: https://github.com/Lawouach/WebSocket-for-Python
 Source: %name-%version.tar
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 BuildArch: noarch

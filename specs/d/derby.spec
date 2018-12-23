@@ -13,7 +13,7 @@ Version:        10.13.1.1
 Release:        alt1_3jpp8
 Summary:        Relational database implemented entirely in Java
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://db.apache.org/derby/
 Source0:        http://archive.apache.org/dist/db/derby/db-derby-%{version}/db-derby-%{version}-src.tar.gz
 Source1:        derby-script

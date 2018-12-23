@@ -10,7 +10,7 @@ Name:          gmavenplus-plugin
 Version:       1.5
 Release:       alt1_4jpp8
 Summary:       Integrates Groovy into Maven projects
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://groovy.github.io/GMavenPlus/
 Source0:       https://github.com/groovy/GMavenPlus/archive/%{version}.tar.gz
 

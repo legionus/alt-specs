@@ -6,7 +6,7 @@ Release: alt2
 
 Summary:  Raw Open source OCR Engine
 
-License:  Apache License
+License:  Apache
 Group:    Graphics
 Url:      https://github.com/tesseract-ocr
 

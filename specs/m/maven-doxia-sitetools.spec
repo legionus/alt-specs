@@ -24,7 +24,7 @@ Name:           %{parent}-%{subproj}
 Version:        1.7.5
 Release:        alt1_1jpp8
 Summary:        Doxia content generation framework
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/doxia/
 BuildArch:      noarch
 

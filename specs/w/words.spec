@@ -6,7 +6,7 @@ Epoch: 1
 %define _dictdir %_datadir/dict
 
 Summary: A dictionary of English words for the %_dictdir directory
-License: Public domain
+License: ALT-Public-Domain
 Group: Text tools
 BuildArch: noarch
 Packager: Stanislav Ievlev <inger@altlinux.org>

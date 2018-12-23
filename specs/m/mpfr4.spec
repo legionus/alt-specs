@@ -33,7 +33,7 @@ Obsoletes: libmpfr
 
 %package -n libmpfr-devel
 Summary: Development MPFR library, header files and documentation
-License: LGPLv2.1+, FDLv1.1+
+License: LGPLv2.1+ and FDLv1.1+
 Group: Development/C
 Requires: %libmpfr = %version-%release
 Requires: libgmp-devel

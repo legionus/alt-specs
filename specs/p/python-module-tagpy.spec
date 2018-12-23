@@ -7,7 +7,7 @@ Version: 2013.1
 Release: alt2.git20130711.1.1.1.1.2
 
 Summary: TagPy is a set of Python bindings for TagLib. 
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Development/Python
 Url: http://mathema.tician.de/software/tagpy
 

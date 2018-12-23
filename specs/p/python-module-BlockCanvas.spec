@@ -5,7 +5,7 @@ Release: alt3.git20130328
 Summary: Enthought Numerical Modeling
 
 Group: Development/Python
-License: BSD and GPLv2
+License: BSD and GPL-2.0-only
 URL: http://www.enthought.com/
 # https://github.com/enthought/blockcanvas.git
 Source: %oname-%version.tar.gz

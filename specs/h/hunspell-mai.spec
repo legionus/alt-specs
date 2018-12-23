@@ -10,7 +10,7 @@ Version: 1.0.1
 Release: alt2_15
 Source: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/bhashaghar/mai_IN.oxt
 URL: https://code.google.com/archive/p/bhashaghar/wikis/Maithili.wiki
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

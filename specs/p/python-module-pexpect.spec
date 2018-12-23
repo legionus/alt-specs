@@ -8,7 +8,7 @@ Version: 4.6
 Release: alt1
 
 Summary: Pexpect is a pure Python Expect. It allows easy control of other applications
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 # Source-git: https://github.com/pexpect/pexpect.git
 Url: https://pypi.python.org/pypi/pexpect

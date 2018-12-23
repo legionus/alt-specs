@@ -5,7 +5,7 @@ Version: 2.5.3
 Release: alt1%ubt
 Summary: Erlang client for Riak
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/processone/riak-erlang-client
 

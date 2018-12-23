@@ -5,7 +5,7 @@ Release: alt6
 %define libintl libintl3
 
 Summary: GNU libraries and utilities for producing multi-lingual messages
-License: GPLv3+ and LGPLv2.1+
+License: GPL-3.0-or-later and LGPLv2.1+
 Group: System/Base
 Url: http://www.gnu.org/software/gettext/
 

@@ -7,7 +7,7 @@ Summary(ru_RU.UTF-8): Документация по языку программ�
 
 Packager: Python Development Team <python@packages.altlinux.org>
 
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: http://docs.python.org/2/
 

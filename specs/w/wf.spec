@@ -3,7 +3,7 @@ Version: 0.41
 Release: alt1.qa1
 
 Summary: Simple word frequency counter
-License: GPL2
+License: GPL-2.0-only
 Group: Text tools
 Url: http://www.async.com.br/~marcelo/wf/
 Source: %name-%version.tar

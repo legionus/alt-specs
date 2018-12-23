@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Miscellaneous HTTP utilities
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTTP
 

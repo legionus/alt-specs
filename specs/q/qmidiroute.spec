@@ -2,7 +2,7 @@ Name: qmidiroute
 Version: 0.4.0
 Release: alt1
 Summary: MIDI event router and filter
-License: GPL2
+License: GPL-2.0-only
 Group: Sound
 Url: http://alsamodular.sourceforge.net/
 

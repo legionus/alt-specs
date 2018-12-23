@@ -11,7 +11,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Frameworks 5 activity manager statistics
 Url: http://www.kde.org
-License: LGPLv2+ / LGPLv3
+License: LGPLv2+ or LGPLv3
 
 Source: %rname-%version.tar
 

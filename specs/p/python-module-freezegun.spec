@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.3.9
 Release: alt1
 Summary: Let your Python tests travel through time
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/freezegun/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

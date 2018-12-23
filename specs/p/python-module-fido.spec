@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 4.2.2
 Release: alt1.1.qa1
 Summary: Intelligent asynchronous HTTP client
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/fido
 BuildArch: noarch

@@ -13,7 +13,7 @@ Name:           apache-commons-codec
 Version:        1.11
 Release:        alt1_3jpp8
 Summary:        Implementations of common encoders and decoders
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/codec/
 BuildArch:      noarch
 

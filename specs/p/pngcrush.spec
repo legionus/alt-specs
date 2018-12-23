@@ -3,7 +3,7 @@ Version: 1.8.13
 Release: alt1
 
 Summary: Optimizer for PNG (Portable Network Graphics) files
-License: zlib
+License: Zlib
 Group: Graphics
 Url: https://pmt.sourceforge.net/pngcrush/
 

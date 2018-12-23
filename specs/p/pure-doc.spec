@@ -5,7 +5,7 @@ Summary:	A simple utility for documenting source code in the Pure programming la
 Source:		http://pure-lang.googlecode.com/files/%name-%version.tar.gz
 URL:		http://code.google.com/p/pure-lang
 Group:		Development/Functional
-License:	GPLv.3
+License:	GPL-3.0-only
 Packager:	Fr. Br. George <george@altlinux.ru>
 BuildRequires:	gcc-c++ /usr/bin/rst2html
 

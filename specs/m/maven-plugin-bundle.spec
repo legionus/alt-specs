@@ -24,7 +24,7 @@ Name:           maven-plugin-bundle
 Version:        3.5.0
 Release:        alt1_1jpp8
 Summary:        Maven Bundle Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org
 BuildArch:      noarch
 

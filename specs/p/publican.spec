@@ -33,7 +33,7 @@ Version:        4.3.2
 Release:        alt3_11
 Summary:        Common files and scripts for publishing with DocBook XML
 # For a breakdown of the licensing, refer to LICENSE
-License:        (GPLv2+ or Artistic) and CC0
+License:        (GPL-2.0-or-later or Artistic) and CC0
 Group:          Publishing
 URL:            https://publican.fedorahosted.org
 Source0:        https://fedorahosted.org/released/publican/Publican-v%{version}.tar.gz

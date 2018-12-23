@@ -14,7 +14,7 @@ Name:           apache-%{short_name}
 Version:        1.16.1
 Release:        alt1_1jpp8
 Summary:        Java API for working with compressed files and archivers
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/proper/commons-compress/
 BuildArch:      noarch
 

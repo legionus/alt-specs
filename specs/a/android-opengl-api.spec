@@ -13,7 +13,7 @@ Name:          android-opengl-api
 Version:       1.1
 Release:       alt1_14jpp8
 Summary:       Google Android Java ME Library (Khronos)
-License:       ASL 2.0
+License:       Apache-2.0
 # While the EULA for the Android SDK restricts distribution of those binaries, the source code 
 # is licensed under Apache 2.0 which allows compiling binaries from source and then distributing
 # those versions.

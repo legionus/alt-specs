@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Provides access to the DynDNS web service
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/%pear_name
 

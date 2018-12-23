@@ -10,7 +10,7 @@
 Name: tuxpaint-config
 Summary: Configuration tool for Tux Paint
 Url: http://www.tuxpaint.org/
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Graphics
 Version: 0.0.12
 Release: alt1.3

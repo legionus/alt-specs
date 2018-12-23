@@ -10,7 +10,7 @@ Name:           maven-verifier
 Version:        1.6
 Release:        alt1_5jpp8
 Summary:        Maven verifier
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-verifier
 BuildArch:      noarch
 

@@ -6,7 +6,7 @@ Version:	2.49.4
 Release:	alt1
 Summary:	Russian (RU) Language Pack for Seamonkey
 
-License:	MPL/NPL
+License:	MPL or NPL
 Group:		Networking/WWW
 URL:		http://mozilla-russia.org/products/seamonkey/
 Packager:	Andrey Cherepanov <cas@altlinux.org>

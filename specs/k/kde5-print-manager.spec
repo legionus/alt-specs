@@ -11,7 +11,7 @@ Release: alt1%ubt
 Group: System/Configuration/Printing
 Summary: Printer management for KDE
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: cups printer-drivers-X11
 #Requires: system-config-printer-udev

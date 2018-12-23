@@ -10,7 +10,7 @@ Version: 1.1
 Release: alt2_15
 Source: https://downloads.sourceforge.net/project/aoo-extensions/3975/1/%{name}-%{version}.oxt
 URL: http://extensions.services.openoffice.org/en/project/dict-yi
-License: LGPLv2+ or GPLv2+ or MPLv1.1
+License: LGPLv2+ or GPL-2.0-or-later or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

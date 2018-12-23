@@ -3,7 +3,7 @@ Version: 2.02
 Release: alt1
 
 Summary: Shell functions collection featuring isolated namespace
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Other
 BuildArch: noarch
 Packager: Fr. Br. George <george@altlinux.ru>

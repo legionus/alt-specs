@@ -4,7 +4,7 @@ Release: alt1.1
 
 Summary: AWS Signature Version 4 library
 Group:   Development/Ruby
-License: Apache2
+License: Apache-2.0
 URL:     http://github.com/aws/aws-sdk-ruby
 #VCS:    https://github.com/aws/aws-sdk-ruby/tree/master/gems/aws-sigv4
 

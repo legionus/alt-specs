@@ -5,7 +5,7 @@ Name:       python-module-%oname
 Version:    3.17.0
 Release:    alt1
 Summary:    Client library for OpenStack Identity API
-License:    ASL 2.0
+License:    Apache-2.0
 Group:      Development/Python
 Url:        http://docs.openstack.org/developer/python-%oname
 Source:     https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz

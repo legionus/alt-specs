@@ -20,7 +20,7 @@ Version: 27.9.0
 Release: alt1
 
 Summary: Russian (RU) Language Pack for Pale Moon
-License: MPL/GPL/LGPL
+License: MPL or GPL or LGPL
 
 Group: Networking/WWW
 Url: http://www.palemoon.org/langpacks.shtml

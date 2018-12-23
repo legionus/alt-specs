@@ -3,7 +3,7 @@ Version: 0.85
 Release: alt5
 
 Summary: RPM correctness checker
-License: GPL2
+License: GPL-2.0-only
 Group: Development/Other
 URL: http://rpmlint.zarb.org/
 

@@ -11,7 +11,7 @@ Release: alt1.2
 
 Summary: Fast, simple event-processing library for Ruby programs
 Group:   Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url:     http://www.rubyeventmachine.com/ 
 
 Packager: Ruby Maintainers Team <ruby@packages.altlinux.org>

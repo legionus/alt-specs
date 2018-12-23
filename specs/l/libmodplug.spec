@@ -3,7 +3,7 @@ Version: 0.8.8.5
 Release: alt1
 
 Summary: Modplug mod music file format library
-License: Public Domain
+License: ALT-Public-Domain
 Group: Sound
 
 Url: http://modplug-xmms.sourceforge.net/

@@ -31,7 +31,7 @@ Release: alt5
 Summary: Flexible partitioning tool
 Summary(uk_UA.UTF-8): Универсальний інструмент для роботи з разділами диску
 Summary(ru_RU.UTF-8): Универсальный инструмент для работы с разделами диска
-License: GPL3+
+License: GPL-3.0-or-later
 Group: System/Configuration/Hardware
 URL: http://www.gnu.org/software/%name
 

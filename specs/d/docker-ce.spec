@@ -18,7 +18,7 @@ Name:       docker-ce
 Version:    18.09.0
 Release: alt1
 Summary: Automates deployment of containerized applications
-License: ASL 2.0
+License: Apache-2.0
 Group: System/Configuration/Other
 
 %global versuffix ce

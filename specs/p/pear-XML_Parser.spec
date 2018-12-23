@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: XML parsing class based on PHP's bundled expat
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_Parser
 

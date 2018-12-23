@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.2
 Release: alt2.1.2
 Summary: asyncio API (PEP 3156) implemented on top of gevent
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/aiogevent
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

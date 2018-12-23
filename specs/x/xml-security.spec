@@ -16,7 +16,7 @@ Version:        2.0.6
 Release:        alt1_5jpp8
 Epoch:          0
 Summary:        Implementation of W3C security standards for XML
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://santuario.apache.org/
 Source0:        http://www.apache.org/dist/santuario/java-library/%{_version}/%{oname}-%{version}-source-release.zip
 # Unavailable class in jetty8/9 org.eclipse.jetty.io.Buffer

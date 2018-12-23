@@ -19,7 +19,7 @@ Name:          xerces-j2
 Version:       2.11.0
 Release:       alt3_31jpp8
 Summary:       Java XML parser
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://xerces.apache.org/xerces2-j/
 
 Source0:       http://mirror.ox.ac.uk/sites/rsync.apache.org/xerces/j/source/Xerces-J-src.%{version}.tar.gz

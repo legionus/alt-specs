@@ -3,7 +3,7 @@ Summary: A language for scientific illustration
 Version: 2.12.23
 Release: alt5
 Group: Development/Tools
-License: GPL v2
+License: GPL-2.0-only
 URL: http://gri.sourceforge.net
 
 Source: %name-%version.tar.gz

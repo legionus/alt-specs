@@ -5,7 +5,7 @@ Version: 3.8.2
 Release: alt1
  
 Summary: Provides a readable API to express expected outcomes of a code example
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/rspec/rspec-expectations
  

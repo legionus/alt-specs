@@ -8,7 +8,7 @@ Release: alt1
 Group: System/Libraries
 Summary: Qt5 - Qt3D QML bindings and C++ APIs
 Url: http://qt.io/
-License: LGPLv2 / GPLv3
+License: LGPLv2 or GPL-3.0-only
 
 Requires: qt5-imageformats
 

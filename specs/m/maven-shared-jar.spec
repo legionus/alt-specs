@@ -12,7 +12,7 @@ Release:        alt1_5jpp8
 # Maven-shared defines maven-shared-jar version as 1.1
 Epoch:          1
 Summary:        Maven JAR Utilities
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-shared-jar
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/shared/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

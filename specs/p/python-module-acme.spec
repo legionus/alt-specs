@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Python library for the ACME protocol
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/acme
 

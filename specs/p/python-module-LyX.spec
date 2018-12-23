@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.1
 Release: alt1.1
 Summary: Python interface to the LyXServer
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Development/Python
 Url: http://wiki.lyx.org/Tools/PyClient
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

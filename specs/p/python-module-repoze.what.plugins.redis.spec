@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 1.0rc1
 #Release: alt2.1
 Summary: The repoze.what Redis plugin
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: http://pypi.python.org/pypi/repoze.what.plugins.redis/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -7,7 +7,7 @@ Version: 1.29.0
 Release: alt1
 Summary: Manage dynamic plugins for Python applications
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 URL: http://docs.openstack.org/developer/stevedore/
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 BuildArch: noarch

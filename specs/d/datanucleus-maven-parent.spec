@@ -14,7 +14,7 @@ Version:        3.3
 Release:        alt1_7jpp8
 Summary:        DataNucleus Maven parent project 
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/datanucleus/datanucleus-maven-parent
 Source:         https://github.com/datanucleus/%{name}/archive/%{commit}/%{name}-%{commit}.tar.gz
 

@@ -4,7 +4,7 @@ Name: ocaml-%oname
 Version: 0.11.0
 Release: alt4
 Summary: OCaml library for converting OCaml values to S-expressions
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/ML
 Url: https://github.com/janestreet/%oname
 Source0: %name-%version.tar

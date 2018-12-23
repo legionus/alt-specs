@@ -13,7 +13,7 @@ Name:           apache-commons-httpclient
 Version:        3.1
 Release:        alt6_27jpp8
 Summary: Jakarta Commons HTTPClient implements the client side of HTTP standards
-License:        ASL 2.0 and (ASL 2.0 or LGPLv2+)
+License:        Apache-2.0 and (Apache-2.0 or LGPLv2+)
 URL:            http://jakarta.apache.org/commons/httpclient/
 Epoch:          1
 Source0:        http://archive.apache.org/dist/httpcomponents/commons-httpclient/source/commons-httpclient-3.1-src.tar.gz

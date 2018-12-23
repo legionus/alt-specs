@@ -11,7 +11,7 @@ Name:             keytool-maven-plugin
 Version:          1.0
 Release:          alt7_18jpp8
 Summary:          A plugin that wraps the keytool program and allows to manipulate keystores
-License:          MIT and ASL 2.0
+License:          MIT and Apache-2.0
 Group:            Development/Other
 # http://mojo.codehaus.org/keytool-maven-plugin/
 URL:              http://mojo.codehaus.org/%{name}/

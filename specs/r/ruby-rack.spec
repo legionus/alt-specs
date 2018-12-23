@@ -9,7 +9,7 @@ Epoch:   1
 
 Summary: Modular Ruby webserver interface
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/rack/
 
 BuildArch: noarch

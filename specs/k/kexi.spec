@@ -24,7 +24,7 @@ Release: alt1%ubt
 Group: Databases
 Summary: Visual database applications creator
 Url: http://kexi-project.org/
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: kde5-kdb-sql-driver
 

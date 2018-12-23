@@ -6,7 +6,7 @@ Release: alt1
 Summary: A shared storage lock manager
 
 Group: System/Configuration/Other
-License: GPLv2 and GPLv2+ and LGPLv2+
+License: GPL-2.0-only and GPL-2.0-or-later and LGPLv2+
 Url: https://pagure.io/sanlock
 
 Source: %name-%version.tar

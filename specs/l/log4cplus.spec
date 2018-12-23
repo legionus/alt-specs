@@ -4,7 +4,7 @@ Name: log4cplus
 Version: 2.0.0
 Release: alt2.rc2.1
 Summary: Logging library to C++
-License: Apache License
+License: Apache
 Group: Development/C++
 Url: http://log4cplus.sourceforge.net/
 

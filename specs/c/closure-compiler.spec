@@ -15,7 +15,7 @@ Name:       closure-compiler
 #define shorthash %%(printf %%.7s %%commit)
 Version:    20160315
 Release:    alt1_5jpp8
-License:    ASL 2.0
+License:    Apache-2.0
 URL:        https://developers.google.com/closure/compiler/
 Source0:    https://github.com/google/closure-compiler/archive/maven-release-v%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Source1:    closure-compiler.xml

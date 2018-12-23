@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Classes to manipulate chemical objects: atoms, molecules, etc
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Science_Chemistry
 

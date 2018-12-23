@@ -7,7 +7,7 @@ Version: 1.1.20
 Release: alt1%ubt
 Summary: Erlang/Elixir XMPP parsing and serialization library on top of Fast XML
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/xmpp
 
 # https://github.com/processone/xmpp.git

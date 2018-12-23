@@ -3,7 +3,7 @@ Version: 0.62
 Release: alt9.1.1.qa2
 Summary: QT3/KDE bindings for D-Bus
 URL: http://dbus.freedesktop.org/
-License: GPL or Academic Free License
+License: GPL or AFL-1.1
 Group: System/Libraries
 
 Packager: Ilya Mashkin <oddity@altlinux.ru>

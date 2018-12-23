@@ -13,7 +13,7 @@ Name:             sonatype-gossip
 Version:          1.7
 Release:          alt1_18jpp8
 Summary:          SLF4j Gossip Provider
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://github.com/jdillon/gossip
 
 # git clone git://github.com/jdillon/gossip.git

@@ -7,7 +7,7 @@ Name: golang-github-juju-httprequest
 Version: 0
 Release: alt0.git%abbrev
 Summary: JSON-oriented HTTP server and client helpers
-License: LGPL v.3
+License: LGPL-3.0-only
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

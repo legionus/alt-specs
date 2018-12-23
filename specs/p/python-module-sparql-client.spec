@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 3.0
 Release: alt1.1
 Summary: Python API to query a SPARQL endpoint
-License: MPLv1.1
+License: MPL-1.1
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/sparql-client/

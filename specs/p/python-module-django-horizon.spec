@@ -10,7 +10,7 @@ Summary: Django application for talking to Openstack
 
 Group: System/Servers
 # Code in horizon/horizon/utils taken from django which is BSD
-License: ASL 2.0 and BSD
+License: Apache-2.0 and BSD
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 Source1: openstack-dashboard-httpd-2.2.conf

@@ -5,7 +5,7 @@ Version: 1.13.1
 Release: alt2.1
  
 Summary: A common interface to multiple JSON libraries
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://github.com/intridea/multi_json
  

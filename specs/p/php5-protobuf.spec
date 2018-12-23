@@ -8,7 +8,7 @@ Release:	%php5_release
 
 Summary:	PHP5 Protobuf - Fast PHP Protocol Buffers implementation
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		https://github.com/allegro/php-protobuf
 

@@ -8,7 +8,7 @@ Version: 1.1.1
 Release: alt%php7_version.%php7_release
 
 Summary: Map IP address to geographic places
-License: PHP License
+License: PHP
 Group: Development/Other
 
 Url: http://pecl.php.net/package/%php7_extension

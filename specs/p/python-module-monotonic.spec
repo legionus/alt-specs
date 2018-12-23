@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.2
 Release: alt1.1
 Summary: An implementation of time.monotonic() for Python 2 & Python 3
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/monotonic/
 

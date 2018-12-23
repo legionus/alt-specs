@@ -3,7 +3,7 @@ Version: 0.9.16
 Release: alt3.qa1
 
 Summary: a settings tool for Synaptics touchpad driver
-License: GPL v2
+License: GPL-2.0-only
 Group: System/Configuration/Hardware
 Url: http://gsynaptics.sourceforge.jp
 Packager: Alex V. Myltsev <avm@altlinux.ru>

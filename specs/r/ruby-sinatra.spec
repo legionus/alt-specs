@@ -7,7 +7,7 @@ Release: alt1
 Epoch:   1
 
 Summary: Classy web-development dressed in a DSL
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/sinatra/sinatra
 

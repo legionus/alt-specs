@@ -6,7 +6,7 @@ Version: 2.0.0
 Release: alt2.qa1
 Summary: Language tool for high-performance scientific computing community
  
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Sciences/Mathematics
 Url: http://www.llnl.gov/CASC/components/babel.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: a script to gather thin client's system/hardware info
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Base
 
 Url: http://www.altlinux.org/LTSP

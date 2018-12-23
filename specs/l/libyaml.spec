@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: A C library for parsing and emitting YAML
 
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://pyyaml.org/wiki/LibYAML
 

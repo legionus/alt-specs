@@ -3,7 +3,7 @@ Version: 0.17
 Release: alt1.1
 
 Summary: libstatgrab library helps to collect many system infomation
-License: LGPL, GPL
+License: LGPL and GPL
 Group: System/Libraries
 
 Url: http://www.i-scream.org/libstatgrab/

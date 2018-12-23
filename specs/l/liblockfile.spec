@@ -16,7 +16,7 @@ includes the command-line utility ``dotlockfile''.
 
 %package devel
 Summary: Header files for liblockfile library
-License: LGPL v2+
+License: LGPL-2.0-or-later
 Group: Development/C
 Requires: %name = %version-%release
 

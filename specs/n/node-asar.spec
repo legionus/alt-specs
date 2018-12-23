@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: Simple extensive tar-like archive format with indexing
 
-License: MIT License
+License: MIT
 Group: Development/Other
 Url: https://github.com/electron/asar
 

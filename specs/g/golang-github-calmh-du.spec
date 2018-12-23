@@ -40,7 +40,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        1.0.1
 Release:        alt1_4
 Summary:        Disk Usage Information library for Go
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{project}-%{repo}-%{shortcommit}.tar.gz
 

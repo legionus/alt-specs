@@ -51,7 +51,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0.11.0
 Release:        alt1_1
 Summary:        SAP HANA Database Client for Go (Golang)
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/v%{version}/%{repo}-%{version}.tar.gz
 

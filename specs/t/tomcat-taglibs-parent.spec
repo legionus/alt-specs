@@ -12,7 +12,7 @@ Release:        alt1_7jpp8
 Summary:        Apache Taglibs Parent
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://tomcat.apache.org/taglibs/
 Source0:        http://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/tags/taglibs-parent-3/pom.xml
 BuildArch: noarch

@@ -7,7 +7,7 @@ Version:        5.9.1
 Release:        alt1
 Epoch:          1
 # MIT is needed for keybinding.py
-License:        GPLv2+ and MIT
+License:        GPL-2.0-or-later and MIT
 Summary:        Advanced Menu for the MATE Desktop
 
 Group:          Graphical desktop/GNOME

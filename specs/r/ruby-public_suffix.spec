@@ -5,7 +5,7 @@ Version: 3.0.3
 Release: alt1
  
 Summary: PublicSuffix can parse and decompose a domain name into top level domain, domain and subdomains
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://simonecarletti.com/code/publicsuffix-ruby/
  

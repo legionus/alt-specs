@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: PHP/PEAR class for barcode generation
 
-License: PHP License 3.0
+License: PHP-3.0
 Group: Development/Other
 Url: http://pear.php.net/package/Image_Barcode2
 #Url: https://github.com/pear/Image_Barcode2

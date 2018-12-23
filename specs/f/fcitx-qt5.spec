@@ -14,7 +14,7 @@ Summary:        Fcitx IM module for Qt5
 
 # The entire source code is GPLv2+ except
 # platforminputcontext/ which is BSD
-License:        GPLv2+ and BSD
+License:        GPL-2.0-or-later and BSD
 URL:            https://github.com/fcitx/fcitx-qt5
 Source0:        http://download.fcitx-im.org/%{name}/%{name}-%{version}.tar.xz
 

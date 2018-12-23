@@ -10,7 +10,7 @@ Name:          littleproxy
 Version:       1.1.0
 Release:       alt2_3jpp8
 Summary:       High Performance HTTP Proxy
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.littleshoot.org/littleproxy/
 Source0:       https://github.com/adamfisk/LittleProxy/archive/%{name}-%{version}.tar.gz
 

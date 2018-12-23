@@ -6,7 +6,7 @@ Summary: Councels of Elders in Russian: Feofan
 Summary(ru_RU.KOI8-R): Поучения Старцев: Феофан Затворник
 
 Group: Games/Other
-License: Public domain
+License: ALT-Public-Domain
 Url: http://pagez.ru
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

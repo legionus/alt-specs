@@ -7,7 +7,7 @@ Release:        alt2_14
 Summary:        Small data compression library
 
 Group:          System/Libraries
-License:        BSD or GPLv2+
+License:        BSD or GPL-2.0-or-later
 URL:            http://oldhome.schmorp.de/marc/liblzf.html
 Source0:        http://dist.schmorp.de/liblzf/liblzf-%{version}.tar.gz
 # Adds autoconf and in particular support for building shared libraries.

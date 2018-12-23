@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.2
 Release: alt1.git20150621.1.1
 Summary: Tool to cause tests to fail fast when the wrong environment is used to run them
-License: AGPLv3+
+License: AGPL-3.0-or-later
 Group: Development/Python
 Url: https://pypi.python.org/pypi/hitchenvironment/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

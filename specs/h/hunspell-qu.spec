@@ -11,7 +11,7 @@ Release: alt2_13
 # Following links is dead now
 Source: http://extensions.services.openoffice.org/e-files/2121/8/qu_EC-0.9.oxt
 URL: http://extensions.services.openoffice.org/project/KichwaSpellchecker
-License: AGPLv3
+License: AGPL-3.0-only
 BuildArch: noarch
 
 Requires: hunspell

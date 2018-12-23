@@ -7,7 +7,7 @@ Version: 1.2.5
 Release: alt1
 
 Summary: Crossplatform Jabber/XMPP client
-License: GPL3
+License: GPL-3.0-only
 Group: Networking/Instant messaging
 Url: http://www.vacuum-im.org
 Source: %name-%version.tar.gz

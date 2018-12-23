@@ -6,7 +6,7 @@ Release: alt1
 %define pkgdocdir %_docdir/%name-%version
 
 Summary: An XML parser written in C
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: System/Base
 Url: http://www.libexpat.org/
 # http://downloads.sourceforge.net/project/expat/expat/%version/expat-%version.tar.bz2

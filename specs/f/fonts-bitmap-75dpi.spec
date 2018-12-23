@@ -9,7 +9,7 @@ Release: alt4
 
 Summary: X Window System 75dpi fonts
 Group: System/Fonts/X11 bitmap
-License: MIT/X11
+License: (MIT or X11)
 
 Url: http://xorg.freedesktop.org
 

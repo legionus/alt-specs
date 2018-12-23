@@ -9,7 +9,7 @@ Release: alt1.3
 
 Summary: Python bindings generator for C++ class libraries
 
-License: PSF
+License: Python-2.0
 Group: Development/Python
 URL: http://www.riverbankcomputing.com/software/sip/
 

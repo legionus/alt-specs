@@ -3,7 +3,7 @@ Summary: Command-line tools and library for transforming PDF files
 Name: qpdf
 Version: 8.2.1
 Release: alt1
-License: Apache 2.0
+License: Apache-2.0
 Group: System/Base
 Url: http://qpdf.sourceforge.net/
 Source0: http://downloads.sourceforge.net/sourceforge/qpdf/qpdf-%version.tar

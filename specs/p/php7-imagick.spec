@@ -8,7 +8,7 @@ Release:	%php7_release.1
 
 Summary:	PHP7 wrapper to the ImageMagick library
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/imagick
 

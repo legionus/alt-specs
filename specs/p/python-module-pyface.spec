@@ -8,7 +8,7 @@ Release: alt1
 Summary: Traits-capable windowing framework
 
 Group: Development/Python
-License: BSD, EPL and LGPL
+License: BSD and EPL and LGPL
 URL: http://www.enthought.com/
 BuildArch: noarch
 

@@ -5,7 +5,7 @@ Version: 3.8.0
 Release: alt1
  
 Summary: Common code needed by the other RSpec gems
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/rspec/rspec-support
  

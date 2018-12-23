@@ -12,7 +12,7 @@ Name:          apache-%{short_name}
 Version:       3.0.2
 Release:       alt2_14.20120313svn1102435jpp8
 Summary:       Object Graph Navigation Library 
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://commons.apache.org/ognl/
 # svn export -r1102435 http://svn.apache.org/repos/asf/commons/proper/ognl/trunk/ apache-commons-ognl-3.0.2
 # tar caf apache-commons-ognl-3.0.2.tar.xz apache-commons-ognl-3.0.2

@@ -3,7 +3,7 @@ Version: 0.2.0
 Release: alt1
 
 Summary: Config file for multiple locations
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Source1: webapps.conf

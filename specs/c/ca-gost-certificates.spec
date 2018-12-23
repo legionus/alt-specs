@@ -4,7 +4,7 @@ Release: alt4
 
 Summary: GOST CA Certificates
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 Url: https://e-trust.gosuslugi.ru
 

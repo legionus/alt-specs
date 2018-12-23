@@ -4,7 +4,7 @@ Release:        alt1
 Summary:        Hardware introspection for OpenStack Ironic
 Group:          Development/Python
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://pypi.python.org/pypi/ironic-discoverd
 Source0:        %name-%version.tar
 BuildArch:      noarch

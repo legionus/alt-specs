@@ -13,7 +13,7 @@ Release:        alt1_9jpp8
 Summary:        A Java mocking framework
 
 # Note: api-mockito subpackage is ASL 2.0 and MIT, the rest is ASL 2.0
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/jayway/powermock
 Source0:        https://github.com/jayway/%{name}/archive/%{name}-%{version}.tar.gz
 
@@ -104,7 +104,7 @@ This package contains support code for the PowerMock API extensions.
 Group: Development/Java
 Summary:        PowerMock Mockito API module
 # Bundles forked mockito, which is under MIT
-License:        ASL 2.0 and MIT
+License:        Apache-2.0 and MIT
 Provides:       bundled(mockito) = 2.0
 Requires:       %{name}-common = %{version}-%{release}
 

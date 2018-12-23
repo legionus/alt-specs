@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Recover files by "carving" them from a raw disk
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Text tools
 Url: http://foremost.sourceforge.net/
 

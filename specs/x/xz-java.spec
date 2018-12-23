@@ -10,7 +10,7 @@ Name:           xz-java
 Version:        1.8
 Release:        alt1_2jpp8
 Summary:        Java implementation of XZ data compression
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://tukaani.org/xz/java.html
 BuildArch:      noarch
 

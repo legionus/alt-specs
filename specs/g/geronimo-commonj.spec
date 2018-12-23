@@ -12,7 +12,7 @@ Name:    geronimo-commonj
 Version: 1.1.0
 Release: alt2_16jpp8
 Summary: CommonJ Specification
-License: ASL 2.0
+License: Apache-2.0
 URL:     http://geronimo.apache.org/
 # svn export https://svn.apache.org/repos/asf/geronimo/specs/tags/specs-1.4/geronimo-commonj_1.1_spec geronimo-commonj-1.1.0
 # tar cvfJ geronimo-commonj-1.1.0.tar.xz geronimo-commonj-1.1.0

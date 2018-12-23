@@ -6,7 +6,7 @@ Release: alt2.1
 Epoch: 1
 
 Summary: Webster dictionary in dict format
-License: GPL, Public Domain
+License: GPL and ALT-Public-Domain
 Group: Text tools
 
 Source: %name-%wrongversion.tar.bz2

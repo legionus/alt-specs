@@ -3,7 +3,7 @@ Version: 1.2.0
 Release: alt2.qa1
 
 Summary: MPT Fusion based RAID inquiry tool for LSI Logic HBAs
-License: GPL v2+
+License: GPL-2.0-or-later
 Group: Monitoring
 
 Url: http://www.drugphish.ch/~ratz/mpt-status/

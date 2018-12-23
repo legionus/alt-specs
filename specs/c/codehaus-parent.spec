@@ -11,7 +11,7 @@ Name:           codehaus-parent
 Version:        4
 Release:        alt4_13jpp8
 Summary:        Parent pom file for codehaus projects
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://codehaus.org/
 BuildArch:      noarch
 

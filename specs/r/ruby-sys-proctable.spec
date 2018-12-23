@@ -5,7 +5,7 @@ Version: 1.2.1
 Release: alt1
 
 Summary: A cross-platform Ruby interface for gathering process information on your operating system
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/djberg96/sys-proctable
 

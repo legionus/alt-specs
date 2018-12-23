@@ -6,7 +6,7 @@ Release:        alt2
 
 Summary:        A repository of test results
 Group:          Development/Python
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://launchpad.net/testrepository
 BuildArch:      noarch
 

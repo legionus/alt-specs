@@ -5,7 +5,7 @@ Version: 3.0.2
 Release: alt1
  
 Summary: A Ruby library for working with ZIP Container Format files
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://mygrid.github.io/ruby-zip-container/
 # VCS:	 https://github.com/myGrid/ruby-zip-container

@@ -8,7 +8,7 @@ Release: alt1
 Summary: VCR imitation for python-requests
 
 Group: Development/Python
-License: ASL 2.0 or BSD
+License: Apache-2.0 or BSD
 Url: https://github.com/sigmavirus24/betamax
 Source: %pypi_name-%version.tar.gz
 Patch: betamax-system-urllib3.patch

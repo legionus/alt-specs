@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Parse vCard 2.1 and 3.0 files
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Contact_Vcard_Parse
 

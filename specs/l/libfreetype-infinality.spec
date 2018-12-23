@@ -3,7 +3,7 @@ Version: 2.8.0
 Release: alt7
 
 Summary: Obsolete package. Don't use it
-License: FTL or GPLv2+
+License: FTL or GPL-2.0-or-later
 Group: System/Libraries
 Url: http://www.freetype.org/
 Packager: Vladimir Didenko <cow@altlinux.ru>

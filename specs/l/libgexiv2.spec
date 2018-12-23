@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: GObject-based Exiv2 wrapper
 Group: System/Libraries
-License: GPL2
+License: GPL-2.0-only
 Url: https://wiki.gnome.org/Projects/gexiv2
 
 Source: ftp://ftp.gnome.org/pub/gnome/sources/%_name/%ver_major/%_name-%version.tar.xz

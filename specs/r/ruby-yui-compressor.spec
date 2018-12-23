@@ -3,7 +3,7 @@ Version: 0.12.0
 Release: alt1.1
 
 Summary: A Ruby interface to YUI Compressor for minifying JavaScript and CSS assets.
-License: MIT and BSD-3-clause and MPL
+License: MIT and BSD-3-Clause and MPL
 Group:   Development/Ruby
 Url:     https://github.com/sstephenson/ruby-yui-compressor/
 

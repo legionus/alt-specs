@@ -11,7 +11,7 @@ Name:           jdependency
 Version:        1.2
 Release:        alt1_2jpp8
 Summary:        This project provides an API to analyse class dependencies
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://github.com/tcurdt/%{name}
 BuildArch:      noarch
 

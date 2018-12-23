@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: PEAR::HTML_Common is a base class for other HTML classes
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Common
 

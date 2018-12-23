@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.19
 Release: alt1.git20150621.1.1.1.1
 Summary: Python library for arbitrary-precision floating-point arithmetic
-License: New BSD License
+License: BSD-3-Clause
 Group: Development/Python
 Url: http://mpmath.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

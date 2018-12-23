@@ -6,7 +6,7 @@ Release:        alt1
 
 Group:          Graphical desktop/KDE
 Summary:        Mozilla KDE Integration
-License:        X11/MIT
+License:        (MIT or X11)
 
 %define helper_version 6
 %if_enabled hackaround

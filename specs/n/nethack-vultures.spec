@@ -6,7 +6,7 @@ Release: alt3
 Summary: NetHack - Vulture's Eye and Vulture's Claw
 
 Group: Games/Adventure 
-License: NetHack General Public License
+License: NGPL
 Url: http://www.darkarts.co.za/projects/vultures/
 Source0: http://www.darkarts.co.za/projects/vultures/downloads/vultures-%version/vultures-%version-full.tar.bz2
 Patch0: %name-1.11.0-optflags.patch

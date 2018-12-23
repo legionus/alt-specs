@@ -3,7 +3,7 @@ Version: 1.1_48_g61d6007
 Release: alt1.1
 Summary: A bidirectional git - bazaar gateway
 Group: Development/Other
-License: GPL2
+License: GPL-2.0-only
 Url: http://github.com/kfish/git-bzr
 Packager: Ildar Mulyukov <ildar@altlinux.ru>
 

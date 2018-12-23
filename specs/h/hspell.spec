@@ -2,7 +2,7 @@ Name: hspell
 Version: 1.3
 Release: alt1
 Summary: A Hebrew spell checker
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Text tools
 Url: http://hspell.ivrix.org.il/
 # http://hspell.ivrix.org.il/%name-%version.tar.gz

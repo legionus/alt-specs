@@ -24,7 +24,7 @@ Version:        2.9.1
 Release:        alt1_4jpp8
 Summary:        Java logging package
 BuildArch:      noarch
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://logging.apache.org/%{name}
 Source0:        http://www.apache.org/dist/logging/%{name}/%{version}/apache-%{name}-%{version}-src.tar.gz
 

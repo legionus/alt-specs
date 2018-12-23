@@ -8,7 +8,7 @@ Release: alt1
 Summary: Fixtures, reusable state for writing clean tests and more
 
 Group: Development/Python
-License: ASL 2.0 or BSD
+License: Apache-2.0 or BSD
 Url: https://launchpad.net/python-fixtures
 Source0: %name-%version.tar
 BuildArch: noarch

@@ -11,7 +11,7 @@ Epoch:          0
 Version:        4.3
 Release:        alt4_19jpp8
 Summary:        Java components interfaces
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://avalon.apache.org/
 BuildArch:    	noarch
 

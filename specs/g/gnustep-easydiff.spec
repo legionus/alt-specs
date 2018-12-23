@@ -4,7 +4,7 @@ Name: gnustep-easydiff
 Version: 0.4.1
 Release: alt6.git20121210.1
 Summary: GNUstep's implementation of the OPENSTEP FileMerge application
-License: GPLv2+ and GPLv3
+License: GPL-2.0-or-later and GPL-3.0-only
 Group: File tools
 Url: http://www.gnustep.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

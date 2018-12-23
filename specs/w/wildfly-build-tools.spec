@@ -14,7 +14,7 @@ Name:          wildfly-build-tools
 Version:       1.1.6
 Release:       alt1_4jpp8
 Summary:       Wildfly build and provisioning tools
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/wildfly/wildfly-build-tools
 Source0:       https://github.com/wildfly/wildfly-build-tools/archive/%{namedversion}.tar.gz
 

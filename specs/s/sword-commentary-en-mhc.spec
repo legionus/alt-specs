@@ -3,7 +3,7 @@ Version: 1.6
 Release: alt1
 
 Summary: Matthew Henry's Complete Commentary on the Whole Bible for SWORD
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

@@ -10,7 +10,7 @@ Name:          metrics
 Version:       3.1.2
 Release:       alt1_6jpp8
 Summary:       Java library which gives you what your code does in production
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://metrics.dropwizard.io
 Source0:       https://github.com/dropwizard/metrics/archive/v%{version}.tar.gz
 # Add rabbitmq-java-client 3.5.x support

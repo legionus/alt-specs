@@ -10,7 +10,7 @@ Version: 0.010
 Release: alt1
 Summary: Common library for searching CPAN modules, authors and distributions
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/CPAN-Common-Index
 
 Source0: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/%{module_name}-%{version}.tar.gz

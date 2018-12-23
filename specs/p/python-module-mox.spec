@@ -9,7 +9,7 @@ Version: 0.5.3
 Release: alt3.git20140721.2
 # https://github.com/freyes/pymox.git
 Source0: %origname-%version.tar
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Python
 URL: http://code.google.com/p/pymox/
 Packager: Mikhail Pokidko <pma@altlinux.org>

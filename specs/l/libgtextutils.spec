@@ -7,7 +7,7 @@ Release:	alt1_22
 Summary:	Assaf Gordon text utilities    
 
 Group:		System/Libraries
-License:	AGPLv3+
+License:	AGPL-3.0-or-later
 URL:		http://hannonlab.cshl.edu/fastx_toolkit/
 Source0:	https://github.com/agordon/%{name}/releases/download/%{version}/%{name}-%{version}.tar.gz
 Patch0:		libgtextutils-GCC6-iostream.patch

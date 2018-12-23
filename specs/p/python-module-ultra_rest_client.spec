@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.1.4
 Release: alt1.git20150515.1.1
 Summary: A sample Python client for communicating with the UltraDNS REST API
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/ultra_rest_client
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

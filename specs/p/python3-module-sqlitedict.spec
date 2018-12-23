@@ -3,7 +3,7 @@ Name: python3-module-%oname
 Version: 1.5.0
 Release: alt1.1
 Summary: Persistent dict in Python, backed up by sqlite3 and pickle, multithread-safe
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python3
 Url: https://pypi.python.org/pypi/sqlitedict/
 

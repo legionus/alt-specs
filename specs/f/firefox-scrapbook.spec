@@ -7,7 +7,7 @@ Version:	1.5.14
 Release:	alt1
 Summary:	Firefox extension, which helps you to save Web pages and manage the collection
 
-License:	MPL 1.1/GPL 2.0 or later/LGPL 2.1 or later
+License:	MPL-1.1 or GPL-2.0-or-later or LGPL-2.1-or-later
 Group:		Networking/WWW
 URL:		https://addons.mozilla.org/ru/firefox/addon/scrapbook/
 #URL:		http://amb.vis.ne.jp/mozilla/scrapbook/

@@ -46,7 +46,7 @@ Epoch:          2
 Version:        0
 # I can't use %%{cvstag} as dashes aren't allowed in Release tags
 Release:        alt1_0.23.release20050331jpp8
-License:        MIT and ASL 1.1
+License:        MIT and Apache-1.1
 BuildArch:      noarch
 
 # mkdir isorelax-release-20050331-src

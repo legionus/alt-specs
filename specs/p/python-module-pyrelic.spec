@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.8.0
 Release: alt2.git20150520.1
 Summary: Python API Wrapper for NewRelic API
-License: MIT / GPL
+License: MIT or GPL
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/pyrelic

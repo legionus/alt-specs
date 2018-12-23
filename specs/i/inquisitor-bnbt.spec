@@ -3,7 +3,7 @@ Version: 20060727
 Release: alt1.beta85.qa1
 
 Summary: A C++ BitTorrent Tracker
-License: LGPL 2.1+
+License: LGPL-2.1-or-later
 Group: System/Servers
 
 Url: http://sourceforge.net/projects/bnbt/

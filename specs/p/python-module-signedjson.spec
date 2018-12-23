@@ -9,7 +9,7 @@ Release: alt1.qa1
 Summary: Sign JSON with Ed25519 signatures
 
 Url: https://github.com/matrix-org/python-signedjson
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

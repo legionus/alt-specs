@@ -10,7 +10,7 @@ Epoch: 1
 
 Summary: Load, configure, and compose WSGI applications and servers
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 BuildArch: noarch
 Url: http://pythonpaste.org

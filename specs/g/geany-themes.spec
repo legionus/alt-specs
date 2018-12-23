@@ -6,7 +6,7 @@ Group:		Development/Tools
 URL:		https://github.com/geany/geany-themes
 
 # Some of the color schemes are clearly stated as GPLv2+, some are BSD
-License:	GPLv2+ and BSD
+License:	GPL-2.0-or-later and BSD
 
 # https://github.com/geany/geany-themes/releases/download/1.24/geany-themes-1.24.tar.bz2
 Source:		%{name}-%{version}.tar

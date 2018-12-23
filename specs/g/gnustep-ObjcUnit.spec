@@ -4,7 +4,7 @@ Name: gnustep-ObjcUnit
 Version: 1.2
 Release: alt3
 Summary: ObjcUnit framework for GNUstep
-License: IBM Public License Version 1.0
+License: IPL-1.0
 Group: Graphical desktop/GNUstep
 Url: http://wiki.gnustep.org/index.php/ObjcUnit
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

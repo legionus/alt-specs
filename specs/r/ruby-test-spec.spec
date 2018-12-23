@@ -7,7 +7,7 @@ Version: 0.10
 Release: alt1.3
 
 Summary: an RSpec-inspired interface on top of Test::Unit
-License: Ruby/MIT
+License: Ruby or MIT
 Group: Development/Ruby
 Url: http://test-spec.rubyforge.org/
 

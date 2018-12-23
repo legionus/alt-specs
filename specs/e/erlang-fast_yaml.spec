@@ -7,7 +7,7 @@ Version: 1.0.13
 Release: alt1%ubt
 Summary: Fast YAML native library for Erlang / Elixir
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/fast_yaml
 
 # https://github.com/processone/fast_yaml.git

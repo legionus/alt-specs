@@ -4,7 +4,7 @@ Release: alt1.git20150105
 Summary: Code Analysis and Execution Tools
 
 Group:          Development/Python
-License: BSD and GPLv2
+License: BSD and GPL-2.0-only
 URL: http://enthought.com/
 # https://github.com/enthought/codetools.git
 Source: CodeTools-%version.tar.gz

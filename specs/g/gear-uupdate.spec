@@ -7,7 +7,7 @@ Release: alt1
 Summary: Helper utility to be called by uscan for gear repository update
 Source: %name-%version.tar
 
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Development/Other
 URL: http://www.altlinux.org/Gear/gear-uupdate
 

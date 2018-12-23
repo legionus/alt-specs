@@ -15,7 +15,7 @@ Release: alt1_3
 Summary: A library for rendering glTF models
 Group: System/Libraries
 
-License: MPLv2.0
+License: MPL-2.0
 URL: https://wiki.documentfoundation.org/Development/libgltf
 Source: http://dev-www.libreoffice.org/src/%{name}/%{name}-%{version}.tar.gz
 Patch0: GLM_ENABLE_EXPERIMENTAL.patch

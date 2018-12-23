@@ -13,7 +13,7 @@ Release: alt4
 Summary: Parse english textual date descriptions
 Group: Development/Python
 
-License: zlib / PHP
+License: Zlib or PHP
 Url: http://pypi.python.org/pypi/timelib
 Source: %name-%version.tar
 

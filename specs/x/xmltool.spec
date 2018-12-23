@@ -14,7 +14,7 @@ Release:        alt4_18jpp8
 Summary:        Tool to manage XML documents through a Fluent Interface
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://code.google.com/p/xmltool
 ### upstream only provides binaries or source without build scripts
 # tar creation instructions

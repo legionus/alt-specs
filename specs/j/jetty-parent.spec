@@ -10,7 +10,7 @@ Name:           jetty-parent
 Version:        19
 Release:        alt2_17jpp8
 Summary:        Jetty parent POM file
-License:        ASL 2.0 or EPL
+License:        Apache-2.0 or EPL
 URL:            http://www.eclipse.org/jetty/
 BuildArch:      noarch
 

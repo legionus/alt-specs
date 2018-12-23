@@ -11,7 +11,7 @@ Version:        2.10
 Release:        alt1_6jpp8
 Summary:        Maven EAR Plugin
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-ear-plugin/
 Source0:        http://repo2.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

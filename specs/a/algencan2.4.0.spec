@@ -3,7 +3,7 @@ Name: algencan2.4.0
 Version: 2.4.0
 Release: alt2
 Summary: Solving extremely large problems with moderate computer time
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Sciences/Mathematics
 Url: http://www.ime.usp.br/~egbirgin/tango/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

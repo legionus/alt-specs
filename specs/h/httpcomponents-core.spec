@@ -11,7 +11,7 @@ Name:           httpcomponents-core
 Summary:        Set of low level Java HTTP transport components for HTTP services
 Version:        4.4.9
 Release:        alt1_4jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://hc.apache.org/
 Source0:        http://www.apache.org/dist/httpcomponents/httpcore/source/httpcomponents-core-%{version}-src.tar.gz
 BuildArch:      noarch

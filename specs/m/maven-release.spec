@@ -11,7 +11,7 @@ Name:           maven-release
 Version:        2.2.1
 Release:        alt7_20jpp8
 Summary:        Release a project updating the POM and tagging in the SCM
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-release-plugin/
 BuildArch:      noarch
 

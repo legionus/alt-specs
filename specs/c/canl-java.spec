@@ -17,7 +17,7 @@ Summary:	EMI Common Authentication library - bindings for Java
 #		Parts derived from bouncycastle are MIT
 #		Parts derived from Apache Commons IO are Apache 2.0
 #		See LICENSE.txt for details
-License:	BSD and ASL 2.0 and MIT
+License:	BSD and Apache-2.0 and MIT
 URL:		https://github.com/eu-emi/%{name}/
 Source0:	https://github.com/eu-emi/%{name}/archive/canl-%{version}/%{name}-%{version}.tar.gz
 #		Disable tests that require network connections

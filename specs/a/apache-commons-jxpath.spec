@@ -11,7 +11,7 @@ Name:           apache-commons-jxpath
 Version:        1.3
 Release:        alt3_29jpp8
 Summary:        Simple XPath interpreter
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/jxpath/
 BuildArch:      noarch
 

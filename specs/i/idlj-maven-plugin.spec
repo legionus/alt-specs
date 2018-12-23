@@ -12,7 +12,7 @@ Name:             idlj-maven-plugin
 Version:          1.2.1
 Release:          alt2_9jpp8
 Summary:          The CORBA IDL Compiler Maven Plugin 
-License:          ASL 2.0
+License:          Apache-2.0
 # http://www.mojohaus.org/plugins.html
 URL:              http://mojo.codehaus.org/idlj-maven-plugin
 

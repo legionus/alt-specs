@@ -10,7 +10,7 @@ Name:          httpcomponents-asyncclient
 Version:       4.1.2
 Release:       alt2_3jpp8
 Summary:       Apache components to build asynchronous client side HTTP services
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://hc.apache.org/
 Source0:       http://www.apache.org/dist/httpcomponents/httpasyncclient/source/%{name}-%{version}-src.tar.gz
 

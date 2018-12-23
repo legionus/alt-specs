@@ -23,7 +23,7 @@ Version:       2.9.4
 Release:       alt1_3jpp8
 Summary:       Jackson standard binary data format backends
 # One file is BSD licensed: protobuf/src/main/resources/descriptor.proto
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 URL:           https://github.com/FasterXML/jackson-dataformats-binary
 Source0:       https://github.com/FasterXML/jackson-dataformats-binary/archive/%{name}-%{version}.tar.gz
 

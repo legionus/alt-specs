@@ -43,7 +43,7 @@ inside Containers.
 %package -n lib%name
 Summary: OpenVZ EZ template management API library
 Group: System/Libraries
-License: GPLv2 or LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 
 %description -n lib%name
 OpenVZ EZ template management API library
@@ -51,7 +51,7 @@ OpenVZ EZ template management API library
 %package -n lib%name-devel
 Summary: OpenVZ EZ template management API development library
 Group: Development/C
-License: GPLv2 or LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 Requires: lib%name = %version-%release
 
 %description -n lib%name-devel

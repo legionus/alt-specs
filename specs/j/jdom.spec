@@ -43,7 +43,7 @@ Version:        1.1.3
 Release:        alt3_15jpp8
 Epoch:          0
 Summary:        Java alternative to DOM and SAX
-License:        ASL 1.1
+License:        Apache-1.1
 URL:            http://www.jdom.org/
 Source0:        http://jdom.org/dist/binary/archive/jdom-%{version}.tar.gz
 Source1:        http://repo1.maven.org/maven2/org/jdom/jdom/%{version}/jdom-%{version}.pom

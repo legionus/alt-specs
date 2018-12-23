@@ -4,7 +4,7 @@ Name: tbb
 Version: 2018
 Release: alt1.u1.1.qa1
 Summary: Threading Building Blocks
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Tools
 Url: http://threadingbuildingblocks.org/
 

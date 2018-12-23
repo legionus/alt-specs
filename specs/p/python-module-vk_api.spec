@@ -5,7 +5,7 @@ Version: 9.3.1
 Release: alt2.qa1
 
 Summary: Module for writing scripts for vk.com (vkontakte)
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 
 Url: https://github.com/python273/vk_api

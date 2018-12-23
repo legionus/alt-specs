@@ -15,7 +15,7 @@ Name:           perl-Graph-Easy
 Version:        0.76
 Release:        alt1_4
 Summary:        Convert or render graphs as ASCII, HTML, SVG or via Graphviz
-License:        GPLv2+ and ASL 1.1
+License:        GPL-2.0-or-later and Apache-1.1
 Group:          Development/Other
 URL:            http://search.cpan.org/dist/Graph-Easy/
 Source0:        http://www.cpan.org/authors/id/S/SH/SHLOMIF/Graph-Easy-%{version}.tar.gz

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.0
 Release: alt1.git20140825.1.2
 Summary: A Python interface to Last.fm (and other API compatible social networks)
-License: ASL v2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pylast/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

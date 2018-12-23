@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.1.2
 Release: alt1.git20140515.1.2
 Summary: Really simple async Redis client for Tornado
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/toredis/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

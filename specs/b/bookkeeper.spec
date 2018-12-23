@@ -27,7 +27,7 @@ Name:          bookkeeper
 Version:       4.3.2
 Release:       alt1_5jpp8
 Summary:       Replicated log service
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://bookkeeper.apache.org/
 Source0:       http://www.apache.org/dist/bookkeeper/%{name}-%{version}/%{name}-%{version}-src.tar.gz
 # Add support for guava 18

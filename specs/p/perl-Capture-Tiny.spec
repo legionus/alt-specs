@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Capture::Tiny - Capture STDOUT and STDERR from Perl, XS or external programs
 Group: Development/Perl
-License: Apache 2.0
+License: Apache-2.0
 
 Url: %CPAN %dist
 Source0: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/%{dist}-%{version}.tar.gz

@@ -9,7 +9,7 @@ Group: System/Configuration/Other
 Summary: PolicyKit authentication systemsettings modules for KDE
 Url: https://projects.kde.org/projects/extragear/base/polkit-kde-kcmodules-1
 # ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/
-License: GPLv2 / LGPLv2.1+
+License: GPL-2.0-only or LGPLv2.1+
 
 Requires: polkit-kde-agent-1
 

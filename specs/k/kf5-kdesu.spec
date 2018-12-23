@@ -8,7 +8,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Frameworks 5 user interface for running shell commands with root privileges
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-dont-close-pty.patch

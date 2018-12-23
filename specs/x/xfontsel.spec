@@ -2,7 +2,7 @@ Name: xfontsel
 Version: 1.0.6
 Release: alt1
 Summary: point and click selection of X11 font names
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -4,7 +4,7 @@ Name: ruby-%pkgname
 Version: 1.1.5
 Release: alt1
 Summary: A very simple API for XML processing
-License: Ruby license
+License: Ruby
 Group: Development/Ruby
 Url: https://github.com/maik/xml-simple
 

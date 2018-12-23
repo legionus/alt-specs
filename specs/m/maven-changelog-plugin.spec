@@ -10,7 +10,7 @@ Version:        2.3
 Release:        alt2_2jpp8
 Summary:        Produce SCM changelog reports
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-changelog-plugin/
 Source0:        http://archive.apache.org/dist/maven/plugins/maven-changelog-plugin-%{version}-source-release.zip
 

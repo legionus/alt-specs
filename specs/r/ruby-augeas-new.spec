@@ -5,7 +5,7 @@ Version: 0.6.4
 Release: alt1.5
  
 Summary: A fork of ruby-augeas (bindings for augeas) with exceptions support
-License: LGPL 2.1
+License: LGPL-2.1-only
 Group:   Development/Ruby
 Url:     https://github.com/dotdoom/augeas
  

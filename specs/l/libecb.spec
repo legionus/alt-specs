@@ -9,7 +9,7 @@ Version:    0.%{snapshot}
 Release:    alt1_1
 Summary:    Compiler built-ins
 Group:      Development/Other
-License:    BSD or GPLv2+
+License:    BSD or GPL-2.0-or-later
 URL:        http://software.schmorp.de/pkg/libecb.html
 # Snapshot from CVS :pserver:anonymous@cvs.schmorp.de/schmorpforge libecb 
 Source0:    %{name}-%{snapshot}.tar.xz

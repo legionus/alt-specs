@@ -5,7 +5,7 @@ Version: 1.2.2
 Release: alt1
 Summary: wmxkbru showns and controls XKB groups (only ru or en) for Window Maker
 Summary(ru_RU.UTF-8): показывает и переключает раскладки клавиатуры (только ru/en)
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Window Maker
 
 %define __prefix /usr

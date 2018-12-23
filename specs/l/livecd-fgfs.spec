@@ -3,7 +3,7 @@ Version: 0.2
 Release: alt2
 
 Summary: start FlightGear
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://altlinux.org/m-p

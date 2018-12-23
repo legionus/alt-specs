@@ -4,7 +4,7 @@ Name: ruby-%pkgname
 Version: 1.2.0
 Release: alt1
 Summary: A generic paginator object for use in any Ruby program
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: Development/Ruby
 Url: http://rubyforge.org/projects/paginator/
 

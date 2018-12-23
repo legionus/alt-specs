@@ -13,7 +13,7 @@ Name:          apache-%{short_name}
 Version:       2.1
 Release:       alt3_10jpp8
 Summary:       XML to Java object mapping module
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://commons.apache.org/digester/
 BuildArch:     noarch
 

@@ -11,7 +11,7 @@ Name: rabbitmq-server
 Version: 3.6.16
 Release: alt1%ubt
 Summary: The RabbitMQ server
-License: MPLv1.1
+License: MPL-1.1
 BuildArch: noarch
 Group: System/Servers
 Source: %name-%version.tar
@@ -48,7 +48,7 @@ scalable implementation of an AMQP broker.
 
 %package -n %name-devel
 Summary: %name header files
-License: MPLv1.1
+License: MPL-1.1
 Group: Development/Erlang
 
 %description -n %name-devel

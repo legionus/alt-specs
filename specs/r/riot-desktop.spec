@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: A glossy Matrix collaboration client
 
-License: Apache 2.0
+License: Apache-2.0
 Url: https://riot.im/desktop.html
 Group: Networking/Instant messaging
 

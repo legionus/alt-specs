@@ -8,7 +8,7 @@ Release: alt1.1.2
 
 Summary: Back-to-front web development in Python
 
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 Url: http://www.turbogears.org
 

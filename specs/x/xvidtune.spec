@@ -3,7 +3,7 @@ Version: 1.0.2
 Release: alt1.qa1
 
 Summary: video mode tuner for Xorg
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Packager: Valery Inozemtsev <shrek@altlinux.ru>
 Url: http://xorg.freedesktop.org

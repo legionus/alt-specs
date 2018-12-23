@@ -5,7 +5,7 @@ Version:		0.1.3
 Release:		alt1
 Summary:		VisualOn AMR-WB encoder library
 Group:			System/Libraries
-License:		ASL 2.0
+License:		Apache-2.0
 URL:			http://opencore-amr.sourceforge.net/
 
 Source0:		http://sourceforge.net/projects/opencore-amr/files/%{rname}/%{rname}-%{version}.tar.gz

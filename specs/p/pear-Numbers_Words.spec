@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: The PEAR Numbers_Words package provides methods for spelling numerals in words
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/%pear_name
 

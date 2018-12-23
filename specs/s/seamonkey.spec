@@ -18,7 +18,7 @@ Version: 2.49.4
 Release: alt1
 Epoch:   1
 Summary: Web browser and mail reader
-License: MPL/NPL
+License: MPL or NPL
 Group:   Networking/WWW
 
 Packager:   Andrey Cherepanov <cas@altlinux.org>

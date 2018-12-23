@@ -5,7 +5,7 @@ Release: alt1
 Summary: The Pentateuch of Moses in Russian for SWORD
 Summary(ru_RU.UTF-8): The Pentateuch of Moses in Russian для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

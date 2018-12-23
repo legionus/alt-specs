@@ -6,7 +6,7 @@ Release: alt2
 Epoch: 1
 
 Summary: The Jack Audio Connection Kit
-License: GPLv2 and GPLv2+ and LGPLv2+
+License: GPL-2.0-only and GPL-2.0-or-later and LGPLv2+
 Group: Sound
 
 Url: http://www.jackaudio.org

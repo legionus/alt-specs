@@ -3,7 +3,7 @@
 Name: fuse-%origname
 Version: 0.4
 Release: alt1.1.qa1
-License: GPL2
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 Url: http://chunkfs.florz.de/
 Summary: FUSE-Filesystem to mount a file or block device as a chunks directory

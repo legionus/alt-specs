@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: An SQL Builder, Object Interface to Database Tables
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/DB_DataObject
 

@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Build cross platform desktop apps with JavaScript, HTML, and CSS
 
-License: MIT License
+License: MIT
 Url: https://electronjs.org/
 Group: Development/Other
 

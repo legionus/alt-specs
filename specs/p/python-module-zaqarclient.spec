@@ -7,7 +7,7 @@ Release: alt1
 Summary: Client Library for OpenStack Zaqar Queueing API
 
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://pypi.python.org/pypi/python-%sname
 Source: %name-%version.tar
 

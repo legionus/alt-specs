@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Encrypts text which is later decoded using javascript on the client side
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Crypt
 

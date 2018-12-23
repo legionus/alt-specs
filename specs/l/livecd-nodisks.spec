@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: drop local drive block device nodes on boot
-License: public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://en.altlinux.org/regular

@@ -9,7 +9,7 @@ Release:	alt3_22
 Summary:	A unique arcade logic game
 
 Group:		Games/Other
-License:	zlib
+License:	Zlib
 URL:		http://www.biniax.com/
 Source0:	http://mordred.dir.bg/%{name}/%{name}-src.zip
 Source1:	%{name}.desktop

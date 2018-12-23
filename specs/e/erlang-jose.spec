@@ -35,7 +35,7 @@ Version: 1.8.4
 Release: alt1%ubt
 Summary: JSON Object Signing and Encryption (JOSE) for Erlang and Elixir
 Group: Development/Erlang
-License: MPLv2.0
+License: MPL-2.0
 BuildArch: noarch
 Url: https://github.com/potatosalad/erlang-jose
 

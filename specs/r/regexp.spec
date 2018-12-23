@@ -15,7 +15,7 @@ Epoch:          1
 Version:        1.5
 Release:        alt1_26jpp8
 Summary:        Simple regular expressions API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://jakarta.apache.org/%{name}/
 BuildArch:      noarch
 

@@ -4,7 +4,7 @@ Version: 3.0.1
 Release: alt1
 
 Summary: PhysicsFS file abstraction layer for games
-License: zlib license
+License: Zlib
 Group: System/Libraries
 Url: http://www.icculus.org/physfs/
 Provides: %uname = %version

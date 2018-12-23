@@ -2,7 +2,7 @@ Name: CUFlow
 Version: 1.7
 Release: alt1
 Summary: A module for FlowScan and an accompanying graphing cgi
-License: GPL2
+License: GPL-2.0-only
 Group: Monitoring
 Url: http://www.columbia.edu/acis/networks/advanced/CUFlow/
 Packager: Boris Savelev <boris@altlinux.org>

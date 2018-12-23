@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: A TLS protocol implementation
 # The libgnutls library is LGPLv2.1+, utilities and remaining libraries are GPLv3+
-License: LGPLv2.1+ and GPLv3+
+License: LGPLv2.1+ and GPL-3.0-or-later
 Group: System/Libraries
 Url: http://gnutls.org/
 # ftp://ftp.gnutls.org/pub/gnutls/gnutls-%version.tar.bz2

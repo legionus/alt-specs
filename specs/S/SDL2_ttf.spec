@@ -3,7 +3,7 @@ Version: 2.0.14
 Release: alt1
 
 Summary: Simple DirectMedia Layer - Sample TrueType Font Library
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 Url: http://www.libsdl.org/projects/SDL_ttf/

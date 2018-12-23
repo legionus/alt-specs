@@ -11,7 +11,7 @@ Name:          stax-ex
 Version:       1.7.7
 Release:       alt1_8jpp8
 Summary:       StAX API extensions
-License:       CDDL or GPLv2
+License:       CDDL or GPL-2.0-only
 Url:           https://stax-ex.dev.java.net
 # svn export https://svn.java.net/svn/stax-ex~svn/tags/stax-ex-1.7.7/ stax-ex-1.7.7
 # find stax-ex-1.7.7/ -name '*.jar' -delete

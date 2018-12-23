@@ -5,7 +5,7 @@ Version: 3.4.0
 Release: alt1
  
 Summary: All-purpose Property List manipulation library for Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/bleything/plist
  

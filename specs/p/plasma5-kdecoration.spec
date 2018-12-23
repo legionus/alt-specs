@@ -11,7 +11,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Workspace 5 Plugin based library to create window decorations
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch: alt-%rname-tooltips.patch

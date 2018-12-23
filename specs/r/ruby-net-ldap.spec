@@ -9,7 +9,7 @@ Epoch: 1
 
 Summary: Pure Ruby LDAP library
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://github.com/roryo/ruby-net-ldap/
 
 BuildArch: noarch

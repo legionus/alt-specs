@@ -12,7 +12,7 @@ Version:        002.000
 Release:        alt1_3
 Summary:        Free font encoding many non-Latin scripts
 
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://www.wazu.jp/gallery/views/View_MPH2BDamase.html
 Source0:        http://www.wazu.jp/downloads/damase_v.2.zip
 Source1:        %{oldname}-fontconfig.conf

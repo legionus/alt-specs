@@ -9,7 +9,7 @@ Epoch:   1
 
 Summary: Pure-Ruby implementation of the SSH2 client protocol
 Group:   Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url:     https://github.com/net-ssh/net-ssh
 BuildArch: noarch
 

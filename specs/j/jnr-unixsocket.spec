@@ -10,7 +10,7 @@ Name:           jnr-unixsocket
 Version:        0.18
 Release:        alt1_5jpp8
 Summary:        Unix sockets for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/jnr/%{name}/
 Source0:        https://github.com/jnr/%{name}/archive/%{name}-%{version}.tar.gz
 BuildArch:      noarch

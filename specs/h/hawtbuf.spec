@@ -10,7 +10,7 @@ Name:          hawtbuf
 Version:       1.11
 Release:       alt1_7jpp8
 Summary:       A rich byte buffer library
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/fusesource/hawtbuf/
 Source0:       https://github.com/fusesource/hawtbuf/archive/%{name}-project-%{version}.tar.gz
 

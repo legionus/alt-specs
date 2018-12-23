@@ -5,7 +5,7 @@ Version: 1.0.9
 Release: alt1
 
 Summary: A library for generating Enhanced Metafiles
-License: LGPLv2+ and GPLv2+
+License: LGPLv2+ and GPL-2.0-or-later
 Group: System/Libraries
 
 Url: http://libemf.sourceforge.net

@@ -5,7 +5,7 @@ Version: 1.10.1
 Release: alt1
 
 Summary: Provides perl-like formats for ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://rubygems.org/gems/formatr/versions/1.10.1
 

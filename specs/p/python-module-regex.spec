@@ -9,7 +9,7 @@ Release: alt1
 Summary: Alternative regular expression module, to replace re
 
 Url: https://pypi.python.org/pypi/regex/
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 
 

@@ -5,7 +5,7 @@ Release: alt1.1.1
 Summary: A stopwatch written in python with a timer and two countdown functions that can minimize to the tray
 
 Group: Office
-License: GPL2
+License: GPL-2.0-only
 Url: http://xyne.archlinux.ca/info/pystopwatch
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

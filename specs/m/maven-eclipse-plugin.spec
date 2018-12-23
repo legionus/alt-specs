@@ -14,7 +14,7 @@ Version:        2.9
 Release:        alt6_20jpp8
 Summary:        Maven Eclipse Plugin
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-eclipse-plugin/
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 Patch0:         %{name}-compat.patch

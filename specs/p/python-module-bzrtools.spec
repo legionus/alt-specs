@@ -7,7 +7,7 @@ Release: alt1
 %setup_python_module bzrtools
 
 Summary: Bzrtools is plugin providing a collection of utilities for bzr.
-License: gpl2plus
+License: GPL-2.0-or-later
 Group: Development/Other
 
 Url: http://bazaar-vcs.org/BzrTools/

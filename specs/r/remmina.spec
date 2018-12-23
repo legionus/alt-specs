@@ -6,7 +6,7 @@ Release: alt5.rc21%ubt
 Summary: Remote Desktop Client
 
 Group: Networking/Remote access
-License: GPLv2+ and MIT
+License: GPL-2.0-or-later and MIT
 Url: http://remmina.sourceforge.net
 Source: %name-%version.tar
 Patch0: remmina-1.2.0-rdp-passwordispin_option.patch

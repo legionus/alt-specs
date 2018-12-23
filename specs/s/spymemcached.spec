@@ -12,7 +12,7 @@ Version:       2.11.4
 Release:       alt1_8jpp8
 Summary:       Java client for memcached
 # ASL src/scripts/write-version-info.sh
-License:       ASL 2.0 and MIT
+License:       Apache-2.0 and MIT
 Url:           https://github.com/dustin/java-memcached-client
 Source0:       https://github.com/dustin/java-memcached-client/archive/%{version}.tar.gz
 

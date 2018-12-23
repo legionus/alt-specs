@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Disable Synaptics touchpad temporarily when typing
 
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 Url: http://howtolinux.ru/2010/05/02/отключение-случайных-нажатий-тачпад/
 

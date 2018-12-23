@@ -16,7 +16,7 @@ Requires: make python perl-base latex2html lynx
 Requires: /usr/bin/dvips /usr/bin/latex
 
 Summary: A set of standard tools to convert python modules documentation
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: http://www.python.org
 

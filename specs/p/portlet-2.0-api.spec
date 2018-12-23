@@ -12,7 +12,7 @@ Name:          portlet-2.0-api
 Version:       1.0
 Release:       alt2_15jpp8
 Summary:       Java Portlet Specification V2.0
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://portals.apache.org/
 # svn export http://svn.apache.org/repos/asf/portals/portlet-spec/tags/portlet-api_2.0_spec-1.0 portlet-2.0-api-1.0
 # tar czf portlet-2.0-api-1.0-src-svn.tar.gz portlet-2.0-api-1.0

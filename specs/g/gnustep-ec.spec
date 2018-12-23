@@ -4,7 +4,7 @@ Name: gnustep-ec
 Version: 1.0.2
 Release: alt5.svn20140228
 Summary: Enterprise Control Configuration and Logging framework
-License: GPLv3 / LGPLv3
+License: GPL-3.0-only or LGPLv3
 Group: Graphical desktop/GNUstep
 Url: https://github.com/gnustep/gnustep-ec
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

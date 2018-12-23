@@ -4,7 +4,7 @@ Release: alt1
 BuildArch: noarch
 
 Summary: RPM helpers to rebuild Haskell packages
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Haskell
 
 Source: scripts-%version.tar

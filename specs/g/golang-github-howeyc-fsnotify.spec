@@ -24,7 +24,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        0.9.0
 Release:        alt1_0.2.git%{shortcommit}
 Summary:        File change notification Go language Binding.
-License:        BSD 3-clause
+License:        BSD-3-Clause
 URL:            https://%{provider_prefix}
 Source0:        %{url}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

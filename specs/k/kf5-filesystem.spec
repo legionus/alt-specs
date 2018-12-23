@@ -10,7 +10,7 @@ Release: alt2%ubt
 %K5init altplace
 
 Summary: The basic directory layout for KF5
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Base
 
 Requires: filesystem qt5-base-common

@@ -4,7 +4,7 @@ Release: alt2
 Summary: Library for import of QuarkXPress documents
 Group:	Development/C++
 
-License: MPLv2.0
+License: MPL-2.0
 Url: http://wiki.documentfoundation.org/DLP/Libraries/libqxp
 Source: http://dev-www.libreoffice.org/src/%name/%name-%version.tar.xz
 

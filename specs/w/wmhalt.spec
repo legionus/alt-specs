@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Window Maker and IceWM - Halt, Reboot and LockScreen 
 Summary(ru_RU.UTF-8): программа для выключения, перезагрузки и блокировки экрана в  Window Maker и IceWM
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Window Maker
 
 URL: http://kostyalamer.narod.ru/wmhalt/wmhalt.html

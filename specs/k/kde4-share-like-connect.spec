@@ -9,7 +9,7 @@ Release: alt3
 Group: Graphical desktop/KDE
 Summary: Social-Semantic Features for Active
 Url: http://plasma.kde.org
-License: GPLv2 / LGPLv2.1+ / BSD
+License: GPL-2.0-only or LGPLv2.1+ or BSD
 
 #Requires: kde4base-workspace-core
 

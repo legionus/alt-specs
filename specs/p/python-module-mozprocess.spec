@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.24
 Release: alt1.1
 Summary: Mozilla-authored process handling
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/mozprocess/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

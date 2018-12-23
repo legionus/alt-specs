@@ -19,7 +19,7 @@ Name:           apache-commons-fileupload
 Version:        1.3.3
 Release:        alt1_3jpp8
 Summary:        API to work with HTML file upload
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/fileupload/
 BuildArch:      noarch
 

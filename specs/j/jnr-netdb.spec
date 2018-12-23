@@ -10,7 +10,7 @@ Name:    jnr-netdb
 Version: 1.1.6
 Release: alt1_3jpp8
 Summary: Network services database access for java
-License: ASL 2.0
+License: Apache-2.0
 URL:     https://github.com/jnr/%{name}/
 Source0: https://github.com/jnr/%{name}/archive/%{name}-%{version}.tar.gz
 BuildArch: noarch

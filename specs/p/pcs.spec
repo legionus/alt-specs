@@ -50,7 +50,7 @@ Tests for Pacemaker/Corosync gui/cli configuration system and daemon
 %package snmp
 Group: Other
 Summary: Pacemaker cluster SNMP agent
-License: GPLv2, BSD 2-clause
+License: GPL-2.0-only and BSD-2-Clause
 Requires: %name = %EVR
 Requires: pacemaker
 Requires: net-snmp

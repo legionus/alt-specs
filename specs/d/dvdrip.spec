@@ -6,7 +6,7 @@ Version: 0.98.11
 Release: alt1.qa3
 
 Summary: DVD ripping graphical tool using transcode
-License: GPL/Artistic
+License: GPL or Artistic
 Group: Video
 Url: http://www.exit1.org/dvdrip
 

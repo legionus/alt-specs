@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: I18n and localization solution for Ruby
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: https://github.com/svenfuchs/i18n
 
 Packager: Ruby Maintainers Team <ruby@packages.altlinux.org>

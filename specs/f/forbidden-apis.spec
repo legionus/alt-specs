@@ -10,7 +10,7 @@ Name:          forbidden-apis
 Version:       2.5
 Release:       alt1_1jpp8
 Summary:       Policeman's Forbidden API Checker
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/policeman-tools/forbidden-apis
 Source0:       https://github.com/policeman-tools/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
 

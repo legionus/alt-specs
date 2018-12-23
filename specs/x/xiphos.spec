@@ -4,7 +4,7 @@ Release: alt4
 Summary: Bible Study Software
 Url: http://xiphos.org/
 Group: Text tools
-License: GPL2
+License: GPL-2.0-only
 Source: https://github.com/crosswire/xiphos/releases/download/%version/%name-%version.tar.gz
 Source44: %name.watch
 

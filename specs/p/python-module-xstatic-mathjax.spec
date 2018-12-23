@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 2.0.0
 Release: alt2.1
 Summary: MathJax (XStatic packaging standard)
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz

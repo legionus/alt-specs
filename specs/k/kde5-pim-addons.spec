@@ -17,7 +17,7 @@ Release: alt1%ubt
 Group: Graphical desktop/KDE
 Summary: PIM addons
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: %name-kaddressbook
 Requires: %name-kmail

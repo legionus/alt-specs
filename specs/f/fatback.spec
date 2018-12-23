@@ -3,7 +3,7 @@ Version: 1.3
 Release: alt1
 
 Summary: A forensic tool for recovering files from FAT file systems
-License: GPLv2 and Public Domain
+License: GPL-2.0-only and ALT-Public-Domain
 Group: File tools
 
 Url: http://sourceforge.net/projects/fatback

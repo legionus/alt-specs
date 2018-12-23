@@ -2,7 +2,7 @@ Name: raw
 Summary: game Another World (Out of this world) engine
 Version: 0.3
 Release: alt1
-License: GPL2
+License: GPL-2.0-only
 Group: Games/Arcade
 Url: https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter
 Packager: Ildar Mulyukov <ildar@altlinux.ru>

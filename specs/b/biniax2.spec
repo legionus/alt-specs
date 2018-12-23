@@ -1,7 +1,7 @@
 Name:		biniax2
 Version:	1.30
 Release:	alt2.qa1
-License:	ZLib
+License:	Zlib
 Group:		Games/Puzzles
 Summary:	Colour block logic game with original gameplay
 Source:		http://mordred.dir.bg/biniax/%name-%version-fullsrc.tar.gz
@@ -19,7 +19,7 @@ How to play Biniax :
    The gaming field scrolls down slowly (increasing the speed with your progress) and your goal is to stay as long as possible on the field. Remember, that if you can not take the pair in front of you, the scrolling will move your block down!
 
 %package data
-License:	ZLib
+License:	Zlib
 Summary:	Data files for %name
 BuildArch:	noarch
 Group:		Games/Puzzles

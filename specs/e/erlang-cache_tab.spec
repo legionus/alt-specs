@@ -7,7 +7,7 @@ Version: 1.0.13
 Release: alt1%ubt
 Summary: In-memory cache Erlang / Elixir library
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/cache_tab
 
 # https://github.com/processone/cache_tab.git

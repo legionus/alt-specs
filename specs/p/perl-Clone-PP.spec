@@ -14,7 +14,7 @@ Version:    %{upstream_version}
 Release:    alt1_1
 
 Summary:    Recursively copy Perl datatypes
-License:    Artistic/GPL
+License:    Artistic or GPL
 Group:      Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}/
 Source0:    ftp://ftp.perl.org/pub/CPAN/modules/by-module/Clone/%{upstream_name}-%{upstream_version}.tar.gz

@@ -8,7 +8,7 @@ Release:          alt3
 Summary:          tablib formatters for cliff
 
 Group:            Development/Python
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://pypi.python.org/pypi/cliff-tablib
 Source0:          %name-%version.tar
 

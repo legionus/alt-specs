@@ -15,7 +15,7 @@ Release:	alt1_%{rpmrel}.4
 Summary:	Tide Constituent Database Library
 
 Group:		System/Libraries
-License:	Public Domain
+License:	ALT-Public-Domain
 URL:		http://www.flaterco.com/xtide/
 Source0:	ftp://ftp.flaterco.com/xtide/%{name}-%{version}%{?postver}.tar.bz2
 Source44: import.info

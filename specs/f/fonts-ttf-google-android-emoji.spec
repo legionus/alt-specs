@@ -14,7 +14,7 @@ Version: 1.01
 Release: alt1_0.11.%{checkout}
 Summary: Android Emoji font released by Google
 
-License:   ASL 2.0
+License:   Apache-2.0
 URL:       https://android.googlesource.com/platform/frameworks/base.git/+/jb-release/data/fonts/
 Source0:   %{archivename}.tar.xz
 Source1:   get-source-from-git.sh

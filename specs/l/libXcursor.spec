@@ -2,7 +2,7 @@ Name: libXcursor
 Version: 1.1.15
 Release: alt1%ubt
 Summary: X Cursor Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

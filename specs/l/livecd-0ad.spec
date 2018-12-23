@@ -3,7 +3,7 @@ Version: 0.2
 Release: alt1
 
 Summary: start 0ad
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://altlinux.org/m-p

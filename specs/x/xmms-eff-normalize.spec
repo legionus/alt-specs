@@ -5,7 +5,7 @@ Version: 0.8.3
 Release: alt2.1.qa2
 
 Summary: Normalizing plugin for XMMS
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Sound
 Packager: Evgenii Terechkov <evg@altlinux.ru>
 

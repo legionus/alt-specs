@@ -18,7 +18,7 @@ Version: 0.7.1
 Release: alt2%ubt
 Summary: Container Network Interface plugins
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 Source: %name-%version.tar
 ExclusiveArch: %go_arches

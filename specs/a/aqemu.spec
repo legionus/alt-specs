@@ -2,7 +2,7 @@ Summary: QEMU GUI written in Qt5
 Name: aqemu
 Version: 0.9.2
 Release: alt0.1
-License: GPL2
+License: GPL-2.0-only
 Group: Emulators
 Packager: Boris Savelev <boris@altlinux.org>
 Url: https://github.com/tobimensch/aqemu

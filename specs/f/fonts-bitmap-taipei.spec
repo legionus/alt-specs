@@ -15,7 +15,7 @@ Release:    alt1_22
 Summary:    %common_desc
 
 Group:      Graphical desktop/Other
-License:    Public Domain
+License:    ALT-Public-Domain
 URL:        http://cle.linux.org.tw/
 
 BuildArch:        noarch

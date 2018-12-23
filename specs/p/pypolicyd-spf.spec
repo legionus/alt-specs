@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: Postfix policy server for SPF checking
 
-License: Apache 2.0
+License: Apache-2.0
 Group: System/Servers
 Url: https://launchpad.net/pypolicyd-spf
 Source: %name-%version.tar

@@ -5,7 +5,7 @@ Release: alt1
 %setup_python_module twodict
 
 Summary: Simple two way ordered dictionary for Python.
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Python
 
 Url: https://github.com/MrS0m30n3/twodict

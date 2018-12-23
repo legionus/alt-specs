@@ -8,7 +8,7 @@ Release:	%php5_release
 
 Summary:	PHP5 extension for event notification via libevent library
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/libevent
 

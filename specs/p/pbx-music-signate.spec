@@ -2,7 +2,7 @@ Name: pbx-music-signate
 Summary: Free classical music
 Version: 0.1
 Release: alt1
-License: Public Domain
+License: ALT-Public-Domain
 Group: System/Servers
 BuildArch: noarch
 Provides: pbx-music

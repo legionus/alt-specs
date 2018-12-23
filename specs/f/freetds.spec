@@ -10,7 +10,7 @@ Version:	%version
 Release:	%release
 
 Summary:	An OpenSource implementation of the tubular data stream protocol
-License:	GPL/LGPL
+License:	GPL or LGPL
 Group:		System/Libraries
 URL:		http://www.freetds.org/
 Packager: Dmitry Lebkov <dlebkov@altlinux.ru>
@@ -38,7 +38,7 @@ This package is built with support of TDS version %TDSVER.
 
 %package -n lib%name
 Summary:	An OpenSource implementation of the tubular data stream protocol
-License:	GPL/LGPL
+License:	GPL or LGPL
 Group:		System/Libraries
 Provides:	%name
 
@@ -52,7 +52,7 @@ This package is built with support for TDS version %TDSVER.
 
 %package -n lib%name-unixodbc
 Summary:	FreeTDS driver for unixODBC. 
-License:	GPL/LGPL
+License:	GPL or LGPL
 Group:		System/Libraries
 Provides:	%name
 
@@ -66,7 +66,7 @@ This package is built with support for TDS version %TDSVER.
 
 %package -n lib%name-devel
 Summary: 	An OpenSource implementation of the TDS protocol. Development files
-License:	GPL/LGPL
+License:	GPL or LGPL
 Group: 		Development/C
 PreReq:		lib%name = %version-%release
 Provides:	%name-devel
@@ -80,7 +80,7 @@ This package is built with support for TDS version %TDSVER.
 
 %package -n lib%name-devel-static
 Summary: 	An OpenSource implementation of the TDS protocol. Static libraries
-License:	GPL/LGPL
+License:	GPL or LGPL
 Group: 		Development/C
 PreReq:		lib%name-devel = %version-%release
 Provides:	%name-devel-static
@@ -95,7 +95,7 @@ This package is built with support for TDS version %TDSVER.
 
 %package -n %name-utils
 Summary:	An OpenSource implementation of the TDS protocol. Utilities
-License:	GPL/LGPL
+License:	GPL or LGPL
 Group:		Databases
 PreReq:		lib%name = %version-%release
 Provides:	%name-utils

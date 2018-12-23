@@ -11,7 +11,7 @@ Summary:        High quality system independent, open source libm
 Name:           openlibm
 Version:        0.5.3
 Release:        alt1_2
-License:        BSD and MIT and ISC and Public Domain
+License:        BSD and MIT and ISC and ALT-Public-Domain
 Group:          System/Libraries
 Source0:        https://github.com/JuliaLang/openlibm/archive/v%{version}/%{name}-%{version}.tar.gz
 URL:            https://github.com/JuliaLang/openlibm/

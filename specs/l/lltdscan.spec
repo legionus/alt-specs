@@ -5,7 +5,7 @@ Version: 0.0
 Release: alt1
 
 Summary: Scan for LLTD-enabled hosts on your network
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/Other
 Url: http://github.com/zed-0xff/lltdscan
 Source: %name-%version.tar

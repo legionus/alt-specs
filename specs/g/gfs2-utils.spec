@@ -1,7 +1,7 @@
 Name: gfs2-utils
 Version: 3.1.9
 Release: alt1
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: System/Kernel and hardware
 Summary: Utilities for managing the global file system (GFS2)
 URL: https://fedorahosted.org/cluster/wiki/HomePage

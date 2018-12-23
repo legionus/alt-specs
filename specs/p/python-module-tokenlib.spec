@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.3.1
 Release: alt2.git20140108.1.1
 Summary: Generic support library for signed-token-based auth schemes
-License: MPLv2.0
+License: MPL-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/tokenlib/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

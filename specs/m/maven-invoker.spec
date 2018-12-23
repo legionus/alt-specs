@@ -10,7 +10,7 @@ Name:           maven-invoker
 Version:        2.2
 Release:        alt1_6jpp8
 Summary:        Fires a maven build in a clean environment
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-invoker/
 BuildArch:      noarch
 

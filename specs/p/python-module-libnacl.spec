@@ -8,7 +8,7 @@ Release: alt2.1
 Url: https://github.com/saltstack/libnacl
 Source: %name-%version.tar
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 Requires: libsodium23

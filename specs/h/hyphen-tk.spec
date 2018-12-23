@@ -10,7 +10,7 @@ Release: alt1_11
 #http://tug.org/svn/texhyphen/trunk/hyph-utf8/tex/generic/hyph-utf8/patterns/tex/hyph-tk.tex?view=co
 Source: hyph-tk.tex
 URL: http://tug.org/tex-hyphen
-License: Public Domain
+License: ALT-Public-Domain
 BuildArch: noarch
 BuildRequires: libhyphen-devel
 Requires: libhyphen

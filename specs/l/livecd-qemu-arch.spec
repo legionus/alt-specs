@@ -3,7 +3,7 @@ Version: 0.4
 Release: alt1
 
 Summary: prepare live-builder.iso for ARM/PPC/aarch64/mipsel QEMU
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://www.altlinux.org/Ports

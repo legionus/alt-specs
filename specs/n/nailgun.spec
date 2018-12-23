@@ -12,7 +12,7 @@ Version:  0.9.1
 Release:  alt2_7jpp8
 Summary:  Framework for running Java from the cli without the JVM startup overhead
 Group:    Development/Java
-License:  ASL 2.0
+License:  Apache-2.0
 URL:      http://martiansoftware.com/nailgun/
 
 # https://github.com/martylamb/nailgun/archive/nailgun-all-0.9.1.zip

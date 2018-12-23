@@ -8,7 +8,7 @@ Release: alt1
 Summary: YAQL - Yet Another Query Language
 Group: Development/Python
 
-License: ASL 2.0
+License: Apache-2.0
 Url: https://launchpad.net/yaql
 Source: %name-%version.tar
 BuildArch: noarch

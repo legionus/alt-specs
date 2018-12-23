@@ -7,7 +7,7 @@ Release: alt1.qa2
 Summary: Replication Filesystem
 
 Group: System/Kernel and hardware
-License: GPL v3
+License: GPL-3.0-only
 Url: http://www.furquim.org/chironfs/index.en.html
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

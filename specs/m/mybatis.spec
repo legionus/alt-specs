@@ -20,7 +20,7 @@ Name:          mybatis
 Version:       3.2.8
 Release:       alt1_9jpp8
 Summary:       SQL Mapping Framework for Java
-License:       ASL 2.0
+License:       Apache-2.0
 # http://code.google.com/p/mybatis/
 URL:           http://www.mybatis.org/
 Source0:       https://github.com/mybatis/mybatis-3/archive/%{name}-%{version}.tar.gz

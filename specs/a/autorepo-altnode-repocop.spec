@@ -9,7 +9,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: scripts for an automated repocop node
 Group: Other
-License: GPL2+
+License: GPL-2.0-or-later
 #Url: 
 Source: %name-%version.tar
 

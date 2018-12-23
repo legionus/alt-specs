@@ -17,7 +17,7 @@ Name:          openwebbeans
 Version:       1.2.8
 Release:       alt2_4jpp8
 Summary:       Implementation of the JSR-299 WebBeans
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://openwebbeans.apache.org/
 Source0:       http://www.apache.org/dist/openwebbeans/%{version}/%{name}-%{version}-source-release.zip
 Patch0:        %{name}-1.2.0-servlet31.patch

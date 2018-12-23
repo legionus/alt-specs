@@ -2,7 +2,7 @@ Name: libofa
 Version: 0.9.3
 Release: alt4.1.qa3
 Summary: Open Fingerprint Architecture library
-License: APLv1 or GPLv2
+License: APLv1 or GPL-2.0-only
 Group: System/Libraries
 Url: http://www.musicip.com/dns/
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

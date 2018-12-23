@@ -8,7 +8,7 @@ Version:        0.32
 Release:        alt3_22
 Summary:        Library for text rendering
 Group:          System/Libraries
-License:        zlib
+License:        Zlib
 URL:            http://www.allegro.cc/resource/Libraries/Text/GlyphKeeper
 # Upstream is MIA
 Source0:        %{name}-%{version}.zip

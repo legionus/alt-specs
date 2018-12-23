@@ -4,7 +4,7 @@ Release: alt1.1.qa1
 
 Summary: Library for muxing of MPEG Transport Streams
 Group: System/Libraries
-License: LGPL/GPL/MPL/MIT
+License: LGPL or GPL or MPL or MIT
 URL: http://schrodinger.sourceforge.net
 
 Source0: %name-%version.tar.bz2

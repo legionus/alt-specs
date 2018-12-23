@@ -10,7 +10,7 @@ Release: alt1.git20181120
 
 Group: Networking/Remote access
 Summary: Remote Desktop Protocol functionality
-License: Apache License 2.0
+License: Apache-2.0
 URL: http://www.freerdp.com
 Packager: Mikhail Kolchin <mvk@altlinux.org>
 

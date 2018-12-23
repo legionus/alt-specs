@@ -1,7 +1,7 @@
 Name: cabal2rpm
 Version: 0.20.08
 Release: alt12
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Development/Haskell
 Source: %name-%version.tar
 Summary: converts Haskell Cabal descriptions into RPM specs

@@ -3,7 +3,7 @@ Version: 0.3
 Release: alt1
 
 Summary: hardwire Russian keyboard layout availability for a LiveCD
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://www.opennet.ru/openforum/vsluhforumID3/83728.html#136

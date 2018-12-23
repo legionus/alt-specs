@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: TNEF Stream Parser Library
 Group: System/Libraries
-License: GPL2
+License: GPL-2.0-only
 Url: https://github.com/Yeraze/%_name
 
 # VCS: https://github.com/Yeraze/ytnef.git

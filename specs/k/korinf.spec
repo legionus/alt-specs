@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Korinf multidistro single source build system
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Other
 Url: http://freesource.info/wiki/korinf
 

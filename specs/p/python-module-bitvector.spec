@@ -8,7 +8,7 @@ Release: alt1
 Url: https://engineering.purdue.edu/kak/dist/BitVector-3.4.4.html
 Source: %name-%version.tar
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 
 BuildArch: noarch

@@ -25,7 +25,7 @@ Summary:	The Most Powerful Multi-Pass Java Preprocessor
 Name:		java-comment-preprocessor
 Version:	6.0.1
 Release:	alt2_9jpp8
-License:	ASL 2.0
+License:	Apache-2.0
 
 URL:		https://github.com/raydac/java-comment-preprocessor
 Source0:	https://github.com/raydac/%name/archive/%version/%name-%version.tar.gz

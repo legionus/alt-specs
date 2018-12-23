@@ -13,7 +13,7 @@ Summary:	Thunderbird is Mozilla's e-mail client
 Name:		thunderbird
 Version:	60.3.3
 Release:	alt1
-License:	MPL/GPL
+License:	MPL or GPL
 Group:		Networking/Mail
 URL:		https://www.thunderbird.net
 

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Simple implementation of the generic Tree data structure
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubytree.anupamsg.me/
 
 BuildArch: noarch

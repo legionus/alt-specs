@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Python library that implements TLS/SSL
 
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: http://trevp.net/tlslite/
 

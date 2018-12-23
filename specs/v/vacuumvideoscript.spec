@@ -3,7 +3,7 @@ Version: 0.20
 Release: alt2
 
 Summary: Download videos from RuTube, vkontakte, and lots of other sites.
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Networking/File transfer
 Url: http://saahriktu.org/utils.php
 

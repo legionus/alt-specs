@@ -2,7 +2,7 @@ Name: purple-plugin-matrix
 Version: 0.0.0
 Release: alt1.git.79.g49ea988
 Summary: Matrix Plugin for Pidgin
-License: GPL2
+License: GPL-2.0-only
 Group: Networking/Instant messaging
 URL: https://github.com/matrix-org/purple-matrix
 

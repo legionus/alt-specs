@@ -16,7 +16,7 @@ Version:        6.0
 Release:        alt1_0.11.20140707svn1547656jpp8
 Summary:        Byte Code Engineering Library for FindBugs
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/proper/commons-bcel/
 
 # This archive was created with:

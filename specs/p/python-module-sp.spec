@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 2.2.2
 Release: alt2.1.2
 Summary: SP (Simple Parser), Python parser generator
-License: LGPL v3 or later
+License: LGPL-3.0-or-later
 Group: Development/Python
 Url: http://www.cdsoft.fr/sp/sp.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

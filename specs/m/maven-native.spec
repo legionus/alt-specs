@@ -17,7 +17,7 @@ Name:          maven-native
 Version:       1.0
 Release:       alt1_0.14.alpha.8jpp8
 Summary:       Compile c and c++ source under Maven
-License:       ASL 2.0 and MIT
+License:       Apache-2.0 and MIT
 Url:           http://www.mojohaus.org/plugins.html
 # Source code available @ https://github.com/mojohaus/maven-native
 Source0:       http://repo2.maven.org/maven2/org/codehaus/mojo/natives/%{name}/%{namedversion}/%{name}-%{namedversion}-source-release.zip

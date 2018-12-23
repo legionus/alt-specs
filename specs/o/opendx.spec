@@ -2,7 +2,7 @@ Name: opendx
 Version: 4.4.4
 Release: alt7
 Summary: Open Visualization Data Explorer
-License: IBM Public License
+License: IPL-1.0
 Group: Graphics
 Url: http://www.opendx.org/
 

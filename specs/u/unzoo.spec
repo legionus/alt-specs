@@ -5,7 +5,7 @@ Release: alt1
 Summary: unZOO - extract, test and view ZOO archives
 Summary(pl): unZOO - rozpakowuje, testuje i przegląda archiwa ZOO.
 Summary(ru_RU.UTF-8): unZOO - распаковка, проверка и просмотр соедржимого архивов ZOO
-License: Public Domain
+License: ALT-Public-Domain
 Group: Archiving/Compression
 Url: ftp://ftp.math.rwth-aachen.de/pub/gap/gap4/util/unzoo.c
 Source: unzoo.c.gz

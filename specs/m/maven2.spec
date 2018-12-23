@@ -11,7 +11,7 @@ Name:           maven2
 Version:        2.2.1
 Release:        alt6_56jpp8
 Summary:        Java project management and project comprehension tool
-License:        ASL 2.0 and MIT and BSD
+License:        Apache-2.0 and MIT and BSD
 URL:            http://maven.apache.org
 BuildArch:      noarch
 

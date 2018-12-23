@@ -3,7 +3,7 @@ Version: 1.0
 Release: alt5.qa1
 
 Summary: A tool for testing TCP throughut between two nodes
-License: Public Domain
+License: ALT-Public-Domain
 Group: Networking/Other
 
 URL: http://sourceforge.net/projects/ettcp/

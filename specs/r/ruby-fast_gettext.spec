@@ -5,7 +5,7 @@ Version: 1.7.0
 Release: alt1
  
 Summary: GetText but 3.5 x faster, 560 x less memory, simple, clean namespace (7 vs 34) and threadsafe!
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/grosser/fast_gettext
  

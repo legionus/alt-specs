@@ -10,7 +10,7 @@ Name:          jdom2
 Version:       2.0.6
 Release:       alt1_9jpp8
 Summary:       Java manipulation of XML made easy
-License:       ASL 1.1 or BSD
+License:       Apache-1.1 or BSD
 URL:           http://www.jdom.org/
 Source0:       https://github.com/hunterhacker/jdom/archive/JDOM-%{version}.tar.gz
 # originally taken from http://repo1.maven.org/maven2/org/jdom/jdom-contrib/1.1.3/jdom-contrib-1.1.3.pom

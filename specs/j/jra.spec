@@ -16,7 +16,7 @@ Name:          jra
 Version:       1.0
 Release:       alt2_0.14.alpha4jpp8
 Summary:       Java REST Annotations
-License:       ASL 2.0
+License:       Apache-2.0
 Group:         Development/Other
 URL:           http://jra.codehaus.org/
 

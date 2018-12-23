@@ -11,7 +11,7 @@ Name:          smack
 Version:       4.1.5
 Release:       alt1_6jpp8
 Summary:       Open Source XMPP (Jabber) client library
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.igniterealtime.org/projects/smack/index.jsp
 Source0:       https://github.com/igniterealtime/Smack/archive/%{version}.tar.gz
 # Default use gradle

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.1.14
 Release: alt1.git20141129.1.1
 Summary: Starts and restarts daemon processes
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/taskforce/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

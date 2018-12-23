@@ -9,7 +9,7 @@ Release: alt1
 %setup_python_module %modulename
 
 Summary: Python module for accessing .dbf (xBase) files
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: http://dbfpy.sourceforge.net/
 Source: %name-%version.tar

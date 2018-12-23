@@ -7,7 +7,7 @@ Version: 1.1.29
 Release: alt1%ubt
 Summary: Fast Expat based Erlang XML parsing library
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/fast_xml
 
 # https://github.com/processone/fast_xml.git

@@ -6,7 +6,7 @@ Version: 13.1.0
 Release: alt3
 
 Summary: VMWare mouse input driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 

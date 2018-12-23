@@ -4,7 +4,7 @@ Name: qtexengine
 Version: 0.3
 Release: alt2
 Summary: QTeXEngine - TeX support for Qt
-License: GPL v3
+License: GPL-3.0-only
 Group: Graphics
 Url: http://soft.proindependent.com/qtexengine/index.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

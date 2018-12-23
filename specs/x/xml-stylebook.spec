@@ -11,7 +11,7 @@ Name:          xml-stylebook
 Version:       1.0
 Release:       alt2_0.25.b3_xalan2.svn313293jpp8
 Summary:       Apache XML Stylebook
-License:       ASL 1.1
+License:       Apache-1.1
 URL:           http://xml.apache.org/
 
 # How to generate this tarball:

@@ -2,7 +2,7 @@ Name: bmcontrol
 Version: 1.1
 Release: alt3
 
-License: GNU GPLv3
+License: GPL-3.0-only
 Group: System/Kernel and hardware
 Url: https://code.google.com/p/bmcontrol/
 

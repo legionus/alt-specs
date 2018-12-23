@@ -7,7 +7,7 @@ Version: 0.6.50
 Release: alt1
 
 Summary: A Python Interface to Asterisk
-License: PSF, LGPL
+License: Python-2.0 and LGPL
 Group: Development/Python
 Url: http://www.sourceforge.net/projects/pyst/
 

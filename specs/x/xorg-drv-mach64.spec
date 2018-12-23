@@ -4,7 +4,7 @@ Release: alt1
 Epoch: 4
 Summary: ATI Mach 64 video driver
 Group: System/X11
-License: MIT/X11
+License: (MIT or X11)
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>
 

@@ -17,7 +17,7 @@ Summary(ru_RU.UTF-8): Интернет-браузер Mozilla Firefox
 Name:           firefox-esr
 Version:        60.4.0
 Release:        alt1
-License:        MPL/GPL/LGPL
+License:        MPL or GPL or LGPL
 Group:          Networking/WWW
 URL:            http://www.mozilla.org/projects/firefox/
 

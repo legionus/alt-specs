@@ -5,7 +5,7 @@ Name: meshlab
 Version: 2016.12
 Release: alt3%ubt
 Url: http://meshlab.sourceforge.net/
-License: GPLv2+ and BSD and Public Domain
+License: GPL-2.0-or-later and BSD and ALT-Public-Domain
 Group: Graphics
 
 Source0: https://github.com/cnr-isti-vclab/meshlab/archive/v%version.tar.gz

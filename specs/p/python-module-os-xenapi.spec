@@ -7,7 +7,7 @@ Version: 0.3.4
 Release: alt1
 Summary: XenAPI library for OpenStack projects
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://www.citrix.com
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 

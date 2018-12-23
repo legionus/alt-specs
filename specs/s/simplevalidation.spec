@@ -14,7 +14,7 @@ Name:       simplevalidation
 Version:    1.0
 Release:    alt2_0.6.SNAPSHOTjpp8
 Summary:    A library for adding user-interface input validation to Swing applications
-License:    GPLv2 or CDDL
+License:    GPL-2.0-only or CDDL
 URL:        http://kenai.com/projects/simplevalidation
 # svn export -r331 https://svn.kenai.com/svn/simplevalidation~src/trunk/ simplevalidation-1.0-SNAPSHOT
 # tar cJf simplevalidation-1.0-SNAPSHOT-20121212.tar.xz simplevalidation-1.0-SNAPSHOT

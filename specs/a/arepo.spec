@@ -3,7 +3,7 @@ Version: 1
 Release: alt10
 
 Summary: biarch repackager for Sisyphus packages
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Other
 BuildArch: noarch
 

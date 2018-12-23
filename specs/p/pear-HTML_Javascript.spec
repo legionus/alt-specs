@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Provides an interface for creating simple JS scripts
 
-License: PHP 3.0
+License: PHP-3.0
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Javascript
 

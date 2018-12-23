@@ -11,7 +11,7 @@ Version:        0.9.0
 Release:        alt1_3jpp8
 Epoch:          1
 Summary:        Apache Maven Artifact Transfer
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-artifact-transfer
 BuildArch:      noarch
 

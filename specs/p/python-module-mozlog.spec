@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 3.3
 Release: alt1.1
 Summary: Robust log handling specialized for logging in the Mozilla universe
-License: MPL 1.1/GPL 2.0/LGPL 2.1
+License: MPL-1.1 or GPL-2.0-only or LGPL-2.1-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/mozlog/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

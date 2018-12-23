@@ -25,7 +25,7 @@ Name:          rabbitmq-java-client
 Version:       3.6.5
 Release:       alt1_4jpp8
 Summary:       Java Advanced Message Queue Protocol client library
-License:       ASL 2.0 and GPLv2+ and MPLv1.1
+License:       Apache-2.0 and GPL-2.0-or-later and MPL-1.1
 URL:           http://www.rabbitmq.com/java-client.html
 Source0:       http://www.rabbitmq.com/releases/%{name}/v%{version}/%{name}-%{version}.tar.gz
 

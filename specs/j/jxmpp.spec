@@ -17,7 +17,7 @@ Name:          jxmpp
 Version:       0.4.2
 Release:       alt1_7jpp8
 Summary:       An Open Source XMPP Java base-library
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/igniterealtime/jxmpp
 Source0:       https://github.com/igniterealtime/jxmpp/archive/%{githash}/%{name}-%{githash}.tar.gz
 

@@ -5,7 +5,7 @@ Release: alt4
 Summary: full set of Vibrancy GNOME icon theme
 
 Group: Graphical desktop/GNOME
-License: GPL2
+License: GPL-2.0-only
 Url: http://www.ravefinity.com/p/vibrancy-colors-gtk-icon-icons.html
 
 Source: vibrancy-%version.tar

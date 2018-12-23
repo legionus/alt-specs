@@ -11,7 +11,7 @@ Version:        1.1
 Release:        alt2_24jpp8
 Epoch:          0
 Summary:        Plexus Digest / Hashcode Components
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/codehaus-plexus/plexus-digest
 BuildArch:      noarch
 

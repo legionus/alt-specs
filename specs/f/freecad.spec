@@ -17,7 +17,7 @@ Version: 0.17.13543
 Release: alt1
 Epoch:   1
 Summary: OpenSource 3D CAD modeller
-License: GPL / LGPL
+License: GPL or LGPL
 Group:   Graphics
 Url:     http://free-cad.sourceforge.net/
 # VCS:   https://github.com/FreeCAD/FreeCAD

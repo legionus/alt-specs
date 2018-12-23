@@ -11,7 +11,7 @@ Version:	1.0
 Release:	alt2_17jpp8
 Summary:	Web Services Inspection Language for Java API
 
-License:	ASL 1.1
+License:	Apache-1.1
 URL:		http://svn.apache.org/repos/asf/webservices/archive/wsil4j/
 
 # svn co http://svn.apache.org/repos/asf/webservices/archive/wsil4j/trunk/java/ wsil4j-1.0

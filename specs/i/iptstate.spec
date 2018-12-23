@@ -3,7 +3,7 @@ Version: 2.2.6
 Release: alt1
 
 Summary: Display iptables state table information in a "top"-like interface
-License: zlib/libpng license
+License: Zlib or Libpng
 Group: Monitoring
 
 URL: http://www.phildev.net/iptstate/

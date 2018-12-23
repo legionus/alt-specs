@@ -5,7 +5,7 @@ Release: alt1
 Summary: Client library for applications that want to interact with the Zeitgeist daemon
 
 Group: System/Libraries
-License: LGPLv3 and GPLv3
+License: LGPLv3 and GPL-3.0-only
 Url: https://launchpad.net/libzeitgeist
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

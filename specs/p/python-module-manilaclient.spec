@@ -4,7 +4,7 @@ Name:       python-module-%oname
 Version:    1.24.1
 Release:    alt1
 Summary:    Client Library for OpenStack Manila shared file system service API
-License:    ASL 2.0
+License:    Apache-2.0
 Group:      Development/Python
 Url: http://docs.openstack.org/developer/python-%oname
 Source: https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz

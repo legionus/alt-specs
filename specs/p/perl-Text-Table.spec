@@ -8,7 +8,7 @@ Release: alt1
 Summary: organize data in tables
 Summary(ru_RU.UTF-8): организует данные в таблицы
 
-License: The ISC license
+License: ISC
 Group: Development/Perl
 
 %define real_name Text-Table

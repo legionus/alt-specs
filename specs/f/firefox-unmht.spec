@@ -7,7 +7,7 @@ Version:	6.4.5
 Release:	alt1
 Summary:	Extension to view and save MHT files with Mozilla Firefox
 
-License:	MPL/GPL/LGPL
+License:	MPL or GPL or LGPL
 Group:		Networking/WWW	
 Url:		http://www.unmht.org/unmht/en_index.html
 

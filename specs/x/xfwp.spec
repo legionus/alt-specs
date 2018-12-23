@@ -3,7 +3,7 @@ Version: 1.0.3
 Release: alt1
 
 Summary: X firewall proxy
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

@@ -3,7 +3,7 @@ Version: 3.16
 Release: alt2
 
 Summary: EFI Linux Loader
-License: GPL v2+
+License: GPL-2.0-or-later
 Group: System/Kernel and hardware
 
 Url: http://elilo.sourceforge.net

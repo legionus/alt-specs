@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.7
 Release: alt1.1
 Summary: Static analysis tool for robotframework plain text files
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/robotframework-lint
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

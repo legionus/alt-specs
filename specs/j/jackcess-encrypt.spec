@@ -10,7 +10,7 @@ Name:          jackcess-encrypt
 Version:       2.1.1
 Release:       alt1_5jpp8
 Summary:       Java implementation of the encryption service for MS Access
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://jackcessencrypt.sourceforge.net/
 # svn checkout http://svn.code.sf.net/p/jackcessencrypt/code/tags/jackcess-encrypt-2.1.1
 # tar cJf jackcess-encrypt-2.1.1.tar.xz jackcess-encrypt-2.1.1

@@ -5,7 +5,7 @@ Version: 1.3.6
 Release: alt2
 
 Summary: Extensible Binary Meta Language access library
-License: GPL/QPL
+License: GPL or QPL
 Group: System/Libraries
 Url: http://www.matroska.org
 

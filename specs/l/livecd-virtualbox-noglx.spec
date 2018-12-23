@@ -3,7 +3,7 @@ Version: 0.2
 Release: alt1
 
 Summary: A kludge for vboxdrv problems with GLX
-License: public domainL
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: https://bugzilla.altlinux.org/28782

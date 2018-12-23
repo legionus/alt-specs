@@ -12,7 +12,7 @@ Version:       2.0.1
 Release:       alt9_11jpp8
 Summary:       A collection of java utility classes
 # http://gsbase.sourceforge.net/license.html Apache style license
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://sourceforge.net/projects/gsbase/
 Source0:       http://downloads.sourceforge.net/gsbase/%{name}-%{version}.zip
 Source1:       http://repo1.maven.org/maven2/%{name}/%{name}/%{version}/%{name}-%{version}.pom

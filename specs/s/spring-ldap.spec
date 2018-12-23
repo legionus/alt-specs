@@ -11,7 +11,7 @@ Name:           spring-ldap
 Version:        1.3.1
 Release:        alt4_17jpp8
 Summary:        Java library for simplifying LDAP operations
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.springframework.org/ldap
 # https://github.com/spring-projects/spring-ldap
 # svn export https://src.springframework.org/svn/spring-ldap/tags/spring-ldap-1.3.1.RELEASE spring-ldap-1.3.1

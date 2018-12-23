@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt1
 
 Summary: Configure akonadi server for a livecd environment
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphical desktop/KDE
 
 Url: http://altlinux.org/m-p

@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Python bindings to the generic input event interface
 Group: Development/Python
-License: 3-clause BSD
+License: BSD-3-Clause
 Url: https://pypi.python.org/pypi/%modname
 
 Source: https://pypi.io/packages/source/e/%modname/%modname-%version.tar.gz

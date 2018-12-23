@@ -6,7 +6,7 @@ Summary: SILC Client Library
 Name:    libsilc
 Version: 1.1.10
 Release: alt4_15
-License: GPLv2 or BSD
+License: GPL-2.0-only or BSD
 Group:   System/Libraries
 URL:     http://www.silcnet.org/
 Source0: http://www.silcnet.org/download/toolkit/sources/silc-toolkit-%{version}.tar.bz2

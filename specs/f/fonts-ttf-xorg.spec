@@ -9,7 +9,7 @@ Release: alt3
 Serial: 1
 Summary: TrueType fonts provided by the X Window System
 Group: System/Fonts/Type1
-License: MIT/X11
+License: (MIT or X11)
 
 Url: http://xorg.freedesktop.org
 

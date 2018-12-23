@@ -10,7 +10,7 @@ Name:           opensaml-java-openws
 Version:        1.5.5
 Release:        alt1_6jpp8
 Summary:        Java OpenWS library
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          Development/Other
 URL:            http://www.opensaml.org/
 

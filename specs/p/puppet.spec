@@ -6,7 +6,7 @@ Release: alt2
 
 Summary: A network tool for managing many disparate systems
 Group:   System/Servers
-License: ASL 2.0
+License: Apache-2.0
 URL:     https://github.com/puppetlabs/puppet
 
 BuildArch: noarch

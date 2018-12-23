@@ -18,7 +18,7 @@ Name:          geronimo-jcache
 Version:       1.0
 Release:       alt1_0.5.alpha.1jpp8
 Summary:       Apache Geronimo JCache Spec 1.0
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://geronimo.apache.org/
 Source0:       http://repo2.maven.org/maven2/org/apache/geronimo/specs/%{spec_name}/%{namedversion}/%{spec_name}-%{namedversion}-source-release.zip
 

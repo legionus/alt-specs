@@ -21,7 +21,7 @@ Name:          google-http-java-client
 Version:       1.22.0
 Release:       alt1_4jpp8
 Summary:       Google HTTP Client Library for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/google/google-http-java-client/
 Source0:       https://github.com/google/google-http-java-client/archive/%{version}/%{name}-%{version}.tar.gz
 

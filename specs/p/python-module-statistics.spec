@@ -5,7 +5,7 @@ Name: python-module-%oname
 Version: 3.4.0
 Release: alt2.b3
 Summary: A Python 2.* port of 3.4 Statistics Module
-License: Python Software Foundation
+License: Python-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/statistics

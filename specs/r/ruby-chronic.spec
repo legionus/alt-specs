@@ -5,7 +5,7 @@ Version: 0.10.2
 Release: alt1.1
  
 Summary: Chronic is a pure Ruby natural language date parser
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/mojombo/chronic
  

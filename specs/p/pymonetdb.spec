@@ -9,7 +9,7 @@ Version: 1.1.1
 Release: alt1.1
 
 Summary: MonetDB is an open source column-oriented database management system
-License: Mozilla Public License 2.0
+License: MPL-2.0
 Group: Databases
 BuildArch: noarch
 URL: http://monetdb.org

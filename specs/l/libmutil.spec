@@ -29,7 +29,7 @@ memory object management, ...). It is used by the minisip project.
 %package devel
 Summary:		Development files for the libmutil library
 # %%{_datadir}/aclocal/winfuncs.m4 is under GPLv2+
-License:		LGPLv2+ and GPLv2+
+License:		LGPLv2+ and GPL-2.0-or-later
 Group:			Development/C
 Requires:		libmutil = %{?epoch:%epoch:}%{version}-%{release}
 Requires:		automake

@@ -9,7 +9,7 @@ Epoch: 1
 Version: 0.1.1
 Release: alt1.git20150424.1.2
 Summary: Provide sessions for aiohttp.web
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/aio-libs/aiohttp_session
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -5,7 +5,7 @@ Release: alt1
 Summary: OpenVZ Container Backup - for containers using ploop storage
 
 Group: Archiving/Backup
-License: MPLv2.0
+License: MPL-2.0
 Url: https://github.com/AndSk/OVZ-Backup
 
 Packager: Evgenii Terechkov <evg@altlinux.org>

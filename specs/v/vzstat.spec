@@ -5,7 +5,7 @@ Release: alt1
 Summary: vzstat utility for node monitoring
 
 Group: System/Base
-License: GPL2+
+License: GPL-2.0-or-later
 Url: https://src.openvz.org/projects/OVZ/repos/vzstat
 Source: %name-%version.tar
 Patch: %name-%version.patch

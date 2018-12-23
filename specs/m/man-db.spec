@@ -6,7 +6,7 @@ Version: 2.7.6.1
 Release: alt4.1
 # GPLv2+ .. man-db
 # GPLv3+ .. gnulib
-License: GPLv2+ and GPLv3+
+License: GPL-2.0-or-later and GPL-3.0-or-later
 Group: System/Base
 URL: http://www.nongnu.org/man-db/
 

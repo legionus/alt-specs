@@ -432,7 +432,7 @@ Provides python module for calculating the murmur hash version 3
 %package -n libwbclient-%name
 Summary: The SSSD libwbclient implementation
 Group: System/Libraries
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Conflicts: libwbclient < 4.2.3-alt1
 
 %description -n libwbclient-%name
@@ -441,7 +441,7 @@ The SSSD libwbclient implementation.
 %package -n libwbclient-%name-devel
 Summary: Development libraries for the SSSD libwbclient implementation
 Group: Development/C
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Requires: libwbclient-%name = %version-%release
 
 %description -n libwbclient-%name-devel
@@ -450,7 +450,7 @@ Development libraries for the SSSD libwbclient implementation.
 %package winbind-idmap
 Summary: SSSD's idmap_sss Backend for Winbind
 Group: System/Servers
-License: GPLv3+ and LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 
 %description winbind-idmap
 The idmap_sss module provides a way for Winbind to call SSSD to map UIDs/GIDs

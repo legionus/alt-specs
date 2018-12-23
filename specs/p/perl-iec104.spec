@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Perl implementation of IEC 60870-5-104 standard (server and client)
 
-License: GPL, Artistic
+License: GPL and Artistic
 Group: Development/Perl
 Url: https://github.com/vlet/iec104
 

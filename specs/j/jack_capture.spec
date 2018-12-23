@@ -8,7 +8,7 @@ Group: Sound
 # jack_capture_gui2.cpp is BSD,
 # atomic/* are LGPLv2+.
 # The icon is borrowed from oxygen icon theme, which is LGPLv3+
-License: GPLv2+ and BSD and LGPLv3+
+License: GPL-2.0-or-later and BSD and LGPLv3+
 Url: http://www.musix.org.ar/wiki/index.php/Jack_capture
 Packager: Anton Midyukov <antohami@altlinux.org>
 

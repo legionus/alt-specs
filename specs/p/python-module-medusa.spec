@@ -10,7 +10,7 @@ Version: %version
 Release: %release.1.1.1
 
 Summary: Medusa is a framework for writing asynchronous socket-based servers
-License: Python (see LICENSE.txt)
+License: Python
 Group: Development/Python
 Url: http://www.amk.ca/python/code/medusa.html
 

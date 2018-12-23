@@ -5,7 +5,7 @@ Version: 1.0.0
 Release: alt1
 Epoch: 1
 Summary: VirtualBox video driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: L.A. Kostis <lakostis@altlinux.org>

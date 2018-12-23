@@ -10,7 +10,7 @@ Name:          mina-ftpserver
 Version:       1.0.6
 Release:       alt2_7jpp8
 Summary:       A 100% pure Java FTP server
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://mina.apache.org/ftpserver-project/
 Source0:       http://www.apache.org/dist/mina/ftpserver/%{version}/ftpserver-%{version}-src.tar.gz
 # Fedora-specific: add some missing methods

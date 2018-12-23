@@ -7,7 +7,7 @@ Release: alt1.qa1
 Summary: case insensitive on purpose file system using FUSE
 
 Group: System/Kernel and hardware
-License: GPL v2
+License: GPL-2.0-only
 Url: http://www.brain-dump.org/projects/ciopfs/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

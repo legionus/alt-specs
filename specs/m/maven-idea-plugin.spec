@@ -12,7 +12,7 @@ Release:        alt1_9jpp8
 Summary:        Maven IDEA Plugin
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/%{name}
 # svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-idea-plugin-2.2.1
 # tar caf maven-idea-plugin-2.2.1.tar.xz maven-idea-plugin-2.2.1

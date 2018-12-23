@@ -5,7 +5,7 @@ Version: 0.8.5
 Release: alt1
 
 Summary: manage cyrus-imap server from python
-License: GPL2
+License: GPL-2.0-only
 Group: Development/Python
 Url: http://python-cyrus.sourceforge.net
 

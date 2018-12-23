@@ -6,7 +6,7 @@ Release:    alt1
 Summary:    OpenStack Sphinx Extensions
 
 Group:      Development/Python
-License:    ASL 2.0
+License:    Apache-2.0
 URL:        https://launchpad.net/oslo
 Source0:    %{name}-%{version}.tar
 

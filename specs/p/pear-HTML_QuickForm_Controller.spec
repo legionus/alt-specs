@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: The add-on to HTML_QuickForm package that allows building of multipage forms
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_QuickForm_Controller
 

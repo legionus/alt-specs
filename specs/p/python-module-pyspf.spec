@@ -8,7 +8,7 @@ Release: %release
 Summary: Python module and programs for SPF (Sender Policy Framework)
 
 Group: Development/Python
-License: Python Software Foundation License
+License: Python-2.0
 Url: https://pypi.python.org/pypi/pyspf/
 Source0: pyspf-%version.tar
 

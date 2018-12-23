@@ -8,7 +8,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE Frameworks 5 desktop hardware abstraction
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: upower udisks2 media-player-info
 

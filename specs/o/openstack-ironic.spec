@@ -3,7 +3,7 @@ Summary:        OpenStack Baremetal Hypervisor API (ironic)
 Group:          System/Servers
 Version:        2015.1.1
 Release:        alt1
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.openstack.org
 Source0:        %name-%version.tar
 

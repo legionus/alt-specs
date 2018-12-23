@@ -23,7 +23,7 @@ Name:          log4j12
 Version:       1.2.17
 Release:       alt1_21jpp8
 Summary:       Java logging package
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://logging.apache.org/log4j/1.2/
 BuildArch:     noarch
 

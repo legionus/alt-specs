@@ -35,7 +35,7 @@ Summary:        A simple virtual filesystem API
 
 # License confirmed to be zlib: https://github.com/milochristiansen/lua/issues/5
 # Asked upstream to explicitly add license file: https://github.com/milochristiansen/axis2/issues/1
-License:        zlib
+License:        Zlib
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{project}-%{repo}-%{shortcommit}.tar.gz
 

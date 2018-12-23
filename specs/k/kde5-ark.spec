@@ -11,7 +11,7 @@ Release: alt1%ubt
 Group: Archiving/Compression
 Summary: KDE archivers frontend
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: unrar p7zip unzip zip
 

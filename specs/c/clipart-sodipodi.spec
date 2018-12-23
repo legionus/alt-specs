@@ -3,7 +3,7 @@ Version: 2.1
 Release: alt1
 
 Summary: Clipart with SVG files for sodipodi
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 
 Url: http://sodipodi.sourceforge.net/

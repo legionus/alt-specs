@@ -3,7 +3,7 @@ Version: 1.3
 Release: alt1
 
 Summary: Weboob is a collection of applications able to interact with websites, without requiring the user to open them in a browser
-License: AGPLv3+
+License: AGPL-3.0-or-later
 Group:   Networking/WWW
 URL:     http://weboob.org/
 

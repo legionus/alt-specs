@@ -20,7 +20,7 @@ Release: alt1
 
 Summary: Test.pm wrapper with helpers for testing Apache
 
-License: Apache Software License 2.0
+License: Apache-2.0
 Group: Development/Perl
 Url: http://www.cpan.org
 

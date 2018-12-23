@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: provide rsyslog configuration for listening
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Url: http://www.rsyslog.com/using-the-syslog-receiver-module/

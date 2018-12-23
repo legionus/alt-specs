@@ -16,7 +16,7 @@ Release:       alt2_5jpp8
 Summary:       A simple mechanism to assemble Java archives
 # Some file are without license headers
 # reported @ https://issues.jboss.org/browse/SHRINKWRAP-501
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://arquillian.org/modules/shrinkwrap-shrinkwrap/
 Source0:       https://github.com/shrinkwrap/shrinkwrap/archive/%{namedversion}.tar.gz
 
@@ -90,7 +90,7 @@ Summary:       ShrinkWrap Implementation Base
 # ./impl-base/src/main/java/org/jboss/shrinkwrap/impl/base/io/tar/TarOutputStreamImpl.java
 # ./impl-base/src/main/java/org/jboss/shrinkwrap/impl/base/io/tar/TarProgressDisplay.java
 # ./impl-base/src/main/java/org/jboss/shrinkwrap/impl/base/io/tar/TarTransFileTyper.java
-License:       ASL 2.0 and Public Domain
+License:       Apache-2.0 and ALT-Public-Domain
 
 %description impl-base
 Common Base for Implementations of the ShrinkWrap Project.

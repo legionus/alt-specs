@@ -10,7 +10,7 @@ Name:          jackson-modules-base
 Version:       2.9.4
 Release:       alt1_2jpp8
 Summary:       Jackson modules: Base
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/FasterXML/jackson-modules-base
 Source0:       https://github.com/FasterXML/jackson-modules-base/archive/%{name}-%{version}.tar.gz
 

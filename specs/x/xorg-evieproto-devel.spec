@@ -3,7 +3,7 @@ Version: 1.1.1
 Release: alt2
 
 Summary: X.org EvIEProto protocol headers
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

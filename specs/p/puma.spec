@@ -3,7 +3,7 @@ Version: 3.12.0
 Release: alt1
 
 Summary: A Ruby/Rack web server built for concurrency
-License: BSD 3-Clause
+License: BSD-3-Clause
 Group:   Development/Ruby
 Url:     https://github.com/puma/puma
 

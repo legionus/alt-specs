@@ -8,7 +8,7 @@ Name: golang-gopkg-inconshreveable-log15-v2
 Version: 2.0
 Release: alt1.git%abbrev
 Summary: Simple toolkit for best-practice logging in Go
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

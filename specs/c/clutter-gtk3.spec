@@ -9,7 +9,7 @@ Version: %ver_major.4
 Release: alt1
 
 Summary: Library integrating clutter with GTK+3
-License: LGPL v2+
+License: LGPL-2.0-or-later
 Group: System/Libraries
 Url: https://wiki.gnome.org/Projects/Clutter
 

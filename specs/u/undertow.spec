@@ -14,7 +14,7 @@ Name:             undertow
 Version:          1.4.0
 Release:          alt1_4jpp8
 Summary:          Java web server using non-blocking IO
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://undertow.io/
 Source0:          https://github.com/undertow-io/undertow/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 # Remove unavailable methods in jetty-alpn-api-1.1.0

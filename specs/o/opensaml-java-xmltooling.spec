@@ -9,7 +9,7 @@ Name:          opensaml-java-xmltooling
 Version:       1.3.4
 Release:       alt5_12jpp8
 Summary:       Java XMLTooling library
-License:       ASL 2.0 and W3C
+License:       Apache-2.0 and W3C
 
 URL:           http://www.opensaml.org/
 

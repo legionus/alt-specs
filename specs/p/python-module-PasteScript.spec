@@ -9,7 +9,7 @@ Epoch:   1
 Version: 2.0.2
 Release: alt1
 Summary: A pluggable command-line frontend
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/Python
 Url: https://pypi.org/project/PasteScript/
 

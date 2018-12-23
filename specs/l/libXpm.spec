@@ -2,7 +2,7 @@ Name: libXpm
 Version: 3.5.11
 Release: alt1
 Summary: X Pixmap Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -10,7 +10,7 @@ Name:          typesafe-config
 Version:       1.2.0
 Release:       alt2_11jpp8
 Summary:       Configuration library for JVM languages
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/typesafehub/config/
 Source0:       https://github.com/typesafehub/config/archive/v%{version}.tar.gz
 Source1:       typesafe-config.bnd

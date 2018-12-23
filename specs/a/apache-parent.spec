@@ -10,7 +10,7 @@ Name:           apache-parent
 Version:        19
 Release:        alt1_2jpp8
 Summary:        Parent POM file for Apache projects
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://apache.org/
 Source0:        http://repo1.maven.org/maven2/org/apache/apache/%{version}/apache-%{version}-source-release.zip
 BuildArch:      noarch

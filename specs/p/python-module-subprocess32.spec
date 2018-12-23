@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 3.2.7
 Release: alt1.1
 Summary: Backport of the subprocess module from Python 3.2/3.3 for use on 2.x
-License: PSFL
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/subprocess32/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

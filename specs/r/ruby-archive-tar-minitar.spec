@@ -8,7 +8,7 @@ Release: alt1.2
 
 Summary: Library and command-line utility to deal with POSIX tar(1) archive files
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/ruwiki/
 
 BuildArch: noarch

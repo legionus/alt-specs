@@ -8,7 +8,7 @@ Release: alt1
 Packager: Victor Forsiuk <force@altlinux.org>
 
 Summary: Text::RecordParser - read record-oriented files
-License: GPLv2 only
+License: GPL-2.0-only
 Group: Development/Perl
 
 URL: %CPAN %dist

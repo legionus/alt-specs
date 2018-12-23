@@ -10,7 +10,7 @@ Name:           maven-deploy-plugin
 Version:        2.8.2
 Release:        alt1_8jpp8
 Summary:        Maven Deploy Plugin
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-deploy-plugin/
 BuildArch:      noarch
 

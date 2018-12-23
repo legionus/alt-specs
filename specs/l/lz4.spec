@@ -3,7 +3,7 @@ Epoch: 1
 Version: 1.8.3
 Release: alt1
 Summary: Fast LZ compression algorithm library and tools
-License: GPLv2+ and BSD
+License: GPL-2.0-or-later and BSD
 Group: Archiving/Compression
 Url: https://lz4.github.io/lz4/
 # https://github.com/lz4/lz4

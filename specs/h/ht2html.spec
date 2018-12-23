@@ -37,7 +37,7 @@ Release:	alt5_2jpp5
 URL:		http://ht2html.sourceforge.net
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	%{name}.bz2
-License:	Public Domain
+License:	ALT-Public-Domain
 Group:		System/Libraries
 Summary:	The www.python.org Web site generator
 BuildRequires: python-devel

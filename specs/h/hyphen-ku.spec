@@ -10,7 +10,7 @@ Version: 1.71.2
 Release: alt1_14
 Source: https://downloads.sourceforge.net/project/aoo-extensions/2445/12/kitandin.oxt
 URL: http://extensions.services.openoffice.org/project/kitandin
-License: GPLv2+ or LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 BuildArch: noarch
 Requires: libhyphen
 Source44: import.info

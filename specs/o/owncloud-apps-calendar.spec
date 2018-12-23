@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: Calendar for owncloud
 Group: Networking/WWW
-License: AGPLv3
+License: AGPL-3.0-only
 Url: http://www.owncloud.org/
 
 BuildArch: noarch

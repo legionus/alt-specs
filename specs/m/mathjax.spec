@@ -8,7 +8,7 @@ Name:       mathjax
 Version:    2.7.4
 Release:    alt1_3
 Summary:    JavaScript library to render math in the browser
-License:    ASL 2.0
+License:    Apache-2.0
 URL:        http://mathjax.org
 Source0:    https://github.com/mathjax/MathJax/archive/%{version}.tar.gz#/mathjax-%{version}.tar.gz
 

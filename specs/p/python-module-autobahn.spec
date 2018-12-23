@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 18.5.2
 Release: alt1.qa1
 Summary: WebSocket & WAMP for Python/Twisted
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/tavendo/AutobahnPython
 

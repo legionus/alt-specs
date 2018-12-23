@@ -9,7 +9,7 @@ Release: alt1.1
 Summary: Python module for generating .ninja files
 
 Url: https://github.com/martine/Ninja
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Python
 
 # Source-url: https://pypi.io/packages/source/n/%modulename/%modulename-%version.tar.gz

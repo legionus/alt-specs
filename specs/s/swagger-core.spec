@@ -15,7 +15,7 @@ Version:       1.5.10
 Release:       alt1_4jpp8
 Summary:       Java implementation of Swagger
 # Source files without license headers https://github.com/swagger-api/swagger-core/issues/1882
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://swagger.io/
 Source0:       https://github.com/swagger-api/swagger-core/archive/v%{namedversion}/%{name}-%{namedversion}.tar.gz
 

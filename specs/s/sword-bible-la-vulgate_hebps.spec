@@ -5,7 +5,7 @@ Release: alt1
 Summary: Latin Vulgate Psalms from Hebrew for SWORD
 Summary(ru_RU.UTF-8): Latin Vulgate Psalms from Hebrew для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

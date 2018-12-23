@@ -2,7 +2,7 @@ Name: libXcomposite
 Version: 0.4.3
 Release: alt3
 Summary: X Composite Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

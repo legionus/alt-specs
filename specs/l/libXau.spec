@@ -2,7 +2,7 @@ Name: libXau
 Version: 1.0.8
 Release: alt1
 Summary: Xau Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

@@ -8,7 +8,7 @@ Version: 0.2.5.1
 Release: alt2.1
 Group: Development/Python
 Summary: Magic-Search (XStatic packaging standard)
-License: ASL 2.0
+License: Apache-2.0
 Url: https://pypi.python.org/pypi/%pypi_name/
 Source: %pypi_name-%version.tar.gz
 BuildArch: noarch

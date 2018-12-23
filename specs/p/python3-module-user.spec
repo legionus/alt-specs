@@ -3,7 +3,7 @@ Name: python3-module-%oname
 Version: 2.7.6
 Release: alt1.2
 Summary: Hook to allow user-specified customization code to run
-License: PSF
+License: Python-2.0
 Group: Development/Python3
 Url: http://www.python.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -2,7 +2,7 @@ Name: libxshmfence
 Version: 1.2
 Release: alt2
 Summary: X Shared Memory Fence library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

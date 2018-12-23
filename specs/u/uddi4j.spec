@@ -11,7 +11,7 @@ Name:		uddi4j
 Version:	2.0.5
 Release:	alt2_17jpp8
 Summary:	Universal Description, Discovery and Integration registry API for Java
-License:	IBM
+License:	IPL-1.0
 URL:		http://sourceforge.net/projects/uddi4j/
 
 Source0:	http://downloads.sf.net/project/uddi4j/uddi4j/%{version}/uddi4j-src-%{version}.zip

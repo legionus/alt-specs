@@ -11,7 +11,7 @@ Name:          jtoaster
 Version:       1.0.5
 Release:       alt2_10jpp8
 Summary:       Java utility class for swing applications
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://jtoaster.sourceforge.net/
 Source0:       http://downloads.sourceforge.net/project/jtoaster/%{name}/1.0/%{name}-%{version}.jar
 Source1:       %{name}-template.pom

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 7.0.0.2
 Release: alt1.git20150807.1
 Summary: Unicodedata backport for python 2 updated to the latest unicode version
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/unicodedata2
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

@@ -19,7 +19,7 @@ Name:          apache-commons-jci
 Version:       1.1
 Release:       alt1_6jpp8
 Summary:       Commons Java Compiler Interface
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://commons.apache.org/jci/
 Source0:       http://www.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{namedversion}-src.tar.gz
 Patch0:        %{name}-1.1-janino27.patch

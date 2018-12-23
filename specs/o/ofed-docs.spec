@@ -1,7 +1,7 @@
 Name: ofed-docs
 Version: 1.5.2
 Release: alt1.qa1
-License: GPL/BSD
+License: GPL or BSD
 Url: https://openib.org/svn/gen2/branches/1.1/ofed/docs
 Group: Documentation
 Source: %{name}-%{version}.tar

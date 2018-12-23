@@ -22,7 +22,7 @@ Name:          vorbis-java
 Version:       0.8
 Release:       alt1_4jpp8
 Summary:       Ogg and Vorbis toolkit for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/Gagravarr/VorbisJava
 Source0:       https://github.com/Gagravarr/VorbisJava/archive/%{name}-%{version}.tar.gz
 

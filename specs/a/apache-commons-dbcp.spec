@@ -14,7 +14,7 @@ Version:          1.4
 Release:          alt2_23jpp8
 Summary:          Apache Commons DataBase Pooling Package
 Group:            Development/Other
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://commons.apache.org/%{base_name}/
 BuildArch:        noarch
 

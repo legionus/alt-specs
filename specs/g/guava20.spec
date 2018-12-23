@@ -10,7 +10,7 @@ Name:           guava20
 Version:        20.0
 Release:        alt1_5jpp8
 Summary:        Google Core Libraries for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/google/guava
 BuildArch:      noarch
 

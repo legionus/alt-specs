@@ -3,7 +3,7 @@ Version: 3.8
 Release: alt2
 
 Summary: Lightweight Web Browser With Good HTML 4 And CSS Support
-License: GNU General Public License v2 (GPL v2)
+License: GPL-2.0-only
 Group: Networking/WWW
 
 Url: http://www.netsurf-browser.org

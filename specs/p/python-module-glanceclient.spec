@@ -6,7 +6,7 @@ Release: alt1
 Summary: Python API and CLI for OpenStack Glance
 
 Group:   Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url:     http://docs.openstack.org/developer/python-%oname
 Source:  https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz
 

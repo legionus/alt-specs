@@ -12,7 +12,7 @@ Version:       3.0
 Release:       alt1_4jpp8
 Summary:       Maven dependency tree artifact
 Group:         Development/Other
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://maven.apache.org/
 Source0:       http://repo1.maven.org/maven2/org/apache/maven/shared/%{name}/%{version}/%{name}-%{version}-source-release.zip
 BuildArch:     noarch

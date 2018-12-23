@@ -7,7 +7,7 @@ Version: 1.5.6
 Release: alt1
 
 Summary: Classic Theme Restorer (Customize Australis) extension for Firefox
-License: Mozilla Public License, version 2.0
+License: MPL-2.0
 Group: Networking/WWW
 
 Url: https://addons.mozilla.org/en-US/firefox/addon/classicthemerestorer/

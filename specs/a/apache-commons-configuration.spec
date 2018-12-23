@@ -15,7 +15,7 @@ Version:        1.10
 Release:        alt1_11jpp8
 Summary:        Commons Configuration Package
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/%{base_name}/
 Source0:        http://archive.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz
 BuildArch:      noarch

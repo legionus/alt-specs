@@ -8,7 +8,7 @@ Name:		byaccj
 Epoch:		0
 Version:	1.15
 Release:	alt1_17jpp8
-License:	Public Domain
+License:	ALT-Public-Domain
 URL:		http://byaccj.sourceforge.net/
 
 Source0:	http://sourceforge.net/projects/byaccj/files/byaccj/1.15/byaccj1.15_src.tar.gz

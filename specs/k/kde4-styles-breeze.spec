@@ -10,7 +10,7 @@ Release: alt1
 Group: Graphical desktop/KDE
 Summary: KDE4 visual style
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: icon-theme-breeze
 

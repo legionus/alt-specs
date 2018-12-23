@@ -8,7 +8,7 @@ Name: python-module-%oname
 Version: 0.1.3
 Release: alt1
 Summary: asyncio version of http.client
-License: PSFL
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/yieldfrom.http.client/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

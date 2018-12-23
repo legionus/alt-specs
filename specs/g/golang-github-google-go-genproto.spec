@@ -54,7 +54,7 @@ Release:        alt1_0.2.git%{shortcommit}
 Summary:        Go generated proto packages
 # Detected licences
 # - *No copyright* Apache (v2.0) GENERATED FILE at 'LICENSE'
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

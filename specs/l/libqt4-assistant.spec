@@ -7,7 +7,7 @@ Release: alt10.2
 Group: System/Libraries
 Summary: %Qtname old help system support library
 Url: http://qt.nokia.com/
-License: GPLv3 / LGPLv2.1
+License: GPL-3.0-only or LGPLv2.1
 
 Source: %name-%version.tar
 Packager: Sergey V Turchin <zerg@altlinux.org>

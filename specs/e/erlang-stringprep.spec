@@ -7,7 +7,7 @@ Version: 1.0.11
 Release: alt1%ubt
 Summary: Fast Stringprep implementation for Erlang / Elixir
 Group: Development/Erlang
-License: Tcl/Tk and ASL 2.0
+License: TCL and Apache-2.0
 Url: https://github.com/processone/stringprep
 
 # https://github.com/processone/stringprep.git

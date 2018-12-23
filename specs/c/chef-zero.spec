@@ -3,7 +3,7 @@ Version: 14.0.11
 Release: alt1
  
 Summary: Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     http://www.opscode.com/
 # VCS:   https://github.com/chef/chef-zero

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Library for mocking and stubbing in Ruby
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/mocha/
 
 Packager: Ruby Maintainers Team <ruby@packages.altlinux.org>

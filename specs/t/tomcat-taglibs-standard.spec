@@ -13,7 +13,7 @@ Version:        1.2.5
 Release:        alt1_5jpp8
 Epoch:          0
 Summary:        Apache Standard Taglib
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://tomcat.apache.org/taglibs/
 Source0:        http://apache.cbox.biz/tomcat/taglibs/taglibs-standard-%{version}/taglibs-standard-%{version}-source-release.zip
 Patch0: servlet31.patch

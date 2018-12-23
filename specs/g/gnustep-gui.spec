@@ -6,7 +6,7 @@ Name: gnustep-gui
 Version: 0.24.0
 Release: alt8.svn20140223
 Summary: The GNUstep GUI library
-License: GPLv2+ and GPLv3
+License: GPL-2.0-or-later and GPL-3.0-only
 Group: Development/Tools
 Url: http://www.gnustep.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

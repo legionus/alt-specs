@@ -17,7 +17,7 @@ Name:          eclipselink-persistence-api
 Version:       2.1.0
 Release:       alt1_5jpp8
 Summary:       JPA 2.1 Spec OSGi Bundle
-License:       EPL and ASL 2.0
+License:       EPL and Apache-2.0
 URL:           http://www.eclipse.org/eclipselink/
 #Source0:       https://github.com/eclipse/javax.persistence/archive/%%{namedversion}.tar.gz
 Source0:       http://git.eclipse.org/c/eclipselink/javax.persistence.git/snapshot/%{oname}-%{namedversion}.tar.xz

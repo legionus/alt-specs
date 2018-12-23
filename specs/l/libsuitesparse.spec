@@ -3,7 +3,7 @@ Version: 5.1.2
 Release: alt2
 
 Summary: Shared libraries for sparse matrix calculations
-License: LGPL, GPL
+License: LGPL and GPL
 Group: Sciences/Mathematics
 Url: http://faculty.cse.tamu.edu/davis/suitesparse.html
 

@@ -3,7 +3,7 @@ Version: 1.6.3
 Release: alt1
 Epoch: 1
 Summary: joystick input driver
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

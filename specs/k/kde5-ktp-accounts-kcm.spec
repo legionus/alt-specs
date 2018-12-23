@@ -13,7 +13,7 @@ Requires: telepathy-mission-control
 Group: Graphical desktop/KDE
 Summary: KDE Configuration Module for Telepathy Instant Messaging Accounts
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-autoconnect.patch

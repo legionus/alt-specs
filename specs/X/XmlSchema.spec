@@ -10,7 +10,7 @@ Name:           XmlSchema
 Version:        2.2.3
 Release:        alt1_1jpp8
 Summary:        Lightweight schema object model
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://ws.apache.org/xmlschema/
 BuildArch:      noarch
 

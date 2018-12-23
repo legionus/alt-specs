@@ -22,7 +22,7 @@ Name:          google-oauth-java-client
 Version:       1.22.0
 Release:       alt1_3jpp8
 Summary:       Google OAuth Client Library for Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/google/google-oauth-java-client
 Source0:       https://github.com/google/google-oauth-java-client/archive/%{version}/%{name}-%{version}.tar.gz
 

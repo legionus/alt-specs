@@ -45,7 +45,7 @@ Summary:        Java source code checker
 URL:            http://checkstyle.sourceforge.net/
 # src/checkstyle/com/puppycrawl/tools/checkstyle/grammars/java.g is GPLv2+
 # Most of the files in contrib/usage/src/checkstyle/com/puppycrawl/tools/checkstyle/checks/usage/transmogrify/ are BSD
-License:        LGPLv2+ and GPLv2+ and BSD
+License:        LGPLv2+ and GPL-2.0-or-later and BSD
 BuildArch:      noarch
 
 Source0:        http://download.sf.net/checkstyle/checkstyle-%{version}-src.tar.gz

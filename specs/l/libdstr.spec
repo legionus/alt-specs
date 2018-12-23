@@ -8,7 +8,7 @@ Release:	alt2_7
 Summary:	Dave's String class
 
 Group:		System/Libraries
-License:	Public Domain
+License:	ALT-Public-Domain
 URL:		http://www.flaterco.com/util/index.html
 Source0:	http://www.flaterco.com/util/%{name}-%{version}.tar.bz2
 Source44: import.info

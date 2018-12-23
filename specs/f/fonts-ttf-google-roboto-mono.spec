@@ -11,7 +11,7 @@ Version:       2.000986
 Release:       alt1_0.4.20150923git
 Summary:       Google Roboto Mono fonts
 
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://www.google.com/fonts/specimen/Roboto+Mono
 # There are no tar archive so let's pick all the individual source files from github
 Source0:       https://raw.githubusercontent.com/google/fonts/%{commit0}/apache/robotomono/RobotoMono-Regular.ttf

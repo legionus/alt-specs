@@ -10,7 +10,7 @@ Release: alt1
 
 Summary: Pycairo is a set of Python bindings for the cairo vector graphics library
 Group: Development/Python
-License: LGPLv2.1/MPLv1.1
+License: LGPLv2.1 or MPL-1.1
 Url: https://github.com/pygobject/pycairo
 
 # VCS: https://github.com/pygobject/pycairo.git

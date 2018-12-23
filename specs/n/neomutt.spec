@@ -7,7 +7,7 @@ Release: alt2
 
 Summary: A version of Mutt with added features
 
-License: GPLv2+ and Public Domain
+License: GPL-2.0-or-later and ALT-Public-Domain
 Group: Networking/Mail
 Url: https://www.neomutt.org/
 

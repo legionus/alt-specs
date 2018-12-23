@@ -2,7 +2,7 @@ Name: libXext
 Version: 1.3.3
 Release: alt1
 Summary: Misc X Extension Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

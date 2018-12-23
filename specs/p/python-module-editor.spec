@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Programmatically open an editor, capture the result
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/fmoo/python-editor
 

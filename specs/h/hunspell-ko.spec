@@ -7,7 +7,7 @@ Version: 0.7.0
 Release: alt1_5
 Source: https://github.com/spellcheck-ko/hunspell-dict-ko/archive/%{version}.tar.gz
 URL: https://github.com/spellcheck-ko/hunspell-dict-ko
-License: MPLv1.1 or GPLv2 or LGPLv2
+License: MPL-1.1 or GPL-2.0-only or LGPLv2
 BuildArch: noarch
 BuildRequires: python3
 BuildRequires: hunspell

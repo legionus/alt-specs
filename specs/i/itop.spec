@@ -7,7 +7,7 @@ Release: alt1
 
 
 Summary: IT Operations Portal
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Networking/Other
 
 

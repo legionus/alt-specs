@@ -11,7 +11,7 @@ Release:        alt1_15jpp8
 Summary:        Java media framework
 URL:            http://www.theora.org/cortado/
 # The codecs are all LGPLv2+, the jst framework is mixed, the player applet GPL
-License:        LGPLv2+ and GPLv2+
+License:        LGPLv2+ and GPL-2.0-or-later
 Group:          System/Libraries
 Source0:        http://downloads.xiph.org/releases/%{name}/%{name}-%{version}.tar.gz
 Patch0:         cortado-0.6.0-javadoc-fix.patch

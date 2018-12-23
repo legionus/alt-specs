@@ -5,7 +5,7 @@ Name: lib%rname
 Version: %api_ver.12
 Release: alt1
 Summary: A graph based image processing framework
-License: LGPLv3+/GPLv3+
+License: LGPLv3+ or GPL-3.0-or-later
 Group: System/Libraries
 Url: http://www.gimp.org
 

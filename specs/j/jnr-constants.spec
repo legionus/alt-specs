@@ -10,7 +10,7 @@ Name:           jnr-constants
 Version:        0.9.9
 Release:        alt1_3jpp8
 Summary:        Java Native Runtime constants 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/jnr/%{name}/
 Source0:        https://github.com/jnr/%{name}/archive/%{name}-%{version}.tar.gz
 

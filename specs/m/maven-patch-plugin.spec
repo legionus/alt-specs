@@ -12,7 +12,7 @@ Version:        1.2
 Release:        alt1_6jpp8
 Summary:        Maven Patch Plugin
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-patch-plugin/
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

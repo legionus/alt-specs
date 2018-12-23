@@ -7,7 +7,7 @@ Version: 1.62.0
 Release: alt1
 Summary: Coordination library for distributed systems
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/%oname
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 BuildArch: noarch

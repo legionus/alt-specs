@@ -10,7 +10,7 @@ Name:           univocity-parsers
 Version:        2.5.5
 Release:        alt1_2jpp8
 Summary:        Collection of parsers for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/uniVocity/univocity-parsers
 BuildArch:      noarch
 

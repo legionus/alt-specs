@@ -4,7 +4,7 @@ Release: alt4.1
 
 Summary: distcc is a program to distribute builds C/C++/ Objective C/C++
 
-License: GNU GPL
+License: GPL
 Group: Development/Tools
 Url: http://distcc.org
 

@@ -12,7 +12,7 @@ Release: alt1%ubt
 Group: Networking/News
 Summary: RSS/Atom feed reader
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: kde5-pim-akregator = %EVR
 Obsoletes: kde5-pim-akregator < %EVR

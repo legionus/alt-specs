@@ -16,7 +16,7 @@ Release:       alt1_0.8.M3jpp8
 Summary:       ApacheDS specific JDBM Implementation
 # This package is a fork of http://jdbm.sourceforge.net/ the original/more files
 # are under BSD license.
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 Url:           http://directory.apache.org/
 # svn export http://svn.apache.org/repos/asf/directory/jdbm/tags/2.0.0-M3/ apacheds-jdbm-2.0.0-M3
 # tar cJf apacheds-jdbm-2.0.0-M3.tar.xz apacheds-jdbm-2.0.0-M3

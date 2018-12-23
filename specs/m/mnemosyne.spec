@@ -14,7 +14,7 @@ Release:	alt1_3
 URL:		http://www.mnemosyne-proj.org/
 Source0:	https://downloads.sourceforge.net/sourceforge/mnemosyne-proj/Mnemosyne-%{version}.tar.gz
 Patch0:		mnemosyne-desktop.patch
-License:	AGPLv3
+License:	AGPL-3.0-only
 
 BuildArch:	noarch
 # no python3-qt5-webengine on power64

@@ -6,7 +6,7 @@ Version: 1.0.3
 Release: alt1.1
 Summary: WeakMethod class for storing bound methods using weak references.
 Group: Development/Python
-License: PSF
+License: Python-2.0
 Url: http://github.com/twang817/weakrefmethod
 Source: %oname-%version.tar.gz
 BuildArch: noarch

@@ -9,7 +9,7 @@ Release:        alt1
 Summary:        HTTP library, written in Python, for human beings
 Group:          Development/Python
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://pypi.io/project/requests
 Source0:        %pkgname-%version.tar
 # Explicitly use the system certificates in ca-certificates.

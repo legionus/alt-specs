@@ -12,7 +12,7 @@ Name:       libjson-rpc-cpp
 Version:    1.0.0
 Release:    alt1_5
 Summary:    C++ JSON Library
-License:    Public Domain
+License:    ALT-Public-Domain
 Group:      System/Libraries
 #Url:        http://jsoncpp.sourceforge.net/
 URL:            https://github.com/cinemast/libjson-rpc-cpp

@@ -6,7 +6,7 @@ Group:		System/Libraries
 URL:		http://glui.sourceforge.net/
 Source:		glui-%version.tgz
 Patch:		glui.makefile.patch
-License:	ZLIB
+License:	Zlib
 
 # Automatically added by buildreq on Fri Jul 02 2010
 BuildRequires: gcc-c++ libGLUT-devel libXext-devel libXi-devel libXmu-devel

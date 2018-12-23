@@ -11,7 +11,7 @@ Name:          uima-addons
 Version:       2.3.1
 Release:       alt1_10jpp8
 Summary:       Apache UIMA Addons components
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://uima.apache.org/sandbox.html
 Source0:       http://www.apache.org/dist/uima/%{name}-%{version}-source-release.zip
 # fix bundle plugin configuration

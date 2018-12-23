@@ -10,7 +10,7 @@ Name: python-module-%oname
 Version: 0.4.2
 #Release: alt2.1
 Summary: Google Application Utilities for Python
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/google-apputils/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

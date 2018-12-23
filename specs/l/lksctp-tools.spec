@@ -2,7 +2,7 @@ Name: lksctp-tools
 Summary: Linux Kernel SCTP tools
 Version: 1.0.17
 Release: alt2
-License: GPL2
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 BuildRequires: glibc-devel-static
 Url: http://lksctp.sourceforge.net/

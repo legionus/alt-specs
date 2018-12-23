@@ -2,7 +2,7 @@ Summary:          Library to support IDNA2008 internationalized domain names
 Name:             libidn2
 Version:          2.0.5
 Release:          alt1
-License:          (GPLv2+ or LGPLv3+) and GPLv3+
+License:          (GPL-2.0-or-later or LGPLv3+) and GPL-3.0-or-later
 Group:            System/Libraries
 URL:              https://www.gnu.org/software/libidn/#libidn2
 Source0:          %name-%version.tar

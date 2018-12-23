@@ -8,7 +8,7 @@ Release: alt1
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 Info Center
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: usbids
 Provides:  kf5-kinfocenter = %EVR kf5-kinfocenter-common = %EVR plasma5-kinfocenter-common = %EVR

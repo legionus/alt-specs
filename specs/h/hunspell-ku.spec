@@ -12,7 +12,7 @@ Release: alt2_17
 Source0: http://downloads.sourceforge.net/myspellkurdish/ku_TR-021.zip
 #http://code.google.com/p/hunspell-ku/ ?
 URL: https://sourceforge.net/projects/myspellkurdish/
-License: GPLv3 or LGPLv3 or MPLv1.1
+License: GPL-3.0-only or LGPLv3 or MPL-1.1
 BuildArch: noarch
 
 Requires: hunspell

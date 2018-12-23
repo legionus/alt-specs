@@ -3,7 +3,7 @@ Name: python-module-%oname
 Version: 0.8.8
 Release: alt2.1
 Summary: Functional test framework
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/functest/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

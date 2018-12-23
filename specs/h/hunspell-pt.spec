@@ -2,7 +2,7 @@ Name: hunspell-pt
 Summary: Portuguese hunspell dictionaries
 Version: 20081113
 Release: alt2
-License: LGPLv2 and GPLv2+
+License: LGPLv2 and GPL-2.0-or-later
 Group: Text tools
 URL: http://www.broffice.org/verortografico/baixar
 

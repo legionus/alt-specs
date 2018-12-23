@@ -9,7 +9,7 @@ Version: 2.0.0
 Release: alt5
 Epoch: 1
 
-License: GPL, LGPL, BSD, Public Domain
+License: GPL and LGPL and BSD and ALT-Public-Domain
 Group: Development/Other
 URL: http://savannah.gnu.org/projects/avr-libc
 

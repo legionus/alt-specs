@@ -12,7 +12,7 @@ Release: alt1
 Summary: Input/Output
 
 Group: Sciences/Mathematics
-License: GPLv3+, simplified BSD
+License: GPL-3.0-or-later and simplified BSD
 URL: http://octave.sf.net
 
 Source0: https://downloads.sourceforge.net/project/octave/Octave%%20Forge%%20Packages/Individual%%20Package%%20Releases/%{octave_pkg_name}-%{octave_pkg_version}.tar.gz

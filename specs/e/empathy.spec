@@ -21,7 +21,7 @@ Version: %ver_major.90
 Release: alt2
 
 Summary: Instant Messaging Client for GNOME
-License: GPL/LGPL
+License: GPL or LGPL
 Group: Networking/Instant messaging
 Url: https://live.gnome.org/Empathy
 

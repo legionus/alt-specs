@@ -7,7 +7,7 @@ Release: alt2
 Group: Graphical desktop/Other
 Summary: Smoke Generator
 Url: http://www.kde.org
-License: LGPLv2 and GPLv2+
+License: LGPLv2 and GPL-2.0-or-later
 
 #Obsoletes: kde4bindings < %version
 #Provides: kde4bindings = %version

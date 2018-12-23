@@ -4,7 +4,7 @@ Release:        alt2
 Summary:        Helper utilities for OpenStack services
 URL:            https://github.com/redhat-openstack/openstack-utils
 Source0:        %{name}-%{version}.tar
-License:        ASL 2.0
+License:        Apache-2.0
 Group:		System/Servers
 BuildArch:      noarch
 

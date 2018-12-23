@@ -5,7 +5,7 @@ Release: alt2
 Summary: Ukrainian Bible for SWORD
 Summary(ru_RU.UTF-8): Библия на украинском языке для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

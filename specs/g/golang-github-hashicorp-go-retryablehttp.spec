@@ -57,7 +57,7 @@ Release:        alt1_0.3.git%{shortcommit}
 Summary:        Retryable HTTP client in Go
 # Detected licences
 # - *No copyright* MPL (v2.0) at 'LICENSE'
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

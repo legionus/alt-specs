@@ -1,7 +1,7 @@
 Name: madwimax
 Version: 0.1.1
 Release: alt2.2
-License: GPL2
+License: GPL-2.0-only
 
 Url: http://madwimax.googlecode.com
 

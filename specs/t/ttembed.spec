@@ -5,7 +5,7 @@ Name:       ttembed
 Version:    1.1
 Release:    alt1_8
 Summary:    Remove embedding limitations from TrueType fonts
-License:    Public Domain
+License:    ALT-Public-Domain
 URL:        https://github.com/hisdeedsaredust/ttembed
 Source0:    https://github.com/hisdeedsaredust/ttembed/archive/v%{version}.tar.gz
 Source44: import.info

@@ -3,7 +3,7 @@ Name: python-module-%oname
 Version: 1.3
 Release: alt1.git20140627.1
 Summary: RIDE :: Robot Framework Test Data Editor
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/robotframework-ride/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

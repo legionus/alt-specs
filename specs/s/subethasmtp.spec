@@ -12,7 +12,7 @@ Version:       3.1.7
 Release:       alt1_12jpp8
 Summary:       A SMTP mail server for Java
 # BSD: src/main/java/org/subethamail/smtp/util/Base64.java
-License:       ASL 2.0 and BSD
+License:       Apache-2.0 and BSD
 # http://code.google.com/p/subethasmtp/
 # https://github.com/vivosys/subethasmtp
 URL:           https://github.com/voodoodyne/subethasmtp

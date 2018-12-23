@@ -5,7 +5,7 @@ Version: 2.0.0
 Release: alt1.1
  
 Summary: This is a Ruby library for working with UCF documents
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://mygrid.github.io/ruby-ucf/
 # VCS:   https://github.com/myGrid/ruby-ucf

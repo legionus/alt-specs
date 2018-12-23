@@ -3,7 +3,7 @@ Version: 1.1
 Release: alt3.1
 
 Summary: OpenCOBOL - COBOL compiler
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group: Development/Other
 Url: http://www.opencobol.org
 Packager: Ilya Mashkin <oddity@altlinux.ru>

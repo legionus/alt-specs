@@ -6,7 +6,7 @@ Release:	%php7_release
 
 Summary:	PHP module for support multi-byte strings.
 Group:		System/Servers
-License:	PHP License
+License:	PHP
 
 Source1:	php-%php7_extension.ini
 Source2:	php-%php7_extension-params.sh

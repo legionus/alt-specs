@@ -8,7 +8,7 @@ Release: alt1%ubt
 Group: Graphical desktop/KDE
 Summary: Job-based API for interacting with IMAP servers
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 

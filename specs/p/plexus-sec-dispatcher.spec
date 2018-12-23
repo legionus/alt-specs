@@ -10,7 +10,7 @@ Name:           plexus-sec-dispatcher
 Version:        1.4
 Release:        alt4_24jpp8
 Summary:        Plexus Security Dispatcher Component
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/codehaus-plexus/plexus-sec-dispatcher
 BuildArch:      noarch
 

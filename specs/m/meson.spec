@@ -11,7 +11,7 @@ Release: alt1
 
 Summary: High productivity build system
 Group: Development/Python3
-License: ASL 2.0
+License: Apache-2.0
 Url: http://mesonbuild.com/
 
 %if_disabled snapshot

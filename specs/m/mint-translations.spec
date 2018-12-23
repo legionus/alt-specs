@@ -2,7 +2,7 @@ Name:    mint-translations
 Version: 2018.12.11
 Release: alt1
 
-License: GPLv2+ and MIT
+License: GPL-2.0-or-later and MIT
 Summary: Translation files for Linux Mint applications
 
 Group:   Graphical desktop/GNOME

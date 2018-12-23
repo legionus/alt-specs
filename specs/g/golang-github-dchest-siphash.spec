@@ -53,7 +53,7 @@ Name:           golang-%{provider}-%{project}-%{repo}
 Version:        1.0.0
 Release:        alt1_2.%{commitdate}git%{shortcommit}
 Summary:        Go implementation of SipHash-2-4, a fast short-input PRF
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/%{commit}/%{repo}-%{shortcommit}.tar.gz
 

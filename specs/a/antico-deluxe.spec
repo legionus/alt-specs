@@ -12,7 +12,7 @@ Patch1: antico-deluxe-0.1.96-alt-DSO.patch
 Patch2: antico-deluxe-0.1.96-alt-glibc-2.16.patch
 Url: http://code.google.com/p/anticodeluxe/
 Group: Graphical desktop/Other
-License: GPLv2 Artistic
+License: GPL-2.0-only and Artistic
 
 Requires: lib%name = %version-%release
 

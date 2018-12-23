@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.2
 Release: alt1.1.1
 Summary: Makes it easy to track elapsed time
-License: GPLv2.0/LGPLv2.1
+License: GPL-2.0-only or LGPLv2.1
 Group: Development/Python
 Url: https://pypi.python.org/pypi/simple_timer/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

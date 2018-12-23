@@ -9,7 +9,7 @@ Summary(ru_RU.UTF-8):	Программа для составления расп�
 Name: fet
 Version: 5.37.2
 Release: alt1
-License: GPL v2
+License: GPL-2.0-only
 Group: Office
 Source0: http://www.lalescu.ro/liviu/fet/download/%name-%version.tar.bz2
 # TODO fresh documentation

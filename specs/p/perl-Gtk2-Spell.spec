@@ -4,7 +4,7 @@ Version: 1.04
 Release: alt2.1.1.1.1
 
 Summary: Perl bindings for GtkSpell with Gtk2
-License: LGPL 2.1
+License: LGPL-2.1-only
 Group: Development/Perl
 
 URL: %CPAN %dist

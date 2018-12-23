@@ -5,7 +5,7 @@ Release: alt1
 Summary: A FUSE filesystem that uses the 7-zip library to interacts with all kind of archives
 
 Group: System/Kernel and hardware
-License: GPL v3
+License: GPL-3.0-only
 Url: https://github.com/kedazo/fuse-7z-ng
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

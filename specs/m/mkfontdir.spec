@@ -2,7 +2,7 @@ Name: mkfontdir
 Version: 1.0.7
 Release: alt1
 Summary: create an index of X font files in a directory
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

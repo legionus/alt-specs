@@ -3,7 +3,7 @@ Version: 3.5.13.2
 Release: alt1.1
 Summary: TQT/KDE bindings for D-Bus
 URL: http://dbus.freedesktop.org/
-License: GPL or Academic Free License
+License: GPL or AFL-1.1
 Group: System/Libraries
 
 Source0: dbus-tqt-%version.tar

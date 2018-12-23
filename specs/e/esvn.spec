@@ -7,7 +7,7 @@ Release: alt4
 
 Summary: eSvn is a cross-platform (QT-based) GUI frontend for the Subversion revision system
 Group: Development/Other
-License: GPL v2 or later
+License: GPL-2.0-or-later
 URL: http://esvn.sourceforge.net/
 
 Source0: %name-%version-%vrel.tar.gz

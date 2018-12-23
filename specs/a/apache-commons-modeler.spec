@@ -14,7 +14,7 @@ Name:             apache-%{short_name}
 Version:          2.0.1
 Release:          alt1_21jpp8
 Summary:          Model MBeans utility classes
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://commons.apache.org/%{base_name}/
 BuildArch:        noarch
 

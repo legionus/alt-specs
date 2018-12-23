@@ -11,7 +11,7 @@ Epoch:          1
 Version:        3.0.0
 Release:        alt1_4jpp8
 Summary:        API for I/O support like logging, download or file scanning
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-shared-io
 BuildArch:      noarch
 

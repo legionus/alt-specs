@@ -12,7 +12,7 @@ Name:           jetty-alpn-api
 Version:        1.1.3
 Release:        alt1_4jpp8
 Summary:        Jetty ALPN API
-License:        ASL 2.0 and EPL
+License:        Apache-2.0 and EPL
 URL:            http://www.eclipse.org/jetty
 BuildArch:      noarch
 

@@ -11,7 +11,7 @@ Release: alt1%ubt
 Group: Editors
 Summary: Advanced text editor
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: %name-common = %version-%release
 #Requires: %name-core = %version-%release

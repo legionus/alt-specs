@@ -5,7 +5,7 @@ Name:  libanthy
 Version: 9100h
 Release: alt1.qa1
 # The entire source code is LGPLv2+ and dictionaries is GPLv2.
-License: LGPLv2+ and GPLv2
+License: LGPLv2+ and GPL-2.0-only
 URL:  http://sourceforge.jp/projects/anthy/
 Packager: Ilya Mashkin <oddity@altlinux.ru>
 BuildRequires: iconv

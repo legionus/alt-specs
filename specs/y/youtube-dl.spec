@@ -5,7 +5,7 @@ Version: 2018.10.05
 Release: alt1
 
 Summary: Download videos from YouTube
-License: Public domain
+License: ALT-Public-Domain
 Group: Networking/File transfer
 Url: http://youtube-dl.org
 

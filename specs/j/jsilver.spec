@@ -12,7 +12,7 @@ Version:        1.0.0
 Release:        alt2_13jpp8
 Summary:        A pure-Java implementation of Clearsilver
 
-License:        ASL 2.0 
+License:        Apache-2.0
 
 URL:            http://code.google.com/p/jsilver/
 # svn export http://jsilver.googlecode.com/svn/tags/jsilver-1.0.0 jsilver-1.0.0

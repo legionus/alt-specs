@@ -13,7 +13,7 @@ Name:           felix-osgi-compendium
 Version:        1.4.0
 Release:        alt5_26jpp8
 Summary:        Felix OSGi R4 Compendium Bundle
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org
 BuildArch:      noarch
 

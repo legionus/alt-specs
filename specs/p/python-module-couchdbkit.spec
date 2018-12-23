@@ -5,7 +5,7 @@ Version: 0.6.5
 Release: alt1
 
 Summary: Couchdbkit provides you a full featured and easy client to access and manage CouchDB.
-License: Apache License v. 2.0
+License: Apache-2.0
 Group: Development/Python
 
 URL: http://couchdbkit.org/

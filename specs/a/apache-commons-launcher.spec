@@ -13,7 +13,7 @@ Name:          apache-%{short_name}
 Version:       1.1
 Release:       alt3_21.20100521svn936225jpp8
 Summary:       A cross platform Java application launcher
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://commons.apache.org/launcher/
 
 # The last release of this package was many years ago and in that time there

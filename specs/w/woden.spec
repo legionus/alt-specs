@@ -14,7 +14,7 @@ Name:           woden
 Version:        1.0
 Release:        alt2_0.17.M10jpp8
 Summary:        Web Service Description Language (WSDL) validating parser
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://ws.apache.org/woden/
 Source0:        http://archive.apache.org/dist/ws/woden/%{oversion}/woden-%{oversion}-src.zip
 BuildArch:      noarch

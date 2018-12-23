@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: A client for RX@Etersoft Terminal Server
 
-License: LGPL/GPL
+License: LGPL or GPL
 Group: Networking/Remote access
 Url: https://wiki.etersoft.ru/RX
 

@@ -21,7 +21,7 @@ Name:           apache-commons-logging
 Version:        1.2
 Release:        alt1_13jpp8
 Summary:        Apache Commons Logging
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://commons.apache.org/logging
 BuildArch:      noarch
 

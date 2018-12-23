@@ -6,7 +6,7 @@ Summary: DeaDBeeF is an audio player
 Url: https://github.com/Alexey-Yakovenko/deadbeef
 Source0: %name-%version.tar
 Group: Sound
-License: zlib, GPLv2, LGPLv2.1
+License: Zlib and GPL-2.0-only and LGPLv2.1
 
 Patch1: deadbeef-plugins-ffmpeg-aac-support.patch
 Patch2: deadbeef-repocop-desktop-file.patch

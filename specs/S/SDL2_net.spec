@@ -3,7 +3,7 @@ Version: 2.0.1
 Release: alt1
 
 Summary: Simple DirectMedia Layer - Portable network library
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 Url: http://www.libsdl.org/projects/SDL_net/

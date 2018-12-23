@@ -5,7 +5,7 @@ Version: 1.2.5
 Release: alt1.1
  
 Summary: This is a port of the Typesafe Config library to Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/puppetlabs/ruby-hocon
  

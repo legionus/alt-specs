@@ -8,7 +8,7 @@ Name: python-module-%module_name
 Version: 0.4.0
 #Release: alt1.git20140302.1.1
 Group: Development/Python
-License: Apache License
+License: Apache
 Summary: beanstalkc is a simple beanstalkd client library for Python
 URL: https://github.com/earl/beanstalkc.git
 # https://github.com/earl/beanstalkc.git

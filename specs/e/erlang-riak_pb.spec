@@ -5,7 +5,7 @@ Version: 2.3.2
 Release: alt1%ubt
 Summary: Riak Protocol Buffers Messages
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/basho/riak_pb
 

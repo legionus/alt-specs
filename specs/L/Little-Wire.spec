@@ -1,7 +1,7 @@
 Name: Little-Wire
 Version: 1.3
 Release: alt1
-License: GNU GPL
+License: GPL
 Url: http://littlewire.github.io
 Packager: Pavel Isopenko <pauli@altlinux.org>
 

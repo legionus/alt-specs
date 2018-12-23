@@ -11,7 +11,7 @@ Release:        alt1_2jpp8.1
 Summary:        Tomcat native library
 
 Group:          System/Libraries
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://tomcat.apache.org/tomcat-8.0-doc/apr.html
 Source0:        http://www.apache.org/dist/tomcat/tomcat-connectors/native/%{version}/source/%{name}-%{version}-src.tar.gz
 

@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: Convert raw text to something with a little HTML formatting
 
-License: Artistic / GPL
+License: Artistic or GPL
 Group: Text tools
 Url: http://txt2html.sourceforge.net/
 

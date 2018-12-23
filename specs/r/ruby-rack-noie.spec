@@ -8,7 +8,7 @@ Release: alt1.2
 
 Summary: A Rack middleware to redirect (*cough* kick) IE6 users out of your website
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://github.com/juliocesar/rack-noie
 
 BuildArch: noarch

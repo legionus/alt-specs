@@ -4,7 +4,7 @@ Name: gnustep-HighlighterKit
 Version: 0.1.3
 Release: alt1
 Summary: Framework needed by Gemas and Project Manager
-License: MIT / FDL
+License: MIT or FDL
 Group: Graphical desktop/GNUstep
 Url: http://wiki.gnustep.org/index.php/HighlighterKit
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

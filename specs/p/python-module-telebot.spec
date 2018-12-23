@@ -8,7 +8,7 @@ Release: alt1
 %setup_python_module %modulename
 
 Summary: Python Telegram bot api
-License: GPL2
+License: GPL-2.0-only
 Group: Development/Python
 
 Url: https://github.com/eternnoir/pyTelegramBotAPI

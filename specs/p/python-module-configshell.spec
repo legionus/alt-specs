@@ -1,7 +1,7 @@
 %def_without python3
 
 Name:           python-module-configshell
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          Development/Python
 Summary:        A framework to implement simple but nice CLIs
 Version:        1.1.fb13

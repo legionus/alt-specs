@@ -4,7 +4,7 @@ Name: bqvec
 Version: 0.0
 Release: alt1.hg20140914
 Summary: Library for efficient vector arithmetic and allocation in C++
-License: BSD / MIT
+License: BSD or MIT
 Group: Development/C++
 Url: https://bitbucket.org/breakfastquay/bqvec
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

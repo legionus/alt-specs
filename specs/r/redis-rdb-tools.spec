@@ -5,7 +5,7 @@ Release: alt1
 Summary: Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
 
 Url: https://rdbtools.com
-License: MIT License
+License: MIT
 Group: Databases
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

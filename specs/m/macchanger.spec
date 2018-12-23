@@ -3,7 +3,7 @@ Version: 1.5
 Release: alt1.qa1.1
 
 Summary: utility for viewing/manipulating the MAC address of network interfaces
-License: GPL v2+
+License: GPL-2.0-or-later
 Group: Networking/Other
 Url: http://www.alobbs.com/macchanger
 Packager: Maxim Ivanov <redbaron@altlinux.org>

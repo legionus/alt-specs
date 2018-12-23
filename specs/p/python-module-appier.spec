@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.9.2
 Release: alt1
 Summary: Appier Framework
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/appier/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

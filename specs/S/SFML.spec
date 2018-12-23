@@ -5,7 +5,7 @@ Version: 2.4.2
 Release: alt3
 
 Summary: Simple and Fast Multimedia Library
-License: zlib
+License: Zlib
 Group: System/Libraries
 
 Url: http://www.sfml-dev.org/

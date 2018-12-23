@@ -5,7 +5,7 @@ Version: 1.0.2
 Release: alt1
 
 Summary: Library of useful tools for working with Semantic Versions and module dependencies.
-License: Apache 2.0
+License: Apache-2.0
 Group:   Development/Ruby
 Url:     https://github.com/puppetlabs/semantic_puppet
 

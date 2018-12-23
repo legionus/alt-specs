@@ -10,7 +10,7 @@ Name: %packagename
 Version: %version
 Release: %release.1
 Source: %{modulename}_%version.tgz
-License: GPL v2
+License: GPL-2.0-only
 Group: Development/Python
 Url: http://probstat.sourceforge.net/
 Packager: Python Development Team <python at packages.altlinux.org>

@@ -12,7 +12,7 @@ Name:          jetbrains-annotations
 Version:       15.0
 Release:       alt1_6jpp8
 Summary:       IntelliJ IDEA Annotations
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.jetbrains.org
 Source0:       http://central.maven.org/maven2/org/jetbrains/annotations/%{version}/annotations-%{version}-sources.jar
 Source1:       http://central.maven.org/maven2/org/jetbrains/annotations/%{version}/annotations-%{version}.pom

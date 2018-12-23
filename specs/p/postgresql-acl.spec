@@ -5,7 +5,7 @@ Version: 1.0.2
 Release: alt2
 
 Summary: PostgreSQL %pgver Access Control Lists Extension
-License: BSD (2-clause)
+License: BSD-2-Clause
 Group: Databases
 
 # git: https://github.com/arkhipov/acl

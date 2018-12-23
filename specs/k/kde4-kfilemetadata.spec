@@ -7,7 +7,7 @@ Release: alt5%ubt
 Group: System/Libraries
 Summary: A library for extracting file metadata
 Url: https://projects.kde.org/projects/kde/kdelibs/%rname
-License: LGPLv2 / LGPLv3
+License: LGPLv2 or LGPLv3
 
 Source: %rname-%version.tar
 

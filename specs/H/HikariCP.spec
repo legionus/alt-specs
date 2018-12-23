@@ -12,7 +12,7 @@ Version:       2.4.3
 Release:       alt1_1jpp8
 Summary:       JDBC Connection Pool
 # Source files without license headers https://github.com/brettwooldridge/HikariCP/issues/665
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://brettwooldridge.github.io/HikariCP/
 Source0:       https://github.com/brettwooldridge/HikariCP/archive/%{name}-%{version}.tar.gz
 

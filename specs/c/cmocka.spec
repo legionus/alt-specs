@@ -4,7 +4,7 @@ Name: cmocka
 Version: 1.1.1
 Release: alt2
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Tools
 Summary: Lightweight library to simplify and generalize unit tests for C
 Url: http://cmocka.org

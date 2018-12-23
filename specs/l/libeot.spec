@@ -10,7 +10,7 @@ Release: alt1_6
 Summary: A library for parsing Embedded OpenType font files
 
 Group: System/Libraries
-License: MPLv2.0
+License: MPL-2.0
 URL: https://github.com/umanwizard/libeot
 Source: http://dev-www.libreoffice.org/src/%{name}-%{version}.tar.bz2
 Source44: import.info

@@ -3,7 +3,7 @@ Name: tinyxml2
 Version: 7.0.1
 Release: alt1
 Summary: Simple, small, efficient, C++ XML parser
-License: zlib
+License: Zlib
 Group: File tools
 Url: http://www.grinninglizard.com/tinyxml2/
 

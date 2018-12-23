@@ -4,7 +4,7 @@ Release:        alt1
 Summary:        Python API to talk to a remote VirtualBox using VirtualBox WebService
 Group:          Development/Python
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://pypi.python.org/pypi/pyremotevbox/
 Source0:        %name-%version.tar
 BuildArch:      noarch

@@ -3,7 +3,7 @@ Version:    1.4.3_beta1.793.git37fc53c
 Release:    alt1
 
 Summary:    Biochemical Algorithms Library
-License:    LGPL, GPL
+License:    LGPL and GPL
 Group:      Sciences/Chemistry
 
 Url:        http://www.ball-project.org

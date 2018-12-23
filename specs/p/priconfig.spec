@@ -2,7 +2,7 @@ Name: priconfig
 Summary: PRI configure script
 Version: 0.1
 Release: alt2
-License: GPL3+
+License: GPL-3.0-or-later
 Group: System/Servers
 BuildArch: noarch
 

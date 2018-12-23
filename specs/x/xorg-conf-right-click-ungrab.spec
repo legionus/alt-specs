@@ -2,7 +2,7 @@ Name: xorg-conf-right-click-ungrab
 Version: 0.1
 Release: alt1
 Summary: X11 configuration file for enable expiremental RightClickUngrab ServerFlag
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Configuration/Hardware
 BuildArch: noarch
 

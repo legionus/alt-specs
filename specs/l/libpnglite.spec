@@ -9,7 +9,7 @@ Version: 0.1.17
 Release: alt3
 
 Summary: Lightweight PNG C library
-License: zlib/libpng
+License: Zlib or Libpng
 Group: System/Libraries
 
 Url: http://sourceforge.net/projects/pnglite/

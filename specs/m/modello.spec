@@ -23,7 +23,7 @@ Epoch:          0
 Summary:        Modello Data Model toolkit
 # The majority of files are under MIT license, but some of them are
 # ASL 2.0 or BSD-licensed.
-License:        ASL 2.0 and BSD and MIT
+License:        Apache-2.0 and BSD and MIT
 URL:            http://codehaus-plexus.github.io/modello
 Source0:        http://repo2.maven.org/maven2/org/codehaus/%{name}/%{name}/%{version}/%{name}-%{version}-source-release.zip
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

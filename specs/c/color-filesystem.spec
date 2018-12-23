@@ -4,7 +4,7 @@ Release:        alt3
 Summary:        Color filesystem layout
 
 Group:          System/Base
-License:        Public Domain
+License:        ALT-Public-Domain
 BuildArch:      noarch
 
 Requires:  filesystem

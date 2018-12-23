@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: PHP/PEAR class for SMPP v3.4 protocol implementation
 
-License: PHP License 3.0
+License: PHP-3.0
 Group: Development/Other
 Url: http://pear.php.net/package/Net_SMPP
 #Url: https://github.com/pear/Net_SMPP

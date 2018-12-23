@@ -5,7 +5,7 @@ Version: 0.0.2
 Release: alt1.1
  
 Summary: Use to match path patterns such as gitignore
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/highb/pathspec-ruby
  

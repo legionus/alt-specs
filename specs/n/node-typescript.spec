@@ -9,7 +9,7 @@ Release: alt1
 
 Summary: TypeScript is a language for application scale JavaScript development
 
-License: Apache License 2.0
+License: Apache-2.0
 Group: Development/Other
 Url: http://www.typescriptlang.org
 

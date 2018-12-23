@@ -6,7 +6,7 @@ Version: 0.5
 Release: alt2.alpha4.svn.%svnrev.1.1
 
 Summary: the "Python Enterprise Application Kit"
-License: PSF or ZPL
+License: Python-2.0 or ZPL
 Group: Development/Python
 
 Url: http://peak.telecommunity.com

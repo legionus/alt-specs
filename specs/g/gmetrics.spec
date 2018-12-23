@@ -12,7 +12,7 @@ Name:          gmetrics
 Version:       0.7
 Release:       alt1_4jpp8
 Summary:       Groovy library that provides reports and metrics for Groovy code
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://gmetrics.sourceforge.net/
 Source0:       http://downloads.sourceforge.net/%{name}/%{oname}-%{version}-bin.tar.gz
 

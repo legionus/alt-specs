@@ -3,7 +3,7 @@ Version:        1.3.9
 Release:        alt1.1
 
 Summary:        High-Performance Asynchronous HTTP Client Library
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://serf.apache.org/
 Group:		System/Libraries
 

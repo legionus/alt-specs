@@ -11,7 +11,7 @@ Release: alt1.1.1
 Summary: A sunny photo manager
 
 Group: Graphics
-License: GPL3
+License: GPL-3.0-only
 Url: http://code.google.com/p/intipunku/
 Packager: Vitaly Lipatov <lav@altlinux.ru>
 

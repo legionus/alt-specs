@@ -3,7 +3,7 @@ Version: 1.2.0
 Release: alt1
 Summary: Callback API implemented over Proton
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://pypi.python.org/pypi/pyngus/%version
 Source: %name-%version.tar
 

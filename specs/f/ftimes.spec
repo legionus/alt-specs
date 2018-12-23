@@ -3,7 +3,7 @@ Version: 3.10.0
 Release: alt2
 
 Summary: a system baselining and evidence collection tool
-License: BSD (3-clause), Apache, MIT
+License: BSD-3-Clause and Apache and MIT
 Group: File tools
 
 Url: http://ftimes.sourceforge.net/FTimes/

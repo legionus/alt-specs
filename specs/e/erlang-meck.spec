@@ -5,7 +5,7 @@ Version: 0.8.9
 Release: alt1%ubt
 Summary: A mocking library for Erlang
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 BuildArch: noarch
 Url: https://github.com/eproxus/meck
 

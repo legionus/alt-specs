@@ -16,7 +16,7 @@ Release: alt0.rc3%ubt
 Summary: Prometheus exporter for hardware and OS metrics exposed by *NIX kernels.
 
 Group: Development/Other
-License: ASL 2.0
+License: Apache-2.0
 Url: https://%import_path
 Source: %name-%version.tar
 

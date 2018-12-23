@@ -2,7 +2,7 @@ Name: vdpauinfo
 Version: 1.0
 Summary: VDPAU acceleration information utility
 Release: alt1
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: System/X11
 URL: https://www.freedesktop.org/wiki/Software/VDPAU/
 #https://anongit.freedesktop.org/git/vdpau/vdpauinfo.git

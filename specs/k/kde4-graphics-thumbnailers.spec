@@ -8,7 +8,7 @@ Release: alt1
 Group: Graphics
 Summary: Thumbnailers for various graphics types
 Url: http://projects.kde.org/projects/kdegraphics/kdegraphics-thumbnailers
-License: LGPLv2 and GPLv2
+License: LGPLv2 and GPL-2.0-only
 
 Provides: kde4graphics-core = %version-%release
 Obsoletes: kde4graphics-core < %version-%release

@@ -10,7 +10,7 @@ Version:        2.4
 Release:        alt2_2jpp8
 Summary:        Plugin to create Resource Adapter Archive which can be deployed to a J2EE server
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-rar-plugin/
 Source0:        http://archive.apache.org/dist/maven/plugins/%{name}-%{version}-source-release.zip
 

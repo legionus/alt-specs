@@ -12,7 +12,7 @@ Version:        1.0.2
 Release:        alt1_7jpp8
 Summary:        Common utilities from the Apache Web Services Project
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://ws.apache.org/commons/util
 
 # svn checkout http://svn.apache.org/repos/asf/webservices/commons/tags/util/1.0.2/ ws-commons-util-1.0.2

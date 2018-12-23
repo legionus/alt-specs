@@ -13,7 +13,7 @@ Release:	alt1_0.15.alpha11jpp8
 Summary:	Plexus Component Factories POM
 BuildArch:	noarch
 Group:		Development/Other
-License:	ASL 2.0
+License:	Apache-2.0
 URL:		https://github.com/codehaus-plexus/plexus-component-factories
 Source0:	http://repo1.maven.org/maven2/org/codehaus/plexus/%{artifactId}/%{version}-alpha-11/%{artifactId}-%{version}-alpha-11.pom
 Source1:	http://www.apache.org/licenses/LICENSE-2.0.txt

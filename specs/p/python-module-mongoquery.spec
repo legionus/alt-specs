@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 1.3.2
 Release: alt1.git20170921.1
 Summary: A python implementation of mongodb queries
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/mongoquery/

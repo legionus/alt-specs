@@ -92,7 +92,7 @@ This package provides the XWindow driver for BRLTTY.
 Summary: AtSpi driver for BRLTTY
 Group: System/Servers
 # The data files are licensed under LGPLv2+, see the README file.
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 BuildRequires: libat-spi-devel
 Requires: %name = %pkg_version-%release
 %description at-spi
@@ -104,7 +104,7 @@ This package provides the AtSpi driver for BRLTTY.
 Summary: AtSpi2 driver for BRLTTY
 Group: System/Servers
 # The data files are licensed under LGPLv2+, see the README file.
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Requires: %name = %pkg_version-%release
 
 %description at-spi2

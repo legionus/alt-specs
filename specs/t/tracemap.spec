@@ -3,7 +3,7 @@ Version: 20080629
 Release: alt1
 
 Summary: Build graphical host trace map
-License: Public domain
+License: ALT-Public-Domain
 Group: Monitoring
 
 Url: http://xgu.ru/wiki/tracemap

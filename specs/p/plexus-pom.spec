@@ -10,7 +10,7 @@ Version:       5.0
 Release:       alt1_2jpp8
 Summary:       Root Plexus Projects POM
 Group:         Development/Other
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/codehaus-plexus/plexus-pom
 Source0:       https://github.com/codehaus-plexus/plexus-pom/archive/plexus-%{version}.tar.gz
 Source1:       http://www.apache.org/licenses/LICENSE-2.0.txt

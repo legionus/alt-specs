@@ -6,7 +6,7 @@ Release: alt2.5
 Epoch:   1
  
 Summary: Provides bindings for augeas
-License: LGPL 2.1
+License: LGPL-2.1-only
 Group:   Development/Ruby
 Url:     http://augeas.net
  

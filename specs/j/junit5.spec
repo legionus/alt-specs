@@ -27,7 +27,7 @@ Version:        5.0.0
 Release:        alt1_3jpp8
 Summary:        Java regression testing framework
 # junit-platform-surefire-provider is under ASL 2.0, all other modules use EPL (see LICENSE.md)
-License:        EPL and ASL 2.0
+License:        EPL and Apache-2.0
 URL:            http://junit.org/junit5/
 BuildArch:      noarch
 

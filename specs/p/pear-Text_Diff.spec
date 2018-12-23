@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Generate and display difference analysis between files/strings
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/%pear_name
 

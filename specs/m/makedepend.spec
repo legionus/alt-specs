@@ -3,7 +3,7 @@ Version: 1.0.5
 Release: alt1
 
 Summary: create dependencies in makefiles
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 
 Url: http://xorg.freedesktop.org

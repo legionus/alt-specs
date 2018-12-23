@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Utility class for dealing with MIME types
 
-License: PHP License 3.0
+License: PHP-3.0
 Group: Development/Other
 Url: http://pear.php.net/package/MIME_Type
 

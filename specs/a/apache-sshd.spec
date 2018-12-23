@@ -10,7 +10,7 @@ Name:           apache-sshd
 Version:        0.14.0
 Release:        alt1_7jpp8
 Summary:        Apache SSHD
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://mina.apache.org/sshd-project
 
 Source0:        http://www.eu.apache.org/dist/mina/sshd/%{version}/dist/%{name}-%{version}-src.tar.gz

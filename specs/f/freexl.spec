@@ -8,7 +8,7 @@ Name:      freexl
 Version:   1.0.5
 Release:   alt1_1
 Summary:   Library to extract data from within an Excel spreadsheet 
-License:   MPLv1.1 or GPLv2+ or LGPLv2+
+License:   MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 URL:       http://www.gaia-gis.it/FreeXL
 Source0:   http://www.gaia-gis.it/gaia-sins/%{name}-sources/%{name}-%{version}.tar.gz
 BuildRequires: doxygen

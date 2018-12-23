@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Extract, modify, and save IPTC data
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Image_IPTC
 

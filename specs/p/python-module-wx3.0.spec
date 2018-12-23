@@ -16,7 +16,7 @@ Epoch: 1
 
 Summary: Cross platform GUI toolkit for Python using wxGTK
 
-License: wxWindows Library Licence
+License: wxWindows
 Group: Development/Python
 Url: http://www.wxpython.org/
 

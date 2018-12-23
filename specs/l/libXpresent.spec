@@ -2,7 +2,7 @@ Name: libXpresent
 Version: 1.0.0
 Release: alt1
 Summary: X Present Extension
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

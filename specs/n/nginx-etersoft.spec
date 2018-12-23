@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Additional Nginx templates and functions
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Other
 Url: http://www.altlinux.org/Nginx-etersoft
 

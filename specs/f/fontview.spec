@@ -4,7 +4,7 @@ Release: alt2
 
 Summary: Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm
 
-License: Apache 2.0
+License: Apache-2.0
 Group: Publishing
 Url: https://github.com/googlei18n/fontview
 

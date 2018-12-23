@@ -3,7 +3,7 @@ Version: 1.6
 Release: alt2
 
 Summary: Sodipodi Flag collection
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 
 Url: http://sodipodi.sourceforge.net/
@@ -32,7 +32,7 @@ use flags for.
 
 %package -n flags
 Summary: Flag collection for gswitchit
-License: Public domain
+License: ALT-Public-Domain
 Group: Graphics
 Provides: gnome-applets-gswitchit-plugins-flags-data
 Requires: %name = %version-%release

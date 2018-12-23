@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Check all OpenVZ settings - vzcfgvalidate improvement
 
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 Url: http://phpsuxx.blogspot.com/2009/12/ubc-openvz.html
 

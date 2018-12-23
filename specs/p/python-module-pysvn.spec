@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.8.0
 Release: alt1.1.1
 Summary: Subversion support for python
-License: Apache License
+License: Apache
 Group: Development/Python
 Url: http://pysvn.tigris.org/
 

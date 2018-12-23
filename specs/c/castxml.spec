@@ -8,7 +8,7 @@ Group:   Development/Other
 
 # The main program is Apache 2.0
 # src/kwsys/* is BSD
-License: Apache 2.0 and BSD
+License: Apache-2.0 and BSD
 URL:     https://github.com/CastXML/CastXML
 
 # https://github.com/CastXML/CastXML.git

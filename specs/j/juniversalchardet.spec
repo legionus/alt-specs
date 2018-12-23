@@ -14,7 +14,7 @@ Release:       alt1_10jpp8
 Summary:       A Java port of Mozilla's universalchardet
 # ALL files are under MPL (v1.1) GPL license
 # build.xml and c/* under MPL 1.1/GPL 2.0/LGPL 2.1 license
-License:       MPLv1.1 or GPLv2+ or LGPLv2+
+License:       MPL-1.1 or GPL-2.0-or-later or LGPLv2+
 URL:           https://github.com/thkoch2001/juniversalchardet
 Source0:       https://github.com/thkoch2001/juniversalchardet/archive/%{githash}/%{name}-%{githash}.tar.gz
 Source1:       http://repo1.maven.org/maven2/com/googlecode/%{name}/%{name}/%{version}/%{name}-%{version}.pom

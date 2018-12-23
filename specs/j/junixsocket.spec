@@ -7,7 +7,7 @@ Name:           junixsocket
 Version:        1.3
 Release:        alt5
 Summary:        Java/JNI library that allows the use of Unix Domain Sockets
-License:        Apache Software License 2.0
+License:        Apache-2.0
 Group:          Development/Java
 URL:            http://junixsocket.googlecode.com/
 Source0:        http://junixsocket.googlecode.com/files/%{name}-%{version}-src.tar.bz2

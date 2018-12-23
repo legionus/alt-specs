@@ -5,7 +5,7 @@ Version: 3.2.9
 Release: alt2
  
 Summary: Ruby bindings for GNOME
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ruby-gnome2/ruby-gnome2
  

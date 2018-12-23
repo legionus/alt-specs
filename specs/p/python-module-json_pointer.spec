@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.1.2
 Release: alt1.2.1
 Summary: Simple implementation of the json-pointer spec
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/json_pointer/
 

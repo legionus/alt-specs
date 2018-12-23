@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.4
 Release: alt1.1.1
 Summary: Padding methods for password based encryption
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: https://pypi.python.org/pypi/Padding/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

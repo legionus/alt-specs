@@ -11,7 +11,7 @@ Version: 1.006
 Release: alt1
 Summary: Minimalist class construction
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/Class-Tiny
 
 Source: http://www.cpan.org/authors/id/D/DA/DAGOLDEN/Class-Tiny-%{version}.tar.gz

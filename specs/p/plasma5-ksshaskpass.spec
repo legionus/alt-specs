@@ -10,7 +10,7 @@ Epoch: 1
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 front-end for ssh-add
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 PreReq: alternatives >= 0:0.4, %openssh_askpass_dir
 Requires: openssh-askpass-common

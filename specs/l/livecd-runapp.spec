@@ -3,7 +3,7 @@ Version: 0.2
 Release: alt1
 
 Summary: start an (OpenGL) X11 application in kiosk mode
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://altlinux.org/m-p

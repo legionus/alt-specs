@@ -8,7 +8,7 @@ Release: alt1%ubt
 
 Group: Development/KDE and QT
 Summary: QtKeychain is a Qt API to store passwords and other secret data securely
-License: 2-clause BSD
+License: BSD-2-Clause
 Url: https://github.com/frankosterfeld/qtkeychain
 
 Source0: %name-%version.tar

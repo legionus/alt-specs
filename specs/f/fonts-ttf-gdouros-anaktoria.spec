@@ -12,7 +12,7 @@ Name:           fonts-ttf-gdouros-anaktoria
 Version:        8.01
 Release:        alt1_1
 Summary:        A font based on "Grecs du roi" and the "First Folio Edition of Shakespeare"
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://users.teilar.gr/~g1951d/
 Source0:        http://users.teilar.gr/~g1951d/Textfonts.zip
 Source1:        %{oldname}-fontconfig.conf

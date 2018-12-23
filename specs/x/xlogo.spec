@@ -3,7 +3,7 @@ Version: 1.0.4
 Release: alt1
 
 Summary: display the X Window System logo
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

@@ -17,7 +17,7 @@ Release:        alt1_9jpp8
 Summary:        Java Webserver and Servlet Container
 # Jetty is dual licensed under both ASL 2.0 and EPL 1.0, see NOTICE.txt
 # some MIT-licensed code (from Utf8Appendable) is used too
-License:        (ASL 2.0 or EPL) and MIT
+License:        (Apache-2.0 or EPL) and MIT
 URL:            http://www.eclipse.org/jetty
 BuildArch:      noarch
 

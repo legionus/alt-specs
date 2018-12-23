@@ -5,7 +5,7 @@ Version: 3.36.4
 Release: alt1
 Summary: OpenStack Oslo Utility library
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/oslo.utils
 Source: https://tarballs.openstack.org/%oname/%oname-%version.tar.gz
 BuildArch: noarch

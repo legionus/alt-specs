@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 3.2.3.2
 Release: alt1.git20150711.1
 Summary: Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/functools32/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

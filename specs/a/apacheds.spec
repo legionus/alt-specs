@@ -18,7 +18,7 @@ Name:          apacheds
 Version:       2.0.0
 Release:       alt1_0.6.M21jpp8
 Summary:       Apache Directory Server
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://directory.apache.org/
 Source0:       http://www.apache.org/dist/directory/apacheds/dist/%{namedversion}/%{name}-parent-%{namedversion}-source-release.zip
 

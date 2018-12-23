@@ -12,7 +12,7 @@ Release:        alt1_4jpp8
 Summary:        Unix sockets for Java
 # src/main/java/jnr/enxio/channels/PollSelectionKey.java is LGPLv3
 # rest of the source code is ASL 2.0
-License:        ASL 2.0 and LGPLv3
+License:        Apache-2.0 and LGPLv3
 URL:            https://github.com/jnr/%{name}/
 Source0:        https://github.com/jnr/%{name}/archive/%{name}-%{version}.tar.gz
 

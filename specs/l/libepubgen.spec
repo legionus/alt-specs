@@ -4,7 +4,7 @@ Release: alt1
 Summary: An EPUB generator library
 Group: Development/C++
 
-License: MPLv2.0
+License: MPL-2.0
 Url: https://sourceforge.net/projects/libepubgen/
 Source: http://downloads.sourceforge.net/%name/%name-%version.tar.xz
 

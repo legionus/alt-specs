@@ -11,7 +11,7 @@ Name:          boilerpipe
 Version:       1.2.0
 Release:       alt1_11jpp8
 Summary:       Boilerplate Removal and Fulltext Extraction from HTML pages
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           https://github.com/kohlschutter/boilerpipe
 Source0:       http://boilerpipe.googlecode.com/files/%{name}-%{version}-src.tar.gz
 Source1:       http://boilerpipe.googlecode.com/svn/repo/de/l3s/%{name}/%{name}/%{version}/%{name}-%{version}.pom

@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: Token based URI access module for Apache 2.x
 Group:   System/Servers
-License: Apache 2.0
+License: Apache-2.0
 URL:     http://code.google.com/p/mod-auth-token/
 Packager: Andrey Cherepanov <cas@altlinux.org>
 

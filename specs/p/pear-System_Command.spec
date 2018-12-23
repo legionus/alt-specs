@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: PEAR::System_Command is a commandline execution interface
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/System_Command
 

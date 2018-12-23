@@ -5,7 +5,7 @@ Release: alt1
 Summary: Shared color profiles to be used in color management aware applications
 Group: Graphics
 Url: http://github.com/hughsie/shared-color-profiles
-License: GPLv2+ and Public Domain and zlib and MIT
+License: GPL-2.0-or-later and ALT-Public-Domain and Zlib and MIT
 
 Source: http://people.freedesktop.org/~hughsient/releases/%name-%version.tar.gz
 

@@ -43,7 +43,7 @@ Version:        3.0.1
 Release:        alt4_28jpp8
 Epoch:          1
 Summary:        Open source implementation of JMX Java API
-License:        ASL 1.1
+License:        Apache-1.1
 Group:          Development/Other
 Source0:        %{name}-%{version}-src.tar.gz
 Source1:        %{name}-build.policy

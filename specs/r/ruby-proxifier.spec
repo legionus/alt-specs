@@ -5,7 +5,7 @@ Version: 1.0.3
 Release: alt1.1
  
 Summary: Proxifier adds support for HTTP or SOCKS proxies and lets you force TCPSocket to use proxies
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/samuelkadolph/ruby-proxifier
  

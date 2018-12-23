@@ -10,7 +10,7 @@ Release: alt0.1.1.2.1.1
 Summary: Open Protocols and Component Adaptation for Python
 
 Group: Development/Other
-License: PSF or ZPL
+License: Python-2.0 or ZPL
 Url: http://peak.telecommunity.com/PyProtocols.html
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

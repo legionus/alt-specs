@@ -5,7 +5,7 @@ Version: 0.7.2
 Release: alt2.2
 
 Summary: Utilities for handling IEEE 754 floating point special values
-License: Apache Licence v. 2.0
+License: Apache-2.0
 Group: Development/Python3
 Url: http://pypi.python.org/pypi/fpconst
 BuildArch: noarch

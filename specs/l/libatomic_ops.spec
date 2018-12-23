@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: A library for accessing hardware provided atomic memory operations
 Group: Development/C
-License: GPLv2+ and MIT
+License: GPL-2.0-or-later and MIT
 Url: https://github.com/ivmai/libatomic_ops
 Source: https://github.com/ivmai/libatomic_ops/releases/download/v%version/libatomic_ops-%version.tar.gz
 

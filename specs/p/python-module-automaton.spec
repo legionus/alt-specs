@@ -5,7 +5,7 @@ Version: 1.15.0
 Release: alt1
 Summary: Friendly state machines for python
 Group: Development/Python
-License: ASL 2.0
+License: Apache-2.0
 Url: https://wiki.openstack.org/wiki/Oslo#automaton
 Source: %sname-%version.tar.gz
 

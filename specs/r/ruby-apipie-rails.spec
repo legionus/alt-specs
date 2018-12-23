@@ -5,7 +5,7 @@ Version: 0.5.13
 Release: alt1
 
 Summary: Ruby on Rails API documentation tool
-License: MIT and Apache 2.0
+License: MIT and Apache-2.0
 Group:   Development/Ruby
 Url:     http://github.com/Apipie/apipie-rails
 

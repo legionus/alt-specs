@@ -11,7 +11,7 @@ Release: alt1
 Summary: GNU Scientific Library.
 
 Group: Sciences/Mathematics
-License: GPL version 2 or later
+License: GPL-2.0-or-later
 URL: http://octave.sf.net
 
 Source0: https://downloads.sourceforge.net/project/octave/Octave%%20Forge%%20Packages/Individual%%20Package%%20Releases/%{octave_pkg_name}-%{octave_pkg_version}.tar.gz

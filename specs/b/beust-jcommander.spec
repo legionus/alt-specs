@@ -10,7 +10,7 @@ Name:           beust-jcommander
 Version:        1.71
 Release:        alt1_3jpp8
 Summary:        Java framework for parsing command line parameters
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://jcommander.org/
 BuildArch:      noarch
 

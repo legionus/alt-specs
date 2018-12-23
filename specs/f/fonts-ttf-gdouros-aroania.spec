@@ -12,7 +12,7 @@ Name:           fonts-ttf-gdouros-aroania
 Version:        8.01
 Release:        alt1_1
 Summary:        A font based on Victor Julius Scholderer's "New Hellenic"
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://users.teilar.gr/~g1951d/
 Source0:        http://users.teilar.gr/~g1951d/Textfonts.zip
 Source1:        %{oldname}-fontconfig.conf

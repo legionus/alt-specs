@@ -23,7 +23,7 @@ Name:          leveldb-java
 Version:       0.7
 Release:       alt1_8jpp8
 Summary:       Port of LevelDB to Java
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/dain/leveldb
 Source0:       https://github.com/dain/leveldb/archive/%{version}.tar.gz
 # remove org.iq80.snappy:snappy support

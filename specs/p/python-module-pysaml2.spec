@@ -5,7 +5,7 @@ Name: python-module-%sname
 Version: 4.6.5
 Release: alt1
 Summary: PySAML2 - SAML2 in Python
-License: ASL 2.0
+License: Apache-2.0
 
 Url: https://idpy.org
 Group: Development/Python

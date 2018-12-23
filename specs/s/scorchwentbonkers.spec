@@ -8,7 +8,7 @@ Version:        1.3
 Release:        alt1_8
 Summary:        Realtime remake of Scorched Earth
 Group:          Games/Other
-License:        zlib
+License:        Zlib
 URL:            http://wasyl.eu/games/scorch-went-bonkers.html
 Source0:        http://wasyl.eu/assets/dls/scorch-went-bonkers-src.zip
 Source1:        %{name}.desktop

@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 2.0.2
 Release: alt1.git20140903.2
 Summary: Google Ads Python Client Library
-License: ASL v2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/googleads
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

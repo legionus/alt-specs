@@ -13,7 +13,7 @@ Version: 3.0.3234
 Release: alt1_8.1
 Summary: Library for Apogee CCD Cameras
 
-License: GPLv2+ and MPLv2.0
+License: GPL-2.0-or-later and MPL-2.0
 URL: http://indilib.org
 
 # Tar is generated from the huge all-in-one tar from INDI

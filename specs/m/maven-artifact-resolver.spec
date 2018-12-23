@@ -12,7 +12,7 @@ Release:        alt3_17jpp8
 # Epoch is added because the original package's version in maven-shared is 1.1-SNAPSHOT
 Epoch:          1
 Summary:        Maven Artifact Resolution API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/%{name}
 BuildArch:      noarch
 

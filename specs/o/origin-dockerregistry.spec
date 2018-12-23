@@ -24,7 +24,7 @@ Name: origin-dockerregistry
 Version: 3.9.0
 Release: alt1%ubt
 Summary: Docker Registry v2 for OpenShift Origin
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Url: https://%import_path
 Source: %name-%version.tar

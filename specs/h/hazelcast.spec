@@ -11,7 +11,7 @@ Name:          hazelcast
 Version:       3.2.2
 Release:       alt1_9jpp8
 Summary:       Hazelcast CE In-Memory DataGrid
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.hazelcast.com/
 Source0:       https://github.com/hazelcast/hazelcast/archive/v%{version}.tar.gz
 

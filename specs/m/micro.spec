@@ -2,7 +2,7 @@ Name: micro
 Version: 1.4.1
 Release: alt1
 Summary: A modern and intuitive terminal-based text editor
-License: MIT/BSD/Apache-2.0/MPL-2.0
+License: MIT or BSD or Apache-2.0 or MPL-2.0
 Group: Editors
 Url: https://micro-editor.github.io/
 Packager: Ivan Razzhivin <underwit@altlinux.org>

@@ -2,7 +2,7 @@ Summary: NetBSD version of mkdep(1)
 Name: bmkdep
 Version: 20140112
 Release: alt4
-License: 2-clause BSD
+License: BSD-2-Clause
 Group: Development/Tools
 URL: http://code.google.com/p/bmkdep/
 Packager: Aleksey Cheusov <cheusov@altlinux.org>

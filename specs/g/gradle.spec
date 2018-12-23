@@ -33,7 +33,7 @@ Release:        alt3_7jpp8
 Summary:        Build automation tool
 # Some examples and integration tests are under GNU LGPL and Boost
 # Software License, but are not used to create binary package.
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.gradle.org/
 BuildArch:      noarch
 

@@ -11,7 +11,7 @@ Version: 1.21
 Release: alt2
 Summary: Build structures from CGI data
 Group: Development/Perl
-License: bsd
+License: BSD
 Url: %CPAN %module_name
 
 Source0: http://cpan.org.ua/authors/id/F/FU/FULLERMD/%module_name-%module_version.tar.gz

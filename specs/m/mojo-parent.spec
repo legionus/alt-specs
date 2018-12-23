@@ -12,7 +12,7 @@ Version:        40
 Release:        alt1_5jpp8
 Summary:        Codehaus MOJO parent project pom file
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.mojohaus.org/mojo-parent/
 Source0:        https://github.com/mojohaus/mojo-parent/archive/%{name}-%{version}.tar.gz
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt

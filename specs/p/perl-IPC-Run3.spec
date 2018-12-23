@@ -7,7 +7,7 @@ Release: alt1
 Summary: run a subprocess in batch mode (a la system) on Unix, Win32, etc.
 Summary(ru_RU.UTF-8): позволяет запускать процессы в пакетном режиме (подобно system) в Unix, Win32 и др.
 
-License: BSD, Artistic, or GPL
+License: BSD and Artistic and or GPL
 Group:   Development/Perl
 
 %define real_name IPC-Run3

@@ -10,7 +10,7 @@ Release:	alt3_29
 Summary:	Open source 3D rendering solution adhering to the RenderMan standard
 Group:		Video
 
-License:	GPLv2+ and LGPLv2+
+License:	GPL-2.0-or-later and LGPLv2+
 URL:		http://www.aqsis.org
 Source0:	http://downloads.sourceforge.net/aqsis/aqsis-%{version}.tar.gz
 

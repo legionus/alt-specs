@@ -4,7 +4,7 @@ Release: alt1%ubt
 Serial: 1
 
 Summary: Tool that helps you find what software is using the most power
-License: GPLv2 only
+License: GPL-2.0-only
 Group: System/Kernel and hardware
 
 Url: https://01.org/powertop/

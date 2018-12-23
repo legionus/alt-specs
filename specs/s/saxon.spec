@@ -54,7 +54,7 @@ Release:        alt1_7jpp8
 # net/sf/saxon/serialize/codenorm/ is UCD
 # net/sf/saxon/expr/sort/GenericSorter.java is MIT
 # net/sf/saxon/expr/Tokenizer.java and few other bits are BSD
-License:        MPLv1.0 and MPLv1.1 and ASL 1.1 and UCD and MIT
+License:        MPL-1.0 and MPL-1.1 and Apache-1.1 and UCD and MIT
 URL:            http://saxon.sourceforge.net/
 Source0:        https://downloads.sourceforge.net/project/saxon/Saxon-HE/%{version_major_minor}/saxon%{version_str}source.zip
 Source1:        %{name}.saxon.script

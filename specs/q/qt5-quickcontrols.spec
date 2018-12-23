@@ -6,7 +6,7 @@ Release: alt1
 
 Group: System/Libraries
 Summary: Qt5 - module with set of QtQuick controls
-License: LGPLv2 / GPLv3
+License: LGPLv2 or GPL-3.0-only
 Url: http://qt.io/
 
 Source: %qt_module-opensource-src-%version.tar

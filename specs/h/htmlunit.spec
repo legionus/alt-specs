@@ -11,7 +11,7 @@ Name:           htmlunit
 Version:        2.23
 Release:        alt1_5jpp8
 Summary:        A headless web browser for automated testing
-License:        ASL 2.0 
+License:        Apache-2.0
 URL:            http://htmlunit.sourceforge.net/
 # Source0:        http://downloads.sourceforge.net/htmlunit/%%{name}-%%{version}-src.zip
 # Steps for generate the archive:

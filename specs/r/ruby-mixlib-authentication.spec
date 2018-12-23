@@ -5,7 +5,7 @@ Version: 2.1.4
 Release: alt1
  
 Summary: AuthN signing and verification. Appears in both the client and server
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/chef/mixlib-authentication
  

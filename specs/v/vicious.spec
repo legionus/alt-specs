@@ -3,7 +3,7 @@ Version: 2.0.0
 Release: alt1
 
 Summary: Vicious is a modular widget library for "awesome" window manager
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Other
 Url: http://git.sysphere.org/vicious/
 Source: %name-%version.tar

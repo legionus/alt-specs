@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.4.1
 Release: alt1.git20150108.1.2
 Summary: Datastream API provides a powerful and unified Python API for time-series data
-License: AGPLv3
+License: AGPL-3.0-only
 Group: Development/Python
 Url: https://pypi.python.org/pypi/datastream/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

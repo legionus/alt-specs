@@ -10,7 +10,7 @@ Name:			antlr-maven-plugin
 Version:		2.2
 Release:		alt3_21jpp8
 Summary:		Maven plugin that generates files based on grammar file(s)
-License:		ASL 2.0
+License:		Apache-2.0
 URL:			http://mojo.codehaus.org/antlr-maven-plugin/
 
 Source0:		http://repo1.maven.org/maven2/org/codehaus/mojo/%{name}/%{version}/%{name}-%{version}-source-release.zip

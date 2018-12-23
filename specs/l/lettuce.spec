@@ -10,7 +10,7 @@ Name:          lettuce
 Version:       2.3.3
 Release:       alt1_5jpp8
 Summary:       Scalable Java Redis client
-License:       ASL 2.0
+License:       Apache-2.0
 # Newer release available @ https://github.com/mp911de/lettuce
 URL:           http://redis.paluch.biz/
 Source0:       https://github.com/wg/lettuce/archive/%{version}.tar.gz

@@ -10,7 +10,7 @@ Name:          compress-lzf
 Version:       1.0.3
 Release:       alt1_8jpp8
 Summary:       Basic LZF codec, compatible with standard C LZF package
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/ning/compress
 Source0:       https://github.com/ning/compress/archive/%{name}-%{version}.tar.gz
 

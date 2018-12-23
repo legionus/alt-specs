@@ -2,7 +2,7 @@ Name: udev-micronucleus
 Version: 1.0
 Release: alt1
 
-License: GNU GPLv3
+License: GPL-3.0-only
 Group: System/Kernel and hardware
 Url: https://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting
 

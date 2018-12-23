@@ -3,7 +3,7 @@ Version: 1.3.5
 Release: alt1
 
 Summary: Abstract network code for X
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 

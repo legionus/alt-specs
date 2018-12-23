@@ -9,7 +9,7 @@ Name: python-module-%oname
 Version: 2.7.3
 Release: alt1
 Summary: Extensions to the standard datetime module
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/python-dateutil/
 

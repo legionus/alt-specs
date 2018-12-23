@@ -6,7 +6,7 @@ Version: 1.3.0
 Release: alt1%ubt.1
 
 Summary: A high-level wrapper for Kerberos (GSSAPI) operations
-License: ASL 2.0
+License: Apache-2.0
 Group: System/Libraries
 # Source-git: https://github.com/apple/ccs-pykerberos.git
 Url: https://pypi.python.org/pypi/kerberos

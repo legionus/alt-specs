@@ -5,7 +5,7 @@ Version: 1.3.1
 Release: alt1.1
  
 Summary: pkg-config implemented by pure Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ruby-gnome2/pkg-config
  

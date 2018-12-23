@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: A free, automated certificate authority client
 
-License: ASL 2.0
+License: Apache-2.0
 Group: Networking/Other
 Url: https://certbot.eff.org/
 

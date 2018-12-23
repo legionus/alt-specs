@@ -3,7 +3,7 @@ Version: 2.4
 Release: alt1
 
 Summary: Parallel Implementation of GZip
-License: zlib
+License: Zlib
 Group: Archiving/Compression
 Url: http://zlib.net/pigz/
 # http://git.altlinux.org/gears/p/pigz.git

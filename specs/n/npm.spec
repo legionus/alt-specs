@@ -5,7 +5,7 @@ Release: alt1
 Summary: A package manager for node
 
 Group: Development/Tools
-License: MIT License
+License: MIT
 Url: http://nodejs.org/
 
 # Source-url: https://github.com/npm/cli/archive/v%version.tar.gz

@@ -2,7 +2,7 @@ Name: awesome
 Version: 4.2
 Release: alt1
 Group: Graphical desktop/Other
-License: GPL2+
+License: GPL-2.0-or-later
 
 Url: https://awesomewm.org/
 Packager: Evgenii Terechkov <evg@altlinux.org>

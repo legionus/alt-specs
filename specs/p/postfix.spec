@@ -4,7 +4,7 @@ Release: alt1
 Epoch: 1
 
 Summary: Postfix Mail Transport Agent
-License: IBM Public License
+License: IPL-1.0
 Group: System/Servers
 Url: http://www.postfix.org/
 

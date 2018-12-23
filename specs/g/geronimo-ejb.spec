@@ -12,7 +12,7 @@ Name:           geronimo-ejb
 Version:        1.0
 Release:        alt4_20jpp8
 Summary:        Java EE: EJB API v3.1
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://geronimo.apache.org
 BuildArch:      noarch
 

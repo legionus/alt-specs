@@ -42,7 +42,7 @@ Release: alt1
 Summary: Evented I/O for V8 Javascript
 
 Group: Development/Tools
-License: MIT License
+License: MIT
 Url: http://nodejs.org/
 
 ##Source-git: https://github.com/nodejs/node.git
@@ -142,7 +142,7 @@ Documentation files for %name.
 Version:	%npmver
 Group:		Development/Tools
 Summary:	A package manager for node
-License:	MIT License
+License:	MIT
 Requires:	node
 BuildArch:	noarch
 AutoReq:	yes,nopython

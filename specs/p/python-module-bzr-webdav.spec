@@ -7,7 +7,7 @@ Release: alt2
 %setup_python_module bzr-webdav
 
 Summary: Implementation of WebDAV for bzr http transports.
-License: gpl3
+License: GPL-3.0-only
 Group: Development/Python
 
 Url: https://launchpad.net/bzr-webdav

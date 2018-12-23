@@ -11,7 +11,7 @@ Version:        1.6
 Release:        alt1_6jpp8
 Epoch:          0
 Summary:        Command Line Interface facilitator for Plexus
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/codehaus-plexus/plexus-cli
 BuildArch:      noarch
 

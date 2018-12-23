@@ -3,7 +3,7 @@ Version: 0.1
 Release: alt2
 
 Summary: setup rsyslog client
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Configuration/Other
 
 Source: %name

@@ -5,7 +5,7 @@ Version: 2.1.0
 Release: alt1.1
  
 Summary: A backend for Hiera that provides per-value asymmetric encryption of sensitive data
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/voxpupuli/hiera-eyaml
  

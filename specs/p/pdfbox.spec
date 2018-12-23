@@ -11,7 +11,7 @@ Name:          pdfbox
 Version:       1.8.13
 Release:       alt2_4jpp8
 Summary:       Java library for working with PDF documents
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://pdfbox.apache.org/
 Source0:       http://www.apache.org/dist/pdfbox/%{version}/%{name}-%{version}-src.zip
 # Don't download anything

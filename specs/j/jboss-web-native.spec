@@ -18,7 +18,7 @@ Version:          2.0.10
 Release:          alt1_9jpp8
 Summary:          JBoss Web Native
 Group:            Development/Other
-License:          LGPLv2+ and ASL 2.0
+License:          LGPLv2+ and Apache-2.0
 URL:              http://www.jboss.org/
 
 Source0:          http://downloads.jboss.org/jbossnative/%{namedversion}/jboss-native-%{version}-src-ssl.tar.gz

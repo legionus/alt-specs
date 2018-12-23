@@ -7,7 +7,7 @@ Release: alt1
 Epoch: 1
 
 Summary: Advanced Linux Sound Architecture (ALSA) library
-License: LGPL 2.1+
+License: LGPL-2.1-or-later
 Group: System/Libraries
 
 Source: %name-%version.tar

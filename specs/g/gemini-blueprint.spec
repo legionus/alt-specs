@@ -17,7 +17,7 @@ Version:       1.0.2
 Release:       alt1_13jpp8
 Summary:       Reference Implementation of the OSGi Blueprint Service
 # BSD file - test-support/src/main/java/org/eclipse/gemini/blueprint/test/internal/util/DependencyVisitor.java,
-License:       ASL 2.0 and BSD and EPL
+License:       Apache-2.0 and BSD and EPL
 URL:           http://www.eclipse.org/gemini/
 # https://github.com/glyn/Gemini-Blueprint
 Source0:       https://github.com/eclipse/gemini.blueprint/archive/%{namedversion}.tar.gz

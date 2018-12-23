@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: borgmatic (formerly atticmatic) is a simple Python wrapper script for the Borg
 
-License: GPL3
+License: GPL-3.0-only
 Group: File tools
 Url: https://github.com/witten/borgmatic
 BuildArch: noarch

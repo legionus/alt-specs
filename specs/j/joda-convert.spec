@@ -10,7 +10,7 @@ Name:           joda-convert
 Version:        1.9.2
 Release:        alt1_2jpp8
 Summary:        Java library for conversion to and from standard string formats
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/JodaOrg/joda-convert/
 BuildArch:      noarch
 

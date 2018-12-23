@@ -7,7 +7,7 @@ Version: %ver_major.8
 Release: alt1
 
 Summary: The GNU Image Manipulation Program
-License: GPLv3, LGPL
+License: GPL-3.0-only and LGPL
 Group: Graphics
 Url: http://www.gimp.org/
 

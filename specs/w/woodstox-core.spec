@@ -13,7 +13,7 @@ Name:           %{core_name}
 Version:        5.0.3
 Release:        alt1_4jpp8
 Summary:        High-performance XML processor
-License:        ASL 2.0 or LGPLv2+ or BSD
+License:        Apache-2.0 or LGPLv2+ or BSD
 URL:            https://github.com/FasterXML/woodstox
 BuildArch:      noarch
 

@@ -4,7 +4,7 @@ Release: alt2.qa1
 
 Summary: A disk and disk image format analyzer
 Group: File tools
-License: MIT/X
+License: (MIX or XConsortium)
 
 URL: http://disktype.sourceforge.net/
 Source0: http://download.sourceforge.net/disktype/disktype-%version.tar.gz

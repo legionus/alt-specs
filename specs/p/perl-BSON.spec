@@ -11,7 +11,7 @@ Version: 1.10.2
 Release: alt1
 Summary: Pure Perl implementation of MongoDB's BSON serialization
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/mongodb/mongo-perl-bson
 
 Source0: http://www.cpan.org/authors/id/M/MO/MONGODB/%{module_name}-v%{version}.tar.gz

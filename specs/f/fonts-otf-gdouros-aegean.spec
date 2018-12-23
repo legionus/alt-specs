@@ -12,7 +12,7 @@ Name:           fonts-otf-gdouros-aegean
 Version:        9.81
 Release:        alt1_1
 Summary:        A font for ancient scripts in the greater Aegean vicinity
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://users.teilar.gr/~g1951d/
 Source0:        http://users.teilar.gr/~g1951d/Aegean.zip
 Source1:        %{oldname}-fontconfig.conf

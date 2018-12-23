@@ -8,7 +8,7 @@ Release:	%php5_release.2
 
 Summary:	PHP5 Timezone Database
 
-License:	PHP License
+License:	PHP
 Group:		System/Servers
 URL:		http://pecl.php.net/package/timezonedb
 

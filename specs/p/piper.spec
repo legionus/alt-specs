@@ -5,7 +5,7 @@ Version: 0.2.900
 Release: alt0.3.git%git
 Summary: GTK+ application to configure gaming mice using ratbagd
 Group: System/Configuration/Hardware
-License: GPL2
+License: GPL-2.0-only
 Url: https://github.com/libratbag/%name
 Source0: https://github.com/libratbag/%name/archive/v%version/%name-%version.tar.gz
 Patch: %name-%version-%release.patch

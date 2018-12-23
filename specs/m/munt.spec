@@ -4,7 +4,7 @@ Release: alt1.git.5.gb414aeb
 Summary: MT-32, CM-32L and LAPC-I synthesiser modules emulator
 Group: Sound
 Url: http://munt.sourceforge.net/
-License: GPL2
+License: GPL-2.0-only
 
 Packager: Ildar Mulyukov <ildar@altlinux.ru>
 

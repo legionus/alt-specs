@@ -9,7 +9,7 @@ Source: http://downloads.sourceforge.net/sourceforge/bgoffice/OOo-thes-bg-%{vers
 Requires: libmythes
 URL: http://bgoffice.sourceforge.net/
 BuildRequires: unzip
-License: GPLv2+ or LGPLv2+ or MPLv1.1
+License: GPL-2.0-or-later or LGPLv2+ or MPL-1.1
 BuildArch: noarch
 Source44: import.info
 

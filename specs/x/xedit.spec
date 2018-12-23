@@ -3,7 +3,7 @@ Version: 1.2.2
 Release: alt1
 
 Summary: Simple text editor for X
-License: MIT/X11
+License: (MIT or X11)
 Group: Editors
 
 Url: http://xorg.freedesktop.org

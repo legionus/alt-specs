@@ -2,7 +2,7 @@ Name: lapackpp
 Version: 2.5.4
 Release: alt2.svn20110615
 Summary: LAPACK++ is a library for high performance linear algebra computations
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Sciences/Mathematics
 Url: http://lapackpp.sourceforge.net/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

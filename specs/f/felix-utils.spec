@@ -12,7 +12,7 @@ Name:           felix-utils
 Version:        1.10.4
 Release:        alt1_2jpp8
 Summary:        Utility classes for OSGi
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org
 BuildArch:      noarch
 

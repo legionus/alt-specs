@@ -5,7 +5,7 @@ Release: alt1
 Summary: script that seeks to help you debugging your SMTP AUTH setup
 
 Group: System/Servers
-License: Public domain
+License: ALT-Public-Domain
 Url: http://postfix.state-of-mind.de/patrick.koetter/saslfinger/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

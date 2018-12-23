@@ -5,7 +5,7 @@ Version: 2.6.5
 Release: alt1.2
  
 Summary: Univeral capture of stdout and stderr and handling of child process pid for windows, *nix, etc.
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/ahoward/systemu
  

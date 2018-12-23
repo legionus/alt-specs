@@ -14,7 +14,7 @@ Name:          wildfly-common
 Version:       1.1.0
 Release:       alt1_5jpp8
 Summary:       WildFly common utilities project
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://wildfly.org/
 Source0:       https://github.com/wildfly/wildfly-common/archive/%{namedversion}.tar.gz
 

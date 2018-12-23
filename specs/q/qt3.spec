@@ -35,7 +35,7 @@ Release: %rlz
 %define kdedir  %prefix
 
 Summary: Shared library for the Qt%major GUI toolkit
-License: GPLv2 / GPLv3 / QPL
+License: GPL-2.0-only or GPL-3.0-only or QPL
 Group: System/Libraries
 
 Url: http://www.trolltech.com/products/qt/

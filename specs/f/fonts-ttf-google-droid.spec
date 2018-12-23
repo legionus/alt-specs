@@ -23,7 +23,7 @@ Version: 20120715
 Release: alt3_12
 Summary: General-purpose fonts released by Google as part of Android
 
-License:   ASL 2.0
+License:   Apache-2.0
 URL:       https://android.googlesource.com/
 Source0:   %{archivename}.tar.xz
 #Brutal script used to pull sources from upstream git

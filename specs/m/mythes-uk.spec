@@ -3,7 +3,7 @@ Summary: Ukrainian thesaurus
 Version: 1.5.7
 Release: alt1
 Group: Text tools
-License: GPLv2+ or LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 URL: http://sourceforge.net/projects/ispell-uk
 
 Source0: http://downloads.sourceforge.net/ispell-uk/spell-uk-%version.tgz

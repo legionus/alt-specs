@@ -3,7 +3,7 @@ Version: 1.0.2
 Release: alt2.1
 
 Summary: Video Codec based on Wavelets
-License: MPL/GPL/LGPL
+License: MPL or GPL or LGPL
 Group: Video
 
 Url: http://diracvideo.org

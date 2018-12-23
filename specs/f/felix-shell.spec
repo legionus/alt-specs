@@ -12,7 +12,7 @@ Version:        1.4.3
 Release:        alt1_11jpp8
 Summary:        Apache Felix Shell Service
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://felix.apache.org
 Source0:        http://archive.apache.org/dist/felix/%{bundle}-%{version}-source-release.tar.gz
 

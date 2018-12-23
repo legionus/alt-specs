@@ -16,7 +16,7 @@ Name:             jastow
 Version:          2.0.1
 Release:          alt1_4jpp8
 Summary:          Jasper fork
-License:          ASL 2.0
+License:          Apache-2.0
 Url:              https://github.com/undertow-io/jastow
 Source0:          https://github.com/undertow-io/jastow/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

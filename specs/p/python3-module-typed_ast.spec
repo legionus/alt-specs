@@ -6,7 +6,7 @@ Version: 1.1.0
 Release: alt1
 
 Summary: A fork of the ast module with type annotations
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python3
 # Source-git: https://github.com/python/typed_ast.git
 Url: https://pypi.org/project/typed-ast/

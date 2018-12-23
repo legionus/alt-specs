@@ -60,7 +60,7 @@ Epoch:          0
 Summary:        Java build tool
 Summary(it):    Tool per la compilazione di programmi java
 Summary(fr):    Outil de compilation pour java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://ant.apache.org/
 Source0:        https://www.apache.org/dist/ant/source/apache-ant-%{version}-src.tar.bz2
 Source2:        apache-ant-1.8.ant.conf

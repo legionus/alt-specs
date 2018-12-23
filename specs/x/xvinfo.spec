@@ -2,7 +2,7 @@ Name: xvinfo
 Version: 1.1.3
 Release: alt1
 Summary: Print out X-Video extension adaptor information
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 Url: https://cgit.freedesktop.org/xorg/app/xkbcomp/
 

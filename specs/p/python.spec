@@ -30,7 +30,7 @@ Release: alt1
 %global _optlevel 3
 
 Summary: An interpreted, interactive object-oriented programming language
-License: PSF
+License: Python-2.0
 Group: Development/Python
 URL: http://www.python.org/
 Packager: Python Development Team <python@packages.altlinux.org>

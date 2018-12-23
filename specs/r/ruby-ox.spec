@@ -5,7 +5,7 @@ Version: 2.10.0
 Release: alt1
 
 Summary: Ruby Optimized XML Parser
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     http://www.ohler.com/ox
 

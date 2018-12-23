@@ -20,7 +20,7 @@ Name:              httpcomponents-client
 Summary:           HTTP agent implementation based on httpcomponents HttpCore
 Version:           4.5.5
 Release:           alt1_4jpp8
-License:           ASL 2.0
+License:           Apache-2.0
 URL:               http://hc.apache.org/
 Source0:           http://www.apache.org/dist/httpcomponents/httpclient/source/%{name}-%{version}-src.tar.gz
 

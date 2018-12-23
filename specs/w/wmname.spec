@@ -2,7 +2,7 @@ Name: wmname
 Version: 0.1
 Release: alt2
 Summary: prints/sets the window manager name property of the root window
-License: MIT/X
+License: (MIX or XConsortium)
 Group: Graphical desktop/Other
 Url: http://tools.suckless.org/wmname
 Packager: Denis Klimov <zver@altlinux.org>

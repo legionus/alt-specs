@@ -11,7 +11,7 @@ Name:           plexus-build-api
 Version:        0.0.7
 Release:        alt3_20jpp8
 Summary:        Plexus Build API
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://github.com/sonatype/sisu-build-api
 BuildArch:      noarch
 

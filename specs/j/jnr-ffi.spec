@@ -10,7 +10,7 @@ Name:     jnr-ffi
 Version:  2.1.6
 Release:  alt1_4jpp8
 Summary:  Java Abstracted Foreign Function Layer
-License:  ASL 2.0
+License:  Apache-2.0
 URL:      http://github.com/jnr/%{name}/
 Source0:  https://github.com/jnr/%{name}/archive/%{name}-%{version}.tar.gz
 

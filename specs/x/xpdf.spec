@@ -7,7 +7,7 @@ Version: 3.03
 Release: alt1.1
 
 Summary: Portable Document Format (PDF) suite
-License: GPLv2 or GPLv3
+License: GPL-2.0-only or GPL-3.0-only
 Group: Office
 
 URL: http://www.foolabs.com/xpdf/

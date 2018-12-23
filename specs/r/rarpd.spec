@@ -3,7 +3,7 @@ Version: 1.1
 Release: alt2.1
 
 Summary: Reverse Address Resolution Protocol Daemon
-License: MIT/X11
+License: (MIT or X11)
 Group: Networking/Other
 
 Url: ftp://ftp.dementia.org/pub/net-tools/

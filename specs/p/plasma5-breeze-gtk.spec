@@ -8,7 +8,7 @@ Release: alt1
 Group: Graphical desktop/KDE
 Summary: Breeze GTK2/3 theme
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Provides: kde5-breeze-dark-gtk = %EVR
 

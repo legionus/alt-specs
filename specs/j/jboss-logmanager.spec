@@ -16,7 +16,7 @@ Name:             jboss-logmanager
 Version:          2.0.4
 Release:          alt1_4jpp8
 Summary:          JBoss Log Manager
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              https://github.com/jboss-logging/jboss-logmanager
 Source0:          https://github.com/jboss-logging/jboss-logmanager/archive/%{namedversion}/%{name}-%{namedversion}.tar.gz
 

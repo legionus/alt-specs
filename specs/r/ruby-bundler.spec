@@ -6,7 +6,7 @@ Version: 1.17.1
 Release: alt1
 
 Summary: Manage your Ruby application's gem dependencies
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/bundler/bundler
 

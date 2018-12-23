@@ -9,7 +9,7 @@ Release: alt1.qa1
 Summary: Python wrapper for the UnRAR DLL
 
 Url: https://github.com/kovidgoyal/unrardll
-License: BSD 3-Clause New or Revised License
+License: BSD-3-Clause
 Group: Development/Python
 
 

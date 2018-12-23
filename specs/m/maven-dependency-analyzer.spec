@@ -11,7 +11,7 @@ Name:           maven-dependency-analyzer
 Version:        1.8
 Release:        alt1_1jpp8
 Summary:        Maven dependency analyzer
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-dependency-analyzer/
 BuildArch:      noarch
 

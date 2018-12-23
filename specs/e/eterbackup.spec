@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Etersoft backup tools for journaling backup
 
-License: AGPLv3
+License: AGPL-3.0-only
 Group: System/Configuration/Packaging
 Url: https://github.com/vitlav/eterbackup
 

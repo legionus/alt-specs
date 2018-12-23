@@ -7,7 +7,7 @@ Name: golang-gopkg-macaroon-bakery-v2
 Version: 2.0.1
 Release: alt1
 Summary: This package holds higher level operations for building systems with macaroons.
-License: LGPL v.3
+License: LGPL-3.0-only
 Group: Development/Other
 Url: https://godoc.org/%import_path
 Source: %name-%version.tar

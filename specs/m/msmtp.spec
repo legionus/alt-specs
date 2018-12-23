@@ -4,7 +4,7 @@ Name: msmtp
 Version: 1.6.6
 Release: alt1.1
 Summary: Minimal SMTP client
-License: GPL3+
+License: GPL-3.0-or-later
 Group: Networking/Mail
 URL: http://msmtp.sf.net
 Source0: %{name}-%{version}.tar.xz

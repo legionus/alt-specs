@@ -13,7 +13,7 @@ Name:          jibx
 Version:       1.2.6
 Release:       alt1_11jpp8
 Summary:       Framework for binding XML data to Java objects
-License:       BSD and ASL 1.1
+License:       BSD and Apache-1.1
 URL:           http://sourceforge.net/projects/jibx/
 Source0:       http://sourceforge.net/projects/jibx/files/jibx/jibx-%{version}/%{name}_%{_version}.zip
 Patch0:        %{name}-classpath.patch

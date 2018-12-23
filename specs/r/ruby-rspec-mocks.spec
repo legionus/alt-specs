@@ -5,7 +5,7 @@ Version: 3.8.0
 Release: alt1
  
 Summary: RSpec's 'test double' framework, with support for stubbing and mocking
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/rspec/rspec-mocks
  

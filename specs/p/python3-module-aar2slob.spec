@@ -8,7 +8,7 @@ Release: alt2.1
 
 Summary: converts Aard Dictionary .aar files to slob format
 Group: Development/Other
-License: GPL3
+License: GPL-3.0-only
 Url: http://aarddict.org
 #https://github.com/itkach/aar2slob.git
 BuildArch: noarch

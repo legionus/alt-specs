@@ -12,7 +12,7 @@ Release:       alt1_4jpp8
 Summary:       LZMA library for Java
 # Source files without license headers https://github.com/jponge/lzma-java/issues/13
 # Public Domain: ./src/main/java/lzma/sdk/*  ./src/test/java/lzma/*
-License:       ASL 2.0 and Public Domain
+License:       Apache-2.0 and ALT-Public-Domain
 URL:           http://jponge.github.io/lzma-java/
 Source0:       https://github.com/jponge/lzma-java/archive/%{name}-%{version}.tar.gz
 

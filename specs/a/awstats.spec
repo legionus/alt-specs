@@ -9,7 +9,7 @@ Release: alt0.4.20180105
 
 Summary: Real-time logfile analyzer to get advanced web statistics
 Summary(ru_RU.KOI8-R):	Анализатор логов Web-сервера в режиме реального времени
-License: GPL3
+License: GPL-3.0-only
 Group: Monitoring
 
 Url: http://www.awstats.org

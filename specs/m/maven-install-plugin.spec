@@ -11,7 +11,7 @@ Release:        alt1_6jpp8
 Summary:        Maven Install Plugin
 
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-install-plugin
 Source0:        http://repo2.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

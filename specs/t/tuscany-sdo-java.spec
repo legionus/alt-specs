@@ -17,7 +17,7 @@ Name:          tuscany-sdo-java
 Version:       1.1.1
 Release:       alt2_18jpp8
 Summary:       Service Data Objects 2.1 Java API spec
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://tuscany.apache.org/sdo-java.html
 Source0:       ftp://ftp.gbnet.net/pub/apache/dist/tuscany/java/sdo/%{version}/apache-tuscany-sdo-%{version}-src.tar.gz
 

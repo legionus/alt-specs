@@ -12,7 +12,7 @@ Release: alt1
 Group: Graphical desktop/KDE
 Summary: KDE Workspace 5 common cli tools
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Requires: eject qt5-dbus kf5-kdelibs4support
 %if_disabled bootstrap

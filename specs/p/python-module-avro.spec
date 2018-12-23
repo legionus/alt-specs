@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.7.7
 Release: alt1.1.1
 Summary: Avro is a serialization and RPC framework
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/avro/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

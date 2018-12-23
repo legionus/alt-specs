@@ -2,7 +2,7 @@ Name: bbc-vamp-plugins
 Version: 1.1
 Release: alt1.git20140618
 Summary: A collection of audio feature extraction algorithms in the Vamp plugin format
-License: ASLv2.0
+License: Apache-2.0
 Group: Sound
 Url: http://www.vamp-plugins.org/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

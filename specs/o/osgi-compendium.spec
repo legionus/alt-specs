@@ -10,7 +10,7 @@ Name:           osgi-compendium
 Version:        6.0.0
 Release:        alt1_5jpp8
 Summary:        Interfaces and Classes for use in compiling OSGi bundles
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.osgi.org
 BuildArch:      noarch
 

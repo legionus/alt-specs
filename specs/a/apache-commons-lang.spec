@@ -16,7 +16,7 @@ Name:           apache-%{short_name}
 Version:        2.6
 Release:        alt5_21jpp8
 Summary:        Provides a host of helper utilities for the java.lang API
-License:        ASL 2.0
+License:        Apache-2.0
 Group:          Development/Other
 URL:            http://commons.apache.org/%{base_name}
 Source0:        http://archive.apache.org/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz

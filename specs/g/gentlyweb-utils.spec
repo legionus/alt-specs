@@ -13,7 +13,7 @@ Name:          gentlyweb-utils
 Version:       1.5
 Release:       alt1_13jpp8
 Summary:       Java utility library used by JoSQL for I/O
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://josql.sourceforge.net/
 Source0:       http://sourceforge.net/projects/josql/files/josql/stable-2.2/gentlyWEB-src-utils-1.1.tar.gz
 Source1:       http://repo.fusesource.com/nexus/content/groups/public/net/sf/josql/%{name}/%{version}/gentlyweb-utils-%{version}.pom

@@ -34,7 +34,7 @@ Release: alt1
 Group: System/Libraries
 Summary: Qt5 - QtWebEngine components
 Url: http://qt.io/
-License: GPLv2 / GPLv3 / LGPLv3
+License: GPL-2.0-only or GPL-3.0-only or LGPLv3
 
 Source: %qt_module-opensource-src-%version.tar
 # FC

@@ -6,7 +6,7 @@ Summary: C library for the MaxMind DB file format
 
 # original libmaxminddb code is Apache Licence 2.0
 # src/maxminddb-compat-util.h is BSD
-License: ASLv2 and BSD
+License: Apache-2.0 and BSD
 Url:     https://maxmind.github.io/libmaxminddb
 Group:   Other
 

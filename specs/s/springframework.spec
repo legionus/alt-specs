@@ -16,7 +16,7 @@ Version:       3.2.18
 Release:       alt2_4jpp8
 Summary:       Spring Java Application Framework
 Epoch:         0
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://projects.spring.io/spring-framework/
 
 Source0:       https://github.com/spring-projects/spring-framework/archive/v%{namedversion}/%{name}-%{namedversion}.tar.gz

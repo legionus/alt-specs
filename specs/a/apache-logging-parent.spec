@@ -9,7 +9,7 @@ BuildRequires: jpackage-generic-compat
 Name:           apache-logging-parent
 Version:        1
 Release:        alt1_3jpp8
-License:        ASL 2.0
+License:        Apache-2.0
 Summary:        Parent pom for Apache Logging Services projects
 URL:            https://logging.apache.org/
 Source0:        https://repo1.maven.org/maven2/org/apache/logging/logging-parent/%{version}/logging-parent-%{version}-source-release.zip

@@ -3,7 +3,7 @@ Version: 1.05
 Release: alt1
 
 Summary: A bind replacement
-License: Public domain
+License: ALT-Public-Domain
 Group: Networking/DNS
 URL: http://cr.yp.to/djbdns.html
 

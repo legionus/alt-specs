@@ -7,7 +7,7 @@ Packager: Igor Yu. Vlasenko <viy@altlinux.org>
 
 Summary: automated packaging node common configs
 Group: System/Configuration/Other
-License: GPL2+
+License: GPL-2.0-or-later
 # TODO: change to appropriate page when ready
 # Url: https://www.altlinux.org/Autorepo
 Url: https://watch.altlinux.org

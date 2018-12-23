@@ -4,7 +4,7 @@ Release: alt3
 
 Summary: wildfly-as - Wildfly Application Server
 
-License: LGPLv2 and ASL 2.0
+License: LGPLv2 and Apache-2.0
 Group: System/Servers
 Url: http://www.wildfly.org/
 

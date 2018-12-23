@@ -6,7 +6,7 @@ Name: toxcore
 Summary: All-in-one secure communication platform
 Version: 0.1.11
 Release: alt2
-License: ISC license
+License: ISC
 Group: System/Libraries
 BuildRequires: libopus-devel libsodium-devel libvpx-devel libcheck-devel
 BuildPreReq: libconfig-devel >= 1.4

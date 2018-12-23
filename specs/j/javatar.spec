@@ -12,7 +12,7 @@ Release:        alt1_19jpp8
 Summary:        Java tar archive io package
 
 Group:          Development/Other
-License:        Public Domain
+License:        ALT-Public-Domain
 URL:            http://www.trustice.com/java/tar/
 Source0:        http://www.gjt.org/download/time/java/tar/javatar-%{version}.tar.gz
 # Fix srcdir and point to system activation.jar

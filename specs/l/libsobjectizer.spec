@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: SObjectizer is an in-process message dispatching framework with implementation of Actor Model (C++)
 
-License: BSD-3-CLAUSE
+License: BSD-3-Clause
 Group: Development/C++
 Url: https://sourceforge.net/projects/sobjectizer/
 

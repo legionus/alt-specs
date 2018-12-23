@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 2.3.6
 Release: alt1.1.1
 Summary: Markov Chain Monte Carlo sampling toolkit
-License: Academic Free License & BSD
+License: AFL-1.1 and BSD
 Group: Development/Python
 Url: https://pypi.python.org/pypi/pymc/
 

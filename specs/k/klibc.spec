@@ -2,7 +2,7 @@ Name: klibc
 Version: 2.0.4
 Release: alt2
 Summary: A minimal libc subset for use with initramfs
-License: BSD/GPL
+License: BSD or GPL
 Group: System/Libraries
 URL: http://www.zytor.com/mailman/listinfo/%name
 # git://git.kernel.org/pub/scm/libs/klibc/klibc

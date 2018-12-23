@@ -10,7 +10,7 @@ Release:        alt1_1
 Summary:        A build-system
 
 Group:          Games/Other
-License:        zlib
+License:        Zlib
 URL:            http://matricks.github.com/bam/
 Source0:        https://github.com/matricks/bam/archive/v%{version}.tar.gz
 Source44: import.info

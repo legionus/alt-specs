@@ -8,7 +8,7 @@ Release: alt2
 Url: https://github.com/cython/backports_abc
 Source: %name-%version.tar
 Packager: Valentin Rosavitskiy <valintinr@altlinux.org>
-License: PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
+License: Python-2.0
 Group: Development/Python
 
 BuildArch: noarch

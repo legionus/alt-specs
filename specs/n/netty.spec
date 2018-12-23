@@ -26,7 +26,7 @@ Name:           netty
 Version:        4.1.13
 Release:        alt1_5jpp8
 Summary:        An asynchronous event-driven network application framework and tools for Java
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            https://netty.io/
 Source0:        https://github.com/netty/netty/archive/netty-%{namedversion}.tar.gz
 # Upsteam uses a simple template generator script written in groovy and run with gmaven

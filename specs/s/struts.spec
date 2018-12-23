@@ -11,7 +11,7 @@ Name:          struts
 Version:       1.3.10
 Release:       alt4_21jpp8
 Summary:       Web application framework
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://struts.apache.org/
 # wget http://www.apache.org/dist/struts/source/struts-1.3.10-src.zip
 # remove non free resources

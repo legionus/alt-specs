@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: A simple, fast and powerful template engine
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_Template_Xipe
 

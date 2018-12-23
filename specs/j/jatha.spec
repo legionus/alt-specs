@@ -1,7 +1,7 @@
 %define majver 2.9
 
 Name: jatha
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: Development/Java
 Summary: Java library that implements a fairly large subset of Common LISP
 Version: %majver.0

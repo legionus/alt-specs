@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.0
 Release: alt1.alpha.git20140828.1.1
 Summary: Support the Facebook Graph API and the official Facebook JavaScript SDK
-License: ASL
+License: Apache
 Group: Development/Python
 Url: https://pypi.python.org/pypi/facebook-sdk
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

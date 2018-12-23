@@ -5,7 +5,7 @@ Version: 0.16.1
 Release: alt1.1
  
 Summary: Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/colszowka/simplecov
  

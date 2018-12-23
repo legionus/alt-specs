@@ -19,7 +19,7 @@ Version:        3.6.0
 Release:        alt1_1jpp8
 Epoch:          0
 Summary:        Plexus Archiver Component
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://codehaus-plexus.github.io/plexus-archiver
 BuildArch:      noarch
 

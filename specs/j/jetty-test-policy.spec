@@ -10,7 +10,7 @@ Name:           jetty-test-policy
 Version:        1.2
 Release:        alt3_19jpp8
 Summary:        Jetty test policy files
-License:        ASL 2.0 or EPL
+License:        Apache-2.0 or EPL
 URL:            http://www.eclipse.org/jetty/
 BuildArch:      noarch
 

@@ -5,7 +5,7 @@ Release: alt1
 Summary: Young's Literal Translation (1898) for SWORD
 Summary(ru_RU.UTF-8): Young's Literal Translation (1898) для системы SWORD
 
-License: Public Domain
+License: ALT-Public-Domain
 Group: Education
 
 Url: http://www.crosswire.org/sword

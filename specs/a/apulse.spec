@@ -3,7 +3,7 @@ Version: 0.1.12
 Release: alt1
 
 Summary: PulseAudio emulation for ALSA
-License: MIT, LGPLv2.1+
+License: MIT and LGPLv2.1+
 Group: System/Libraries
 
 Url: https://github.com/i-rinat/apulse

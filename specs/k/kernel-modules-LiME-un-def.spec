@@ -16,7 +16,7 @@ Summary: LiME module for Linux kernel
 Name: kernel-modules-%module_name-%flavour
 Version: %module_version
 Release: %module_release.%kcode.%kbuildrelease
-License: BSD 3-clause
+License: BSD-3-Clause
 Group: System/Kernel and hardware
 
 Packager: Kernel Maintainer Team <kernel@packages.altlinux.org>

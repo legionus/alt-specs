@@ -17,7 +17,7 @@ Release: alt1
 Summary: A very fast and reliable SQL database engine
 Summary(ru_RU.UTF-8): Очень быстрый и надежный SQL-сервер
 Group: Databases
-License: GPL / LGPL
+License: GPL or LGPL
 Url: http://www.mysql.com/
 Packager: MySQL Development Team <mysql@packages.altlinux.org>
 

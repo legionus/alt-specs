@@ -53,7 +53,7 @@ Name:           golang-%{project}-%{repo}
 Version:        1.0.1
 Release:        alt1_2
 Summary:        Custom type reflection for gopher-lua
-License:        MPLv2.0
+License:        MPL-2.0
 URL:            https://%{provider_prefix}
 Source0:        https://%{provider_prefix}/archive/v%{version}/%{repo}-%{version}.tar.gz
 

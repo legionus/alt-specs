@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 3.6.0
 Release: alt1
 Summary: Client Library for OpenStack Object Storage API
-License: ASL 2.0
+License: Apache-2.0
 Url: http://docs.openstack.org/developer/python-%oname
 Source: https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz
 Group: Development/Python

@@ -5,7 +5,7 @@ Version: 2.0.0
 Release: alt3
 
 Summary: The OpenGL Extension Wrangler library
-License: BSD, MIT
+License: BSD and MIT
 Group: System/Legacy libraries
 
 Url: http://glew.sourceforge.net/

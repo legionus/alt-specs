@@ -5,7 +5,7 @@ Release: alt1
 Summary: top-like monitoring block devices metrics (latency, IOPS and so on)
 
 Group: File tools
-License: Public domain
+License: ALT-Public-Domain
 Url: https://github.com/amarao/blktop
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

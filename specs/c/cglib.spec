@@ -13,7 +13,7 @@ Name:           cglib
 Version:        3.2.4
 Release:        alt1_7jpp8
 Summary:        Code Generation Library for Java
-License:        ASL 2.0 and BSD
+License:        Apache-2.0 and BSD
 Url:            https://github.com/cglib/cglib
 Source0:        https://github.com/cglib/cglib/archive/%{tarball_name}.tar.gz
 

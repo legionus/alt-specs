@@ -12,7 +12,7 @@ Release:	%release
 
 Summary:	Amazon EC2 plugin for Firefox
 
-License:	Apache License 2.0
+License:	Apache-2.0
 Group:		Networking/WWW
 URL:		http://code.google.com/p/hybridfox/
 BuildArch:	noarch

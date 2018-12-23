@@ -11,7 +11,7 @@ Name:          cssparser
 Version:       0.9.20
 Release:       alt1_4jpp8
 Summary:       CSS Parser
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://cssparser.sourceforge.net/
 # sh ./fetch-cssparser.sh <VERSION>
 Source0:       cssparser-%{version}.tar.xz

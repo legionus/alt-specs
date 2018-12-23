@@ -9,7 +9,7 @@ Release: alt2.qa1
 Summary: Simple JavaScript interpreter for Python
 
 Url: https://pypi.python.org/pypi/dukpy/
-License: MIT License
+License: MIT
 Group: Development/Python
 
 

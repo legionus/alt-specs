@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.0.0
 Release: alt1
 Summary: Python 2 / 3 compatibility, like six, but favouring Python 3
-License: Public Domain
+License: ALT-Public-Domain
 Group: Development/Python
 Url: https://pypi.python.org/pypi/nine
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

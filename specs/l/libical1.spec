@@ -4,7 +4,7 @@ Release: alt7
 
 Summary: An implementation of basic iCAL protocols
 Group: System/Libraries
-License: LGPL2.1+/MPL
+License: LGPL2.1+ or MPL
 Url: https://github.com/%name
 
 Source: %url/%name/releases/download/v%version/libical-%version.tar.gz

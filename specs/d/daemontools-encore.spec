@@ -6,7 +6,7 @@ Name: daemontools-encore
 Summary: Daemontools by DJB
 Version: 1.10
 Release: alt1
-License: Public domain
+License: ALT-Public-Domain
 Group: System/Servers
 Url: http://untroubled.org/daemontools-encore/
 Packager: Denis Smirnov <mithraen@altlinux.ru>

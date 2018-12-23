@@ -5,7 +5,7 @@ Version: 1.0.0
 Release: alt1.1
  
 Summary: (More) safely evaluate Ruby DSLs with cleanroom
-License: MIT/Ruby
+License: MIT or Ruby
 Group:   Development/Ruby
 Url:     https://github.com/sethvargo/cleanroom
  

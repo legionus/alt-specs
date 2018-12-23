@@ -24,7 +24,7 @@ Name: %oname%soversion
 Version: 3.5.2
 Release: alt1
 Summary: Protocol Buffers - Google's data interchange format
-License: Apache License 2.0
+License: Apache-2.0
 %if_disabled legacy
 Group: System/Libraries
 %else

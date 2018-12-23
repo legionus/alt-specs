@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 0.1.11
 Release: alt1.1
 Summary: Taschenmesser, a toolbelt with plugins for SCons
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/taschenmesser/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

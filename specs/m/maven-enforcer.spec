@@ -11,7 +11,7 @@ Name:           maven-enforcer
 Version:        1.4.1
 Release:        alt1_7jpp8
 Summary:        Maven Enforcer
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/enforcer
 BuildArch:      noarch
 

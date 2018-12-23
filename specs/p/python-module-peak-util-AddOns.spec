@@ -5,7 +5,7 @@ Release: alt1
 
 Summary: Dynamically extend other objects with AddOns (formerly ObjectRoles)
 
-License: PSF or ZPL
+License: Python-2.0 or ZPL
 Group: Development/Python
 Url: http://pypi.python.org/pypi/AddOns/
 

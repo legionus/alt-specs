@@ -2,7 +2,7 @@ Name: vdpinfo
 Version: 0.0.4
 Summary: VDPAU acceleration information utility
 Release: alt1
-License: MIT/X Consortium
+License: (MIT or XConsortium)
 Group: System/X11
 URL: http://www.nvnews.net/vbulletin/showthread.php?t=124978
 Source: %name-%version.tar

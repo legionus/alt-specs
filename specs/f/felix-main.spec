@@ -12,7 +12,7 @@ Version: 5.4.0
 Release: alt1_5jpp8
 Summary: Apache Felix Main
 Group:   Development/Other
-License: ASL 2.0
+License: Apache-2.0
 URL:     http://felix.apache.org
 Source0: http://www.apache.org/dist/felix/%{bundle}-%{version}-source-release.tar.gz
 

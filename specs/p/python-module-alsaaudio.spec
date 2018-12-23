@@ -7,7 +7,7 @@ Release: alt1.1.1.1
 
 Summary: Wrapper for accessing the ALSA API from Python
 
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: http://pyalsaaudio.sourceforge.net/
 

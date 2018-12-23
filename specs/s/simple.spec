@@ -10,7 +10,7 @@ Name:          simple
 Version:       6.0.1
 Release:       alt1_7jpp8
 Summary:       Asynchronous HTTP server for Java
-License:       ASL 2.0 and LGPLv2+
+License:       Apache-2.0 and LGPLv2+
 URL:           http://www.simpleframework.org/
 Source0:       http://sourceforge.net/projects/simpleweb/files/simpleweb/%{version}/%{name}-%{version}.tar.gz
 # https://github.com/ngallagher/simpleframework/issues/7

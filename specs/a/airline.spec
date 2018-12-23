@@ -10,7 +10,7 @@ Name:          airline
 Version:       0.7
 Release:       alt1_7jpp8
 Summary:       Java annotation-based framework
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/airlift/airline
 Source0:       https://github.com/airlift/airline/archive/%{version}.tar.gz
 

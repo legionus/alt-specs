@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: This is a parser to replace UBB style tags with their html equivalents
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_BBCodeParser
 

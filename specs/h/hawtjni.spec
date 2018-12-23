@@ -11,7 +11,7 @@ Name:             hawtjni
 Version:          1.16
 Release:          alt1_1jpp8
 Summary:          Code generator that produces the JNI code
-License:          ASL 2.0 and EPL and BSD
+License:          Apache-2.0 and EPL and BSD
 URL:              http://hawtjni.fusesource.org/
 BuildArch:        noarch
 

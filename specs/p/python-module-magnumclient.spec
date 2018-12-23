@@ -5,7 +5,7 @@ Version:    2.10.0
 Release:    alt1
 Summary:    Client Library for OpenStack Magnum Container Management API
 Group:      Development/Python
-License:    ASL 2.0
+License:    Apache-2.0
 Url:        http://docs.openstack.org/developer/python-%oname
 Source:     https://tarballs.openstack.org/python-%oname/python-%oname-%version.tar.gz
 

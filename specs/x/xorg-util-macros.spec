@@ -2,7 +2,7 @@ Name: xorg-util-macros
 Version: 1.19.0
 Release: alt1
 Summary: X.Org X11 Autotools macros
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 Url: http://xorg.freedesktop.org
 

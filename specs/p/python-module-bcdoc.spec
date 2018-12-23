@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.16.0
 Release: alt3.git20150617
 Summary: ReST document generation tools for botocore
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/bcdoc/

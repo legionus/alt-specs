@@ -13,7 +13,7 @@ Name:          htmlunit-core-js
 Version:       2.23
 Release:       alt1_4jpp8
 Summary:       Rhino fork for htmlunit
-License:       MPLv2.0
+License:       MPL-2.0
 URL:           http://htmlunit.sourceforge.net/
 Source0:       https://github.com/HtmlUnit/htmlunit-core-js/archive/core-js-%{version}.tar.gz
 Source1:       https://github.com/HtmlUnit/htmlunit-rhino-fork/archive/%{rhino_fork_githash}/htmlunit-rhino-fork-%{rhino_fork_githash}.tar.gz

@@ -4,7 +4,7 @@ Release: alt1
 BuildArch: noarch
 
 Summary: RPM helpers to rebuild OCaml packages
-License: Public domain
+License: ALT-Public-Domain
 Group: Development/ML
 
 Source: scripts-%version.tar

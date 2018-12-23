@@ -5,7 +5,7 @@ Release: alt2.git.ga70119
 Summary: XDXF based converter from any dictionary format to any
 
 Group: System/Libraries
-License: GPL2
+License: GPL-2.0-only
 Url: http://xdxf.sf.net/
 
 Packager: Vitaly Lipatov <lav@altlinux.ru>

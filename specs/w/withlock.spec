@@ -5,7 +5,7 @@ Version: 0.5
 Release: alt1
 Summary: Locking wrapper script
 Group: System/Servers
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/poeml/withlock.git
 Source: %name-%version.tar
 BuildArch: noarch

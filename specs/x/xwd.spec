@@ -3,7 +3,7 @@ Version: 1.0.7
 Release: alt1
 
 Summary: dump an image of an X window
-License: MIT/X11
+License: (MIT or X11)
 Group: System/X11
 
 Url: http://xorg.freedesktop.org

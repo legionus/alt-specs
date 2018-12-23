@@ -15,7 +15,7 @@ Name:          springframework-hateoas
 Version:       0.16.0
 Release:       alt1_8jpp8
 Summary:       Representations for hyper-text driven REST web services
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://github.com/SpringSource/spring-hateoas
 # Newer release require springframework >= 4.0.9.RELEASE
 Source0:       https://github.com/spring-projects/spring-hateoas/archive/%{namedversion}.tar.gz

@@ -4,7 +4,7 @@ Release: alt1
 Packager: Grigory Batalov <bga@altlinux.ru>
 
 Summary: Program to Operate the i-Blue 747 GPS Data Logger
-License: GPL v2 or later
+License: GPL-2.0-or-later
 Group: Sciences/Geosciences
 Url: http://www.rigacci.org/wiki/doku.php/doc/appunti/hardware/gps_logger_i_blue_747
 

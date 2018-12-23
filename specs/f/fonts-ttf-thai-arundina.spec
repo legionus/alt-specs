@@ -22,7 +22,7 @@ Release:	alt1_1
 Summary:	Thai Arundina fonts
 
 Group:		System/Fonts/True type
-License:	Bitstream Vera
+License:	ALT-Bitstream-Vera
 URL:		http://linux.thai.net/projects/fonts-sipa-arundina
 Source0:	http://linux.thai.net/pub/thailinux/software/fonts-sipa-arundina/%{archivename}.tar.xz
 Source1:	%{oldname}-sans-fontconfig.conf

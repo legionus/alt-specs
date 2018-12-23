@@ -2,7 +2,7 @@ Name: libSM
 Version: 1.2.3
 Release: alt1
 Summary: X Session Management Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

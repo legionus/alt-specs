@@ -7,7 +7,7 @@ Version: 0.2.6.1.1
 Release: alt1
 Summary: A simple morphological analyzer and dictionary for a latin language
 Group: Networking/WWW
-License: MPL 2.0
+License: MPL-2.0
 URL: https://addons.mozilla.org/ru/firefox/addon/diglossa/
 Source: %name-%version.tar
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

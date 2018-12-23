@@ -7,7 +7,7 @@ Version: 1.0.0
 Release: alt1
 
 Summary: CBOR rfc7049 for Python
-License: ASL-2.0
+License: Apache-2.0
 Group:   Development/Python
 URL:     https://github.com/brianolson/cbor
 

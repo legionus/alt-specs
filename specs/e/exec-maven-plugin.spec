@@ -12,7 +12,7 @@ Version:        1.6.0
 Release:        alt1_3jpp8
 Summary:        Exec Maven Plugin
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://mojo.codehaus.org/exec-maven-plugin
 Source0:        http://repo1.maven.org/maven2/org/codehaus/mojo/exec-maven-plugin/%{version}/exec-maven-plugin-%{version}-source-release.zip
 BuildArch:      noarch

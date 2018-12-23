@@ -11,7 +11,7 @@ Epoch:          0
 Version:        1.2
 Release:        alt1_24jpp8
 Summary:        Resolver subproject of xml-commons
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://xerces.apache.org/xml-commons/components/resolver/
 BuildArch:      noarch
 

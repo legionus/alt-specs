@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.1.0
 Release: alt2
 Summary: shutil.which for those not using Python 3.3 yet
-License: PSF
+License: Python-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/shutilwhich/
 BuildArch: noarch

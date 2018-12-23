@@ -3,7 +3,7 @@ Version: 1.0.3
 Release: alt2
 
 Summary: create a shadow directory of symbolic links to another directory tree
-License: MIT/X11
+License: (MIT or X11)
 Group: Development/C
 
 Url: http://xorg.freedesktop.org

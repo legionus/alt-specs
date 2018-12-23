@@ -10,7 +10,7 @@ Name:           plexus-cipher
 Version:        1.7
 Release:        alt3_14jpp8
 Summary:        Plexus Cipher: encryption/decryption Component
-License:        ASL 2.0
+License:        Apache-2.0
 # project moved to GitHub and it looks like there is no official website anymore
 URL:            https://github.com/codehaus-plexus/plexus-cipher
 BuildArch:      noarch

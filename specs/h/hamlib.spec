@@ -7,7 +7,7 @@ Release:        alt1
 Summary:        Run-time library to control radio transceivers and receivers
 
 Group:          System/Libraries
-License:        GPLv2+ and LGPLv2+
+License:        GPL-2.0-or-later and LGPLv2+
 URL:            http://hamlib.sourceforge.net
 Source0:        %name-%version.tar
 

@@ -2,7 +2,7 @@ Name: libXres
 Version: 1.2.0
 Release: alt1
 Summary: X Resource Information Extension Library
-License: MIT/X11
+License: (MIT or X11)
 Group: System/Libraries
 Url: http://xorg.freedesktop.org
 Packager: Valery Inozemtsev <shrek@altlinux.ru>

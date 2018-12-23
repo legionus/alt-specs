@@ -3,7 +3,7 @@ Version:	1.0
 Release:	alt1
 Summary:	Mozilla common directories
 Group:		System/Base
-License:	GPL3
+License:	GPL-3.0-only
 Packager:	Alexey Gladkov <legion@altlinux.ru>
 
 %description

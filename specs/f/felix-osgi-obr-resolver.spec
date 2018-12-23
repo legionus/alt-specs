@@ -12,7 +12,7 @@ Name:             felix-osgi-obr-resolver
 Version:          1.8.0
 Release:          alt1_5jpp8
 Summary:          Apache Felix Resolver
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://felix.apache.org/documentation/subprojects/apache-felix-osgi-bundle-repository.html
 
 Source0:          http://www.apache.org/dist/felix/org.apache.felix.resolver-%{version}-source-release.tar.gz

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: A scrolling label for PHP-Gtk
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Gtk_ScrollingLabel
 

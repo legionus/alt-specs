@@ -7,7 +7,7 @@ Release: alt3.1
 
 Summary: qt frontend for recordmydesktop, screencasting program
 Group: Video
-License: GPLv3+ & LGPLv3+
+License: GPL-3.0-or-later and LGPLv3+
 Url: http://sourceforge.net/projects/recordmydesktop/
 
 Packager: Sergey Kurakin <kurakin@altlinux.org>

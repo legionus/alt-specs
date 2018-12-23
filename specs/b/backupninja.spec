@@ -3,7 +3,7 @@ Version: 1.1.0
 Release: alt1
 
 Summary: backup system
-License: GPL v2
+License: GPL-2.0-only
 Group: Archiving/Backup
 
 Url: https://0xacab.org/riseuplabs/backupninja

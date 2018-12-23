@@ -17,7 +17,7 @@ Release: alt2%ubt
 Group: System/Libraries
 Summary: KDE5 %rname library
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-gpgme17.patch

@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Converts a xsl-fo file to pdf/ps/pcl/text/etc with the help of apache-fop
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/XML_fo2pdf
 

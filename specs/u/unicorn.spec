@@ -4,7 +4,7 @@ Name: %pkgname
 Version: 5.4.1
 Release: alt1
 Summary: Unicorn: Rack HTTP server for fast clients and Unix
-License: GPL2
+License: GPL-2.0-only
 Group: System/Servers
 Url: http://unicorn.bogomips.org/
 

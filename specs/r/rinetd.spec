@@ -1,7 +1,7 @@
 %define _sbin %_prefix/sbin
 
 Name: rinetd
-License: GPL2+
+License: GPL-2.0-or-later
 Group: Networking/Other
 Version: 0.62
 Release: alt3

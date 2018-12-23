@@ -6,7 +6,7 @@ Release: alt2
 
 Summary:  UVCView is a simple USB Video Camera viewer.
 Group: Video
-License: GPL2
+License: GPL-2.0-only
 
 Url: http://freshmeat.net/projects/uvcview/
 

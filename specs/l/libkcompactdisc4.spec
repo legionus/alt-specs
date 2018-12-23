@@ -8,7 +8,7 @@ Release: alt1
 Group: System/Libraries
 Summary: KDE CDDB library
 Url: http://projects.kde.org/projects/kde/kdeedu/libkcompactdisc
-License: GPLv2 / LGPLv2
+License: GPL-2.0-only or LGPLv2
 
 Source: %rname-%version.tar
 Patch1: libkcompactdisc-4.8.4-alt-build.patch

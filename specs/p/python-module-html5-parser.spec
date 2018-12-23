@@ -9,7 +9,7 @@ Release: alt1
 Summary: Fast C based HTML 5 parsing for python
 
 Url: https://github.com/kovidgoyal/html5-parser
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

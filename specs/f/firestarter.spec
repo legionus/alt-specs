@@ -4,7 +4,7 @@ Release: alt4
 Summary: The Firestarter firewall GUI tool
 Packager:       Mikhail Pokidko <pma@altlinux.ru>
 Group: Security/Networking
-License: GPL2+
+License: GPL-2.0-or-later
 Url: http://www.fs-security.com
 Source0: %name-%version.tar.gz
 Source1: %name.README.ALT

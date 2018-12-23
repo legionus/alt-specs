@@ -3,7 +3,7 @@ Version: 0.0.1
 Release: alt1
 
 Summary: Simple xmonad-based livecd enviromnet
-License: Public domain
+License: ALT-Public-Domain
 Group: System/X11
 
 Url: http://altlinux.org/m-p

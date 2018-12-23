@@ -10,7 +10,7 @@ Name:          jackson-bom
 Version:       2.9.4
 Release:       alt1_2jpp8
 Summary:       Bill of materials POM for Jackson projects
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/FasterXML/jackson-bom
 Source0:       https://github.com/FasterXML/jackson-bom/archive/%{name}-%{version}.tar.gz
 # Upstream chooses not to include licenses with their pom only projects:

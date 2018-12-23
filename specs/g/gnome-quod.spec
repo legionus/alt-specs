@@ -3,7 +3,7 @@ Version: 0.2.3
 Release: alt2
 Summary: Place pieces on a grid so that they make a square
 Group: Games/Puzzles
-License: GPL3
+License: GPL-3.0-only
 
 Source: %name-%version.tar.bz2
 Patch1: %name-%version-alt-gcc-6.patch

@@ -3,7 +3,7 @@ Version: 3.20
 Release: alt3
 
 Summary: metapackage to kick GTK3 themes that are known broken
-License: public domain
+License: ALT-Public-Domain
 Group: Graphical desktop/GNOME
 
 Url: https://blogs.gnome.org/mclasen/2015/11/20/a-gtk-update/

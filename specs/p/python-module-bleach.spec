@@ -9,7 +9,7 @@ Release: alt1.qa1
 Summary: An easy whitelist-based HTML-sanitizing tool
 
 Url: http://github.com/jsocol/bleach
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 
 

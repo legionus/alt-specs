@@ -15,7 +15,7 @@ Name:          datanucleus-core
 Version:       3.2.15
 Release:       alt1_7jpp8
 Summary:       DataNucleus Core
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://www.datanucleus.org/%{name}
 Source:        https://github.com/datanucleus/%{name}/archive/%{commit}/%{name}-%{commit}.tar.gz
 

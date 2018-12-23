@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: WindowMaker theme
 Summary(ru_RU.UTF-8): тема для WindowMaker
-License: GPL2
+License: GPL-2.0-only
 Group: Graphical desktop/Window Maker
 Source: %name-%version.tar.bz2
 Requires: WindowMaker >= 0.60.0

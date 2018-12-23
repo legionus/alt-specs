@@ -10,7 +10,7 @@ Release: alt10
 
 Group: System/Libraries
 Summary: Qt5 - QtWebKit components
-License: LGPLv2 / BSD
+License: LGPLv2 or BSD
 Url: http://qt.io/
 Source: %qt_module-opensource-src-%version.tar
 

@@ -39,7 +39,7 @@ Provides: lib%{name} = %EVR
 # Pakcage are BSD licensed. The only files that aren't licensed via BSD is the
 # kni kernel module which is dual LGPLv2/BSD, and thats not built for fedora.
 #
-License: BSD and LGPLv2 and GPLv2
+License: BSD and LGPLv2 and GPL-2.0-only
 
 #
 # The DPDK is designed to optimize througput of network traffic using, among

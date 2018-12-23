@@ -10,7 +10,7 @@ Name:          xmlbeans-maven-plugin
 Version:       2.3.3
 Release:       alt1_9jpp8
 Summary:       Maven XML Beans Plugin
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           http://mojo.codehaus.org/xmlbeans-maven-plugin/
 # svn export https://svn.codehaus.org/mojo/tags/xmlbeans-maven-plugin-2.3.3
 # tar cJf xmlbeans-maven-plugin-2.3.3.tar.xz xmlbeans-maven-plugin-2.3.3

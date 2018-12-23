@@ -10,7 +10,7 @@ Version:        20100612
 Release:        alt3_13
 Summary:        VDR symbol fonts
 
-License:        Bitstream Vera and Public Domain
+License:        ALT-Bitstream-Vera and ALT-Public-Domain
 URL:            http://andreas.vdr-developer.org/fonts/
 Source0:        http://andreas.vdr-developer.org/fonts/download/vdrsymbols-ttf-%{version}.tgz
 Source1:        %{oldname}-fontconfig.conf

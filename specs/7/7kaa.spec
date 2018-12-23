@@ -3,7 +3,7 @@ Version: 2.14.7
 Release: alt1
 Summary: Seven Kingdoms: Ancient Adversaries
 
-License: GPLv3+ and GPLv2+
+License: GPL-3.0-or-later and GPL-2.0-or-later
 Group: Games/Strategy
 Url: http://7kfans.com/
 # Source-url: https://github.com/the3dfxdude/7kaa/releases/download/v%version/7kaa-%version.tar.xz

@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: Ruby Modelling and Generator Framework
 Group:   Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 URL:     https://github.com/mthiede/rgen.git
 
 Packager:  Ruby Maintainers Team <ruby@packages.altlinux.org>

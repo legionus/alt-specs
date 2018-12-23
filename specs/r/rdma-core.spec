@@ -19,7 +19,7 @@ Group: System/Base
 #  providers/ipathverbs/ Dual licensed using a BSD license with an extra patent clause
 #  providers/rxe/ Incorporates code from ipathverbs and contains the patent clause
 #  providers/hfi1verbs Uses the 3 Clause BSD license
-License: GPLv2 or BSD
+License: GPL-2.0-only or BSD
 Url: https://github.com/linux-rdma/rdma-core
 Source: %name-%version.tar
 Patch: %name-%version.patch

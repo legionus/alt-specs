@@ -13,7 +13,7 @@ Name:             geronimo-interceptor
 Version:          1.0.1
 Release:          alt2_18jpp8
 Summary:          Java EE: Interceptor API v3.0
-License:          ASL 2.0
+License:          Apache-2.0
 URL:              http://geronimo.apache.org/
 
 # svn export http://svn.apache.org/repos/asf/geronimo/specs/tags/geronimo-interceptor_3.0_spec-1.0.1/

@@ -7,7 +7,7 @@ Release: alt1
 
 Summary: Shared library for GNOME games
 Group: System/Libraries
-License: GPLv3 LGPLv3
+License: GPL-3.0-only LGPLv3
 
 Url: https://wiki.gnome.org/Apps/Games
 Source: ftp://ftp.gnome.org/pub/gnome/sources/%name/%ver_major/%name-%version.tar.xz

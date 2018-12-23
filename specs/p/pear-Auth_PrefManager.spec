@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Preferences management class
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Auth_PrefManager
 

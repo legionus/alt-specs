@@ -16,7 +16,7 @@ Name:          mvel
 Version:       2.2.8
 Release:       alt1_4jpp8
 Summary:       MVFLEX Expression Language
-License:       ASL 2.0
+License:       Apache-2.0
 Url:           https://github.com/mvel
 Source0:       https://github.com/mvel/mvel/archive/%{name}2-%{namedversion}.tar.gz
 Source1:       %{name}-script

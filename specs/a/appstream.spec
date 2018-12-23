@@ -4,7 +4,7 @@ Release: alt1
 Summary: Utilities to generate, maintain and access the AppStream Xapian database 
 
 # lib LGPLv2+, tools GPLv2+
-License: GPLv2+ and LGPLv2+
+License: GPL-2.0-or-later and LGPLv2+
 Group:   System/Configuration/Packaging
 URL:     http://www.freedesktop.org/wiki/Distributions/AppStream/Software
 Source0: appstream-%{version}.tar

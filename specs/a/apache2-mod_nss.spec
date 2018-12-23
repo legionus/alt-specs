@@ -11,7 +11,7 @@ Version: 1.0.17
 Release: alt4
 
 Summary: Apache 2.0 module for implementing crypto using the Mozilla NSS crypto libraries
-License: ASL 2.0
+License: Apache-2.0
 Group: System/Servers
 Url: https://pagure.io/mod_nss
 

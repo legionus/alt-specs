@@ -6,7 +6,7 @@ Release: alt3
 
 Summary: Class for creating multilingual websites
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/Translation
 

@@ -2,7 +2,7 @@ Summary: Utility to add and remove SCSI devices on the fly
 Name: scsiadd
 Version: 1.97
 Release: alt1
-License: GPL2
+License: GPL-2.0-only
 Group: System/Configuration/Hardware
 Packager: Hihin Ruslan <ruslandh@altlinux.ru>
 

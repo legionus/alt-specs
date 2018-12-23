@@ -18,7 +18,7 @@ Name:           assertj-core
 Version:        3.8.0
 Release:        alt1_2jpp8
 Summary:        Library of assertions similar to fest-assert
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://joel-costigliola.github.io/assertj/
 Source0:        https://github.com/joel-costigliola/assertj-core/archive/assertj-core-%{version}.tar.gz
 BuildArch:      noarch

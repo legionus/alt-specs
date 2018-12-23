@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: MEGA SDK - Client Access Engine Coverity Scan Build Status
 
-License: BSD 2-clause Simplified License
+License: BSD-2-Clause
 Group: System/Libraries
 Url: https://github.com/meganz/sdk
 

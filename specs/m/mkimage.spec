@@ -3,7 +3,7 @@ Version: 0.2.24
 Release: alt1
 
 Summary: Simple image creator
-License: GPL3
+License: GPL-3.0-only
 Group: Development/Other
 
 Packager: Alexey Gladkov <legion@altlinux.ru>

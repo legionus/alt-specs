@@ -15,7 +15,7 @@ Name:          android-json-org-java
 Version:       6.0.1
 Release:       alt1_0.4.r22jpp8
 Summary:       Androids rewrite of the evil licensed Json.org
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://android.googlesource.com/platform/libcore/+/master/json
 # git clone https://android.googlesource.com/platform/libcore/ android-json-org-java
 # (cd android-json-org-java/json/ && git archive --format=tar --prefix=android-json-org-java-6.0.1_r22/ android-6.0.1_r22 | xz > ../../android-json-org-java-6.0.1_r22.tar.xz)

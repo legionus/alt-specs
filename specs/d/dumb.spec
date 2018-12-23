@@ -3,7 +3,7 @@ Version: 0.9.3
 Release: alt5
 Summary: IT, XM, S3M and MOD player library
 Group: System/Libraries
-License: zlib
+License: Zlib
 Url: http://dumb.sourceforge.net/
 Source0: http://downloads.sourceforge.net/%name/%name-%version.tar.gz
 Source1: http://downloads.sourceforge.net/%name/%name-%version-autotools.tar.gz

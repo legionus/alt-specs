@@ -10,7 +10,7 @@ Name:          morphia
 Version:       1.0.1
 Release:       alt1_7jpp8
 Summary:       A type-safe Java library for MongoDB
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           https://github.com/mongodb/morphia
 Source0:       https://github.com/mongodb/morphia/archive/r%{version}.tar.gz
 

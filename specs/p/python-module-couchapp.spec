@@ -4,7 +4,7 @@ Name: python-module-%sname
 Version: 0.7.2
 Release: alt1.1
 Source0: %name-%version.tar
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 URL: http://code.google.com/p/couchdb-python/
 Packager: Mikhail Pokidko <pma@altlinux.org>

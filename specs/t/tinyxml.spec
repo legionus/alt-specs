@@ -6,7 +6,7 @@ Version: 2.6.2
 Release: alt1.2
 Summary: A simple, small, C++ XML parser
 Group: System/Libraries
-License: zlib
+License: Zlib
 Url: http://www.grinninglizard.com/tinyxml/
 BuildRequires: gcc-c++
 Source: http://downloads.sourceforge.net/%name/%{name}_%underscore_version.tar.gz

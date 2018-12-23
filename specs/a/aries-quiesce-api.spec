@@ -11,7 +11,7 @@ Name:          aries-quiesce-api
 Version:       1.0.0
 Release:       alt1_4jpp8
 Summary:       Apache Aries Quiesce API
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://aries.apache.org/
 Source0:       http://www.apache.org/dist/aries/%{bundle}-%{version}-source-release.zip
 

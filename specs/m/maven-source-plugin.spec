@@ -10,7 +10,7 @@ Name:           maven-source-plugin
 Version:        3.0.1
 Release:        alt1_3jpp8
 Summary:        Plugin creating source JAR
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/plugins/maven-source-plugin/
 BuildArch:      noarch
 

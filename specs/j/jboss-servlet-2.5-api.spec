@@ -15,7 +15,7 @@ Name:             jboss-servlet-2.5-api
 Version:          1.0.1
 Release:          alt3_15jpp8
 Summary:          Java Servlet 2.5 API
-License:          ASL 2.0 and W3C
+License:          Apache-2.0 and W3C
 Url:              http://www.jboss.org
 
 # git clone git://github.com/jboss/jboss-servlet-api_spec.git

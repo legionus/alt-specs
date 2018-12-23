@@ -43,7 +43,7 @@ Version:        1.9.22
 Release:        alt1_6jpp8
 Epoch:          0
 Summary:        HTML scanner and tag balancer
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://nekohtml.sourceforge.net/
 # No upstream tarball for this release
 # svn export svn://svn.code.sf.net/p/nekohtml/code/branches/nekohtml-1.9.22 nekohtml-1.9.22

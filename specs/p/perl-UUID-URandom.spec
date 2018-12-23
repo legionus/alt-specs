@@ -10,7 +10,7 @@ Version: 0.001
 Release: alt2
 Summary: UUIDs based on /dev/urandom or the Windows Crypto API
 Group: Development/Perl
-License: apache
+License: Apache
 URL: https://github.com/dagolden/UUID-URandom
 
 Source0: http://mirror.yandex.ru/mirrors/cpan/authors/id/D/DA/DAGOLDEN/%{module_name}-%{version}.tar.gz

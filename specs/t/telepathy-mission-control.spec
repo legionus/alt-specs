@@ -13,7 +13,7 @@ Version: 5.16.4
 Release: alt2
 
 Summary: Telepathy mission control plugin library
-License: LGPL v2.1
+License: LGPL-2.1-only
 Group: System/Libraries
 Url: http://mission-control.sourceforge.net/
 

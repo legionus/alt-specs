@@ -3,7 +3,7 @@ Version: 0.5.0
 Release: alt1.1
 
 Summary: Various packaging tools and scripts for LXQt applications
-License: BSD 3-clause
+License: BSD-3-Clause
 Group: Graphical desktop/Other
 
 Url: https://lxqt.org

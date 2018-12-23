@@ -5,7 +5,7 @@ Version:	1.0
 Release:	alt2_17
 Summary:	Accrete is a physical simulation of solar system planet formation
 
-License:	Public Domain
+License:	ALT-Public-Domain
 Group:		Engineering
 URL:		http://sourceforge.net/projects/accrete
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz

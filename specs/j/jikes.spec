@@ -3,7 +3,7 @@ Version: 1.22
 Release: alt1.1.qa1
 
 Summary: Java source to bytecode compiler
-License: IBM Public License
+License: IPL-1.0
 Group: Development/Java
 Url: http://oss.software.ibm.com/developerworks/opensource/jikes/
 

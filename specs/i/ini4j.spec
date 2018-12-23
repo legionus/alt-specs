@@ -10,7 +10,7 @@ Version:        0.5.1
 Release:        alt2_18jpp8
 Summary:        Java API for handling files in Windows .ini format
 Group:          Development/Other
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://www.ini4j.org/
 
 Source0:        http://downloads.sourceforge.net/%{name}/%{name}-%{version}-src.zip

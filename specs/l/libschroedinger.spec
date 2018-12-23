@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: Library for decoding and encoding video in the Dirac format
 Group: System/Libraries
-License: LGPL/MIT/MPL
+License: LGPL or MIT or MPL
 URL: http://www.diracvideo.org/
 
 Source0: schroedinger-%version.tar

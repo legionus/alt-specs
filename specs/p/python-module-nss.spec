@@ -5,7 +5,7 @@ Name: python-module-%mname
 Version: 1.0.1
 Release: alt2%ubt.1
 Summary: Python binding for NSS (Network Security Services) and NSPR (Netscape Portable Runtime)
-License: MPLv2.0 or GPLv2+ or LGPLv2+
+License: MPL-2.0 or GPL-2.0-or-later or LGPLv2+
 Group: Development/Python
 Url: http://www.mozilla.org/projects/security/pki/python-nss
 

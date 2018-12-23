@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 1.0.2
 Release: alt1.1
 Summary: Backport/clone of ChainMap for py26, py32, and pypy3.
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/chainmap

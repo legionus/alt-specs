@@ -10,7 +10,7 @@ Name:          disruptor
 Version:       3.3.6
 Release:       alt1_4jpp8
 Summary:       Concurrent Programming Framework
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://lmax-exchange.github.io/disruptor/
 Source0:       https://github.com/LMAX-Exchange/disruptor/archive/%{version}/%{name}-%{version}.tar.gz
 Source1:       http://repo1.maven.org/maven2/com/lmax/%{name}/%{version}/%{name}-%{version}.pom

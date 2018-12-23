@@ -11,7 +11,7 @@ Release:        alt2_15
 Summary:        Slovak dictionaries for Aspell
 
 Group:          Text tools
-License:        GPLv2 or LGPLv2 or MPLv1.1
+License:        GPL-2.0-only or LGPLv2 or MPL-1.1
 URL:            http://sk-spell.sk.cx/aspell-sk
 Source0:        http://www.sk-spell.sk.cx/files/%{aspellname}-%{version}-%{langrelease}.tar.bz2
 

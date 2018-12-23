@@ -10,7 +10,7 @@ Name:             nar-maven-plugin
 Version:          3.0.0
 Release:          alt1_17jpp8
 Summary:          Native ARchive plugin for Maven
-License:          ASL 2.0 and LGPLv2
+License:          Apache-2.0 and LGPLv2
 URL:              https://github.com/maven-nar/nar-maven-plugin/
 Source0:          https://github.com/maven-nar/nar-maven-plugin/archive/nar-maven-plugin-%{version}.tar.gz
 Source1:          http://www.apache.org/licenses/LICENSE-2.0.txt

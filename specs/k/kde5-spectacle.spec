@@ -8,7 +8,7 @@ Release: alt4
 Group: Graphical desktop/KDE
 Summary: The KDE Screenshot Utility
 Url: http://www.kde.org
-License: GPLv2+ / LGPLv2+
+License: GPL-2.0-or-later or LGPLv2+
 
 Source: %rname-%version.tar
 Patch1: alt-dbus-service.patch

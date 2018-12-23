@@ -10,7 +10,7 @@ Name:           apache-mina
 Version:        2.0.9
 Release:        alt1_8jpp8
 Summary:        Apache MINA
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://mina.apache.org
 Source0:        http://www.eu.apache.org/dist/mina/mina/%{version}/%{name}-%{version}-src.tar.gz
 

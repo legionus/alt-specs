@@ -10,7 +10,7 @@ Name:           maven-reporting-impl
 Version:        3.0.0
 Release:        alt1_1jpp8
 Summary:        Abstract classes to manage report generation
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/%{name}
 BuildArch:      noarch
 

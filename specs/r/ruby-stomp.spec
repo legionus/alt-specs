@@ -8,7 +8,7 @@ Release: alt1.3
 
 Summary: Ruby client for the Stomp messaging protocol
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/stomp/
 
 BuildArch: noarch

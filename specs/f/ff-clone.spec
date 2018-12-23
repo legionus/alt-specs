@@ -2,7 +2,7 @@ Name: ff-clone
 Version: 1.1
 Release: alt2.1
 Summary: Get all (mostly two) fishes out
-License: Public domain
+License: ALT-Public-Domain
 Group: Games/Puzzles
 Url: http://www.olsak.net/mirek/ff-clone/index_en.html
 Source: %name-%version.tgz

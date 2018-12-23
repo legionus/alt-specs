@@ -7,7 +7,7 @@ Version: 1.0.22
 Release: alt1%ubt
 Summary: ProcessOne SIP server component in Erlang
 Group: Development/Erlang
-License: ASL 2.0
+License: Apache-2.0
 Url: https://github.com/processone/esip
 
 # https://github.com/processone/esip.git

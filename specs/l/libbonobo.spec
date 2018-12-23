@@ -55,7 +55,7 @@ Bonobo is a component system based on CORBA, used by the GNOME desktop.
 %package devel
 Summary: Libraries and headers for libbonobo
 Group: Development/GNOME and GTK+
-License: GPL/LGPL
+License: GPL or LGPL
 Requires: libbonobo = %version-%release
 Obsoletes: bonobo-activation-devel
 Obsoletes: libbonobo2-devel < 2.15.0

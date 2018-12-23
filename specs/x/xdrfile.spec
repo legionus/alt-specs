@@ -2,7 +2,7 @@ Name: xdrfile
 Version: 1.1.1
 Release: alt2.qa1
 Summary: Reading and writing trr and xtc files
-License: LGPL v3
+License: LGPL-3.0-only
 Group: Development/Tools
 Url: http://wiki.gromacs.org/index.php/XTC_Library
 Source: ftp://ftp.gromacs.org/pub/contrib/xdrfile-1.1.1.tar.gz

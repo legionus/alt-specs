@@ -4,7 +4,7 @@ Name: gnustep-Fortunate
 Version: 3.0
 Release: alt4.1
 Summary: Fortunate displays a quotation in a window
-License: Public domain / BSD
+License: ALT-Public-Domain or BSD
 Group: Graphical desktop/GNUstep
 Url: http://www.orange-carb.org/~csaldanh/software.html
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

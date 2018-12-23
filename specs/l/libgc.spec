@@ -4,7 +4,7 @@ Release: alt1
 
 Summary: The Boehm-Demers-Weiser conservative garbage collector
 
-License: MIT and GPLv2+
+License: MIT and GPL-2.0-or-later
 Group: System/Libraries
 Url: http://www.hboehm.info/gc/
 

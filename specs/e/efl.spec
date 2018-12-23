@@ -40,7 +40,7 @@ Version: %ver_major.1
 Release: alt2
 
 Summary: Enlightenment Foundation Libraries
-License: BSD/LGPLv2.1+
+License: BSD or LGPLv2.1+
 Group: System/Libraries
 Url: http://www.enlightenment.org/
 

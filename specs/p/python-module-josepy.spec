@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: JOSE protocol implementation in Python using cryptography
 
-License: Apache 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://github.com/certbot/josepy
 

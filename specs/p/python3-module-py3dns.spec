@@ -9,7 +9,7 @@ Release: alt1.bzr20120722.1.2
 Name: python3-module-%modulename
 # bzr branch lp:py3dns
 Source0: %name-%version.tar
-License: Python Software Foundation License
+License: Python-2.0
 Group: Development/Python
 URL: http://pydns.sourceforge.net/
 BuildArch: noarch

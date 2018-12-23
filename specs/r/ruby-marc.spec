@@ -8,7 +8,7 @@ Release: alt1
 
 Summary: Ruby library for processing Machine Readable Cataloging (MARC) bibliographic data
 Group: Development/Ruby
-License: MIT/Ruby
+License: MIT or Ruby
 Url: http://rubyforge.org/projects/marc/
 
 BuildArch: noarch

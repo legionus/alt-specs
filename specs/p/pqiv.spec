@@ -3,7 +3,7 @@ Version: 2.8.5
 Release: alt4
 
 Summary: Minimalist Image Viewer
-License: GPL3+
+License: GPL-3.0-or-later
 Group: Graphics
 
 Url: https://github.com/phillipberndt/pqiv

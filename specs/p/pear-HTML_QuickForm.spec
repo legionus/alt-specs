@@ -6,7 +6,7 @@ Release: alt1
 
 Summary: The PEAR::HTML_QuickForm package provides methods for creating, validating, processing HTML forms
 
-License: PHP License
+License: PHP
 Group: Development/Other
 Url: http://pear.php.net/package/HTML_QuickForm
 

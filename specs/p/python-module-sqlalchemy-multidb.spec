@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 1.0.2
 Release: alt1.1
 Summary: Provides methods to connect to multiple databases easily
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 BuildArch: noarch
 Url: https://pypi.python.org/pypi/sqlalchemy-multidb/

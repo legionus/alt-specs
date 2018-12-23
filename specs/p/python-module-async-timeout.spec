@@ -4,7 +4,7 @@ Name: python-module-%oname
 Version: 1.4
 Release: alt1
 Summary: Timeout context manager for asyncio programs
-License: ASL 2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/async_timeout
 

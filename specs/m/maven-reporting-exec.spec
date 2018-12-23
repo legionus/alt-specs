@@ -12,7 +12,7 @@ Release:        alt1_2jpp8
 BuildArch:      noarch
 Summary:        Classes to manage report plugin executions with Maven 3
 
-License:        ASL 2.0
+License:        Apache-2.0
 URL:            http://maven.apache.org/shared/maven-reporting-exec/
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/reporting/%{name}/%{version}/%{name}-%{version}-source-release.zip
 

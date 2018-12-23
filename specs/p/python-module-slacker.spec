@@ -6,7 +6,7 @@ Name: python-module-%oname
 Version: 0.6.8
 Release: alt1.git20150717.1.1
 Summary: Slack API client
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/slacker
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

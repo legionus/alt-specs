@@ -11,7 +11,7 @@ Name:          axis2
 Version:       1.7.7
 Release:       alt1_1jpp8
 Summary:       Java-based Web Services / SOAP / WSDL engine
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://axis.apache.org/axis2/java/core/
 Source0:       http://archive.apache.org/dist/axis/axis2/java/core/%{version}/axis2-%{version}-src.zip
 

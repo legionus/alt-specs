@@ -9,7 +9,7 @@ Name: bacula7
 Version: 7.4.7
 Release: alt3%ubt
 
-License: AGPLv3
+License: AGPL-3.0-only
 Summary: Network based backup program
 Group: Archiving/Backup
 Url: http://www.bacula.org/

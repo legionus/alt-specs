@@ -7,7 +7,7 @@ Name: python-module-%oname
 Version: 0.4.2
 Release: alt1.dev.git20131128.1.2
 Summary: Python video metadata parser
-License: ASLv2.0
+License: Apache-2.0
 Group: Development/Python
 Url: https://pypi.python.org/pypi/enzyme/
 Packager: Eugeny A. Rostovtsev (REAL) <real at altlinux.org>

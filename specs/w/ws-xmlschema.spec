@@ -10,7 +10,7 @@ Name:          ws-xmlschema
 Version:       2.2.1
 Release:       alt1_4jpp8
 Summary:       Apache XMLSchema
-License:       ASL 2.0
+License:       Apache-2.0
 URL:           http://ws.apache.org/xmlschema/
 # wget -c http://www.apache.org/dist/ws/xmlschema/2.2.1/xmlschema-2.2.1-source-release.zip
 # unzip xmlschema-2.2.1-source-release.zip

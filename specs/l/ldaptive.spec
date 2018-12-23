@@ -10,7 +10,7 @@ Name:          ldaptive
 Version:       1.1.0
 Release:       alt1_4jpp8
 Summary:       LDAP library for Java
-License:       ASL 2.0 or LGPLv3
+License:       Apache-2.0 or LGPLv3
 URL:           http://www.ldaptive.org/
 Source0:       https://github.com/vt-middleware/ldaptive/archive/v%{version}/%{name}-%{version}.tar.gz
 # Remove migbase64 and use Java 8 base64 encoder and decoder

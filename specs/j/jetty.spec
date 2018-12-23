@@ -73,7 +73,7 @@ Release:        alt1_1.v20180503jpp8
 Summary:        Java Webserver and Servlet Container
 
 # Jetty is dual licensed under both ASL 2.0 and EPL 1.0, see NOTICE.txt
-License:        ASL 2.0 or EPL
+License:        Apache-2.0 or EPL
 URL:            http://www.eclipse.org/jetty/
 Source0:        https://github.com/eclipse/%{name}.project/archive/%{name}-%{version}%{addver}.tar.gz
 Source1:        jetty.sh
@@ -332,7 +332,7 @@ Summary:        servlet module for Jetty
 Group: Networking/WWW
 Summary:        util module for Jetty
 # Utf8Appendable.java is additionally under MIT license
-License:        (ASL 2.0 or EPL) and MIT
+License:        (Apache-2.0 or EPL) and MIT
 
 %description    util
 %{extdesc} %{summary}.
@@ -672,7 +672,7 @@ Summary:        jstl module for Jetty
 Group: Development/Java
 Summary:        Javadoc for %{name}
 # some MIT-licensed code (from Utf8Appendable) is used to generate javadoc
-License:        (ASL 2.0 or EPL) and MIT
+License:        (Apache-2.0 or EPL) and MIT
 BuildArch: noarch
 
 %description    javadoc
